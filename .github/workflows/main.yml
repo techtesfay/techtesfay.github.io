@@ -16,4 +16,4 @@ jobs:
           aws-region: us-east-1
       - name: Sync files to S3 bucket
         run: |
-          aws s3 sync . s3://lelunar --delete
+          aws s3 sync . s3://lelunar --delete -recursive --cache-control max-age=5
