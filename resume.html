@@ -5,7 +5,7 @@
         var xhttp = new XMLHttpRequest();
         xhttp.onreadystatechange = function() {
             if (this.readyState == 4 && this.status == 200) {
-                document.getElementById("myDiv").innerHTML = this.responseText.counter;
+                document.getElementById("myDiv").innerHTML = JSON.parse(this.responseText).counter;
             }
         };
         xhttp.open("GET", "https://mly622flj9.execute-api.us-east-1.amazonaws.com/items", true);
