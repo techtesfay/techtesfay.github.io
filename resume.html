@@ -1,73 +1,65 @@
 <html>
-    <head>
-<script>
-    function callAwsLambdaFunction() {
-        var xhttp = new XMLHttpRequest();
-        xhttp.onreadystatechange = function() {
-            if (this.readyState == 4 && this.status == 200) {
-                document.getElementById("myDiv").innerHTML = JSON.parse(this.responseText).counter;
-            }
-        };
-        xhttp.open("GET", "https://mly622flj9.execute-api.us-east-1.amazonaws.com/items", true);
-        xhttp.send();
+  <head>
+    <script>
+      function callAwsLambdaFunction() {
+          var xhttp = new XMLHttpRequest();
+          xhttp.onreadystatechange = function() {
+              if (this.readyState == 4 && this.status == 200) {
+                  document.getElementById("myDiv").innerHTML = JSON.parse(this.responseText).counter;
+              }
+          };
+          xhttp.open("GET", "https://mly622flj9.execute-api.us-east-1.amazonaws.com/items", true);
+          xhttp.send();
 
-    }
+      }
     </script>   
-
-        
-        <title>Tek Tesfay Resume</title>
-    </head>
-<body onload="callAwsLambdaFunction()">
     
-    <!-- <button onclick="callAwsLambdaFunction()">Click</button><br>-->
-    
-<h1> Counter: <div id="myDiv"></div></h1>
-     
-        
-<div id="header"></div>
-<div class="left"></div>
-<div class="stuff">
-  <br><br>
-  <h1>Resume</h1>
-  <h2>Tek Tesfay</h2>
-  <hr />
-  <br>
-  <p class="head">Interests</p>
-  <ul>
-    <li>Cybersecurity</li>
-    <li>Photography</li>
-    <li>Programming</li>
-    <li>Computer Science</li>
-  </ul>
-  <p class="head">Skills</p>
-  <ul>
-    <li>Pentesting</li>
-  </ul>
-  <p class="head">Education</p>
-  <ul>
-    <a href="http://www.wiltonhighschool.org/pages/Wilton_High_School">
-      <li>EPFL</li>
-    </a> 
-    <a href="https://www.silvermineart.org/">
-      <li>IITB</li>
-    </a>
-    <li>MIT</li>
-  </ul>
-  <p class="head">Experience</p>
-  <ul>
-    <li>JPL</li>
-    <li>Cybersecurity Engineer</li>
-  </ul>
-  <p class="head">Extracurriculars</p>
-  <ul>
-    <li>Running</li>
-    <li>Reading</li>
-    <li>Gardening</li>
-  </ul>
-</div>
-<div class="right"></div>
-<div id="footer">
-  <h2 id="name">Tek</h2></div>
+    <title>AWS Cloud Resume Challenge</title>
+  </head>
 
-    </body>
+  <body onload="callAwsLambdaFunction()">
+    
+    <h1> Counter: <div id="myDiv"></div></h1>
+            
+    <div id="header"></div>
+    <div class="left"></div>
+    <div class="stuff">
+      <br><br>
+      <h1>AWS Cloud Resume Challenge</h1>
+      <h2>Tek Tesfay</h2>
+      
+      <ul>
+      <p class="head">Resources</p>
+        <a href="https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/GettingStarted.SimpleDistribution.html">       
+          <li>1</li>
+        </a>
+
+        <a href="https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-dynamo-db.html">  
+          <li>1</li>
+        </a>
+        
+        <a href="https://docs.aws.amazon.com/lambda/latest/dg/example_cross_LambdaForBrowser_section.html"> 
+          <li>1</li>
+        </a>
+        
+        
+        <a href="https://www.timveletta.com/blog/pushing-content-to-s3-from-github-actions/"> 
+          <li>1</li>
+        </a>
+        
+        <a href="https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-cors.html"> 
+          <li>1</li>
+        </a>
+        
+        <a href="https://docs.aws.amazon.com/whitepapers/latest/build-static-websites-aws/controlling-how-long-amazon-s3-content-is-cached-by-amazon-cloudfront.html"> 
+          <li>1</li>
+        </a>
+      </ul>
+    </div>
+
+    <div class="right"></div>
+    <div id="footer">
+    <h2 id="name">Tek Tesfay</h2></div>
+
+  </body>
 </html>
