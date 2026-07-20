@@ -1,24 +1,26 @@
-# Personal Website
+# Personal Website — lelunar.me
 
 A minimalist, Apple-inspired personal site built with plain HTML and CSS — no
-frameworks, no build step, nothing to install.
+frameworks, no build step, nothing to install. This repo is the single source
+of truth: every push to `main` deploys to https://lelunar.me.
 
 ## Structure
 
 ```
-personal-website/
-├── index.html      # Home — intro, about, links
-├── academic.html   # Publications, research projects, education
-├── interests.html  # Articles, tools, ideas worth sharing
-├── learning.html   # Topics being studied + notes
+myresume/
+├── index.html      # Home — intro, about, at-a-glance, links, visitor counter
+├── academic.html   # Experience, research, publications, education, projects
+├── interests.html  # Interests + Cloud Resume Challenge resources
+├── learning.html   # Topics being studied + articles/write-ups
+├── resume.html     # Redirect stub (CloudFront's root document points here)
 ├── css/style.css   # All styling (colors, fonts, layout)
-└── assets/         # Put images, PDFs, etc. here
+├── assets/         # Put images, PDFs, etc. here
+└── .github/workflows/main.yml  # Deploys to S3 on every push
 ```
 
 ## Run locally
 
 ```sh
-cd personal-website
 python3 -m http.server 8000
 ```
 
@@ -33,29 +35,23 @@ Then open http://localhost:8000
 - **Add a page**: copy an existing page, update the `<title>` and content, and
   add a link to it in the `<nav>` of every page.
 - **Dark mode**: automatic — follows the visitor's system setting.
+- **Publish**: commit and push to `main` — GitHub Actions syncs the repo to
+  the S3 bucket automatically.
 
-## Deploy to lelunar.me (S3 + CloudFront)
+## Hosting (S3 + CloudFront)
 
-The site lives at https://lelunar.me — a static site in an S3 bucket behind
-CloudFront (Cloud Resume Challenge setup), with DNS on Cloudflare. The home
-page footer shows a visitor counter served by API Gateway + Lambda + DynamoDB.
+The site lives at https://lelunar.me — a static site in the `lelunar` S3
+bucket behind CloudFront (Cloud Resume Challenge setup), with DNS on
+Cloudflare. The home page footer shows a visitor counter served by
+API Gateway + Lambda + DynamoDB. CloudFront's root document is `resume.html`,
+which now just redirects to `index.html`.
 
-**Via the existing GitHub Actions pipeline (recommended):** copy these files
-into the Cloud Resume Challenge repo (replacing the old `index.html`), commit,
-and push — the workflow syncs to S3 automatically.
-
-**Directly from this machine:**
+**Manual deploy** (if Actions is unavailable):
 
 ```sh
-aws configure                          # one-time credential setup
-aws s3 ls                              # find the bucket name
-cd personal-website
-aws s3 sync . s3://<BUCKET> --delete --exclude "README.md" --exclude ".git/*"
+aws s3 sync . s3://lelunar --delete --cache-control max-age=5 \
+  --exclude ".git/*" --exclude ".github/*" --exclude "README.md"
 ```
 
 CloudFront caches for only 5 seconds (`max-age=5`), so changes appear almost
-immediately; no invalidation needed. If that ever changes:
-
-```sh
-aws cloudfront create-invalidation --distribution-id <DIST_ID> --paths "/*"
-```
+immediately; no invalidation needed.
