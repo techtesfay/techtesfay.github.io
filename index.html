@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Teklemariam Tesfay — Cybersecurity Engineer</title>
+  <meta name="description" content="Teklemariam Tesfay — cybersecurity engineer specializing in cyber-physical systems security, security automation, and anomaly detection." />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <nav>
+    <div class="nav-inner">
+      <a class="nav-name" href="index.html">Teklemariam Tesfay</a>
+      <ul class="nav-links">
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="academic.html">Work &amp; Research</a></li>
+        <li><a href="interests.html">Interests</a></li>
+        <li><a href="learning.html">Learning</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <header class="hero">
+    <h1>Hi, I’m Teklemariam.</h1>
+    <p class="tagline">Cybersecurity engineer. Cyber-physical systems researcher. Educator.</p>
+    <div class="actions">
+      <a class="btn btn-primary" href="academic.html">See my work</a>
+      <a class="btn btn-secondary" href="mailto:tech.tesfay@gmail.com">Get in touch</a>
+    </div>
+  </header>
+
+  <section class="band alt">
+    <div class="section-inner">
+      <h2>About me</h2>
+      <p class="lede">
+        I’m a cybersecurity engineer specializing in cyber-physical systems security,
+        application security, anomaly detection, and security compliance. I hold a PhD
+        in cyber-physical systems security from EPFL and have built and defended systems
+        at NASA JPL, MIT, and Providence — currently leading security automation that
+        streamlines incident response at scale. I also teach cybersecurity, helping the
+        next generation of engineers build practical, hands-on skills.
+      </p>
+
+      <div class="card-grid">
+        <div class="card">
+          <span class="eyebrow">Career</span>
+          <h3>Work &amp; Research</h3>
+          <p>From NASA JPL cyber defense to EPFL research — experience, education, and certifications.</p>
+          <a class="card-link" href="academic.html">Explore &rsaquo;</a>
+        </div>
+        <div class="card">
+          <span class="eyebrow">Curiosity</span>
+          <h3>Interesting Things</h3>
+          <p>Topics and tools I find worth sharing, from CTFs to anomaly detection.</p>
+          <a class="card-link" href="interests.html">Explore &rsaquo;</a>
+        </div>
+        <div class="card">
+          <span class="eyebrow">Growth</span>
+          <h3>Currently Learning</h3>
+          <p>What I’m studying right now, with notes as I go.</p>
+          <a class="card-link" href="learning.html">Explore &rsaquo;</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="band">
+    <div class="section-inner">
+      <h2>At a glance</h2>
+      <ul class="item-list">
+        <li>
+          <div class="item-title">Expertise</div>
+          <div class="item-meta">Cyber-physical systems security · Security development lifecycle · Security automation · Security compliance · Anomaly detection</div>
+        </li>
+        <li>
+          <div class="item-title">Certifications</div>
+          <div class="item-meta">CISSP · AWS Certified Cloud Practitioner</div>
+        </li>
+        <li>
+          <div class="item-title">Languages</div>
+          <div class="item-meta">English (fluent) · French (intermediate) · Amharic (native) · Tigrigna (native)</div>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="band alt">
+    <div class="section-inner">
+      <h2>Elsewhere</h2>
+      <p class="lede">Find me around the web, or drop me a line.</p>
+      <ul class="item-list">
+        <li>
+          <div class="item-title"><a class="text-link" href="mailto:tech.tesfay@gmail.com">Email</a></div>
+          <div class="item-meta">tech.tesfay@gmail.com</div>
+        </li>
+        <li>
+          <div class="item-title"><a class="text-link" href="https://www.linkedin.com/in/ttesfay" target="_blank" rel="noopener">LinkedIn</a></div>
+          <div class="item-meta">linkedin.com/in/ttesfay</div>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2026 Teklemariam Tesfay · Built with plain HTML &amp; CSS.</p>
+    <p id="visit-counter" hidden>Visits: <span id="visit-count"></span></p>
+  </footer>
+
+  <script>
+    // Visitor counter from the AWS Cloud Resume Challenge
+    // (API Gateway -> Lambda -> DynamoDB). Hidden unless the API responds.
+    fetch("https://mly622flj9.execute-api.us-east-1.amazonaws.com/items")
+      .then((r) => r.json())
+      .then((d) => {
+        document.getElementById("visit-count").textContent = d.counter;
+        document.getElementById("visit-counter").hidden = false;
+      })
+      .catch(() => {});
+  </script>
+
+</body>
+</html>

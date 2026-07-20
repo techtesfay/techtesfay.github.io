@@ -1,72 +1,13 @@
-<html>
-  <head>
-    <script>
-      function callAwsLambdaFunction() {
-          var xhttp = new XMLHttpRequest();
-          xhttp.onreadystatechange = function() {
-              if (this.readyState == 4 && this.status == 200) {
-                  document.getElementById("myDiv").innerHTML = JSON.parse(this.responseText).counter;
-              }
-          };
-          xhttp.open("GET", "https://mly622flj9.execute-api.us-east-1.amazonaws.com/items", true);
-          xhttp.send();
-
-      }
-    </script>   
-    
-    <title>AWS Cloud Resume Challenge</title>
-  </head>
-
-  <body onload="callAwsLambdaFunction()">
-    
-    <h1> Counter: <div id="myDiv"></div></h1>
-            
-    <div id="header"></div>
-    <div class="left"></div>
-    <div class="stuff">
-      <br><br>
-      <h1>AWS Cloud Resume Challenge</h1>
-      <h2>Tek Tesfay</h2>
-      
-      <ul>
-      <p class="head">Resources</p>
-        <a target="_blank" href="https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/GettingStarted.SimpleDistribution.html">       
-          <li>CloudFront distribution</li>
-        </a>
-
-        <a target="_blank" href="https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-dynamo-db.html">  
-          <li>Lambda Function and DynamoDB</li>
-        </a>
-        
-        <a target="_blank" href="https://docs.aws.amazon.com/lambda/latest/dg/example_cross_LambdaForBrowser_section.html"> 
-          <li>Invoke a Lambda function from a web app</li>
-        </a>
-        
-        
-        <a target="_blank" href="https://www.timveletta.com/blog/pushing-content-to-s3-from-github-actions/"> 
-          <li>Pushing Content to AWS S3 from Github Actions</li>
-        </a>
-        
-        <a target="_blank" href="https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-cors.html"> 
-          <li>Configure CORS for HTTP APIs in API Gateway</li>
-        </a>
-        
-        <a target="_blank" href="https://docs.aws.amazon.com/whitepapers/latest/build-static-websites-aws/controlling-how-long-amazon-s3-content-is-cached-by-amazon-cloudfront.html"> 
-          <li>CloudFront cache configuration</li>
-        </a>
-
-        <a target="_blank" href="https://github.com/donnemartin/system-design-primer"> 
-          <li>System Design</li>
-        </a>
-
-
-
-      </ul>
-    </div>
-
-    <div class="right"></div>
-    <div id="footer">
-    <h2 id="name">Tek Tesfay</h2></div>
-
-  </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <!-- The CloudFront/S3 root document points here; send visitors to the real home page. -->
+  <meta http-equiv="refresh" content="0; url=/index.html" />
+  <link rel="canonical" href="https://lelunar.me/index.html" />
+  <title>Teklemariam Tesfay</title>
+</head>
+<body>
+  <p><a href="/index.html">Continue to lelunar.me &rsaquo;</a></p>
+</body>
 </html>
