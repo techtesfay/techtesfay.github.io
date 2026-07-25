@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Skills — Teklemariam Tesfay</title>
+  <meta name="description" content="Daily, bite-sized posts that help you build practical AI skills one step at a time." />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" href="favicon.ico" sizes="any" />
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
+</head>
+<body>
+
+  <nav>
+    <div class="nav-inner">
+      <a class="nav-name" href="index.html">Teklemariam Tesfay</a>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="academic.html">Work &amp; Research</a></li>
+        <li><a href="interests.html">Interests</a></li>
+        <li><a href="learning.html">Learning</a></li>
+        <li><a href="ai-skills.html" class="active">AI Skills</a></li>
+        <li><a href="news.html">News</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <header class="page-header">
+    <h1>Build AI skills, one day at a time.</h1>
+    <p>A short, practical post every day — each one teaches a single AI skill you can use immediately. Newest first. Every post below doubles as a ready-to-paste Facebook post.</p>
+  </header>
+
+  <section class="band alt">
+    <div class="section-inner">
+      <div class="subscribe-box">
+        <div>
+          <h2>Get the next post by email</h2>
+          <p>No spam, no schedule pressure — just a note when a new one goes up.</p>
+        </div>
+        <a class="btn btn-primary" href="mailto:tech.tesfay@gmail.com?subject=Subscribe%20me%20to%20AI%20Skills&body=Please%20add%20me%20to%20the%20AI%20Skills%20list.">
+          Email me to subscribe
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="band">
+    <div class="section-inner">
+      <p class="news-meta" id="feed-meta">Loading…</p>
+      <p class="news-loading" id="feed-loading">Loading posts…</p>
+      <div id="feed-list" hidden></div>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2026 Teklemariam Tesfay · Built with plain HTML &amp; CSS.</p>
+    <p style="margin-top: 8px; font-size: 12px;">
+      New posts are added with
+      <a class="text-link" href="https://github.com/techtesfay/techtesfay.github.io/blob/main/scripts/add_ai_post.py" target="_blank" rel="noopener">scripts/add_ai_post.py</a>,
+      which also prints a ready-to-paste Facebook version.
+    </p>
+  </footer>
+
+  <script>
+    function formatDate(iso) {
+      const d = new Date(iso + "T00:00:00Z");
+      return d.toLocaleDateString(undefined, { month: "long", day: "numeric", year: "numeric", timeZone: "UTC" });
+    }
+
+    function tagLabel(tag) {
+      return tag.replace(/(^|-)(\w)/g, (_, sep, c) => (sep ? " " : "") + c.toUpperCase());
+    }
+
+    function facebookText(post) {
+      const tags = (post.tags || []).map((t) => "#" + t.replace(/[^a-z0-9]/gi, "")).join(" ");
+      return [
+        `Day ${post.day}: ${post.title}`,
+        "",
+        post.body,
+        "",
+        tags,
+        "",
+        "Follow the daily series: https://lelunar.me/ai-skills.html",
+      ].filter((line) => line !== "").join("\n");
+    }
+
+    async function copyToClipboard(text) {
+      if (navigator.clipboard && window.isSecureContext) {
+        await navigator.clipboard.writeText(text);
+        return;
+      }
+      const textarea = document.createElement("textarea");
+      textarea.value = text;
+      textarea.style.position = "fixed";
+      textarea.style.opacity = "0";
+      document.body.appendChild(textarea);
+      textarea.focus();
+      textarea.select();
+      document.execCommand("copy");
+      document.body.removeChild(textarea);
+    }
+
+    fetch("ai-skills.json", { cache: "no-store" })
+      .then((r) => {
+        if (!r.ok) throw new Error("ai-skills.json not found");
+        return r.json();
+      })
+      .then((data) => {
+        const list = document.getElementById("feed-list");
+        const loading = document.getElementById("feed-loading");
+        const meta = document.getElementById("feed-meta");
+
+        if (!data.items || data.items.length === 0) {
+          loading.textContent = "No posts yet — the first one is coming soon.";
+          return;
+        }
+
+        meta.textContent = `${data.items.length} post${data.items.length === 1 ? "" : "s"} so far · one new skill at a time`;
+
+        data.items.forEach((post) => {
+          const card = document.createElement("article");
+          card.className = "post-card";
+
+          const meta2 = document.createElement("div");
+          meta2.className = "post-meta";
+          meta2.innerHTML = `<span class="day-badge">Day ${post.day}</span><span class="item-meta">${formatDate(post.date)}</span>`;
+
+          const title = document.createElement("h3");
+          title.className = "post-title";
+          title.textContent = post.title;
+
+          const body = document.createElement("div");
+          body.className = "post-body";
+          (post.body || "").split("\n\n").forEach((para) => {
+            const p = document.createElement("p");
+            p.textContent = para;
+            body.appendChild(p);
+          });
+
+          const footer = document.createElement("div");
+          footer.className = "post-footer";
+
+          if (post.tags && post.tags.length) {
+            const tagWrap = document.createElement("div");
+            tagWrap.className = "post-tags";
+            post.tags.forEach((t) => {
+              const pill = document.createElement("span");
+              pill.className = "filter-pill";
+              pill.textContent = tagLabel(t);
+              tagWrap.appendChild(pill);
+            });
+            footer.appendChild(tagWrap);
+          }
+
+          const copyBtn = document.createElement("button");
+          copyBtn.className = "btn btn-secondary copy-btn";
+          copyBtn.type = "button";
+          copyBtn.textContent = "Copy for Facebook";
+          copyBtn.addEventListener("click", () => {
+            copyToClipboard(facebookText(post))
+              .then(() => {
+                const original = copyBtn.textContent;
+                copyBtn.textContent = "Copied!";
+                copyBtn.disabled = true;
+                setTimeout(() => {
+                  copyBtn.textContent = original;
+                  copyBtn.disabled = false;
+                }, 2000);
+              })
+              .catch(() => {
+                copyBtn.textContent = "Couldn't copy — select text manually";
+              });
+          });
+          footer.appendChild(copyBtn);
+
+          card.appendChild(meta2);
+          card.appendChild(title);
+          card.appendChild(body);
+          card.appendChild(footer);
+          list.appendChild(card);
+        });
+
+        loading.hidden = true;
+        list.hidden = false;
+      })
+      .catch((err) => {
+        document.getElementById("feed-loading").textContent =
+          "Couldn't load posts right now. Try refreshing in a bit.";
+        console.error(err);
+      });
+  </script>
+
+</body>
+</html>

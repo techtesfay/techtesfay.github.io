@@ -1,0 +1,61 @@
+{
+  "generated_at": "2026-07-25T00:00:00+00:00",
+  "items": [
+    {
+      "id": "2026-07-25-chain-a-mini-workflow",
+      "day": 7,
+      "date": "2026-07-25",
+      "title": "Chain three prompts into a mini workflow",
+      "body": "Once you're comfortable with roles, examples, and step-by-step breakdowns, the next skill is chaining them together: use the output of one prompt as the input to the next.\n\nA simple three-step chain: (1) brainstorm five options, (2) pick the best one and explain why, (3) turn that pick into a finished draft. Each step is a separate prompt, and each one is easier to get right than trying to do all three at once — this is the same idea from Day 4 (break it into steps), just applied across multiple back-and-forth turns instead of one message.\n\nToday's exercise: pick a task with a decision in the middle (choosing a topic, an approach, a design) and run it as a three-prompt chain instead of one big ask.",
+      "tags": ["prompting", "workflow"]
+    },
+    {
+      "id": "2026-07-24-ask-it-to-critique-itself",
+      "day": 6,
+      "date": "2026-07-24",
+      "title": "Ask it to critique its own answer",
+      "body": "After you get an answer, ask a simple follow-up: \"What's wrong with this answer? What would a critical reviewer say?\" The model will often catch its own gaps, unstated assumptions, or weak spots — because critiquing is a different task from generating, and it's honestly better at the former when asked directly.\n\nThis two-pass pattern (generate, then critique, then revise) consistently produces better output than a single pass, especially for anything you plan to publish or send.\n\nToday's exercise: take an answer the AI gave you recently, ask it to critique that answer as if reviewing someone else's work, then ask for a revised version based on the critique.",
+      "tags": ["prompting", "reasoning"]
+    },
+    {
+      "id": "2026-07-23-show-it-an-example",
+      "day": 5,
+      "date": "2026-07-23",
+      "title": "Show it an example instead of describing what you want",
+      "body": "Explaining what you want in words can be harder than just showing an example — and the model is very good at pattern-matching from examples. This is called \"few-shot prompting.\"\n\nInstead of \"write a punchy product description,\" paste in one example of a description you like and say \"write one in this style for X.\" The model picks up the tone, length, and structure from the example far more reliably than from an adjective like \"punchy.\"\n\nToday's exercise: find one piece of writing you like (an email, a caption, a headline) and ask the AI to write something new modeled after it. Compare the result to just describing the style in words.",
+      "tags": ["prompting", "few-shot"]
+    },
+    {
+      "id": "2026-07-22-break-it-into-steps",
+      "day": 4,
+      "date": "2026-07-22",
+      "title": "Break big asks into smaller steps",
+      "body": "Asking an AI to do a big, multi-part task in one shot often gets you a shallow, rushed answer — it tries to cover everything at once and does none of it well.\n\nInstead, break the task into a short numbered list of steps and ask for them one at a time (or ask the model to do step 1 only, then check its work before moving to step 2). This is the same reason humans break big projects into smaller tasks — smaller steps are easier to get right and easier to correct.\n\nToday's exercise: take something you'd normally ask for in one big prompt (like \"write a resume\") and instead ask for it in three separate steps: outline, draft, then polish. Compare the result to asking for it all at once.",
+      "tags": ["prompting", "workflow"]
+    },
+    {
+      "id": "2026-07-21-show-its-work",
+      "day": 3,
+      "date": "2026-07-21",
+      "title": "Ask it to show its work",
+      "body": "When an AI gives you an answer you're not sure about, don't just accept it — ask it to walk through its reasoning step by step before giving a final answer.\n\nTry this: add \"Think through this step by step, then give your final answer\" to the end of your prompt. For anything involving math, logic, or multi-step decisions, this alone catches a surprising number of mistakes, because the model checks its own work instead of jumping straight to a conclusion.\n\nToday's exercise: take something you asked an AI yesterday and re-ask it with that phrase added. Compare the two answers.",
+      "tags": ["prompting", "reasoning"]
+    },
+    {
+      "id": "2026-07-20-give-it-a-role",
+      "day": 2,
+      "date": "2026-07-20",
+      "title": "Give the AI a role before you ask your question",
+      "body": "The fastest way to get a more useful answer is to tell the AI who it should be before you tell it what you want.\n\nCompare these two prompts:\n\"Explain how DNS works.\"\n\"You're a patient teacher explaining networking to a complete beginner. Explain how DNS works using a real-world analogy.\"\n\nSame question, very different answer. The role sets the vocabulary, the depth, and the tone — you're steering the model instead of hoping it guesses what you need.\n\nToday's exercise: pick one thing you want explained, and ask for it twice — once with no role, once with a role you invent. Notice the difference.",
+      "tags": ["prompting", "beginner"]
+    },
+    {
+      "id": "2026-07-19-what-is-a-prompt",
+      "day": 1,
+      "date": "2026-07-19",
+      "title": "What even is a prompt?",
+      "body": "A prompt is just the instruction you give an AI — but most people write prompts the way they'd text a friend, and then wonder why the answer feels generic.\n\nThe fix is simple: be specific about three things — what you want, who it's for, and what \"done\" looks like. \"Write about dogs\" is a text. \"Write a 100-word intro to a blog post about dogs, for first-time pet owners, in a warm and encouraging tone\" is a prompt.\n\nToday's exercise: take one thing you'd normally ask an AI in a single vague sentence, and rewrite it with those three details added. Notice how much more specific the answer gets.",
+      "tags": ["prompting", "beginner"]
+    }
+  ]
+}
