@@ -112,7 +112,29 @@ git checkout -- filename.html
 
 ---
 
-## 5. Occasional / troubleshooting
+## 5. News feed (news.html)
+
+Refresh headlines manually (writes `news.json`):
+
+```sh
+python3 scripts/fetch_news.py
+```
+
+Commit and push the refreshed file like any other change:
+
+```sh
+git add news.json
+git commit -m "Refresh news feed"
+git push origin main
+```
+
+This normally happens on its own every 6 hours via
+`.github/workflows/news.yml` — manual runs are just for testing or an
+out-of-cycle refresh.
+
+---
+
+## 6. Occasional / troubleshooting
 
 Force CloudFront to drop its cache (rarely needed with max-age=5; requires
 the distribution ID from the CloudFront console):

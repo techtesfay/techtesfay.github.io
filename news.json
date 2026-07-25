@@ -1,0 +1,336 @@
+{
+  "generated_at": "2026-07-25T20:38:07.117044+00:00",
+  "sources": [
+    "The Hacker News",
+    "Krebs on Security",
+    "SANS Internet Storm Center",
+    "Dark Reading",
+    "The Record",
+    "arXiv cs.CR",
+    "arXiv cs.AI",
+    "MIT Technology Review",
+    "OpenAI News"
+  ],
+  "items": [
+    {
+      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
+      "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-25T18:48:44+00:00",
+      "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed "
+    },
+    {
+      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+      "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-25T12:52:43+00:00",
+      "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without auth"
+    },
+    {
+      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
+      "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-25T10:14:26+00:00",
+      "summary": "Security researchers at depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not ta"
+    },
+    {
+      "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
+      "link": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-25T10:14:21+00:00",
+      "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised la"
+    },
+    {
+      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-25T10:14:03+00:00",
+      "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data ext"
+    },
+    {
+      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
+      "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-25T09:53:41+00:00",
+      "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to vic"
+    },
+    {
+      "title": "CISOs vs. Boards: Myth or Misunderstanding?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-24T21:31:53+00:00",
+      "summary": "Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide."
+    },
+    {
+      "title": "Escape Artists: 'Incorrigible' AI Models Resist Rehabilitation",
+      "link": "https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-24T19:45:02+00:00",
+      "summary": "The hacking of Hugging Face by a rogue OpenAI agent is significant, but unsurprising \u2014 and preventing the next AI model escape will be difficult, at best."
+    },
+    {
+      "title": "Andy Burnham signals continuity on UK cyber policy, reappoints minister despite scrapping ministry",
+      "link": "https://therecord.media/andy-burnham-liz-lloyd-cyber-policy-uk",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-07-24T17:14:00+00:00",
+      "summary": "The new British prime minister is retaining Liz Lloyd in a cyber policy role, making her one of the few Keir Starmer allies remaining in government."
+    },
+    {
+      "title": "The quest to keep organs alive outside the body",
+      "link": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-07-24T17:03:55+00:00",
+      "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There\u2019s a huge shortage of donor organs, and one of the main reasons is time\u2014they survive only a matter of hours outside the body, even when "
+    },
+    {
+      "title": "'Wrench' attacks against crypto holders appear to be on the rise",
+      "link": "https://therecord.media/wrench-attacks-against-cryptocurrency-holders",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-07-24T15:55:00+00:00",
+      "summary": "There are more reports than ever before of strong-arm tactics like home invasions and kidnappings against cryptocurrency holders, researchers say."
+    },
+    {
+      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
+      "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-24T15:12:35+00:00",
+      "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platform"
+    },
+    {
+      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
+      "link": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-24T14:15:21+00:00",
+      "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the"
+    },
+    {
+      "title": "Vatican's Official Prayer App Leaks 700K+ Global Users' PII",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-24T13:00:00+00:00",
+      "summary": "A porous API endpoint exposes, names, email addresses, country, and site status, all of which can be easily gleaned by anyone with a browser."
+    },
+    {
+      "title": "Default Azure Automation Setting Enables Cross-Tenant Identity Takeover",
+      "link": "https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-24T12:48:16+00:00",
+      "summary": "Microsoft addresses a public-by-default configuration and chain of code flaws in Azure Automation that could have let attackers seize another tenant's identity and access others' data, credentials, and cloud workloads."
+    },
+    {
+      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+      "link": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-07-24T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a \u201clandmark achievement\u201d W"
+    },
+    {
+      "title": "Europe's Multilingual Reality Exposes AI Security Gaps",
+      "link": "https://www.darkreading.com/cybersecurity-operations/europes-multilingual-reality-exposes-ai-security-gaps",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-24T07:00:00+00:00",
+      "summary": "The AI security layer and guardrails for many AI products don't evenly protect against jailbreaking and unsafe actions in every single language."
+    },
+    {
+      "title": "ISC Stormcast For Friday, July 24th, 2026 https://isc.sans.edu/podcastdetail/10022, (Fri, Jul 24th)",
+      "link": "https://isc.sans.edu/diary/rss/33182",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-07-24T02:00:02+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-23T21:23:18+00:00",
+      "summary": "A state-sponsored threat group, dubbed \"Laundry Bear,\" sends \"half-click\" phishing emails that require a victim only to open or preview the message."
+    },
+    {
+      "title": "Supercooled kidneys have been transplanted into pigs in a \u201clandmark achievement\u201d",
+      "link": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-07-23T16:58:28+00:00",
+      "summary": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor\u2019s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too "
+    },
+    {
+      "title": "International alert spotlights Russia-linked attacks on Zimbra webmail",
+      "link": "https://therecord.media/zimbra-webmail-zero-click-phishing-russia-laundry-bear",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-07-23T16:58:00+00:00",
+      "summary": "A Kremlin-backed group known as Laundry Bear has been using a zero-click phishing technique to break into Zimbra webmail accounts worldwide, the U.S. and other nations said."
+    },
+    {
+      "title": "State Department imposes visa restrictions on foreign cyber scammers",
+      "link": "https://therecord.media/visa-restrictions-cyber-scammers",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-07-23T16:29:00+00:00",
+      "summary": "Individuals connected to transnational cyber-scam operations face U.S. visa restrictions under a new policy announced by Secretary of State Marco Rubio."
+    },
+    {
+      "title": "When the \"Autonomous Attacker\" Is Your Own AI Model, (Thu, Jul 23rd)",
+      "link": "https://isc.sans.edu/diary/rss/33180",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-07-23T13:40:27+00:00",
+      "summary": "Two disclosures, five days apart, described the same intrusion from opposite ends \u00e2\u20ac\u201d"
+    },
+    {
+      "title": "Major Australian energy supplier confirms customer data compromised",
+      "link": "https://therecord.media/australia-origin-energy-data-breach",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-07-23T13:20:00+00:00",
+      "summary": "Origin Energy said it was working to figure out how many Australians were affected by a recent data breach."
+    },
+    {
+      "title": "The Download: energy transmission and US threats against Chinese AI",
+      "link": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-07-23T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. The power line that could reshape New York\u2019s grid is hitting snags During a heat w"
+    },
+    {
+      "title": "How AI helps scientists design the next generation of medicines",
+      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-07-23T12:00:00+00:00",
+      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates nev"
+    },
+    {
+      "title": "Agentic AI Challenges Progress in Confidential Computing",
+      "link": "https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-23T11:17:51+00:00",
+      "summary": "Core issues that slowed down adoption of secure data vaults are being resolved by technology, but artificial intelligence poses new ones. Experts have some answers."
+    },
+    {
+      "title": "The power line that could reshape New York\u2019s grid is hitting snags",
+      "link": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-07-23T09:00:00+00:00",
+      "summary": "On July 3, as a heat wave swept the region, New York State\u2019s grid imported 52 gigawatt-hours of electricity from Canada\u2014enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on "
+    },
+    {
+      "title": "Brazilian Banking Trojan Actively Spreading in Portugal",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-23T07:00:00+00:00",
+      "summary": "Portuguese businesses operate in the same native language as Brazilian hackers, making those businesses easy targets."
+    },
+    {
+      "title": "ISC Stormcast For Thursday, July 23rd, 2026 https://isc.sans.edu/podcastdetail/10020, (Thu, Jul 23rd)",
+      "link": "https://isc.sans.edu/diary/rss/33178",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-07-23T02:00:03+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Launching Health in ChatGPT",
+      "link": "https://openai.com/index/health-in-chatgpt",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-07-23T00:00:00+00:00",
+      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health."
+    },
+    {
+      "title": "Rondo Meets Geoserver, (Wed, Jul 22nd)",
+      "link": "https://isc.sans.edu/diary/rss/33176",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-07-22T17:35:33+00:00",
+      "summary": "This isn&#;x26;#;39;t a new attack, but something I saw \"pop-up\" in our logs this week:"
+    },
+    {
+      "title": "Building AI infrastructure with the Effingham County community",
+      "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-07-22T13:00:00+00:00",
+      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex."
+    },
+    {
+      "title": "How news organizations are using AI to advance their vital missions",
+      "link": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-07-22T13:00:00+00:00",
+      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide."
+    },
+    {
+      "title": "The Download: NASA\u2019s new space telescope and OpenAI\u2019s autonomous hacker",
+      "link": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-07-22T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Shape-shifting mirrors on NASA\u2019s new space telescope could unveil Jupiters like ou"
+    },
+    {
+      "title": "Advancing the next era of national science",
+      "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-07-22T12:00:00+00:00",
+      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery."
+    },
+    {
+      "title": "Shape-shifting mirrors on NASA\u2019s new space telescope could unveil Jupiters like our own",
+      "link": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-07-22T09:00:00+00:00",
+      "summary": "When NASA\u2019s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy\u2019s most precise disappearing acts to date. The telescope will carry the first space-bound \u201cactive"
+    },
+    {
+      "title": "Introducing OpenAI Presence",
+      "link": "https://openai.com/index/introducing-openai-presence",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-07-22T05:30:00+00:00",
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
+    },
+    {
+      "title": "ISC Stormcast For Wednesday, July 22nd, 2026 https://isc.sans.edu/podcastdetail/10018, (Wed, Jul 22nd)",
+      "link": "https://isc.sans.edu/diary/rss/33174",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-07-22T02:00:02+00:00",
+      "summary": ""
+    },
+    {
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "link": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "published": "2026-07-22T01:10:38+00:00",
+      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after "
+    }
+  ]
+}

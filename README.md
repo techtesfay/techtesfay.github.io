@@ -14,10 +14,14 @@ techtesfay.github.io/
 ├── academic.html   # Experience, research, publications, education, projects
 ├── interests.html  # Interests + Cloud Resume Challenge resources
 ├── learning.html   # Topics being studied + articles/write-ups
+├── news.html       # AI + cybersecurity headlines, reads news.json client-side
 ├── resume.html     # Redirect stub (CloudFront's root document points here)
 ├── css/style.css   # All styling (colors, fonts, layout)
 ├── assets/         # Put images, PDFs, etc. here
-└── .github/workflows/main.yml  # Deploys to S3 on every push
+├── scripts/fetch_news.py  # Pulls headlines from RSS feeds into news.json
+├── news.json       # Generated data file for news.html (not hand-edited)
+├── .github/workflows/main.yml  # Deploys to S3 on every push
+└── .github/workflows/news.yml  # Refreshes news.json every 6 hours
 ```
 
 ## Run locally
@@ -40,6 +44,24 @@ Then open http://localhost:8000
 - **Publish**: commit and push to `main`. Two deploys fire independently:
   GitHub Actions syncs to the S3 bucket (lelunar.me), and GitHub Pages
   rebuilds automatically from the same branch (techtesfay.github.io).
+
+## News page
+
+`news.html` shows a merged, filterable feed of headlines from nine free RSS
+sources (cybersecurity news, AI news, and arXiv research feeds — see the
+list in `scripts/fetch_news.py`). No paid API, no key required.
+
+- A scheduled GitHub Action (`.github/workflows/news.yml`) runs the fetch
+  script every 6 hours, and commits `news.json` if it changed. That commit
+  triggers the normal deploy pipeline, so both lelunar.me and
+  techtesfay.github.io pick up fresh headlines automatically.
+- `news.html` fetches `news.json` client-side (same-origin, so no CORS
+  issues) and renders it with a category filter (All / Cybersecurity / AI /
+  Research).
+- To add or remove a source, edit the `FEEDS` list in
+  `scripts/fetch_news.py`.
+- To refresh headlines manually: `python3 scripts/fetch_news.py`, or trigger
+  the workflow by hand from the Actions tab (`workflow_dispatch`).
 
 ## Hosting
 

@@ -1,0 +1,36 @@
+name: Refresh news feed
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch latest headlines
+        run: python3 scripts/fetch_news.py
+
+      - name: Commit news.json if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- news.json; then
+            git add news.json
+            git commit -m "Refresh news feed"
+            git push
+          else
+            echo "No changes to news.json"
+          fi
