@@ -579,6 +579,34 @@ footer a {
   margin-bottom: 6px;
 }
 
+.diagram-fig {
+  margin: 28px 0 8px;
+  overflow-x: auto;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px;
+  background: var(--bg);
+}
+
+.diagram-fig img {
+  display: block;
+  min-width: 480px;
+  margin: 0 auto;
+}
+
+.diagram-fig img.dark {
+  display: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  .diagram-fig img.light {
+    display: none;
+  }
+  .diagram-fig img.dark {
+    display: block;
+  }
+}
+
 /* ---------- Small screens ---------- */
 
 @media (max-width: 600px) {

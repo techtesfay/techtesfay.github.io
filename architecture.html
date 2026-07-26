@@ -62,6 +62,11 @@
       <h2>1. Deploy pipeline</h2>
       <p class="lede">Triggered by a push to <code>main</code>.</p>
 
+      <figure class="diagram-fig">
+        <img class="light" src="assets/diagrams/deploy-light.svg" alt="Flowchart: a local edit is pushed to the GitHub repo, which triggers a Push to S3 workflow (S3 bucket lelunar, then CloudFront with a 5-second cache, then Cloudflare DNS, then lelunar.me) and a GitHub Pages build (then techtesfay.github.io). A separate scheduler runs the Refresh news feed workflow every 6 hours, which pulls from 9 RSS feeds and commits news.json back to the repo, re-triggering both deploy paths." />
+        <img class="dark" src="assets/diagrams/deploy-dark.svg" alt="Flowchart: a local edit is pushed to the GitHub repo, which triggers a Push to S3 workflow (S3 bucket lelunar, then CloudFront with a 5-second cache, then Cloudflare DNS, then lelunar.me) and a GitHub Pages build (then techtesfay.github.io). A separate scheduler runs the Refresh news feed workflow every 6 hours, which pulls from 9 RSS feeds and commits news.json back to the repo, re-triggering both deploy paths." />
+      </figure>
+
       <div class="flow">
         <div class="flow-step">
           <div class="flow-num">1</div>
@@ -120,6 +125,11 @@
     <div class="section-inner">
       <h2>2. A static site with one dynamic sliver</h2>
       <p class="lede">The home page's visitor counter — the only part of this site that isn't purely static.</p>
+
+      <figure class="diagram-fig">
+        <img class="light" src="assets/diagrams/counter-light.svg" alt="Flowchart: the browser calls fetch() on page load, hitting Amazon API Gateway, which calls a Lambda function, which reads and writes a DynamoDB counter table, and the count flows back through Lambda and API Gateway to the browser as JSON." />
+        <img class="dark" src="assets/diagrams/counter-dark.svg" alt="Flowchart: the browser calls fetch() on page load, hitting Amazon API Gateway, which calls a Lambda function, which reads and writes a DynamoDB counter table, and the count flows back through Lambda and API Gateway to the browser as JSON." />
+      </figure>
 
       <div class="flow">
         <div class="flow-step">

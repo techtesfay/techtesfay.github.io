@@ -94,6 +94,16 @@ datastore) each paired with exactly how it's used here, plus a component
 reference table grouped by provider. It's static content — no data file, no
 workflow — so it's just another page to hand-edit like the others.
 
+The two flow diagrams are pre-rendered SVGs (`assets/diagrams/*.svg`), not a
+runtime library — no Mermaid.js on the live site, in keeping with "no
+frameworks." CSS toggles between the light/dark version based on
+`prefers-color-scheme`. Each SVG has a matching `.mmd` source file — edit
+that and re-render with [mermaid-cli](https://github.com/mermaid-js/mermaid-cli):
+
+```sh
+npx -y @mermaid-js/mermaid-cli -i assets/diagrams/deploy-light.mmd -o assets/diagrams/deploy-light.svg -b transparent
+```
+
 ## Hosting
 
 **lelunar.me** — a static site in the `lelunar` S3 bucket behind CloudFront

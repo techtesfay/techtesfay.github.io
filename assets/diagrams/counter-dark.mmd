@@ -1,0 +1,15 @@
+%%{init: {'theme':'base', 'themeVariables': {
+  'primaryColor': '#1d1d1f',
+  'primaryBorderColor': '#2997ff',
+  'primaryTextColor': '#f5f5f7',
+  'lineColor': '#86868b',
+  'fontFamily': '-apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif',
+  'fontSize': '15px'
+}}}%%
+flowchart LR
+    browser(["Browser\nindex.html loads"]) -->|"fetch()"| apigw["Amazon API Gateway\n(HTTP API)"]
+    apigw --> lambda["Lambda function"]
+    lambda --> ddb[("DynamoDB\ncounter table")]
+    ddb --> lambda
+    lambda --> apigw
+    apigw -->|"{ counter: N }"| browser
