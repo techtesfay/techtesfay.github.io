@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>How This Site Works — Teklemariam Tesfay</title>
+  <meta name="description" content="A tutorial walkthrough of the CI/CD, serverless, and DNS techniques behind lelunar.me, for engineers who want to see how the pieces fit." />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" href="favicon.ico" sizes="any" />
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
+</head>
+<body>
+
+  <nav>
+    <div class="nav-inner">
+      <a class="nav-name" href="index.html">Teklemariam Tesfay</a>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="academic.html">Work &amp; Research</a></li>
+        <li><a href="interests.html">Interests</a></li>
+        <li><a href="learning.html">Learning</a></li>
+        <li><a href="ai-skills.html">AI Skills</a></li>
+        <li><a href="news.html">News</a></li>
+        <li><a href="architecture.html" class="active">Architecture</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <header class="page-header">
+    <h1>How this site works.</h1>
+    <p>A concept-by-concept walkthrough of the CI/CD, serverless, and DNS techniques behind lelunar.me — written for engineers who want to see how the pieces fit, and maybe borrow the pattern.</p>
+  </header>
+
+  <section class="band">
+    <div class="section-inner">
+      <h2>The big picture</h2>
+      <p class="lede">
+        There is no server running anywhere for this site — no process to patch,
+        restart, or lose sleep over. It's a static frontend (plain HTML/CSS/JS,
+        zero build tooling) backed by a handful of managed, pay-per-use cloud
+        primitives, wired together by CI/CD instead of manual deploys. One
+        <code>git push</code> fans out into two independently hosted copies of
+        the site, plus a scheduled job that keeps the news page fresh — all from
+        a single public repo:
+        <a class="text-link" target="_blank" rel="noopener" href="https://github.com/techtesfay/techtesfay.github.io">techtesfay/techtesfay.github.io</a>.
+      </p>
+      <p class="lede">
+        This pattern — static assets on a CDN, small bits of dynamic behavior
+        via client-side calls to serverless functions — is sometimes called
+        the <strong>JAMstack</strong> (JavaScript, APIs, Markup). The three
+        sections below walk through deployment, the one dynamic feature
+        (a visitor counter), and a scheduled automation job, each pairing a
+        general concept with exactly how it's used here.
+      </p>
+    </div>
+  </section>
+
+  <section class="band alt">
+    <div class="section-inner">
+      <h2>1. Deploy pipeline</h2>
+      <p class="lede">Triggered by a push to <code>main</code>.</p>
+
+      <div class="flow">
+        <div class="flow-step">
+          <div class="flow-num">1</div>
+          <div class="flow-body">
+            <span class="flow-tag">GitOps</span>
+            <h3>A push is the deploy trigger</h3>
+            <p><strong>Concept:</strong> Git is the single source of truth. Instead of deploying by hand, a CI system watches the repo and reacts to changes — no SSH-ing into a machine, no manual upload.</p>
+            <p><strong>Here:</strong> GitHub Actions listens for <code>on: push</code> and spins up a throwaway Ubuntu container to run the job.</p>
+          </div>
+        </div>
+
+        <div class="flow-step">
+          <div class="flow-num">2</div>
+          <div class="flow-body">
+            <span class="flow-tag">Object storage</span>
+            <h3>Files land in storage, not a server</h3>
+            <p><strong>Concept:</strong> A static site has no backend process to run — it just needs files served over HTTP. Object storage is built exactly for this: cheap, durable, effectively infinite storage billed by the byte, not by server-hours.</p>
+            <p><strong>Here:</strong> <code>aws s3 sync . s3://lelunar --delete</code> mirrors the repo into the bucket, deleting anything that's been removed locally so the bucket never drifts from Git.</p>
+          </div>
+        </div>
+
+        <div class="flow-step">
+          <div class="flow-num">3</div>
+          <div class="flow-body">
+            <span class="flow-tag">CDN / edge caching</span>
+            <h3>A CDN caches it close to visitors</h3>
+            <p><strong>Concept:</strong> Without a CDN, every request travels to the bucket's one physical region. A CDN caches copies at edge locations worldwide so requests are served from whichever is closest — lower latency, less origin load. The tradeoff is staleness: cached content can lag the origin until its cache lifetime (TTL) expires.</p>
+            <p><strong>Here:</strong> CloudFront sits in front of S3. Every synced object is tagged <code>Cache-Control: max-age=5</code> — a 5-second TTL, short enough that changes are effectively live within seconds while still getting real edge-caching benefit for the far more common case of repeat requests inside that window.</p>
+          </div>
+        </div>
+
+        <div class="flow-step">
+          <div class="flow-num">4</div>
+          <div class="flow-body">
+            <span class="flow-tag">DNS</span>
+            <h3>DNS resolves the domain — with a twist</h3>
+            <p><strong>Concept:</strong> The obvious way to point a domain at a CDN is a CNAME record. But DNS forbids a CNAME on a zone's apex (<code>lelunar.me</code> itself, not <code>www.lelunar.me</code>) — the apex has to coexist with other record types, like MX for mail. Providers work around this with <strong>CNAME flattening</strong>: an apex record that behaves like a CNAME to clients while staying spec-compliant.</p>
+            <p><strong>Here:</strong> Cloudflare hosts DNS for lelunar.me in "DNS only" mode — resolving names, not proxying traffic. Response headers confirm it: they show CloudFront and S3 directly, with no Cloudflare proxy signature in front.</p>
+          </div>
+        </div>
+
+        <div class="flow-step">
+          <div class="flow-num">5</div>
+          <div class="flow-body">
+            <span class="flow-tag">Redundancy</span>
+            <h3>A second, independent path: GitHub Pages</h3>
+            <p><strong>Concept:</strong> The same push can trigger more than one deploy target. It's a useful way to compare two hosting models for the same job: assembling cloud primitives yourself (S3 + CloudFront + DNS) versus an all-in-one managed static host tied straight to a repo.</p>
+            <p><strong>Here:</strong> GitHub Pages auto-builds <code>main</code>'s root and serves it at <a class="text-link" target="_blank" rel="noopener" href="https://techtesfay.github.io">techtesfay.github.io</a> — no DNS or CDN configuration of its own, and deliberately kept independent of the AWS path.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="band">
+    <div class="section-inner">
+      <h2>2. A static site with one dynamic sliver</h2>
+      <p class="lede">The home page's visitor counter — the only part of this site that isn't purely static.</p>
+
+      <div class="flow">
+        <div class="flow-step">
+          <div class="flow-num">1</div>
+          <div class="flow-body">
+            <span class="flow-tag">JAMstack</span>
+            <h3>The client calls out to an API</h3>
+            <p><strong>Concept:</strong> A page can be 100% static HTML and still be dynamic, by having client-side JavaScript call an API at runtime — instead of a server rendering a fresh response per request.</p>
+            <p><strong>Here:</strong> on load, an inline script in <code>index.html</code> fetches a public HTTPS endpoint and renders whatever it returns. If the call fails, the counter element just stays hidden — the page never depends on it to work.</p>
+          </div>
+        </div>
+
+        <div class="flow-step">
+          <div class="flow-num">2</div>
+          <div class="flow-body">
+            <span class="flow-tag">Managed API layer</span>
+            <h3>API Gateway is the HTTP front door</h3>
+            <p><strong>Concept:</strong> A function has no public endpoint of its own. A managed API layer turns it into a real HTTPS API — handling routing, CORS, TLS, and throttling — without provisioning or patching a server.</p>
+            <p><strong>Here:</strong> the endpoint is <strong>Amazon API Gateway</strong> — not to be confused with <strong>Transit Gateway</strong>, a completely different AWS service for interconnecting VPCs and on-prem networks. There's no VPC or private networking layer anywhere in this stack; it's all public serverless HTTP.</p>
+          </div>
+        </div>
+
+        <div class="flow-step">
+          <div class="flow-num">3</div>
+          <div class="flow-body">
+            <span class="flow-tag">FaaS</span>
+            <h3>Lambda — function as a service</h3>
+            <p><strong>Concept:</strong> The function only runs when invoked, scales to zero between calls, and is billed per invocation rather than for an always-on server. At personal-site traffic, the cost rounds to nothing.</p>
+            <p><strong>Here:</strong> the function reads the current counter value, increments it, writes it back, and returns the new value as JSON.</p>
+          </div>
+        </div>
+
+        <div class="flow-step">
+          <div class="flow-num">4</div>
+          <div class="flow-body">
+            <span class="flow-tag">NoSQL</span>
+            <h3>DynamoDB, reduced to one row</h3>
+            <p><strong>Concept:</strong> DynamoDB is a managed key-value store built for scale — but the same primitives (a table, a primary key, an item) work fine at the smallest scale too.</p>
+            <p><strong>Here:</strong> a single item holds one <code>counter</code> attribute that gets read and rewritten on every page load. That's the entire "database."</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="band alt">
+    <div class="section-inner">
+      <h2>3. Scheduled automation, no server required</h2>
+      <p class="lede">How the <a class="text-link" href="news.html">news page</a> stays current without anyone touching it.</p>
+
+      <div class="flow">
+        <div class="flow-step">
+          <div class="flow-num">1</div>
+          <div class="flow-body">
+            <span class="flow-tag">Serverless cron</span>
+            <h3>A schedule can trigger a job, not just a push</h3>
+            <p><strong>Concept:</strong> Not every job is a response to a user request or a code change. CI systems' <code>schedule:</code> trigger provides free, serverless cron — handy for periodic work (refresh a cache, run a digest, poll a feed) that has nothing to do with deploying code.</p>
+            <p><strong>Here:</strong> a workflow runs every 6 hours and executes a small Python script — standard library only, no dependencies to install in CI.</p>
+          </div>
+        </div>
+
+        <div class="flow-step">
+          <div class="flow-num">2</div>
+          <div class="flow-body">
+            <span class="flow-tag">Syndication</span>
+            <h3>RSS — old, but still the right tool</h3>
+            <p><strong>Concept:</strong> RSS/Atom predates most of the modern web, but it remains the simplest way to pull structured updates from a source without an API key or a bespoke integration per site.</p>
+            <p><strong>Here:</strong> the script pulls headlines from 9 free RSS feeds — cybersecurity news, AI news, and arXiv research feeds — merges them, and sorts by publish date.</p>
+          </div>
+        </div>
+
+        <div class="flow-step">
+          <div class="flow-num">3</div>
+          <div class="flow-body">
+            <span class="flow-tag">Git as a datastore</span>
+            <h3>Committing the result, instead of a database</h3>
+            <p><strong>Concept:</strong> For data that's small and changes infrequently, committing a generated file to Git can be simpler than standing up an actual database — you get versioning, diffing, and hosting for free.</p>
+            <p><strong>Here:</strong> the script writes <code>news.json</code> and the workflow commits it if it changed. That commit is itself a push to <code>main</code> — so it re-triggers Section 1's entire deploy pipeline, and the refreshed headlines reach both live sites automatically.</p>
+          </div>
+        </div>
+
+        <div class="flow-step">
+          <div class="flow-num">4</div>
+          <div class="flow-body">
+            <span class="flow-tag">Same-origin fetch</span>
+            <h3>The page reads its own data file</h3>
+            <p><strong>Concept:</strong> Fetching JSON from the same domain the page is served from sidesteps CORS entirely — no headers to configure, no preflight requests.</p>
+            <p><strong>Here:</strong> <code>news.html</code> fetches <code>news.json</code> client-side and renders it, with a category filter applied in the browser.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="note-box">
+        <span class="flow-tag">Takeaway</span>
+        <p>
+          Total infrastructure cost for all of this is a few cents a month at
+          personal-site traffic — GitHub Actions and Pages are free for public
+          repos, and S3 / CloudFront / API Gateway / Lambda / DynamoDB are all
+          effectively free at this scale. Nothing here needs patching, and the
+          entire setup — down to the exact commands — is readable in the repo:
+          <a class="text-link" target="_blank" rel="noopener" href="https://github.com/techtesfay/techtesfay.github.io/tree/main/.github/workflows">workflows</a>,
+          <a class="text-link" target="_blank" rel="noopener" href="https://github.com/techtesfay/techtesfay.github.io/blob/main/scripts/fetch_news.py">fetch_news.py</a>,
+          and the <a class="text-link" target="_blank" rel="noopener" href="https://github.com/techtesfay/techtesfay.github.io/blob/main/README.md">README</a>.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="band">
+    <div class="section-inner">
+      <h2>Every component, at a glance</h2>
+      <p class="lede">A quick-reference list, grouped by provider.</p>
+
+      <h3 style="margin-top: 8px; font-size: 15px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-secondary);">GitHub</h3>
+      <ul class="item-list">
+        <li>
+          <div class="item-title">Repo</div>
+          <div class="item-meta">techtesfay/techtesfay.github.io — public, single source of truth for both delivery paths</div>
+        </li>
+        <li>
+          <div class="item-title">Push to S3 workflow</div>
+          <div class="item-meta">.github/workflows/main.yml — runs on every push, authenticates with IAM keys stored as encrypted secrets</div>
+        </li>
+        <li>
+          <div class="item-title">GitHub Pages build</div>
+          <div class="item-meta">Automatic — no workflow file needed, publishes the repo root on every push to main</div>
+        </li>
+        <li>
+          <div class="item-title">Refresh news feed workflow</div>
+          <div class="item-meta">.github/workflows/news.yml — scheduled every 6 hours, commits news.json if it changed</div>
+        </li>
+      </ul>
+
+      <h3 style="margin-top: 32px; font-size: 15px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-secondary);">AWS</h3>
+      <ul class="item-list">
+        <li>
+          <div class="item-title">S3 — lelunar</div>
+          <div class="item-meta">Raw file storage; CloudFront is the actual front door, not the bucket directly</div>
+        </li>
+        <li>
+          <div class="item-title">CloudFront</div>
+          <div class="item-meta">CDN with a 5-second cache TTL; root document is a legacy resume.html redirect stub</div>
+        </li>
+        <li>
+          <div class="item-title">API Gateway</div>
+          <div class="item-meta">Public HTTP API the browser calls directly for the visitor counter</div>
+        </li>
+        <li>
+          <div class="item-title">Lambda</div>
+          <div class="item-meta">Reads and increments the counter on each call</div>
+        </li>
+        <li>
+          <div class="item-title">DynamoDB</div>
+          <div class="item-meta">Single-item table holding the counter value</div>
+        </li>
+        <li>
+          <div class="item-title">IAM</div>
+          <div class="item-meta">One user's access keys — the only AWS credential GitHub Actions holds</div>
+        </li>
+      </ul>
+
+      <h3 style="margin-top: 32px; font-size: 15px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-secondary);">Cloudflare</h3>
+      <ul class="item-list">
+        <li>
+          <div class="item-title">DNS</div>
+          <div class="item-meta">Authoritative DNS for the lelunar.me apex only — DNS-only mode, not proxied, CNAME-flattened to CloudFront</div>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2026 Teklemariam Tesfay · Built with plain HTML &amp; CSS.</p>
+  </footer>
+
+</body>
+</html>

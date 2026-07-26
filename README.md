@@ -16,6 +16,7 @@ techtesfay.github.io/
 ├── learning.html   # Topics being studied + articles/write-ups
 ├── ai-skills.html  # Daily AI-skills feed, reads ai-skills.json client-side
 ├── news.html       # AI + cybersecurity headlines, reads news.json client-side
+├── architecture.html  # Tutorial walkthrough of how this site is built/deployed
 ├── resume.html     # Redirect stub (CloudFront's root document points here)
 ├── css/style.css   # All styling (colors, fonts, layout)
 ├── assets/         # Put images, PDFs, etc. here
@@ -83,6 +84,15 @@ list in `scripts/fetch_news.py`). No paid API, no key required.
   `scripts/fetch_news.py`.
 - To refresh headlines manually: `python3 scripts/fetch_news.py`, or trigger
   the workflow by hand from the Actions tab (`workflow_dispatch`).
+
+## Architecture page
+
+`architecture.html` is a tutorial for engineers: it explains the CI/CD,
+serverless, and DNS concepts behind this site (GitOps, object storage, CDN
+edge caching, CNAME flattening, FaaS, NoSQL, serverless cron, git-as-a-
+datastore) each paired with exactly how it's used here, plus a component
+reference table grouped by provider. It's static content — no data file, no
+workflow — so it's just another page to hand-edit like the others.
 
 ## Hosting
 

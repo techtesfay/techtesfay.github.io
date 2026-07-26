@@ -487,6 +487,98 @@ footer a {
   cursor: default;
 }
 
+/* ---------- Architecture tutorial ---------- */
+
+.flow {
+  position: relative;
+  margin-top: 32px;
+}
+
+.flow::before {
+  content: "";
+  position: absolute;
+  left: 17px;
+  top: 6px;
+  bottom: 6px;
+  width: 1px;
+  background: var(--border);
+}
+
+.flow-step {
+  position: relative;
+  display: flex;
+  gap: 22px;
+  padding-bottom: 36px;
+}
+
+.flow-step:last-child {
+  padding-bottom: 0;
+}
+
+.flow-num {
+  flex: none;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  position: relative;
+  z-index: 1;
+}
+
+.flow-tag {
+  display: block;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  margin-bottom: 4px;
+}
+
+.flow-body h3 {
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.flow-body p {
+  margin-top: 8px;
+  font-size: 15px;
+  color: var(--text-secondary);
+}
+
+.flow-body p strong {
+  color: var(--text);
+}
+
+.note-box {
+  border-left: 3px solid var(--accent);
+  background: var(--bg-alt);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  padding: 18px 22px;
+  margin-top: 36px;
+}
+
+.note-box p {
+  font-size: 15px;
+  color: var(--text-secondary);
+}
+
+.note-box p strong {
+  color: var(--text);
+}
+
+.note-box .flow-tag {
+  margin-bottom: 6px;
+}
+
 /* ---------- Small screens ---------- */
 
 @media (max-width: 600px) {
@@ -502,5 +594,8 @@ footer a {
   }
   .post-card {
     padding: 24px 20px;
+  }
+  .flow-step {
+    gap: 14px;
   }
 }
