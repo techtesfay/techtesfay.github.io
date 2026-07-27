@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:05:47.020893+00:00",
+  "generated_at": "2026-07-27T19:07:08.582868+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,78 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we\u2019ve been here before.",
+      "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-07-27T18:00:00+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI\u2019s account last week of how some of its models broke their containme"
+    },
+    {
+      "title": "UK court rejects Bahrain immunity claim in spyware case",
+      "link": "https://therecord.media/uk-court-rejects-bahrain-immunity-claim-spyware-case",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-07-27T17:52:00+00:00",
+      "summary": "The alleged hacking by officials in Bahrain \u201callowed access to and exfiltration of information on the computers, interception of communications conducted using the computers and use of the computers\u2019 microphones and came"
+    },
+    {
+      "title": "Health system in South Carolina, Georgia closes offices after malware affects networks",
+      "link": "https://therecord.media/health-system-south-carolina-georgia-disruptions-malware",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-07-27T17:38:00+00:00",
+      "summary": "On Sunday, AnMed published a statement online saying they were \u201cexperiencing a cybersecurity disruption involving malware\u201d and were working to restore systems and determine the scope of the incident."
+    },
+    {
+      "title": "Adversaries Don't Need a Zero-Day \u2014 They Read Your Rulebook",
+      "link": "https://www.darkreading.com/threat-intelligence/adversaries-do-not-need-zero-day-they-read-your-rulebook",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-27T17:31:18+00:00",
+      "summary": "Confidence in autonomous security tools is declining, and here's why."
+    },
+    {
+      "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
+      "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-27T17:16:28+00:00",
+      "summary": "Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure"
+    },
+    {
+      "title": "Telegram phishing campaign targeted exiled Belarusian activist, Russians and Kazakhstanis",
+      "link": "https://therecord.media/telegram-belarus-activist-russia-cyberattack",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-07-27T16:00:00+00:00",
+      "summary": "Researchers have uncovered a highly personalized phishing campaign that used Telegram to try to hijack the account of an exiled Belarusian activist, as well as users in Russia and Kazakhstan."
+    },
+    {
+      "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
+      "link": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-27T14:40:00+00:00",
+      "summary": "Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrativ"
+    },
+    {
+      "title": "How lasers could help provide fuel for nuclear reactors",
+      "link": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-07-27T14:24:42+00:00",
+      "summary": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A "
+    },
+    {
+      "title": "\u26a1 Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
+      "link": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-27T14:10:54+00:00",
+      "summary": "Monday starts with the usual promise that everything is under control. Then the logs wake up. This week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding in"
+    },
     {
       "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
       "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
@@ -253,84 +325,12 @@
       "summary": "ESAFENET&#;x26;#;39;s CDG showed up in our data before. The company focused on secure document management and data leakage prevention solutions. The \"CDG\" stands for \"Content Data Guard\", and the product appears to be mo"
     },
     {
-      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
-      "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-25T18:48:44+00:00",
-      "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed "
-    },
-    {
-      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
-      "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-25T12:52:43+00:00",
-      "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without auth"
-    },
-    {
-      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
-      "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-25T10:14:26+00:00",
-      "summary": "Security researchers at depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not ta"
-    },
-    {
       "title": "CISOs vs. Boards: Myth or Misunderstanding?",
       "link": "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-07-24T21:31:53+00:00",
       "summary": "Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide."
-    },
-    {
-      "title": "Escape Artists: 'Incorrigible' AI Models Resist Rehabilitation",
-      "link": "https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-07-24T19:45:02+00:00",
-      "summary": "The hacking of Hugging Face by a rogue OpenAI agent is significant, but unsurprising \u2014 and preventing the next AI model escape will be difficult, at best."
-    },
-    {
-      "title": "Andy Burnham signals continuity on UK cyber policy, reappoints minister despite scrapping ministry",
-      "link": "https://therecord.media/andy-burnham-liz-lloyd-cyber-policy-uk",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-07-24T17:14:00+00:00",
-      "summary": "The new British prime minister is retaining Liz Lloyd in a cyber policy role, making her one of the few Keir Starmer allies remaining in government."
-    },
-    {
-      "title": "The quest to keep organs alive outside the body",
-      "link": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-07-24T17:03:55+00:00",
-      "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There\u2019s a huge shortage of donor organs, and one of the main reasons is time\u2014they survive only a matter of hours outside the body, even when "
-    },
-    {
-      "title": "'Wrench' attacks against crypto holders appear to be on the rise",
-      "link": "https://therecord.media/wrench-attacks-against-cryptocurrency-holders",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-07-24T15:55:00+00:00",
-      "summary": "There are more reports than ever before of strong-arm tactics like home invasions and kidnappings against cryptocurrency holders, researchers say."
-    },
-    {
-      "title": "Vatican's Official Prayer App Leaks 700K+ Global Users' PII",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-07-24T13:00:00+00:00",
-      "summary": "A porous API endpoint exposes, names, email addresses, country, and site status, all of which can be easily gleaned by anyone with a browser."
-    },
-    {
-      "title": "Default Azure Automation Setting Enables Cross-Tenant Identity Takeover",
-      "link": "https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-07-24T12:48:16+00:00",
-      "summary": "Microsoft addresses a public-by-default configuration and chain of code flaws in Azure Automation that could have let attackers seize another tenant's identity and access others' data, credentials, and cloud workloads."
     }
   ]
 }
