@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T01:30:13.761258+00:00",
+  "generated_at": "2026-07-27T09:22:25.223301+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,158 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
+      "link": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-27T08:48:47+00:00",
+      "summary": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East. The intrusions have resulted in the deployment of previousl"
+    },
+    {
+      "title": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption",
+      "link": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-27T08:01:23+00:00",
+      "summary": "GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request. \"The cooldown configuration option in the dependabot."
+    },
+    {
+      "title": "CARE: Pre-Execution Command Verification for Shell-Executing LLM Agents",
+      "link": "https://arxiv.org/abs/2607.21642",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-07-27T04:00:00+00:00",
+      "summary": "arXiv:2607.21642v1 Announce Type: new Abstract: Large Language Model (LLM) agents are increasingly used for coding and terminal automation, making shell-command dispatch a high-stakes runtime control point. We study comm"
+    },
+    {
+      "title": "StajChain: A Hyperledger Fabric-Based Multi-Party Internship Agreement System",
+      "link": "https://arxiv.org/abs/2607.21643",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-07-27T04:00:00+00:00",
+      "summary": "arXiv:2607.21643v1 Announce Type: new Abstract: Many administrative processes, such as internship agreement processes, often rely on manual approval workflows and centralized record-keeping. This makes the process suscep"
+    },
+    {
+      "title": "A method of Risk Analysis and threat management using analytic hierarchy process",
+      "link": "https://arxiv.org/abs/2607.21691",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-07-27T04:00:00+00:00",
+      "summary": "arXiv:2607.21691v1 Announce Type: new Abstract: Efficient risk analysis and threat management are essential requirements of modern air defense (AD) systems. The paper is halfway between the analytic hierarchy process (AH"
+    },
+    {
+      "title": "Every Model Cheats: Prompt-Level Mitigation of Cheating on Offensive Cyber Tasks",
+      "link": "https://arxiv.org/abs/2607.21763",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-07-27T04:00:00+00:00",
+      "summary": "arXiv:2607.21763v1 Announce Type: new Abstract: Large language model (LLM) agents routinely cheat on cybersecurity benchmarks, inflating reported pass rates far beyond genuine capability. Prior audits of Cybench found ch"
+    },
+    {
+      "title": "Adversarial Prompts for Acceptance Collapse in Speculative Decoding",
+      "link": "https://arxiv.org/abs/2607.21804",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-07-27T04:00:00+00:00",
+      "summary": "arXiv:2607.21804v1 Announce Type: new Abstract: Lossless acceleration schemes, such as speculative decoding, promise significant inference speedups by relying on dynamic token-level alignment between a draft and a target"
+    },
+    {
+      "title": "Protocol-Level Attacks on Agentic Commerce Platforms: A Cross-Platform Taxonomy, AIP-Bench, and Unified Defense",
+      "link": "https://arxiv.org/abs/2607.21824",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-07-27T04:00:00+00:00",
+      "summary": "arXiv:2607.21824v1 Announce Type: new Abstract: Agentic commerce platforms let AI agents autonomously discover services, move payments, and wield user credentials on their users' behalf, and they already handle real mone"
+    },
+    {
+      "title": "ToolGuardian: Declarative Security for AI Agent-Tool Interactions",
+      "link": "https://arxiv.org/abs/2607.21835",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-07-27T04:00:00+00:00",
+      "summary": "arXiv:2607.21835v1 Announce Type: new Abstract: LLM agents increasingly rely on external tools, expanding capability while creating a new security boundary: third-party tools may appear benign at the interface level whil"
+    },
+    {
+      "title": "Certified in Theory, Broken in Practice: Assumption Gaps in Cryptographic Model Certification",
+      "link": "https://arxiv.org/abs/2607.21839",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-07-27T04:00:00+00:00",
+      "summary": "arXiv:2607.21839v1 Announce Type: new Abstract: Privacy-preserving machine learning auditing protocols allow auditors to assess models for properties such as accuracy or fairness, without revealing their internals or tra"
+    },
+    {
+      "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+      "link": "https://arxiv.org/abs/2607.21596",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-07-27T04:00:00+00:00",
+      "summary": "arXiv:2607.21596v1 Announce Type: new Abstract: Large language model agents increasingly solve complex tasks by constructing inference-time workflows that combine reasoning, tool use, and code execution. While such workf"
+    },
+    {
+      "title": "Risk Is Not the Target: A Monotonic Framework for Evaluating Wildfire Operational Risk Signals",
+      "link": "https://arxiv.org/abs/2607.21597",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-07-27T04:00:00+00:00",
+      "summary": "arXiv:2607.21597v1 Announce Type: new Abstract: Evaluating wildfire risk systems using standard machine-learning metrics such as F1-score or IoU is fundamentally flawed: these metrics assess event prediction accuracy, no"
+    },
+    {
+      "title": "Securing Multimodal AI through Internal Information Decomposition",
+      "link": "https://arxiv.org/abs/2607.21600",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-07-27T04:00:00+00:00",
+      "summary": "arXiv:2607.21600v1 Announce Type: new Abstract: Multimodal large language models introduce attack surfaces absent in unimodal systems: adversaries can distribute malicious intent across modalities to evade unimodal safeg"
+    },
+    {
+      "title": "From Frame-Level Recognition to Event-Level Confirmation: Repair Traces and Runtime Failure Analysis of Public-Space Gesture Interaction",
+      "link": "https://arxiv.org/abs/2607.21601",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-07-27T04:00:00+00:00",
+      "summary": "arXiv:2607.21601v1 Announce Type: new Abstract: Public-space gesture interaction is often evaluated as a frame-level recognition problem, but deployed systems expose a different failure boundary. In scenic kiosks, exhibi"
+    },
+    {
+      "title": "Transferable Latency Prediction for Fast LLM Screening on Heterogeneous Edge Devices",
+      "link": "https://arxiv.org/abs/2607.21602",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-07-27T04:00:00+00:00",
+      "summary": "arXiv:2607.21602v1 Announce Type: new Abstract: Accurate latency prediction is critical for deploying large language models (LLMs) on heterogeneous edge devices, where inference latency is affected by model architecture,"
+    },
+    {
+      "title": "AgentKVShift: Efficient KV Cache Reuse for Agentic Memory Systems",
+      "link": "https://arxiv.org/abs/2607.21604",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-07-27T04:00:00+00:00",
+      "summary": "arXiv:2607.21604v1 Announce Type: new Abstract: Memory-augmented LLM agents maintain context across hundreds of interactions through agentic memory systems that actively curate retrieved content with LLM-generated metada"
+    },
+    {
+      "title": "TILT: Improving Compositional Generation in Diffusion Models with a Model-Intrinsic Reward",
+      "link": "https://arxiv.org/abs/2607.21606",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-07-27T04:00:00+00:00",
+      "summary": "arXiv:2607.21606v1 Announce Type: new Abstract: Recent advances in powerful text-to-image generation models have made it increasingly important to develop test-time methods that modify the sampling trajectory to produce "
+    },
+    {
+      "title": "Spectral Flow Certificates for Depth-Aware Long-Range Propagation in Graph Neural Networks",
+      "link": "https://arxiv.org/abs/2607.21607",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-07-27T04:00:00+00:00",
+      "summary": "arXiv:2607.21607v1 Announce Type: new Abstract: Graph Neural Networks propagate information through local message passing, but the graph topologies themselves can silently prevent any amount of training from solving long"
+    },
+    {
+      "title": "ISC Stormcast For Monday, July 27th, 2026 https://isc.sans.edu/podcastdetail/10024, (Mon, Jul 27th)",
+      "link": "https://isc.sans.edu/diary/rss/33186",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-07-27T02:00:02+00:00",
+      "summary": ""
+    },
     {
       "title": "Scans for ESAFENET CDG 3 Document Management System Weak Logins, (Sun, Jul 26th)",
       "link": "https://isc.sans.edu/diary/rss/33184",
@@ -109,22 +261,6 @@
       "summary": "There are more reports than ever before of strong-arm tactics like home invasions and kidnappings against cryptocurrency holders, researchers say."
     },
     {
-      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
-      "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-24T15:12:35+00:00",
-      "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platform"
-    },
-    {
-      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
-      "link": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-24T14:15:21+00:00",
-      "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the"
-    },
-    {
       "title": "Vatican's Official Prayer App Leaks 700K+ Global Users' PII",
       "link": "https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii",
       "source": "Dark Reading",
@@ -195,142 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-07-23T16:29:00+00:00",
       "summary": "Individuals connected to transnational cyber-scam operations face U.S. visa restrictions under a new policy announced by Secretary of State Marco Rubio."
-    },
-    {
-      "title": "When the \"Autonomous Attacker\" Is Your Own AI Model, (Thu, Jul 23rd)",
-      "link": "https://isc.sans.edu/diary/rss/33180",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-07-23T13:40:27+00:00",
-      "summary": "Two disclosures, five days apart, described the same intrusion from opposite ends \u00e2\u20ac\u201d"
-    },
-    {
-      "title": "Major Australian energy supplier confirms customer data compromised",
-      "link": "https://therecord.media/australia-origin-energy-data-breach",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-07-23T13:20:00+00:00",
-      "summary": "Origin Energy said it was working to figure out how many Australians were affected by a recent data breach."
-    },
-    {
-      "title": "The Download: energy transmission and US threats against Chinese AI",
-      "link": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-07-23T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. The power line that could reshape New York\u2019s grid is hitting snags During a heat w"
-    },
-    {
-      "title": "How AI helps scientists design the next generation of medicines",
-      "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-07-23T12:00:00+00:00",
-      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates nev"
-    },
-    {
-      "title": "Agentic AI Challenges Progress in Confidential Computing",
-      "link": "https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-07-23T11:17:51+00:00",
-      "summary": "Core issues that slowed down adoption of secure data vaults are being resolved by technology, but artificial intelligence poses new ones. Experts have some answers."
-    },
-    {
-      "title": "The power line that could reshape New York\u2019s grid is hitting snags",
-      "link": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-07-23T09:00:00+00:00",
-      "summary": "On July 3, as a heat wave swept the region, New York State\u2019s grid imported 52 gigawatt-hours of electricity from Canada\u2014enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on "
-    },
-    {
-      "title": "Brazilian Banking Trojan Actively Spreading in Portugal",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-07-23T07:00:00+00:00",
-      "summary": "Portuguese businesses operate in the same native language as Brazilian hackers, making those businesses easy targets."
-    },
-    {
-      "title": "ISC Stormcast For Thursday, July 23rd, 2026 https://isc.sans.edu/podcastdetail/10020, (Thu, Jul 23rd)",
-      "link": "https://isc.sans.edu/diary/rss/33178",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-07-23T02:00:03+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Launching Health in ChatGPT",
-      "link": "https://openai.com/index/health-in-chatgpt",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-07-23T00:00:00+00:00",
-      "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health."
-    },
-    {
-      "title": "Rondo Meets Geoserver, (Wed, Jul 22nd)",
-      "link": "https://isc.sans.edu/diary/rss/33176",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-07-22T17:35:33+00:00",
-      "summary": "This isn&#;x26;#;39;t a new attack, but something I saw \"pop-up\" in our logs this week:"
-    },
-    {
-      "title": "Building AI infrastructure with the Effingham County community",
-      "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-07-22T13:00:00+00:00",
-      "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex."
-    },
-    {
-      "title": "How news organizations are using AI to advance their vital missions",
-      "link": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-07-22T13:00:00+00:00",
-      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide."
-    },
-    {
-      "title": "The Download: NASA\u2019s new space telescope and OpenAI\u2019s autonomous hacker",
-      "link": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-07-22T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Shape-shifting mirrors on NASA\u2019s new space telescope could unveil Jupiters like ou"
-    },
-    {
-      "title": "Advancing the next era of national science",
-      "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-07-22T12:00:00+00:00",
-      "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery."
-    },
-    {
-      "title": "Shape-shifting mirrors on NASA\u2019s new space telescope could unveil Jupiters like our own",
-      "link": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-07-22T09:00:00+00:00",
-      "summary": "When NASA\u2019s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy\u2019s most precise disappearing acts to date. The telescope will carry the first space-bound \u201cactive"
-    },
-    {
-      "title": "Introducing OpenAI Presence",
-      "link": "https://openai.com/index/introducing-openai-presence",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-07-22T05:30:00+00:00",
-      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, July 22nd, 2026 https://isc.sans.edu/podcastdetail/10018, (Wed, Jul 22nd)",
-      "link": "https://isc.sans.edu/diary/rss/33174",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-07-22T02:00:02+00:00",
-      "summary": ""
     }
   ]
 }
