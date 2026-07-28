@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T19:07:08.582868+00:00",
+  "generated_at": "2026-07-28T01:17:56.202650+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,46 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "AI Agent Drives Espionage Attack on Thai Ministry of Finance",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-28T01:00:00+00:00",
+      "summary": "Attackers used Hermes, an autonomous open source tool, in unrestricted \"YOLO mode\" to conduct espionage against Thailand's Ministry of Finance."
+    },
+    {
+      "title": "'Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure",
+      "link": "https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-27T20:57:26+00:00",
+      "summary": "This category of vulnerabilities allows an attacker to easily acquire administrative level permissions and bypass cloud providers' access controls."
+    },
+    {
+      "title": "Outdated VPNs should be purged from federal agencies, senator says",
+      "link": "https://therecord.media/federal-purge-outdated-vpns-wyden-letter",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-07-27T20:45:00+00:00",
+      "summary": "Intelligence Committee member Ron Wyden wants CISA, OMB and NIST to lead a federal effort to rout out obsolete VPNs from the U.S. government."
+    },
+    {
+      "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
+      "link": "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-27T20:33:29+00:00",
+      "summary": "An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time."
+    },
+    {
+      "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
+      "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-27T18:10:05+00:00",
+      "summary": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents. The 37-member group s"
+    },
     {
       "title": "OpenAI called the Hugging Face attack unprecedented. But we\u2019ve been here before.",
       "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
@@ -165,14 +205,6 @@
       "summary": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East. The intrusions have resulted in the deployment of previousl"
     },
     {
-      "title": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption",
-      "link": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-27T08:01:23+00:00",
-      "summary": "GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request. \"The cooldown configuration option in the dependabot."
-    },
-    {
       "title": "CARE: Pre-Execution Command Verification for Shell-Executing LLM Agents",
       "link": "https://arxiv.org/abs/2607.21642",
       "source": "arXiv cs.CR",
@@ -299,38 +331,6 @@
       "category": "research",
       "published": "2026-07-27T04:00:00+00:00",
       "summary": "arXiv:2607.21607v1 Announce Type: new Abstract: Graph Neural Networks propagate information through local message passing, but the graph topologies themselves can silently prevent any amount of training from solving long"
-    },
-    {
-      "title": "How AI is expanding what people do at work",
-      "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-07-27T03:30:00+00:00",
-      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries."
-    },
-    {
-      "title": "ISC Stormcast For Monday, July 27th, 2026 https://isc.sans.edu/podcastdetail/10024, (Mon, Jul 27th)",
-      "link": "https://isc.sans.edu/diary/rss/33186",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-07-27T02:00:02+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Scans for ESAFENET CDG 3 Document Management System Weak Logins, (Sun, Jul 26th)",
-      "link": "https://isc.sans.edu/diary/rss/33184",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-07-26T15:26:14+00:00",
-      "summary": "ESAFENET&#;x26;#;39;s CDG showed up in our data before. The company focused on secure document management and data leakage prevention solutions. The \"CDG\" stands for \"Content Data Guard\", and the product appears to be mo"
-    },
-    {
-      "title": "CISOs vs. Boards: Myth or Misunderstanding?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-07-24T21:31:53+00:00",
-      "summary": "Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide."
     }
   ]
 }
