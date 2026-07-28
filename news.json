@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T01:17:56.202650+00:00",
+  "generated_at": "2026-07-28T08:10:18.920059+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,166 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "AutoIT Payload Injector , (Tue, Jul 28th)",
+      "link": "https://isc.sans.edu/diary/rss/33192",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-07-28T07:42:27+00:00",
+      "summary": "For a long time, AutoIT[1] has been pretty common in the malware ecosystem. Threat actors still use it because it's easy to write and powerful. Indeed, it can perform all the required actions to inject a payload into a r"
+    },
+    {
+      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost",
+      "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-28T06:07:22+00:00",
+      "summary": "Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness. The company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95.95%"
+    },
+    {
+      "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
+      "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-28T04:43:53+00:00",
+      "summary": "A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), is a"
+    },
+    {
+      "title": "ReCon: A Resource-Constrained Benchmark for LLM-Based Cybersecurity Compliance Across Ingestion and Retrieval Pipelines",
+      "link": "https://arxiv.org/abs/2607.22885",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-07-28T04:00:00+00:00",
+      "summary": "arXiv:2607.22885v1 Announce Type: new Abstract: With the increasingly aggressive cyber threat landscape for governments, businesses, and institutions, as information and/or cybersecurity implementations are increasingly "
+    },
+    {
+      "title": "A Modular Cyber Range Platform for Smart Energy Systems",
+      "link": "https://arxiv.org/abs/2607.22943",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-07-28T04:00:00+00:00",
+      "summary": "arXiv:2607.22943v1 Announce Type: new Abstract: Modern critical infrastructure requires realistic training tools that bridge the gap between digital vulnerabilities and physical consequences. This paper introduces a ligh"
+    },
+    {
+      "title": "Practical Post-Quantum Cryptography for Bandwidth Constrained or Non-Terrestrial Networks, and Power Constrained Devices",
+      "link": "https://arxiv.org/abs/2607.23007",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-07-28T04:00:00+00:00",
+      "summary": "arXiv:2607.23007v1 Announce Type: new Abstract: Post-quantum (PQ) cryptographic algorithms, particularly for authentication, are more complex than classical algorithms and require larger certificates, signatures, and key"
+    },
+    {
+      "title": "Mask2Shield: Strengthening LLM Safety against Neuron-Pruning Attacks",
+      "link": "https://arxiv.org/abs/2607.23015",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-07-28T04:00:00+00:00",
+      "summary": "arXiv:2607.23015v1 Announce Type: new Abstract: Large language models (LLMs) are safety-aligned before deployment to reduce harmful content generation. Yet neuron-level pruning attacks show that refusal can depend on a s"
+    },
+    {
+      "title": "GLST: Defending Confidence-Driven V2X Collaborative Perception Against Stealthy Multi-Attacker Feature Injection",
+      "link": "https://arxiv.org/abs/2607.23059",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-07-28T04:00:00+00:00",
+      "summary": "arXiv:2607.23059v1 Announce Type: new Abstract: Collaborative perception (CP) improves autonomous-driving perception by enabling connected vehicles to exchange intermediate features via V2X. Confidence-driven sparse comm"
+    },
+    {
+      "title": "Traceable LLM Reasoning for Fake-Order Fraud Detection",
+      "link": "https://arxiv.org/abs/2607.23075",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-07-28T04:00:00+00:00",
+      "summary": "arXiv:2607.23075v1 Announce Type: new Abstract: Detecting fake-order fraud at scale remains a critical challenge for large online-to-offline (O2O) service platforms, as existing approaches often rely on expert-designed f"
+    },
+    {
+      "title": "Poster: Rethinking Security in LLM Code Generation through Real-World Risk Scenarios",
+      "link": "https://arxiv.org/abs/2607.23088",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-07-28T04:00:00+00:00",
+      "summary": "arXiv:2607.23088v1 Announce Type: new Abstract: Large Language Models (LLMs) are widely used for code generation, yet their security behavior in realistic development workflows remains underexplored. Existing benchmarks "
+    },
+    {
+      "title": "False Prophets: On the Security of World Models in Agentic Systems",
+      "link": "https://arxiv.org/abs/2607.23147",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-07-28T04:00:00+00:00",
+      "summary": "arXiv:2607.23147v1 Announce Type: new Abstract: Large language models now power autonomous agents capable of complex, multi-step tasks in different environments. Accurate and reliable execution of these tasks requires th"
+    },
+    {
+      "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+      "link": "https://arxiv.org/abs/2607.21596",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-07-28T04:00:00+00:00",
+      "summary": "arXiv:2607.21596v1 Announce Type: new Abstract: Large language model agents increasingly solve complex tasks by constructing inference-time workflows that combine reasoning, tool use, and code execution. While such workf"
+    },
+    {
+      "title": "Risk Is Not the Target: A Monotonic Framework for Evaluating Wildfire Operational Risk Signals",
+      "link": "https://arxiv.org/abs/2607.21597",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-07-28T04:00:00+00:00",
+      "summary": "arXiv:2607.21597v1 Announce Type: new Abstract: Evaluating wildfire risk systems using standard machine-learning metrics such as F1-score or IoU is fundamentally flawed: these metrics assess event prediction accuracy, no"
+    },
+    {
+      "title": "Securing Multimodal AI through Internal Information Decomposition",
+      "link": "https://arxiv.org/abs/2607.21600",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-07-28T04:00:00+00:00",
+      "summary": "arXiv:2607.21600v1 Announce Type: new Abstract: Multimodal large language models introduce attack surfaces absent in unimodal systems: adversaries can distribute malicious intent across modalities to evade unimodal safeg"
+    },
+    {
+      "title": "From Frame-Level Recognition to Event-Level Confirmation: Repair Traces and Runtime Failure Analysis of Public-Space Gesture Interaction",
+      "link": "https://arxiv.org/abs/2607.21601",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-07-28T04:00:00+00:00",
+      "summary": "arXiv:2607.21601v1 Announce Type: new Abstract: Public-space gesture interaction is often evaluated as a frame-level recognition problem, but deployed systems expose a different failure boundary. In scenic kiosks, exhibi"
+    },
+    {
+      "title": "Transferable Latency Prediction for Fast LLM Screening on Heterogeneous Edge Devices",
+      "link": "https://arxiv.org/abs/2607.21602",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-07-28T04:00:00+00:00",
+      "summary": "arXiv:2607.21602v1 Announce Type: new Abstract: Accurate latency prediction is critical for deploying large language models (LLMs) on heterogeneous edge devices, where inference latency is affected by model architecture,"
+    },
+    {
+      "title": "AgentKVShift: Efficient KV Cache Reuse for Agentic Memory Systems",
+      "link": "https://arxiv.org/abs/2607.21604",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-07-28T04:00:00+00:00",
+      "summary": "arXiv:2607.21604v1 Announce Type: new Abstract: Memory-augmented LLM agents maintain context across hundreds of interactions through agentic memory systems that actively curate retrieved content with LLM-generated metada"
+    },
+    {
+      "title": "TILT: Improving Compositional Generation in Diffusion Models with a Model-Intrinsic Reward",
+      "link": "https://arxiv.org/abs/2607.21606",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-07-28T04:00:00+00:00",
+      "summary": "arXiv:2607.21606v1 Announce Type: new Abstract: Recent advances in powerful text-to-image generation models have made it increasingly important to develop test-time methods that modify the sampling trajectory to produce "
+    },
+    {
+      "title": "Spectral Flow Certificates for Depth-Aware Long-Range Propagation in Graph Neural Networks",
+      "link": "https://arxiv.org/abs/2607.21607",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-07-28T04:00:00+00:00",
+      "summary": "arXiv:2607.21607v1 Announce Type: new Abstract: Graph Neural Networks propagate information through local message passing, but the graph topologies themselves can silently prevent any amount of training from solving long"
+    },
+    {
+      "title": "ISC Stormcast For Tuesday, July 28th, 2026 https://isc.sans.edu/podcastdetail/10026, (Tue, Jul 28th)",
+      "link": "https://isc.sans.edu/diary/rss/33190",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-07-28T02:00:03+00:00",
+      "summary": ""
+    },
     {
       "title": "AI Agent Drives Espionage Attack on Thai Ministry of Finance",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance",
@@ -171,166 +331,6 @@
       "category": "ai",
       "published": "2026-07-27T11:40:16+00:00",
       "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly double"
-    },
-    {
-      "title": "Building the enterprise environment for agentic AI",
-      "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-07-27T11:32:58+00:00",
-      "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-"
-    },
-    {
-      "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
-      "link": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-27T10:51:45+00:00",
-      "summary": "The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service cal"
-    },
-    {
-      "title": "Java Spring Boot \"heapdump\" scans, (Mon, Jul 27th)",
-      "link": "https://isc.sans.edu/diary/rss/33188",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-07-27T10:04:51+00:00",
-      "summary": "Spring Boot exposes the endpoint \"/actuator/heapdump\" to collect debug information. By default, the endpoint will return a file heapdump.hprof, which includes a binary heapdump that can be used to analyze the current sta"
-    },
-    {
-      "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
-      "link": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-27T08:48:47+00:00",
-      "summary": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East. The intrusions have resulted in the deployment of previousl"
-    },
-    {
-      "title": "CARE: Pre-Execution Command Verification for Shell-Executing LLM Agents",
-      "link": "https://arxiv.org/abs/2607.21642",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-07-27T04:00:00+00:00",
-      "summary": "arXiv:2607.21642v1 Announce Type: new Abstract: Large Language Model (LLM) agents are increasingly used for coding and terminal automation, making shell-command dispatch a high-stakes runtime control point. We study comm"
-    },
-    {
-      "title": "StajChain: A Hyperledger Fabric-Based Multi-Party Internship Agreement System",
-      "link": "https://arxiv.org/abs/2607.21643",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-07-27T04:00:00+00:00",
-      "summary": "arXiv:2607.21643v1 Announce Type: new Abstract: Many administrative processes, such as internship agreement processes, often rely on manual approval workflows and centralized record-keeping. This makes the process suscep"
-    },
-    {
-      "title": "A method of Risk Analysis and threat management using analytic hierarchy process",
-      "link": "https://arxiv.org/abs/2607.21691",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-07-27T04:00:00+00:00",
-      "summary": "arXiv:2607.21691v1 Announce Type: new Abstract: Efficient risk analysis and threat management are essential requirements of modern air defense (AD) systems. The paper is halfway between the analytic hierarchy process (AH"
-    },
-    {
-      "title": "Every Model Cheats: Prompt-Level Mitigation of Cheating on Offensive Cyber Tasks",
-      "link": "https://arxiv.org/abs/2607.21763",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-07-27T04:00:00+00:00",
-      "summary": "arXiv:2607.21763v1 Announce Type: new Abstract: Large language model (LLM) agents routinely cheat on cybersecurity benchmarks, inflating reported pass rates far beyond genuine capability. Prior audits of Cybench found ch"
-    },
-    {
-      "title": "Adversarial Prompts for Acceptance Collapse in Speculative Decoding",
-      "link": "https://arxiv.org/abs/2607.21804",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-07-27T04:00:00+00:00",
-      "summary": "arXiv:2607.21804v1 Announce Type: new Abstract: Lossless acceleration schemes, such as speculative decoding, promise significant inference speedups by relying on dynamic token-level alignment between a draft and a target"
-    },
-    {
-      "title": "Protocol-Level Attacks on Agentic Commerce Platforms: A Cross-Platform Taxonomy, AIP-Bench, and Unified Defense",
-      "link": "https://arxiv.org/abs/2607.21824",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-07-27T04:00:00+00:00",
-      "summary": "arXiv:2607.21824v1 Announce Type: new Abstract: Agentic commerce platforms let AI agents autonomously discover services, move payments, and wield user credentials on their users' behalf, and they already handle real mone"
-    },
-    {
-      "title": "ToolGuardian: Declarative Security for AI Agent-Tool Interactions",
-      "link": "https://arxiv.org/abs/2607.21835",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-07-27T04:00:00+00:00",
-      "summary": "arXiv:2607.21835v1 Announce Type: new Abstract: LLM agents increasingly rely on external tools, expanding capability while creating a new security boundary: third-party tools may appear benign at the interface level whil"
-    },
-    {
-      "title": "Certified in Theory, Broken in Practice: Assumption Gaps in Cryptographic Model Certification",
-      "link": "https://arxiv.org/abs/2607.21839",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-07-27T04:00:00+00:00",
-      "summary": "arXiv:2607.21839v1 Announce Type: new Abstract: Privacy-preserving machine learning auditing protocols allow auditors to assess models for properties such as accuracy or fairness, without revealing their internals or tra"
-    },
-    {
-      "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
-      "link": "https://arxiv.org/abs/2607.21596",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-07-27T04:00:00+00:00",
-      "summary": "arXiv:2607.21596v1 Announce Type: new Abstract: Large language model agents increasingly solve complex tasks by constructing inference-time workflows that combine reasoning, tool use, and code execution. While such workf"
-    },
-    {
-      "title": "Risk Is Not the Target: A Monotonic Framework for Evaluating Wildfire Operational Risk Signals",
-      "link": "https://arxiv.org/abs/2607.21597",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-07-27T04:00:00+00:00",
-      "summary": "arXiv:2607.21597v1 Announce Type: new Abstract: Evaluating wildfire risk systems using standard machine-learning metrics such as F1-score or IoU is fundamentally flawed: these metrics assess event prediction accuracy, no"
-    },
-    {
-      "title": "Securing Multimodal AI through Internal Information Decomposition",
-      "link": "https://arxiv.org/abs/2607.21600",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-07-27T04:00:00+00:00",
-      "summary": "arXiv:2607.21600v1 Announce Type: new Abstract: Multimodal large language models introduce attack surfaces absent in unimodal systems: adversaries can distribute malicious intent across modalities to evade unimodal safeg"
-    },
-    {
-      "title": "From Frame-Level Recognition to Event-Level Confirmation: Repair Traces and Runtime Failure Analysis of Public-Space Gesture Interaction",
-      "link": "https://arxiv.org/abs/2607.21601",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-07-27T04:00:00+00:00",
-      "summary": "arXiv:2607.21601v1 Announce Type: new Abstract: Public-space gesture interaction is often evaluated as a frame-level recognition problem, but deployed systems expose a different failure boundary. In scenic kiosks, exhibi"
-    },
-    {
-      "title": "Transferable Latency Prediction for Fast LLM Screening on Heterogeneous Edge Devices",
-      "link": "https://arxiv.org/abs/2607.21602",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-07-27T04:00:00+00:00",
-      "summary": "arXiv:2607.21602v1 Announce Type: new Abstract: Accurate latency prediction is critical for deploying large language models (LLMs) on heterogeneous edge devices, where inference latency is affected by model architecture,"
-    },
-    {
-      "title": "AgentKVShift: Efficient KV Cache Reuse for Agentic Memory Systems",
-      "link": "https://arxiv.org/abs/2607.21604",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-07-27T04:00:00+00:00",
-      "summary": "arXiv:2607.21604v1 Announce Type: new Abstract: Memory-augmented LLM agents maintain context across hundreds of interactions through agentic memory systems that actively curate retrieved content with LLM-generated metada"
-    },
-    {
-      "title": "TILT: Improving Compositional Generation in Diffusion Models with a Model-Intrinsic Reward",
-      "link": "https://arxiv.org/abs/2607.21606",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-07-27T04:00:00+00:00",
-      "summary": "arXiv:2607.21606v1 Announce Type: new Abstract: Recent advances in powerful text-to-image generation models have made it increasingly important to develop test-time methods that modify the sampling trajectory to produce "
-    },
-    {
-      "title": "Spectral Flow Certificates for Depth-Aware Long-Range Propagation in Graph Neural Networks",
-      "link": "https://arxiv.org/abs/2607.21607",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-07-27T04:00:00+00:00",
-      "summary": "arXiv:2607.21607v1 Announce Type: new Abstract: Graph Neural Networks propagate information through local message passing, but the graph topologies themselves can silently prevent any amount of training from solving long"
     }
   ]
 }
