@@ -2,19 +2,22 @@
 """Interactively add a new post to ai-skills.json.
 
 Prompts for a title, a body (multi-line, blank line to finish), and tags,
-then prepends the new post to ai-skills.json (newest first) and prints a
-ready-to-paste Facebook version. No dependencies — run with:
+prepends the new post to ai-skills.json (newest first), commits and pushes
+the change, and prints a ready-to-paste Facebook version. No dependencies —
+run with:
 
     python3 scripts/add_ai_post.py
 """
 
 import json
 import re
+import subprocess
 import sys
 from datetime import date, datetime, timezone
 from pathlib import Path
 
-DATA_FILE = Path(__file__).resolve().parent.parent / "ai-skills.json"
+REPO_ROOT = Path(__file__).resolve().parent.parent
+DATA_FILE = REPO_ROOT / "ai-skills.json"
 
 
 def slugify(text):
@@ -44,6 +47,27 @@ def load_data():
         with open(DATA_FILE) as f:
             return json.load(f)
     return {"generated_at": None, "items": []}
+
+
+def commit_and_push(day, title):
+    subprocess.run(["git", "add", "ai-skills.json"], cwd=REPO_ROOT, check=True)
+    result = subprocess.run(
+        ["git", "commit", "-m", f"Add Day {day}: {title}"],
+        cwd=REPO_ROOT,
+        capture_output=True,
+        text=True,
+    )
+    if result.returncode != 0:
+        print("Nothing to commit (ai-skills.json unchanged?).", file=sys.stderr)
+        print(result.stdout + result.stderr, file=sys.stderr)
+        return
+    push = subprocess.run(["git", "push"], cwd=REPO_ROOT, capture_output=True, text=True)
+    if push.returncode != 0:
+        print("Commit created, but push failed:", file=sys.stderr)
+        print(push.stdout + push.stderr, file=sys.stderr)
+        print("Run `git push` manually from the repo.", file=sys.stderr)
+    else:
+        print("Committed and pushed.")
 
 
 def main():
@@ -84,6 +108,8 @@ def main():
         f.write("\n")
 
     print(f"\nSaved Day {next_day}: {title}\n")
+
+    commit_and_push(next_day, title)
 
     fb_tags = " ".join("#" + re.sub(r"[^a-z0-9]", "", t, flags=re.IGNORECASE) for t in tags)
     fb_text = "\n\n".join(

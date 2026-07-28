@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-25T00:00:00+00:00",
+  "generated_at": "2026-07-28T00:00:00+00:00",
   "items": [
+    {
+      "id": "2026-07-28-ask-for-options-not-one-answer",
+      "day": 10,
+      "date": "2026-07-28",
+      "title": "Ask for options, not just one answer",
+      "body": "When you ask an AI for \"a tagline\" or \"a plan,\" you get its single best guess — which means you're stuck with whatever direction it happened to pick first, with no idea what else was possible.\n\nInstead, ask for 3-4 genuinely different options before you ask for a final version. \"Give me four different taglines, each in a different tone\" produces a much better final pick than \"give me a tagline\" ever could, because you're choosing between real alternatives instead of accepting the first draft.\n\nThis is especially useful for anything subjective — names, headlines, visual direction, opening lines — where \"good\" depends on a feel you can only judge by comparing.\n\nToday's exercise: next time you'd normally ask for one version of something, ask for three or four distinct options first, then pick (or combine) from there.",
+      "tags": ["prompting", "workflow"]
+    },
+    {
+      "id": "2026-07-27-tell-it-the-format-you-want",
+      "day": 9,
+      "date": "2026-07-27",
+      "title": "Tell it the output format you want",
+      "body": "If you don't specify a format, the AI guesses — and its guess is usually a wall of paragraphs, even when a table, bullet list, or short JSON object would actually be more useful to you.\n\nBe explicit: \"give me this as a table with three columns,\" \"return a numbered list, five items max,\" \"format this as a short email, no more than 100 words.\" The model follows format instructions very reliably once you state them directly — you just have to ask.\n\nThis matters most when you plan to reuse the output somewhere else (pasting into a spreadsheet, a slide, a form) — matching the format up front saves you from manually reformatting its answer afterward.\n\nToday's exercise: take a request you'd normally leave open-ended and add an explicit format constraint (table, bullet list, word limit, or structure) to the prompt. Compare it to what you'd have gotten by default.",
+      "tags": ["prompting", "workflow"]
+    },
+    {
+      "id": "2026-07-26-refine-instead-of-restart",
+      "day": 8,
+      "date": "2026-07-26",
+      "title": "Refine instead of restarting from scratch",
+      "body": "When an answer is close but not quite right, the instinct is to throw it out and write a whole new prompt. That's usually slower and loses whatever the model already got right.\n\nInstead, keep the conversation going and give targeted feedback: \"Good, but make the second paragraph shorter\" or \"This is right except the tone is too formal — make it more casual.\" The model can see its own previous answer, so a small correction gets you a small, precise edit instead of a completely different draft.\n\nThis works because editing is a narrower task than generating — pointing at exactly what's wrong gives the model much less room to change things you already liked.\n\nToday's exercise: next time an answer is 80% right, don't restart. Reply with one specific thing to fix and see how much closer the revision gets.",
+      "tags": ["prompting", "workflow"]
+    },
     {
       "id": "2026-07-25-chain-a-mini-workflow",
       "day": 7,
