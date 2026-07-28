@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T13:25:31.870976+00:00",
+  "generated_at": "2026-07-28T19:02:09.335460+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,62 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Scientific computing in the age of agentic AI",
+      "link": "https://openai.com/index/scientific-computing-agentic-ai",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-07-28T17:00:00+00:00",
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond."
+    },
+    {
+      "title": "'Certighost' Flaw Haunts Microsoft Active Directory Certificates",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-28T16:38:48+00:00",
+      "summary": "Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment."
+    },
+    {
+      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+      "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-28T15:01:33+00:00",
+      "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another c"
+    },
+    {
+      "title": "India\u2019s Bank of Baroda confirms cyber incident after hackers claim data theft",
+      "link": "https://therecord.media/india-bank-of-baroda-reports-cybersecurity-incident",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-07-28T14:45:57+00:00",
+      "summary": "An employee's email account had been compromised, allowing unauthorized access to \"certain data,\" Bank of Baroda reported."
+    },
+    {
+      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
+      "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-28T14:41:36+00:00",
+      "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public "
+    },
+    {
+      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
+      "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-28T13:33:47+00:00",
+      "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. Ope"
+    },
+    {
+      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
+      "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-28T12:56:14+00:00",
+      "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default. The critical issue, tracked as CVE-2026-53921 and rated "
+    },
     {
       "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader",
       "link": "https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader",
@@ -75,14 +131,6 @@
       "category": "cybersecurity",
       "published": "2026-07-28T06:07:22+00:00",
       "summary": "Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness. The company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95.95%"
-    },
-    {
-      "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
-      "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-28T04:43:53+00:00",
-      "summary": "A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), is a"
     },
     {
       "title": "ReCon: A Resource-Constrained Benchmark for LLM-Based Cybersecurity Compliance Across Ingestion and Retrieval Pipelines",
@@ -269,14 +317,6 @@
       "summary": "As attackers shift from password theft to session and token theft to bypass multifactor authentication controls, organizations must move beyond login security and protect authenticated sessions."
     },
     {
-      "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
-      "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-27T18:10:05+00:00",
-      "summary": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents. The 37-member group s"
-    },
-    {
       "title": "OpenAI called the Hugging Face attack unprecedented. But we\u2019ve been here before.",
       "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
       "source": "MIT Technology Review",
@@ -291,46 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-07-27T17:52:00+00:00",
       "summary": "The alleged hacking by officials in Bahrain \u201callowed access to and exfiltration of information on the computers, interception of communications conducted using the computers and use of the computers\u2019 microphones and came"
-    },
-    {
-      "title": "Health system in South Carolina, Georgia closes offices after malware affects networks",
-      "link": "https://therecord.media/health-system-south-carolina-georgia-disruptions-malware",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-07-27T17:38:00+00:00",
-      "summary": "On Sunday, AnMed published a statement online saying they were \u201cexperiencing a cybersecurity disruption involving malware\u201d and were working to restore systems and determine the scope of the incident."
-    },
-    {
-      "title": "Adversaries Don't Need a Zero-Day \u2014 They Read Your Rulebook",
-      "link": "https://www.darkreading.com/threat-intelligence/adversaries-do-not-need-zero-day-they-read-your-rulebook",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-07-27T17:31:18+00:00",
-      "summary": "Confidence in autonomous security tools is declining, and here's why."
-    },
-    {
-      "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
-      "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-27T17:16:28+00:00",
-      "summary": "Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure"
-    },
-    {
-      "title": "Telegram phishing campaign targeted exiled Belarusian activist, Russians and Kazakhstanis",
-      "link": "https://therecord.media/telegram-belarus-activist-russia-cyberattack",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-07-27T16:00:00+00:00",
-      "summary": "Researchers have uncovered a highly personalized phishing campaign that used Telegram to try to hijack the account of an exiled Belarusian activist, as well as users in Russia and Kazakhstan."
-    },
-    {
-      "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
-      "link": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-27T14:40:00+00:00",
-      "summary": "Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrativ"
     }
   ]
 }
