@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T08:03:01.604141+00:00",
+  "generated_at": "2026-07-30T13:21:27.761697+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,70 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "North Korean hackers behind major open-source supply chain attacks, Amazon says",
+      "link": "https://therecord.media/north-korea-hackers-amazon-malware",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-07-30T13:00:00+00:00",
+      "summary": "A North Korea-linked hacker group was behind several high-profile compromises of open-source software libraries used by developers worldwide, researchers have found."
+    },
+    {
+      "title": "The Download: tricking LLMs, and reviving geothermal plants",
+      "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-07-30T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to"
+    },
+    {
+      "title": "Cyber extortionists steal data from UK Department for Education",
+      "link": "https://therecord.media/united-kingdom-ransomware-education",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-07-30T12:00:00+00:00",
+      "summary": "Cybercriminals are attempting to extort Britain\u2019s Department for Education (DfE) after compromising what the hackers said was more than 600,000 pieces of data allegedly including names, email addresses and phone numbers."
+    },
+    {
+      "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
+      "link": "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-30T11:54:49+00:00",
+      "summary": "Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. H\u00e5kon M\u00e5l\u00f8y disclosed the technique on July 28, 144 days after re"
+    },
+    {
+      "title": "The Network Has Become the Control Plane for AI Security",
+      "link": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-30T11:32:46+00:00",
+      "summary": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built"
+    },
+    {
+      "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
+      "link": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-30T10:33:15+00:00",
+      "summary": "South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security softwa"
+    },
+    {
+      "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
+      "link": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-30T10:32:59+00:00",
+      "summary": "The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector to"
+    },
+    {
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-07-30T10:15:19+00:00",
+      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learni"
+    },
     {
       "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
       "link": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
@@ -186,7 +250,7 @@
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-07-30T01:00:00+00:00",
-      "summary": "The groups move from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone."
+      "summary": "The organized crime groups have moved from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone."
     },
     {
       "title": "Reconnaissance First: An SSH Bot That Sizes Up Your Hardware Before Deploying a Miner [Guest Diary], (Thu, Jul 30th)",
@@ -210,23 +274,15 @@
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-07-29T19:48:12+00:00",
-      "summary": "OpenAI revealed rogue AI models compromised more services than initially disclosed, including a Modal customer environment and others."
+      "summary": "OpenAI's goal-seeking agent compromised a Modal customer environment and others during its sandbox escape."
     },
     {
-      "title": "Red Agents vs. Blue Agents: How to Make AI Better At Defense",
+      "title": "Red Agents vs. Blue Agents: How to Make AI Better at Defense",
       "link": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-07-29T19:46:20+00:00",
       "summary": "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts."
-    },
-    {
-      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
-      "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-29T18:10:00+00:00",
-      "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066"
     },
     {
       "title": "How an overlooked geothermal plant got a second chance",
@@ -269,68 +325,12 @@
       "summary": "New research shows how security scanners embedded in the software supply chain can be attacked to serve as a foothold for downstream attacks."
     },
     {
-      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
-      "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-29T15:39:30+00:00",
-      "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution. "
-    },
-    {
-      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
-      "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-29T15:31:15+00:00",
-      "summary": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity. The first of the three critic"
-    },
-    {
       "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
       "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
       "source": "OpenAI News",
       "category": "ai",
       "published": "2026-07-29T15:00:00+00:00",
       "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction."
-    },
-    {
-      "title": "Laundry Bear\u2019s webmail hackers had more in store after February, report says",
-      "link": "https://therecord.media/russia-hackers-outlook-webmail-malware",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-07-29T14:45:00+00:00",
-      "summary": "Researchers say the Russian state-linked hacking group tracked as Laundry Bear recently began exploiting a bug in Microsoft Outlook Web Access."
-    },
-    {
-      "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
-      "link": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-07-29T14:40:33+00:00",
-      "summary": "The vulnerability in the AI hosting platform Ruflo allows an unauthenticated attacker to take over the system and corrupt memory, so bad behavior can persist after patching."
-    },
-    {
-      "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
-      "link": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-29T13:48:36+00:00",
-      "summary": "A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response. Braham, Plymouth, South St. Paul and Maple Pla"
-    },
-    {
-      "title": "Russia accuses Telegram founder of aiding terrorism, seeks international arrest",
-      "link": "https://therecord.media/russia-telegram-durov-arrest",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-07-29T12:45:00+00:00",
-      "summary": "Russia is seeking to place Telegram founder Pavel Durov on an international wanted list, alleging that the app has been used by Ukrainian intelligence to organize terrorist attacks and conduct espionage inside Russia."
-    },
-    {
-      "title": "Cyberattack hits Angola\u2019s largest telco hours before landmark stock debut",
-      "link": "https://therecord.media/angola-unitel-cyberattack-outage",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-07-29T12:15:00+00:00",
-      "summary": "Angola\u2019s largest telecommunications operator, Unitel, was hit by a cyberattack that has left millions of people nationwide without voice services, mobile data, and internet access."
     }
   ]
 }
