@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T13:21:27.761697+00:00",
+  "generated_at": "2026-07-30T19:05:59.225810+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,54 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Montana\u2019s plan to become an experimental medical hub just pushed forward",
+      "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-07-30T17:10:00+00:00",
+      "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing\u2014sometimes in as few as 10 healthy people\u2014"
+    },
+    {
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "published": "2026-07-30T16:49:00+00:00",
+      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connectio"
+    },
+    {
+      "title": "Claude Mythos \u2014 Hype vs. Reality: What Security Teams Need to Know",
+      "link": "https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-30T15:28:43+00:00",
+      "summary": "In this edition of Reporters' Notebook, our journalists discuss the ins and outs of Anthropic's Claude Mythos rollout. How seriously should we take its risks? How big of a deal is it?"
+    },
+    {
+      "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
+      "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-30T15:25:57+00:00",
+      "summary": "A lot of security still comes down to trusting the wrong screen. This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credenti"
+    },
+    {
+      "title": "North Korea\u2019s Lazarus Group sharing tools with ransomware hackers, South Korean agencies warn",
+      "link": "https://therecord.media/north-korea-hackers-ransomware",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-07-30T14:00:00+00:00",
+      "summary": "Cyberattack tools and infrastructure used by North Korea\u2019s Lazarus Group appear to have been shared with ransomware criminals targeting South Korean organizations \u2014 further evidence of deepening entanglement between Pyon"
+    },
+    {
+      "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
+      "link": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-30T13:34:09+00:00",
+      "summary": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, whic"
+    },
     {
       "title": "North Korean hackers behind major open-source supply chain attacks, Amazon says",
       "link": "https://therecord.media/north-korea-hackers-amazon-malware",
@@ -77,6 +125,14 @@
       "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learni"
     },
     {
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-07-30T10:00:00+00:00",
+      "summary": "Explore lower GPT\u20115.6 pricing for Luna and Terra\u2014and how OpenAI\u2019s more efficient models help enterprises deploy AI workflows at scale."
+    },
+    {
       "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
       "link": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
       "source": "The Hacker News",
@@ -91,22 +147,6 @@
       "category": "cybersecurity",
       "published": "2026-07-30T07:28:43+00:00",
       "summary": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authoriza"
-    },
-    {
-      "title": "Amazon Links Debug and Chalk npm Hijack to North Korea\u2019s Sapphire Sleet",
-      "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-30T06:05:17+00:00",
-      "summary": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and"
-    },
-    {
-      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
-      "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-30T05:08:39+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities "
     },
     {
       "title": "Framework Implementation Maturity in Blockchain-Based Third-Party Compliance Assessment",
@@ -269,6 +309,14 @@
       "summary": "A premium-grade malware-as-a-service offering takes flight with multiple threat groups, building infostealers that drain victims' bank accounts."
     },
     {
+      "title": "FTC sues Hims & Hers for allegedly sharing patient information with third-party platforms",
+      "link": "https://therecord.media/hims-hers-privacy-lawsuit-ftc",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-07-29T21:00:00+00:00",
+      "summary": "Popular telehealth provider Hims & Hers \"shared consumers\u2019 sensitive health information with third-party advertising platforms such as Meta and Snap despite promising to protect patient privacy,\" the federal government a"
+    },
+    {
       "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
       "link": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
       "source": "Dark Reading",
@@ -283,54 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-07-29T19:46:20+00:00",
       "summary": "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts."
-    },
-    {
-      "title": "How an overlooked geothermal plant got a second chance",
-      "link": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-07-29T17:58:44+00:00",
-      "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant unecono"
-    },
-    {
-      "title": "Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-07-29T17:43:38+00:00",
-      "summary": "Dark Reading walks through the many twists and turns in the bizarre story of how OpenAI's agent AI system broke out of its sandbox and decided to target Hugging Face, and what CISOs should be aware of."
-    },
-    {
-      "title": "Hugging Face Hack Lessons for Cyber Defenders",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-07-29T17:35:23+00:00",
-      "summary": "Dark Reading Confidential Episode 20: Expert Rich Mogull reflects on lessons cyber teams should pull from the OpenAI agent's attack on Hugging Face."
-    },
-    {
-      "title": "OpenAI says rogue agent behind Hugging Face hack broke into additional services",
-      "link": "https://therecord.media/openai-says-rogue-agent-behind-hugging-face-hack-broke-into-additional-services",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-07-29T17:22:00+00:00",
-      "summary": "The four additional targeted organizations weren\u2019t named. OpenAI said they were not affected as severely as Hugging Face."
-    },
-    {
-      "title": "When AppSec Scanners Become a Supply Chain Attack Vector",
-      "link": "https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-07-29T17:06:52+00:00",
-      "summary": "New research shows how security scanners embedded in the software supply chain can be attacked to serve as a foothold for downstream attacks."
-    },
-    {
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-07-29T15:00:00+00:00",
-      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction."
     }
   ]
 }
