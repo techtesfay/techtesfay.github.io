@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T19:05:59.225810+00:00",
+  "generated_at": "2026-07-31T01:26:24.332939+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,38 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Minnesota Water Utility Attacks Expose Sector's Cyber-Risks",
+      "link": "https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-30T21:16:13+00:00",
+      "summary": "A likely Iran-backed actor targeted more than 30 community water systems in Minnesota in a sobering reminder of rising threats to US critical infrastructure."
+    },
+    {
+      "title": "AI Harnesses Burst With Potential Exploit Opps",
+      "link": "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-30T19:40:40+00:00",
+      "summary": "A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors."
+    },
+    {
+      "title": "Semiconductor chip titan Analog Devices reports data breach",
+      "link": "https://therecord.media/analog-devices-semiconductor-company-data-breach",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-07-30T19:10:00+00:00",
+      "summary": "In a filing for federal regulators, Massachusetts-based Analog Devices said intruders had exfiltrated data from its networks earlier this summer, but the scope of the incident is still under investigation."
+    },
+    {
+      "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
+      "link": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-30T18:18:24+00:00",
+      "summary": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to delive"
+    },
     {
       "title": "Montana\u2019s plan to become an experimental medical hub just pushed forward",
       "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
@@ -139,14 +171,6 @@
       "category": "cybersecurity",
       "published": "2026-07-30T07:40:48+00:00",
       "summary": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. "
-    },
-    {
-      "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
-      "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-30T07:28:43+00:00",
-      "summary": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authoriza"
     },
     {
       "title": "Framework Implementation Maturity in Blockchain-Based Third-Party Compliance Assessment",
@@ -307,30 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-07-30T00:30:00+00:00",
       "summary": "A premium-grade malware-as-a-service offering takes flight with multiple threat groups, building infostealers that drain victims' bank accounts."
-    },
-    {
-      "title": "FTC sues Hims & Hers for allegedly sharing patient information with third-party platforms",
-      "link": "https://therecord.media/hims-hers-privacy-lawsuit-ftc",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-07-29T21:00:00+00:00",
-      "summary": "Popular telehealth provider Hims & Hers \"shared consumers\u2019 sensitive health information with third-party advertising platforms such as Meta and Snap despite promising to protect patient privacy,\" the federal government a"
-    },
-    {
-      "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
-      "link": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-07-29T19:48:12+00:00",
-      "summary": "OpenAI's goal-seeking agent compromised a Modal customer environment and others during its sandbox escape."
-    },
-    {
-      "title": "Red Agents vs. Blue Agents: How to Make AI Better at Defense",
-      "link": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-07-29T19:46:20+00:00",
-      "summary": "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts."
     }
   ]
 }
