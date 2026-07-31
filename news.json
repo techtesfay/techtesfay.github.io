@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T13:25:17.499546+00:00",
+  "generated_at": "2026-07-31T19:03:21.617126+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,6 +13,38 @@
   ],
   "items": [
     {
+      "title": "Disrupting a Criminal Scam Operation",
+      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-04T00:00:00+00:00",
+      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
+    },
+    {
+      "title": "CISA warns of spike in attacks on water systems as Minnesota incidents probed",
+      "link": "https://therecord.media/cisa-warns-of-spike-in-water-system-attacks",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-07-31T17:47:00+00:00",
+      "summary": "The Cybersecurity and Infrastructure Security Agency said in a public alert on Thursday that facilities should \u201cremove publicly exposed PLCs and other operational technology (OT) from the internet as soon as possible.\""
+    },
+    {
+      "title": "Cyber Command plans Silicon Valley office to drive innovation",
+      "link": "https://therecord.media/cyber-command-plans-silicon-valley-office-to-drive-innovation",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-07-31T17:35:00+00:00",
+      "summary": "The outpost will have its own director, though no one has yet been named for the post, and support the command\u2019s nascent Cyber Warfare Innovation Center (CIWC)."
+    },
+    {
+      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
+      "link": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-31T16:39:31+00:00",
+      "summary": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion sequ"
+    },
+    {
       "title": "Advancing responsible AI across Europe",
       "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
       "source": "OpenAI News",
@@ -21,12 +53,60 @@
       "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances."
     },
     {
+      "title": "Building abundant intelligence",
+      "link": "https://openai.com/index/building-abundant-intelligence",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-07-31T15:00:00+00:00",
+      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful."
+    },
+    {
+      "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners\u2019 Broadband Into Proxies",
+      "link": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-31T14:45:01+00:00",
+      "summary": "Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators. Researchers na"
+    },
+    {
+      "title": "The Morning After We Pull a Root of Trust, Nobody Owns It",
+      "link": "https://www.darkreading.com/cyber-risk/morning-after-we-pull-root-of-trust-nobody-owns-it",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-31T14:00:00+00:00",
+      "summary": "The most valuable move any security team can make is building a certificate and key inventory."
+    },
+    {
+      "title": "Interpol Leverages Global System to Curtail Fraud Payments",
+      "link": "https://www.darkreading.com/cybersecurity-operations/interpol-leverages-global-system-curtail-fraud-payments",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-31T13:30:00+00:00",
+      "summary": "When a fraudulent transaction occurs, law enforcement agencies must work quickly to halt payments before cybercriminals cash out."
+    },
+    {
+      "title": "DROP Platform Lets Californians Reduce Digital Footprint",
+      "link": "https://www.darkreading.com/data-privacy/drop-platform-lets-californians-ditch-their-data",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-31T13:19:36+00:00",
+      "summary": "The Delete Request and Opt-out Platform (DROP) launches Aug. 1 and hundreds of thousands of California residents already registered. Other states could follow if the process goes smoothly."
+    },
+    {
       "title": "USA Fencing Lunges Into the Hidden Identity Challenge in Amateur Sports",
       "link": "https://www.darkreading.com/identity-access-management-security/usa-fencing-hidden-identity-challenge-amateur-sports",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-07-31T13:00:00+00:00",
       "summary": "The organization behind Team USA's Olympic/Paralympic fencing teams has automated identity verification to handle growing membership, cutting manual review time while ensuring athletes compete in the correct categories."
+    },
+    {
+      "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
+      "link": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-31T12:51:52+00:00",
+      "summary": "Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined. Both versions were"
     },
     {
       "title": "The Download: Montana\u2019s new experimental drug rules",
@@ -43,6 +123,14 @@
       "category": "cybersecurity",
       "published": "2026-07-31T12:15:00+00:00",
       "summary": "Claude maker Anthropic said its AI models escaped test environments and breached networks at three companies on the open internet."
+    },
+    {
+      "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
+      "link": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-31T11:55:00+00:00",
+      "summary": "An academic study has disclosed a \"widespread class\" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session hijacking"
     },
     {
       "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
@@ -243,94 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-07-30T21:16:13+00:00",
       "summary": "A likely Iran-backed actor targeted more than 30 community water systems in Minnesota in a sobering reminder of rising threats to US critical infrastructure."
-    },
-    {
-      "title": "AI Harnesses Burst With Potential Exploit Opps",
-      "link": "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-07-30T19:40:40+00:00",
-      "summary": "A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors."
-    },
-    {
-      "title": "Semiconductor chip titan Analog Devices reports data breach",
-      "link": "https://therecord.media/analog-devices-semiconductor-company-data-breach",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-07-30T19:10:00+00:00",
-      "summary": "In a filing for federal regulators, Massachusetts-based Analog Devices said intruders had exfiltrated data from its networks earlier this summer, but the scope of the incident is still under investigation."
-    },
-    {
-      "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
-      "link": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-30T18:18:24+00:00",
-      "summary": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to delive"
-    },
-    {
-      "title": "Montana\u2019s plan to become an experimental medical hub just pushed forward",
-      "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-07-30T17:10:00+00:00",
-      "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing\u2014sometimes in as few as 10 healthy people\u2014"
-    },
-    {
-      "title": "Read This Before You Buy That TV Streaming Stick",
-      "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "source": "Krebs on Security",
-      "category": "cybersecurity",
-      "published": "2026-07-30T16:49:00+00:00",
-      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connectio"
-    },
-    {
-      "title": "Claude Mythos \u2014 Hype vs. Reality: What Security Teams Need to Know",
-      "link": "https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-07-30T15:28:43+00:00",
-      "summary": "In this edition of Reporters' Notebook, our journalists discuss the ins and outs of Anthropic's Claude Mythos rollout. How seriously should we take its risks? How big of a deal is it?"
-    },
-    {
-      "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-30T15:25:57+00:00",
-      "summary": "A lot of security still comes down to trusting the wrong screen. This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credenti"
-    },
-    {
-      "title": "North Korea\u2019s Lazarus Group sharing tools with ransomware hackers, South Korean agencies warn",
-      "link": "https://therecord.media/north-korea-hackers-ransomware",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-07-30T14:00:00+00:00",
-      "summary": "Cyberattack tools and infrastructure used by North Korea\u2019s Lazarus Group appear to have been shared with ransomware criminals targeting South Korean organizations \u2014 further evidence of deepening entanglement between Pyon"
-    },
-    {
-      "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
-      "link": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-30T13:34:09+00:00",
-      "summary": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, whic"
-    },
-    {
-      "title": "North Korean hackers behind major open-source supply chain attacks, Amazon says",
-      "link": "https://therecord.media/north-korea-hackers-amazon-malware",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-07-30T13:00:00+00:00",
-      "summary": "A North Korea-linked hacker group was behind several high-profile compromises of open-source software libraries used by developers worldwide, researchers have found."
-    },
-    {
-      "title": "The Download: tricking LLMs, and reviving geothermal plants",
-      "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-07-30T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to"
     }
   ]
 }
