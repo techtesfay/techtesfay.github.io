@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T07:58:00.675400+00:00",
+  "generated_at": "2026-08-01T12:49:54.917506+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
+      "link": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-01T09:03:07+00:00",
+      "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses. Adform detected the incident on July 27, 2026, remo"
+    },
     {
       "title": "Phishing Campaigns Targeting AI Solutions Providers, (Sat, Aug 1st)",
       "link": "https://isc.sans.edu/diary/rss/33206",
@@ -171,14 +179,6 @@
       "category": "cybersecurity",
       "published": "2026-07-31T11:55:00+00:00",
       "summary": "An academic study has disclosed a \"widespread class\" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session hijacking"
-    },
-    {
-      "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
-      "link": "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-31T11:24:59+00:00",
-      "summary": "Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months. Designed for input-cons"
     },
     {
       "title": "zipdump.py: Metadata Encoding, (Fri, Jul 31st)",
