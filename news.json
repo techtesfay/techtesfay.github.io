@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T19:03:21.617126+00:00",
+  "generated_at": "2026-08-01T01:27:18.802915+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,12 +13,20 @@
   ],
   "items": [
     {
-      "title": "Disrupting a Criminal Scam Operation",
-      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-04T00:00:00+00:00",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
+      "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
+      "link": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-07-31T18:52:04+00:00",
+      "summary": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakh"
+    },
+    {
+      "title": "CISA Issues Fresh SBOM Guidance. Did They Get It Right?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-31T18:13:11+00:00",
+      "summary": "A couple-dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements."
     },
     {
       "title": "CISA warns of spike in attacks on water systems as Minnesota incidents probed",
@@ -90,7 +98,7 @@
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-07-31T13:19:36+00:00",
-      "summary": "The Delete Request and Opt-out Platform (DROP) launches Aug. 1 and hundreds of thousands of California residents already registered. Other states could follow if the process goes smoothly."
+      "summary": "Hundreds of thousands of California residents have already registered for the Delete Request and Opt-out Platform (DROP), which launches Aug. 1. Other states could follow if the process goes smoothly."
     },
     {
       "title": "USA Fencing Lunges Into the Hidden Identity Challenge in Amateur Sports",
@@ -323,14 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-07-31T02:00:03+00:00",
       "summary": ""
-    },
-    {
-      "title": "Minnesota Water Utility Attacks Expose Sector's Cyber-Risks",
-      "link": "https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-07-30T21:16:13+00:00",
-      "summary": "A likely Iran-backed actor targeted more than 30 community water systems in Minnesota in a sobering reminder of rising threats to US critical infrastructure."
     }
   ]
 }
