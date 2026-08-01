@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T01:27:18.802915+00:00",
+  "generated_at": "2026-08-01T07:58:00.675400+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,38 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Phishing Campaigns Targeting AI Solutions Providers, (Sat, Aug 1st)",
+      "link": "https://isc.sans.edu/diary/rss/33206",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-01T07:22:32+00:00",
+      "summary": "Most phishing campaigns rely on the fact that the victim is afraid to loose \"something\": money, access to information, ... Many brands have been impersonated by campaigns but I spotted some phishing emails that focus on "
+    },
+    {
+      "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
+      "link": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-01T07:12:42+00:00",
+      "summary": "Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution. The vulnerab"
+    },
+    {
+      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
+      "link": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-01T06:29:05+00:00",
+      "summary": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest repor"
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "link": "https://openai.com/index/ten-advances-in-mathematics",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-01T00:00:00+00:00",
+      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity."
+    },
     {
       "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
       "link": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
@@ -149,14 +181,6 @@
       "summary": "Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months. Designed for input-cons"
     },
     {
-      "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
-      "link": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-31T11:21:27+00:00",
-      "summary": "Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously. After an initial Telegram instruction, the agent found interne"
-    },
-    {
       "title": "zipdump.py: Metadata Encoding, (Fri, Jul 31st)",
       "link": "https://isc.sans.edu/diary/rss/33202",
       "source": "SANS Internet Storm Center",
@@ -181,14 +205,6 @@
       "summary": "See how Univ\u00e9 built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale."
     },
     {
-      "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
-      "link": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-31T06:41:44+00:00",
-      "summary": "Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three unnamed organization"
-    },
-    {
       "title": "Finland to disconnect fiber-optic link to Russia as lease expires",
       "link": "https://therecord.media/finland-russia-fiber-optic-disconnection",
       "source": "The Record",
@@ -197,140 +213,124 @@
       "summary": "Finland stopped power transmissions with Russia at the start of the war in Ukraine, and two related telecom connections will stop at the end of this year, authorities said."
     },
     {
-      "title": "FAVA: Formal Authorization for Verified Agents with Evidence-Backed Permission Graphs",
-      "link": "https://arxiv.org/abs/2607.27267",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-07-31T04:00:00+00:00",
-      "summary": "arXiv:2607.27267v1 Announce Type: new Abstract: Large language model (LLM) agents autonomously interleave semantic reasoning with complex system operations. In these dynamic environments, static tool-level permissions ar"
-    },
-    {
-      "title": "Open Security Benchmark: Towards Autonomous Enterprise Cyber Defense",
-      "link": "https://arxiv.org/abs/2607.27288",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-07-31T04:00:00+00:00",
-      "summary": "arXiv:2607.27288v1 Announce Type: new Abstract: Enterprises are moving toward autonomous cyber defense: agentic AI that builds situational awareness of an organization's security state and reasons from it to assessments,"
-    },
-    {
-      "title": "RoguePrompt: Dual-Layer Encoding for Self-Reconstruction to Circumvent LLM Moderation",
-      "link": "https://arxiv.org/abs/2607.27373",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-07-31T04:00:00+00:00",
-      "summary": "arXiv:2607.27373v1 Announce Type: new Abstract: Large language models (LLMs) are becoming increasingly integrated into mainstream development platforms and daily technological workflows, typically behind moderation and s"
-    },
-    {
-      "title": "Low-Latency Bootstrapping for CKKS using Roots of Unity",
-      "link": "https://arxiv.org/abs/2607.27401",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-07-31T04:00:00+00:00",
-      "summary": "arXiv:2607.27401v1 Announce Type: new Abstract: We introduce Sparse Roots of Unity (SPRU) bootstrapping, a new bootstrapping algorithm for the CKKS homomorphic encryption scheme for approximate arithmetic. The original C"
-    },
-    {
-      "title": "Granite: A Modular Methodology for Foundational Verification of Hardware-Software Leakage Contracts",
-      "link": "https://arxiv.org/abs/2607.27480",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-07-31T04:00:00+00:00",
-      "summary": "arXiv:2607.27480v1 Announce Type: new Abstract: Granite is a methodology for modular verification of both functional correctness and nonleakage of RTL processors against ISA contracts. We prove that the cycle-by-cycle ti"
-    },
-    {
-      "title": "Flock: Fast Proving for Batch Boolean Computations",
-      "link": "https://arxiv.org/abs/2607.27491",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-07-31T04:00:00+00:00",
-      "summary": "arXiv:2607.27491v1 Announce Type: new Abstract: For many applications of SNARKs, a key bottleneck is proving large batches of standard cryptographic hash evaluations, such as SHA-256, Keccak, or BLAKE3. We introduce Floc"
-    },
-    {
-      "title": "Send and Pretend: Exploiting Transcript Consistency Issues in End-to-End Encrypted Group Chats",
-      "link": "https://arxiv.org/abs/2607.27510",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-07-31T04:00:00+00:00",
-      "summary": "arXiv:2607.27510v1 Announce Type: new Abstract: End-to-end encrypted (E2EE) messaging apps are widely praised for their security and thus also used for sensitive coordination in group chats (e.g., by political decision m"
-    },
-    {
-      "title": "ThreatForest: Multi-Agent Attack Tree Generation with Pluggable TTP Framework Mapping",
-      "link": "https://arxiv.org/abs/2607.27528",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-07-31T04:00:00+00:00",
-      "summary": "arXiv:2607.27528v1 Announce Type: new Abstract: Threat modeling is essential for secure software development, yet manual analysis of cloud-native architectures is slow and demands scarce security expertise. We present Th"
-    },
-    {
-      "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
-      "link": "https://arxiv.org/abs/2607.26119",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-07-31T04:00:00+00:00",
-      "summary": "arXiv:2607.26119v1 Announce Type: new Abstract: Large reasoning models trained via reinforcement learning (RL) have been increasingly shown to outperform their supervised fine-tuned (SFT) counterparts on mathematical rea"
-    },
-    {
-      "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
-      "link": "https://arxiv.org/abs/2607.26120",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-07-31T04:00:00+00:00",
-      "summary": "arXiv:2607.26120v1 Announce Type: new Abstract: Large Language Models (LLMs)-powered multi-agent systems are increasingly deployed in mixed-motive environments, where agents operate under asymmetric information and strat"
-    },
-    {
-      "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
-      "link": "https://arxiv.org/abs/2607.26155",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-07-31T04:00:00+00:00",
-      "summary": "arXiv:2607.26155v1 Announce Type: new Abstract: Clinical data-science agents must transform heterogeneous longitudinal records into auditable analyses, yet existing benchmarks largely isolate medical question answering, "
-    },
-    {
-      "title": "When benchmark inferences do not compose: Projectibility in AI evaluation",
-      "link": "https://arxiv.org/abs/2607.26159",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-07-31T04:00:00+00:00",
-      "summary": "arXiv:2607.26159v1 Announce Type: new Abstract: An AI benchmark result rarely reaches a consequential claim in one step. Evaluators generalize it to further cases, interpret it as evidence of capability, extrapolate it t"
-    },
-    {
-      "title": "GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning",
-      "link": "https://arxiv.org/abs/2607.26160",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-07-31T04:00:00+00:00",
-      "summary": "arXiv:2607.26160v1 Announce Type: new Abstract: Clinical practice guidelines (CPGs) encode diagnostic criteria, but LLM systems typically retrieve guideline text or absorb it through training rather than execute its rule"
-    },
-    {
-      "title": "GoGoTB: Agentic RTL Verification with Specification-Grounded Coverage Closure",
-      "link": "https://arxiv.org/abs/2607.26181",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-07-31T04:00:00+00:00",
-      "summary": "arXiv:2607.26181v1 Announce Type: new Abstract: Functional verification dominates integrated circuit (IC) front-end engineering effort, and a single missed bug that escapes to silicon can trigger a costly respin. Recent "
-    },
-    {
-      "title": "Position: Evaluation Scores Are Perishable Knowledge Claims",
-      "link": "https://arxiv.org/abs/2607.26191",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-07-31T04:00:00+00:00",
-      "summary": "arXiv:2607.26191v1 Announce Type: new Abstract: Evaluation methodologies for language models increasingly combine multiple signals, from automated metrics and LLM-as-judge ratings to human assessments and benchmark suite"
-    },
-    {
-      "title": "TraceCoder: Explainable and Auditable Code Generation with Position-Key Snippet Versioning",
-      "link": "https://arxiv.org/abs/2607.26307",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-07-31T04:00:00+00:00",
-      "summary": "arXiv:2607.26307v1 Announce Type: new Abstract: Contemporary LLM-based coding agents produce code as black-box outputs: the rationale behind each line is hidden, the evolution of the code through benchmark-driven repair "
-    },
-    {
       "title": "ISC Stormcast For Friday, July 31st, 2026 https://isc.sans.edu/podcastdetail/10032, (Fri, Jul 31st)",
       "link": "https://isc.sans.edu/diary/rss/33204",
       "source": "SANS Internet Storm Center",
       "category": "cybersecurity",
       "published": "2026-07-31T02:00:03+00:00",
       "summary": ""
+    },
+    {
+      "title": "Disrupting a Criminal Scam Operation",
+      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-07-31T00:00:00+00:00",
+      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
+    },
+    {
+      "title": "Minnesota Water Utility Attacks Expose Sector's Cyber-Risks",
+      "link": "https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-30T21:16:13+00:00",
+      "summary": "A likely Iran-backed actor targeted more than 30 community water systems in Minnesota in a sobering reminder of rising threats to US critical infrastructure."
+    },
+    {
+      "title": "AI Harnesses Burst With Potential Exploit Opps",
+      "link": "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-30T19:40:40+00:00",
+      "summary": "A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors."
+    },
+    {
+      "title": "Semiconductor chip titan Analog Devices reports data breach",
+      "link": "https://therecord.media/analog-devices-semiconductor-company-data-breach",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-07-30T19:10:00+00:00",
+      "summary": "In a filing for federal regulators, Massachusetts-based Analog Devices said intruders had exfiltrated data from its networks earlier this summer, but the scope of the incident is still under investigation."
+    },
+    {
+      "title": "Montana\u2019s plan to become an experimental medical hub just pushed forward",
+      "link": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-07-30T17:10:00+00:00",
+      "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing\u2014sometimes in as few as 10 healthy people\u2014"
+    },
+    {
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "published": "2026-07-30T16:49:00+00:00",
+      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connectio"
+    },
+    {
+      "title": "Claude Mythos \u2014 Hype vs. Reality: What Security Teams Need to Know",
+      "link": "https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-30T15:28:43+00:00",
+      "summary": "In this edition of Reporters' Notebook, our journalists discuss the ins and outs of Anthropic's Claude Mythos rollout. How seriously should we take its risks? How big of a deal is it?"
+    },
+    {
+      "title": "The Download: tricking LLMs, and reviving geothermal plants",
+      "link": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-07-30T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to"
+    },
+    {
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-07-30T10:15:19+00:00",
+      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learni"
+    },
+    {
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-07-30T10:00:00+00:00",
+      "summary": "Explore lower GPT\u20115.6 pricing for Luna and Terra\u2014and how OpenAI\u2019s more efficient models help enterprises deploy AI workflows at scale."
+    },
+    {
+      "title": "ISC Stormcast For Thursday, July 30th, 2026 https://isc.sans.edu/podcastdetail/10030, (Thu, Jul 30th)",
+      "link": "https://isc.sans.edu/diary/rss/33200",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-07-30T02:00:03+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Reconnaissance First: An SSH Bot That Sizes Up Your Hardware Before Deploying a Miner [Guest Diary], (Thu, Jul 30th)",
+      "link": "https://isc.sans.edu/diary/rss/33198",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-07-30T00:42:29+00:00",
+      "summary": "[This is a Guest Diary by Adam Cann, an ISC intern as part of the SANS.edu BACS program]"
+    },
+    {
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "link": "https://openai.com/index/avatarin",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-07-30T00:00:00+00:00",
+      "summary": "avatarin uses OpenAI\u2019s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive."
+    },
+    {
+      "title": "How an overlooked geothermal plant got a second chance",
+      "link": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-07-29T17:58:44+00:00",
+      "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant unecono"
     }
   ]
 }
