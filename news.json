@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T12:51:37.420810+00:00",
+  "generated_at": "2026-08-02T18:49:15.752998+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -82,7 +82,7 @@
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-07-31T18:13:11+00:00",
-      "summary": "A couple-dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements."
+      "summary": "A couple dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements."
     },
     {
       "title": "CISA warns of spike in attacks on water systems as Minnesota incidents probed",
