@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T14:09:48.980382+00:00",
+  "generated_at": "2026-08-03T19:14:55.155073+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,6 +13,54 @@
   ],
   "items": [
     {
+      "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
+      "link": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-03T18:43:53+00:00",
+      "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software su"
+    },
+    {
+      "title": "Trump\u2019s AI protectionism has come for robotics",
+      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-03T18:43:30+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, "
+    },
+    {
+      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
+      "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-03T16:24:47+00:00",
+      "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen. Unit 42 detailed three attac"
+    },
+    {
+      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
+      "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-03T16:15:13+00:00",
+      "summary": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over the "
+    },
+    {
+      "title": "Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-03T15:42:18+00:00",
+      "summary": "Researchers from Jesta intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking and to launch further attacks"
+    },
+    {
+      "title": "\u26a1 Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-03T14:03:11+00:00",
+      "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more th"
+    },
+    {
       "title": "Is There Really a Fix for CISO Fatigue?",
       "link": "https://www.darkreading.com/cybersecurity-operations/fix-for-ciso-fatigue",
       "source": "Dark Reading",
@@ -21,28 +69,12 @@
       "summary": "Accountability without any real authority is driving CISO burnout, and organizations need to take notice."
     },
     {
-      "title": "Biotech giant Amgen says patient data stolen from third-party cloud systems",
-      "link": "https://therecord.media/amgen-hackers-cyberattack-sec",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-03T12:45:00+00:00",
-      "summary": "The biotech giant Amgen informed regulators that patient information and proprietary company data were accessed through a breach of third-party cloud systems."
-    },
-    {
       "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
       "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
       "source": "MIT Technology Review",
       "category": "ai",
       "published": "2026-08-03T12:08:00+00:00",
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Here\u2019s why AI agents lie and cheat to reach their goals When two OpenAI models hac"
-    },
-    {
-      "title": "Russian hackers hijack hotel Wi-Fi networks to spy on travelers, Microsoft says",
-      "link": "https://therecord.media/russian-wifi-hackers-hotels",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-03T12:00:00+00:00",
-      "summary": "Russian state-sponsored hackers have been compromising hotel Wi-Fi networks around the world to steal travelers' login credentials and infect devices with espionage malware, Microsoft said."
     },
     {
       "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
@@ -58,7 +90,7 @@
       "source": "The Hacker News",
       "category": "cybersecurity",
       "published": "2026-08-03T10:49:06+00:00",
-      "summary": "An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it ide"
+      "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys sa"
     },
     {
       "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
@@ -83,22 +115,6 @@
       "category": "cybersecurity",
       "published": "2026-08-03T08:05:30+00:00",
       "summary": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them. The vendor's July 31 security bulletin"
-    },
-    {
-      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
-      "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-03T06:41:46+00:00",
-      "summary": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Its first fix was incomplete. CVE-2026-18577 affect"
-    },
-    {
-      "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
-      "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-03T06:40:31+00:00",
-      "summary": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial"
     },
     {
       "title": "Bridging the Gap Between PHE and FHE: A Performance and Trade-off Analysis of The Somewhat Homomorphic BGN Cryptosystem",
@@ -245,22 +261,6 @@
       "summary": "Introduction"
     },
     {
-      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
-      "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-01T17:17:22+00:00",
-      "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-on"
-    },
-    {
-      "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
-      "link": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-01T09:03:07+00:00",
-      "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses. Adform detected the incident on July 27, 2026, remo"
-    },
-    {
       "title": "Phishing Campaigns Targeting AI Solutions Providers, (Sat, Aug 1st)",
       "link": "https://isc.sans.edu/diary/rss/33206",
       "source": "SANS Internet Storm Center",
@@ -283,22 +283,6 @@
       "category": "cybersecurity",
       "published": "2026-07-31T18:13:11+00:00",
       "summary": "A couple dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements."
-    },
-    {
-      "title": "CISA warns of spike in attacks on water systems as Minnesota incidents probed",
-      "link": "https://therecord.media/cisa-warns-of-spike-in-water-system-attacks",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-07-31T17:47:00+00:00",
-      "summary": "The Cybersecurity and Infrastructure Security Agency said in a public alert on Thursday that facilities should \u201cremove publicly exposed PLCs and other operational technology (OT) from the internet as soon as possible.\""
-    },
-    {
-      "title": "Cyber Command plans Silicon Valley office to drive innovation",
-      "link": "https://therecord.media/cyber-command-plans-silicon-valley-office-to-drive-innovation",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-07-31T17:35:00+00:00",
-      "summary": "The outpost will have its own director, though no one has yet been named for the post, and support the command\u2019s nascent Cyber Warfare Innovation Center (CIWC)."
     },
     {
       "title": "Advancing responsible AI across Europe",
@@ -331,6 +315,22 @@
       "category": "cybersecurity",
       "published": "2026-07-31T13:30:00+00:00",
       "summary": "When a fraudulent transaction occurs, law enforcement agencies must work quickly to halt payments before cybercriminals cash out."
+    },
+    {
+      "title": "DROP Platform Lets Californians Reduce Digital Footprint",
+      "link": "https://www.darkreading.com/data-privacy/drop-platform-lets-californians-ditch-their-data",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-31T13:19:36+00:00",
+      "summary": "Hundreds of thousands of California residents have already registered for the Delete Request and Opt-out Platform (DROP), which launches Aug. 1. Other states could follow if the process goes smoothly."
+    },
+    {
+      "title": "USA Fencing Lunges Into the Hidden Identity Challenge in Amateur Sports",
+      "link": "https://www.darkreading.com/identity-access-management-security/usa-fencing-hidden-identity-challenge-amateur-sports",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-07-31T13:00:00+00:00",
+      "summary": "The organization behind Team USA's Olympic/Paralympic fencing teams has automated identity verification to handle growing membership, cutting manual review time while ensuring athletes compete in the correct categories."
     }
   ]
 }
