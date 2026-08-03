@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T08:56:52.819016+00:00",
+  "generated_at": "2026-08-03T14:09:48.980382+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,62 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Is There Really a Fix for CISO Fatigue?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/fix-for-ciso-fatigue",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-03T14:00:00+00:00",
+      "summary": "Accountability without any real authority is driving CISO burnout, and organizations need to take notice."
+    },
+    {
+      "title": "Biotech giant Amgen says patient data stolen from third-party cloud systems",
+      "link": "https://therecord.media/amgen-hackers-cyberattack-sec",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-03T12:45:00+00:00",
+      "summary": "The biotech giant Amgen informed regulators that patient information and proprietary company data were accessed through a breach of third-party cloud systems."
+    },
+    {
+      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-03T12:08:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Here\u2019s why AI agents lie and cheat to reach their goals When two OpenAI models hac"
+    },
+    {
+      "title": "Russian hackers hijack hotel Wi-Fi networks to spy on travelers, Microsoft says",
+      "link": "https://therecord.media/russian-wifi-hackers-hotels",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-03T12:00:00+00:00",
+      "summary": "Russian state-sponsored hackers have been compromising hotel Wi-Fi networks around the world to steal travelers' login credentials and infect devices with espionage malware, Microsoft said."
+    },
+    {
+      "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
+      "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-03T11:30:00+00:00",
+      "summary": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up. AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize in"
+    },
+    {
+      "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
+      "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-03T10:49:06+00:00",
+      "summary": "An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it ide"
+    },
+    {
+      "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
+      "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-03T09:13:56+00:00",
+      "summary": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names, organisations and work email addres"
+    },
     {
       "title": "Here\u2019s why AI agents lie and cheat to reach their goals",
       "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
@@ -213,36 +269,12 @@
       "summary": "Most phishing campaigns rely on the fact that the victim is afraid to loose \"something\": money, access to information, ... Many brands have been impersonated by campaigns but I spotted some phishing emails that focus on "
     },
     {
-      "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
-      "link": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-01T07:12:42+00:00",
-      "summary": "Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution. The vulnerab"
-    },
-    {
-      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
-      "link": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-01T06:29:05+00:00",
-      "summary": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest repor"
-    },
-    {
       "title": "Ten advances in mathematics and theoretical computer science",
       "link": "https://openai.com/index/ten-advances-in-mathematics",
       "source": "OpenAI News",
       "category": "ai",
       "published": "2026-08-01T00:00:00+00:00",
       "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity."
-    },
-    {
-      "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
-      "link": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-07-31T18:52:04+00:00",
-      "summary": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakh"
     },
     {
       "title": "CISA Issues Fresh SBOM Guidance. Did They Get It Right?",
@@ -299,38 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-07-31T13:30:00+00:00",
       "summary": "When a fraudulent transaction occurs, law enforcement agencies must work quickly to halt payments before cybercriminals cash out."
-    },
-    {
-      "title": "DROP Platform Lets Californians Reduce Digital Footprint",
-      "link": "https://www.darkreading.com/data-privacy/drop-platform-lets-californians-ditch-their-data",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-07-31T13:19:36+00:00",
-      "summary": "Hundreds of thousands of California residents have already registered for the Delete Request and Opt-out Platform (DROP), which launches Aug. 1. Other states could follow if the process goes smoothly."
-    },
-    {
-      "title": "USA Fencing Lunges Into the Hidden Identity Challenge in Amateur Sports",
-      "link": "https://www.darkreading.com/identity-access-management-security/usa-fencing-hidden-identity-challenge-amateur-sports",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-07-31T13:00:00+00:00",
-      "summary": "The organization behind Team USA's Olympic/Paralympic fencing teams has automated identity verification to handle growing membership, cutting manual review time while ensuring athletes compete in the correct categories."
-    },
-    {
-      "title": "The Download: Montana\u2019s new experimental drug rules",
-      "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-07-31T12:16:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Montana\u2019s plan to become an experimental medical hub just pushed forward As of thi"
-    },
-    {
-      "title": "Anthropic says its AI hacked real-world companies in three incidents",
-      "link": "https://therecord.media/anthropic-ai-hacked-three-real-companies",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-07-31T12:15:00+00:00",
-      "summary": "Claude maker Anthropic said its AI models escaped test environments and breached networks at three companies on the open internet."
     }
   ]
 }
