@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T13:40:03.736444+00:00",
+  "generated_at": "2026-08-04T19:15:53.764340+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,62 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Smoke#Screen RMM Takeover Gambit Exposes Threat Actor Playbook",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/latest-rmm-fueled-phishing-attack-exposes-threat-actor-playbook",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-04T18:37:35+00:00",
+      "summary": "The attacks use diverse social engineering lures and rotating payloads to deliver ScreenConnect for persistent remote access to compromised networks."
+    },
+    {
+      "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
+      "link": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-04T17:27:39+00:00",
+      "summary": "The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2."
+    },
+    {
+      "title": "Britain\u2019s next war won\u2019t be an away game: Q&A with former head of Defence Intelligence",
+      "link": "https://therecord.media/interview-jim-hockenhull-uk-defence-intelligence-russia-ukraine",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-04T16:19:00+00:00",
+      "summary": "As Chief of Defence Intelligence, General Sir Jim Hockenhull decided to declassify and publish what London knew of Russia\u2019s plans to invade Ukraine, down to a map of the routes its forces would take."
+    },
+    {
+      "title": "Polish convenience store chain \u017babka hacked through third-party account",
+      "link": "https://therecord.media/poland-convenience-store-chain-zabka-cyberattack",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-04T15:55:00+00:00",
+      "summary": "Reports said intruders appeared to gain access to the Jira environment and other sensitive data of the \u017babka retail chain. The company confirmed an intrusion occurred in late July."
+    },
+    {
+      "title": "Russian businesses erase Durov-linked products after 'terrorist' designation",
+      "link": "https://therecord.media/russian-businesses-erase-durov-linked-products-terrorist-designation",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-04T14:11:00+00:00",
+      "summary": "The designation, announced last week, came a day after Russia's Federal Security Service (FSB) charged Durov with aiding terrorist activity and said it would seek to place him on an international wanted list. The agency "
+    },
+    {
+      "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
+      "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-04T13:30:23+00:00",
+      "summary": "A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026. SafeDep verified 353 poisoned ve"
+    },
+    {
+      "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
+      "link": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-04T13:11:22+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance ut"
+    },
     {
       "title": "AI Notetaker Lets Hackers Spy on Government, Corporate Video Calls",
       "link": "https://www.darkreading.com/application-security/ai-notetaker-spy-government-corporate-video-calls",
@@ -237,6 +293,14 @@
       "summary": ""
     },
     {
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-04T00:00:00+00:00",
+      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K\u201312 teachers, college educators, and students learn, teach, research, and build."
+    },
+    {
       "title": "Apple is getting this wrong",
       "link": "https://openai.com/index/apple-is-getting-this-wrong",
       "source": "OpenAI News",
@@ -267,70 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-03T20:31:12+00:00",
       "summary": "Last month's incidents in which the AI model breached real-world systems derived from over-permissioning, especially with Internet access."
-    },
-    {
-      "title": "Bitcoin hardware wallet maker destroys some inventory after more than $88 million stolen",
-      "link": "https://therecord.media/bitcoin-theft-coldcard-cyberattack",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-03T20:15:00+00:00",
-      "summary": "The company behind a popular hardware wallet for bitcoin owners was forced to destroy part of its inventory after thieves siphoned more than $88 million from customers through a firmware vulnerability."
-    },
-    {
-      "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
-      "link": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-03T18:43:53+00:00",
-      "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software su"
-    },
-    {
-      "title": "Trump\u2019s AI protectionism has come for robotics",
-      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-03T18:43:30+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, "
-    },
-    {
-      "title": "Hackers steal 31,000 records identifying people behind Liechtenstein companies, foundations",
-      "link": "https://therecord.media/hackers-steal-records-liechtenstein-companies-foundations",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-03T17:36:00+00:00",
-      "summary": "A cyberattack compromised tens of thousands of records related to companies, foundations and trusts in Liechtenstein, prompting the government to to form a \u201ccrisis unit\u201d to address the breach."
-    },
-    {
-      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
-      "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-03T16:24:47+00:00",
-      "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen. Unit 42 detailed three attac"
-    },
-    {
-      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
-      "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-03T16:15:13+00:00",
-      "summary": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over the "
-    },
-    {
-      "title": "Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-03T15:42:18+00:00",
-      "summary": "Researchers intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking to launch further attacks."
-    },
-    {
-      "title": "Is There Really a Fix for CISO Fatigue?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/fix-for-ciso-fatigue",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-03T14:00:00+00:00",
-      "summary": "Accountability without any real authority is driving CISO burnout, and organizations need to take notice."
     }
   ]
 }
