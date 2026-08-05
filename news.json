@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T19:15:53.764340+00:00",
+  "generated_at": "2026-08-05T01:18:57.125230+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,22 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "OpenAI: Cambodian scam centers used ChatGPT to lure Indian nationals, conduct investment fraud",
+      "link": "https://therecord.media/openai-chatgpt-cambodia-scam-centers-disruption",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-04T20:15:00+00:00",
+      "summary": "A tip from WhatsApp led OpenAI to ban multiple accounts associated with investment scams and human trafficking operations based in Cambodian scam centers."
+    },
+    {
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-04T19:00:00+00:00",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation."
+    },
     {
       "title": "Smoke#Screen RMM Takeover Gambit Exposes Threat Actor Playbook",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/latest-rmm-fueled-phishing-attack-exposes-threat-actor-playbook",
@@ -91,14 +107,6 @@
       "category": "cybersecurity",
       "published": "2026-08-04T12:46:19+00:00",
       "summary": "This morning, I noticed specific sources \"hunting\" for vulnerabilities in URLs that I haven&#;x26;#;39;t noticed before. All of these URLs appear to be associated with diagnostic tools:"
-    },
-    {
-      "title": "Swiss IT agency hacked, 200 accounts compromised, SharePoint vulns suspected",
-      "link": "https://therecord.media/swiss-bit-foitt-hacked-possibly-sharepoint-vulnerabilities",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-04T12:45:00+00:00",
-      "summary": "The Federal Office for Information Technology and Communications (BIT) said specialists detected anomalies in on-premises Microsoft servers. The Swiss agency could not confirm exactly how the hackers got in."
     },
     {
       "title": "The Download: US robot restrictions, and ICE\u2019s DNA grab",
@@ -323,14 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-03T20:42:28+00:00",
       "summary": "Researchers dug into the root of the problem with the goal of promoting industry collaboration on improved protective measures."
-    },
-    {
-      "title": "Anthropic: Claude Attacks Result of Security Gaps, Not Model Issues",
-      "link": "https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-03T20:31:12+00:00",
-      "summary": "Last month's incidents in which the AI model breached real-world systems derived from over-permissioning, especially with Internet access."
     }
   ]
 }
