@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T01:18:57.125230+00:00",
+  "generated_at": "2026-08-05T08:12:02.018151+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,158 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Angola's Largest Telco Breached Hours Before IPO",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-05T08:00:00+00:00",
+      "summary": "Unitel, Angola's dominant mobile operator, continues to recover from a cyberattack that caused outages the day of the government-owned telco's public offering."
+    },
+    {
+      "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
+      "link": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-05T05:47:19+00:00",
+      "summary": "Cybersecurity researchers have disclosed what has been described as a \"long-standing supply chain attack\" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users. Ac"
+    },
+    {
+      "title": "Micro-Segmentation Anomaly Detection in Zero-Trust Software-Defined Network Fabrics",
+      "link": "https://arxiv.org/abs/2608.02627",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-05T04:00:00+00:00",
+      "summary": "arXiv:2608.02627v1 Announce Type: new Abstract: Zero Trust Architecture (ZTA) principles need rigorous network segmentation and ongoing verification to reduce implicit trust and lateral threat propagation. This paper inv"
+    },
+    {
+      "title": "Secure AI Watermarking Framework for IP Protection in Multi-Tenant Cloud Platforms",
+      "link": "https://arxiv.org/abs/2608.02656",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-05T04:00:00+00:00",
+      "summary": "arXiv:2608.02656v1 Announce Type: new Abstract: The Secured data safe guard transaction with multi-tenant environments run on private-protected authenticate platforms runs by secured handed environments that emerges with"
+    },
+    {
+      "title": "Your Agentic LLMs Secretly Encode Latent Signals of Indirect Prompt-Injection Exposure",
+      "link": "https://arxiv.org/abs/2608.02657",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-05T04:00:00+00:00",
+      "summary": "arXiv:2608.02657v1 Announce Type: new Abstract: Agentic LLMs are vulnerable to indirect prompt injection (IPI) attacks, e.g., malicious side-tasks hidden in external tool results. While many efforts have sought to addres"
+    },
+    {
+      "title": "ZK-SR117: A Chunked Zero-Knowledge Attestation Design for Aggregated Fair-Lending Metrics, with a Control Mapping toward Full SR 11-7 Coverage",
+      "link": "https://arxiv.org/abs/2608.02664",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-05T04:00:00+00:00",
+      "summary": "arXiv:2608.02664v1 Announce Type: new Abstract: Deploying ML models in regulated decision-making (credit underwriting, fraud detection, loan approval) requires demonstrating fairness and robustness to auditors without ex"
+    },
+    {
+      "title": "Single Canonical Prompts Underestimate LLM Safety's Surface-Form Sensitivity",
+      "link": "https://arxiv.org/abs/2608.02665",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-05T04:00:00+00:00",
+      "summary": "arXiv:2608.02665v1 Announce Type: new Abstract: A benchmark score is a measurement instrument, yet most benchmarks read each item at a single canonical surface form. We ask whether that reading is faithful: when an item'"
+    },
+    {
+      "title": "Vulnerabilities, Secrets and Misconfiguration in the Highest-Exposure Docker Hub Images",
+      "link": "https://arxiv.org/abs/2608.02669",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-05T04:00:00+00:00",
+      "summary": "arXiv:2608.02669v1 Announce Type: new Abstract: Docker Hub is the registry underneath most container deployments, and a flaw in a widely reused base image is inherited by every image built on it. Prior ecosystem-scale me"
+    },
+    {
+      "title": "Permission Denied: Policy-Graded Evaluation of Coding Agents in Hardened Environments",
+      "link": "https://arxiv.org/abs/2608.02670",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-05T04:00:00+00:00",
+      "summary": "arXiv:2608.02670v1 Announce Type: new Abstract: Coding agents increasingly run inside organizations whose security controls (scoped credentials, restricted egress, read-only filesystems, non-root execution) constrain the"
+    },
+    {
+      "title": "On the Performance of Malware Detection Classifiers Using Hardware Performance Counters",
+      "link": "https://arxiv.org/abs/2608.02671",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-05T04:00:00+00:00",
+      "summary": "arXiv:2608.02671v1 Announce Type: new Abstract: Malware detection using Hardware Performance Counters (HPC) has emerged as a promising solution to improve the security of computing systems as a complement to antivirus so"
+    },
+    {
+      "title": "Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety",
+      "link": "https://arxiv.org/abs/2608.00001",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-05T04:00:00+00:00",
+      "summary": "arXiv:2608.00001v1 Announce Type: new Abstract: This research note revisits Leibniz's mill, Turing's imitation game, and Searle's Chinese Room through the Conservation-Congruent Encoding (CCE) framework. It formalises a "
+    },
+    {
+      "title": "AutoFOAM: The Self-Refining Autonomous OpenFOAM Agent",
+      "link": "https://arxiv.org/abs/2608.00003",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-05T04:00:00+00:00",
+      "summary": "arXiv:2608.00003v1 Announce Type: new Abstract: Computational Fluid Dynamics (CFD) plays an important role in modern engineering, but using open-source solvers such as OpenFOAM requires considerable knowledge and skills,"
+    },
+    {
+      "title": "Enhancing LLMs with Context-Specific Knowledge for Mitigating Misinformation in SMEs: A RAG-based Modeling and Analysis",
+      "link": "https://arxiv.org/abs/2608.00006",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-05T04:00:00+00:00",
+      "summary": "arXiv:2608.00006v1 Announce Type: new Abstract: Large Language Models (LLMs), a part of artificial intelligence (AI), are increasingly being adopted by Small and Medium Enterprises (SMEs) to enhance question-answering ca"
+    },
+    {
+      "title": "Energy Efficiency of Locally Deployed LLMs: A Preliminary Quantitative GPU Power Benchmark on Consumer Hardware",
+      "link": "https://arxiv.org/abs/2608.00008",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-05T04:00:00+00:00",
+      "summary": "arXiv:2608.00008v1 Announce Type: new Abstract: The local deployment of large language models (LLMs) is gaining traction due to privacy concerns and the desire for on-premise inference. However, the energy costs on consu"
+    },
+    {
+      "title": "CoT-Core: Accelerating LLM Evaluation via CoT-Aware Coreset Selection",
+      "link": "https://arxiv.org/abs/2608.00014",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-05T04:00:00+00:00",
+      "summary": "arXiv:2608.00014v1 Announce Type: new Abstract: Evaluating Large Language Models (LLMs) incurs prohibitive computational overhead during continuous development processes. While coreset selection accelerates evaluation, e"
+    },
+    {
+      "title": "Optimization and Constraint Modeling using LLMs with a Retrieval Augmented Generation Process",
+      "link": "https://arxiv.org/abs/2608.00015",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-05T04:00:00+00:00",
+      "summary": "arXiv:2608.00015v1 Announce Type: new Abstract: Both optimization modeling and constraint modeling are non-trivial problems requiring deep domain expertise and proficiency in modeling formalism languages. Despite their i"
+    },
+    {
+      "title": "Memory Reward Inflation in Self-Improving LLM Agents",
+      "link": "https://arxiv.org/abs/2608.00017",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-05T04:00:00+00:00",
+      "summary": "arXiv:2608.00017v1 Announce Type: new Abstract: Self-improving LLM agents increasingly learn from experience without updating any weights. Each episode is stored in an external memory, scored, and retrieved for similar f"
+    },
+    {
+      "title": "Request-Level Energy Attribution for Batched LLM Serving",
+      "link": "https://arxiv.org/abs/2608.00026",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-05T04:00:00+00:00",
+      "summary": "arXiv:2608.00026v1 Announce Type: new Abstract: Batched LLM serving improves throughput but complicates energy accounting. GPU power telemetry is aggregate, whereas sustainability reporting, chargeback, and workload anal"
+    },
+    {
+      "title": "ISC Stormcast For Wednesday, August 5th, 2026 https://isc.sans.edu/podcastdetail/10038, (Wed, Aug 5th)",
+      "link": "https://isc.sans.edu/diary/rss/33216",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-05T02:00:02+00:00",
+      "summary": ""
+    },
     {
       "title": "OpenAI: Cambodian scam centers used ChatGPT to lure Indian nationals, conduct investment fraud",
       "link": "https://therecord.media/openai-chatgpt-cambodia-scam-centers-disruption",
@@ -149,148 +301,12 @@
       "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocume"
     },
     {
-      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
-      "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-04T07:00:13+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active e"
-    },
-    {
       "title": "Device Code Phishing Up 1,500% in 2026; Vishing Doubles",
       "link": "https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-08-04T07:00:00+00:00",
       "summary": "Newer social engineering techniques help attackers ignore entrenched security controls and limit the evidence they leave behind."
-    },
-    {
-      "title": "Skillsets on the Chain: A Blockchain-based Zero-Trust Framework for Agentic AI Networking",
-      "link": "https://arxiv.org/abs/2608.00104",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-04T04:00:00+00:00",
-      "summary": "arXiv:2608.00104v1 Announce Type: new Abstract: Agentic AI networking (AgentNet) systems rely heavily on third-party skillset implementations and distributed multi-agent collaboration, yet they face major claim-to-capabi"
-    },
-    {
-      "title": "Deep Learning for Cyber Threat Detection and Mitigation in Healthcare-IoT",
-      "link": "https://arxiv.org/abs/2608.00118",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-04T04:00:00+00:00",
-      "summary": "arXiv:2608.00118v1 Announce Type: new Abstract: Cybersecurity is a fundamental requirement for protecting wearable devices used in healthcare Internet of Things (H-IoT) systems. Security failures in these resource-constr"
-    },
-    {
-      "title": "Enforcing Access Control in Distributed Version Control Systems",
-      "link": "https://arxiv.org/abs/2608.00132",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-04T04:00:00+00:00",
-      "summary": "arXiv:2608.00132v1 Announce Type: new Abstract: Version control systems (VCS), including central VCS (CVCS) and distributed VCS (DVCS), are widely adopted to manage the changes to various types of data. Unlike the CVCS w"
-    },
-    {
-      "title": "Stateful Cooperative Agents Safeguarding LLMs Against Evolving Multi-Turn Attacks",
-      "link": "https://arxiv.org/abs/2608.00134",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-04T04:00:00+00:00",
-      "summary": "arXiv:2608.00134v1 Announce Type: new Abstract: As LLMs become increasingly integrated into complex applications, their vulnerability to adversarial attacks has raised significant concerns. However, existing defenses rem"
-    },
-    {
-      "title": "Symbolic Attack Chain Generation from Atomic Red Team Techniques: An Empirical Study of Predicate Representation Granularity",
-      "link": "https://arxiv.org/abs/2608.00143",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-04T04:00:00+00:00",
-      "summary": "arXiv:2608.00143v1 Announce Type: new Abstract: Automated attack chain generation is critical for modern cybersecurity, yet manual construction fails to scale as adversary behaviors expand. While classical AI planning us"
-    },
-    {
-      "title": "Exposed by Design: A Dynamic Security Assessment of Internet-Facing MCP Servers at Scale",
-      "link": "https://arxiv.org/abs/2608.00150",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-04T04:00:00+00:00",
-      "summary": "arXiv:2608.00150v1 Announce Type: new Abstract: The Model Context Protocol (MCP) has seen rapid adoption since its November 2024 launch, with over 21,000 server instances detectable on the public internet. We present the"
-    },
-    {
-      "title": "From Monoliths to Swarms: A Study of Attack Surface Evolution in the Transition to Multi-Agent Web Systems",
-      "link": "https://arxiv.org/abs/2608.00202",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-04T04:00:00+00:00",
-      "summary": "arXiv:2608.00202v1 Announce Type: new Abstract: Large Language Model (LLM)-based web agents are increasingly evolving from single-agent systems (SAS) to multi-agent systems (MAS). While MAS can lead to improved task perf"
-    },
-    {
-      "title": "Reflection, Education, Consistency: Towards Best Ethics Practices At Security And Privacy Conferences",
-      "link": "https://arxiv.org/abs/2608.00282",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-04T04:00:00+00:00",
-      "summary": "arXiv:2608.00282v1 Announce Type: new Abstract: Research ethics is a controversial and emotionally charged topic in the security and privacy community, sparking discussions at conferences and on social media. In recent y"
-    },
-    {
-      "title": "Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety",
-      "link": "https://arxiv.org/abs/2608.00001",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-04T04:00:00+00:00",
-      "summary": "arXiv:2608.00001v1 Announce Type: new Abstract: This research note revisits Leibniz's mill, Turing's imitation game, and Searle's Chinese Room through the Conservation-Congruent Encoding (CCE) framework. It formalises a "
-    },
-    {
-      "title": "AutoFOAM: The Self-Refining Autonomous OpenFOAM Agent",
-      "link": "https://arxiv.org/abs/2608.00003",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-04T04:00:00+00:00",
-      "summary": "arXiv:2608.00003v1 Announce Type: new Abstract: Computational Fluid Dynamics (CFD) plays an important role in modern engineering, but using open-source solvers such as OpenFOAM requires considerable knowledge and skills,"
-    },
-    {
-      "title": "Enhancing LLMs with Context-Specific Knowledge for Mitigating Misinformation in SMEs: A RAG-based Modeling and Analysis",
-      "link": "https://arxiv.org/abs/2608.00006",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-04T04:00:00+00:00",
-      "summary": "arXiv:2608.00006v1 Announce Type: new Abstract: Large Language Models (LLMs), a part of artificial intelligence (AI), are increasingly being adopted by Small and Medium Enterprises (SMEs) to enhance question-answering ca"
-    },
-    {
-      "title": "Energy Efficiency of Locally Deployed LLMs: A Preliminary Quantitative GPU Power Benchmark on Consumer Hardware",
-      "link": "https://arxiv.org/abs/2608.00008",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-04T04:00:00+00:00",
-      "summary": "arXiv:2608.00008v1 Announce Type: new Abstract: The local deployment of large language models (LLMs) is gaining traction due to privacy concerns and the desire for on-premise inference. However, the energy costs on consu"
-    },
-    {
-      "title": "CoT-Core: Accelerating LLM Evaluation via CoT-Aware Coreset Selection",
-      "link": "https://arxiv.org/abs/2608.00014",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-04T04:00:00+00:00",
-      "summary": "arXiv:2608.00014v1 Announce Type: new Abstract: Evaluating Large Language Models (LLMs) incurs prohibitive computational overhead during continuous development processes. While coreset selection accelerates evaluation, e"
-    },
-    {
-      "title": "Optimization and Constraint Modeling using LLMs with a Retrieval Augmented Generation Process",
-      "link": "https://arxiv.org/abs/2608.00015",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-04T04:00:00+00:00",
-      "summary": "arXiv:2608.00015v1 Announce Type: new Abstract: Both optimization modeling and constraint modeling are non-trivial problems requiring deep domain expertise and proficiency in modeling formalism languages. Despite their i"
-    },
-    {
-      "title": "Memory Reward Inflation in Self-Improving LLM Agents",
-      "link": "https://arxiv.org/abs/2608.00017",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-04T04:00:00+00:00",
-      "summary": "arXiv:2608.00017v1 Announce Type: new Abstract: Self-improving LLM agents increasingly learn from experience without updating any weights. Each episode is stored in an external memory, scored, and retrieved for similar f"
-    },
-    {
-      "title": "Request-Level Energy Attribution for Batched LLM Serving",
-      "link": "https://arxiv.org/abs/2608.00026",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-04T04:00:00+00:00",
-      "summary": "arXiv:2608.00026v1 Announce Type: new Abstract: Batched LLM serving improves throughput but complicates energy accounting. GPU power telemetry is aggregate, whereas sustainability reporting, chargeback, and workload anal"
     },
     {
       "title": "ISC Stormcast For Tuesday, August 4th, 2026 https://isc.sans.edu/podcastdetail/10036, (Tue, Aug 4th)",
@@ -315,22 +331,6 @@
       "category": "ai",
       "published": "2026-08-03T22:00:00+00:00",
       "summary": "OpenAI addresses Apple\u2019s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened."
-    },
-    {
-      "title": "Attackers Exploit N-able Patch Bypass Flaw on RMM Servers",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-03T21:21:11+00:00",
-      "summary": "Over the weekend, the vendor discovered another vector of authentication bypass CVE-2026-18577 that gives attackers administrator access."
-    },
-    {
-      "title": "New Tool Traces AI Videos Back to Their Source",
-      "link": "https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-03T20:42:28+00:00",
-      "summary": "Researchers dug into the root of the problem with the goal of promoting industry collaboration on improved protective measures."
     }
   ]
 }
