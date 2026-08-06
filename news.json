@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T01:16:25.903722+00:00",
+  "generated_at": "2026-08-06T08:10:59.467602+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,150 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
+      "link": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-06T06:04:30+00:00",
+      "summary": "Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The intrus"
+    },
+    {
+      "title": "Securing Contrastive mmWave-based Human Activity Recognition against Adversarial Label Flipping",
+      "link": "https://arxiv.org/abs/2608.04029",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-06T04:00:00+00:00",
+      "summary": "arXiv:2608.04029v1 Announce Type: new Abstract: Wireless Human Activity Recognition (HAR), leveraging their non-intrusive nature, has the potential to revolutionize various sectors, including healthcare, virtual reality,"
+    },
+    {
+      "title": "SoK: How Frontier AI Reshapes System-Level Security Risk Dynamics in Critical Infrastructure",
+      "link": "https://arxiv.org/abs/2608.04033",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-06T04:00:00+00:00",
+      "summary": "arXiv:2608.04033v1 Announce Type: new Abstract: Frontier artificial intelligence (FAI), encompassing large-scale, general-purpose AI systems, including large language models, multimodal foundation models, and agentic sys"
+    },
+    {
+      "title": "A Multimodal Automatic Redteaming Evaluation based on Atomic Jailbreak Strategy Decoupling and Combination",
+      "link": "https://arxiv.org/abs/2608.04034",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-06T04:00:00+00:00",
+      "summary": "arXiv:2608.04034v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) have achieved impressive progress in image-text comprehension and generation, yet they remain susceptible to jailbreak attacks that"
+    },
+    {
+      "title": "AMD SEV-SNP: A Confidential Computing Primer",
+      "link": "https://arxiv.org/abs/2608.04039",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-06T04:00:00+00:00",
+      "summary": "arXiv:2608.04039v1 Announce Type: new Abstract: This paper is a technical primer on AMD Secure Encrypted Virtualization with Secure Nested Paging (SEV-SNP), a hardware confidential computing implementation that provides "
+    },
+    {
+      "title": "Beyond the QBER Threshold: A Temporal QBER Based Machine Learning Framework for Multi Attack Detection in BB84 QKD",
+      "link": "https://arxiv.org/abs/2608.04047",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-06T04:00:00+00:00",
+      "summary": "arXiv:2608.04047v1 Announce Type: new Abstract: Conventional BB84 Quantum Key Distribution (QKD) systems rely on a fixed 11% Quantum Bit Error Rate (QBER) threshold to detect eavesdropping. However, stealthy attacks can "
+    },
+    {
+      "title": "When Modalities Fail to Tango: Conformal Backdoor Detection in Multimodal Contrastive Learning",
+      "link": "https://arxiv.org/abs/2608.04052",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-06T04:00:00+00:00",
+      "summary": "arXiv:2608.04052v1 Announce Type: new Abstract: Backdoor attacks in multimodal contrastive learning (MCL) have garnered growing attention in recent years, as many downstream tasks critically depend on pre-trained MCL mod"
+    },
+    {
+      "title": "AgentAntibody: An Adaptive Immune System for Defending LLM Agents against Prompt Injection",
+      "link": "https://arxiv.org/abs/2608.04053",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-06T04:00:00+00:00",
+      "summary": "arXiv:2608.04053v1 Announce Type: new Abstract: Prompt injection remains a critical threat to LLM agents, yet existing defenses treat each task as a self-contained problem, independent of previous encounters. In practice"
+    },
+    {
+      "title": "An Inline Control Architecture for Language Models in Intelligent Transportation Systems",
+      "link": "https://arxiv.org/abs/2608.04065",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-06T04:00:00+00:00",
+      "summary": "arXiv:2608.04065v1 Announce Type: new Abstract: Vehicle-to-everything (V2X) systems increasingly incorporate large language models (LLMs) for semantic tasks such as message summarization, operator assistance, and decisio"
+    },
+    {
+      "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
+      "link": "https://arxiv.org/abs/2608.04012",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-06T04:00:00+00:00",
+      "summary": "arXiv:2608.04012v1 Announce Type: new Abstract: Artificial intelligence systems are increasingly expected to operate over repeated cycles of interaction, adaptation, and update rather than through isolated one-shot outpu"
+    },
+    {
+      "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
+      "link": "https://arxiv.org/abs/2608.04066",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-06T04:00:00+00:00",
+      "summary": "arXiv:2608.04066v1 Announce Type: new Abstract: How do you verify a long-horizon agent when its own state and self-reports are exactly what you cannot trust? We present an agent instrument built so that verification is s"
+    },
+    {
+      "title": "Monte Carlo Tree Search for Table-to-Multimodal Report Generation",
+      "link": "https://arxiv.org/abs/2608.04071",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-06T04:00:00+00:00",
+      "summary": "arXiv:2608.04071v1 Announce Type: new Abstract: Automatically generating professional multimodal reports comprising both textual analysis and visual charts from structured tabular data is a critical challenge in data int"
+    },
+    {
+      "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
+      "link": "https://arxiv.org/abs/2608.04077",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-06T04:00:00+00:00",
+      "summary": "arXiv:2608.04077v1 Announce Type: new Abstract: Evaluating financial AI agents requires criteria aligned with real professional work. Existing rubric methods typically derive criteria from task prompts or model outputs, "
+    },
+    {
+      "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
+      "link": "https://arxiv.org/abs/2608.04095",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-06T04:00:00+00:00",
+      "summary": "arXiv:2608.04095v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly used as personalized assistants in high-stakes domains such as financial advising, yet it remains unclear whether they ca"
+    },
+    {
+      "title": "BrainBench: Benchmarking Large Language Models for Comprehensive EEG Understanding",
+      "link": "https://arxiv.org/abs/2608.04156",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-06T04:00:00+00:00",
+      "summary": "arXiv:2608.04156v1 Announce Type: new Abstract: Electroencephalography (EEG) analysis extends beyond assigning predefined labels to recordings; it requires workflows connecting natural-language instructions, signal proce"
+    },
+    {
+      "title": "Adversarially Robust Abductive Fusion of Pre-trained Transformer-based Perception Models",
+      "link": "https://arxiv.org/abs/2608.04190",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-06T04:00:00+00:00",
+      "summary": "arXiv:2608.04190v1 Announce Type: new Abstract: Deploying pre-trained perception models in novel environments degrades their accuracy under distributional shift, and assembling them alone does not recover it: combiners s"
+    },
+    {
+      "title": "MatrAIx: Simulating the World with 8.3 Billion Persona Agents",
+      "link": "https://arxiv.org/abs/2608.04205",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-06T04:00:00+00:00",
+      "summary": "arXiv:2608.04205v1 Announce Type: new Abstract: Human evaluation of AI systems and digital products is costly, slow, and difficult to scale. Offline evaluations are more scalable but often abstract away human diversity a"
+    },
+    {
+      "title": "ISC Stormcast For Thursday, August 6th, 2026 https://isc.sans.edu/podcastdetail/10040, (Thu, Aug 6th)",
+      "link": "https://isc.sans.edu/diary/rss/33222",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-06T02:00:02+00:00",
+      "summary": ""
+    },
     {
       "title": "22 Seconds to Compromise: How Automated SSH Actors Move From Login to Persistence Before You Can Blink [Guest Diary], (Thu, Aug 6th)",
       "link": "https://isc.sans.edu/diary/rss/33220",
@@ -187,150 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-05T11:43:27+00:00",
       "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for rou"
-    },
-    {
-      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
-      "link": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-05T11:43:19+00:00",
-      "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication pa"
-    },
-    {
-      "title": "NASA\u2019s new dark-energy space telescope can also detect killer asteroids",
-      "link": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-05T08:06:40+00:00",
-      "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that"
-    },
-    {
-      "title": "Angola's Largest Telco Breached Hours Before IPO",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-05T08:00:00+00:00",
-      "summary": "Unitel, Angola's dominant mobile operator, continues to recover from a cyberattack that caused outages the day of the government-owned telco's public offering."
-    },
-    {
-      "title": "Micro-Segmentation Anomaly Detection in Zero-Trust Software-Defined Network Fabrics",
-      "link": "https://arxiv.org/abs/2608.02627",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-05T04:00:00+00:00",
-      "summary": "arXiv:2608.02627v1 Announce Type: new Abstract: Zero Trust Architecture (ZTA) principles need rigorous network segmentation and ongoing verification to reduce implicit trust and lateral threat propagation. This paper inv"
-    },
-    {
-      "title": "Secure AI Watermarking Framework for IP Protection in Multi-Tenant Cloud Platforms",
-      "link": "https://arxiv.org/abs/2608.02656",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-05T04:00:00+00:00",
-      "summary": "arXiv:2608.02656v1 Announce Type: new Abstract: The Secured data safe guard transaction with multi-tenant environments run on private-protected authenticate platforms runs by secured handed environments that emerges with"
-    },
-    {
-      "title": "Your Agentic LLMs Secretly Encode Latent Signals of Indirect Prompt-Injection Exposure",
-      "link": "https://arxiv.org/abs/2608.02657",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-05T04:00:00+00:00",
-      "summary": "arXiv:2608.02657v1 Announce Type: new Abstract: Agentic LLMs are vulnerable to indirect prompt injection (IPI) attacks, e.g., malicious side-tasks hidden in external tool results. While many efforts have sought to addres"
-    },
-    {
-      "title": "ZK-SR117: A Chunked Zero-Knowledge Attestation Design for Aggregated Fair-Lending Metrics, with a Control Mapping toward Full SR 11-7 Coverage",
-      "link": "https://arxiv.org/abs/2608.02664",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-05T04:00:00+00:00",
-      "summary": "arXiv:2608.02664v1 Announce Type: new Abstract: Deploying ML models in regulated decision-making (credit underwriting, fraud detection, loan approval) requires demonstrating fairness and robustness to auditors without ex"
-    },
-    {
-      "title": "Single Canonical Prompts Underestimate LLM Safety's Surface-Form Sensitivity",
-      "link": "https://arxiv.org/abs/2608.02665",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-05T04:00:00+00:00",
-      "summary": "arXiv:2608.02665v1 Announce Type: new Abstract: A benchmark score is a measurement instrument, yet most benchmarks read each item at a single canonical surface form. We ask whether that reading is faithful: when an item'"
-    },
-    {
-      "title": "Vulnerabilities, Secrets and Misconfiguration in the Highest-Exposure Docker Hub Images",
-      "link": "https://arxiv.org/abs/2608.02669",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-05T04:00:00+00:00",
-      "summary": "arXiv:2608.02669v1 Announce Type: new Abstract: Docker Hub is the registry underneath most container deployments, and a flaw in a widely reused base image is inherited by every image built on it. Prior ecosystem-scale me"
-    },
-    {
-      "title": "Permission Denied: Policy-Graded Evaluation of Coding Agents in Hardened Environments",
-      "link": "https://arxiv.org/abs/2608.02670",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-05T04:00:00+00:00",
-      "summary": "arXiv:2608.02670v1 Announce Type: new Abstract: Coding agents increasingly run inside organizations whose security controls (scoped credentials, restricted egress, read-only filesystems, non-root execution) constrain the"
-    },
-    {
-      "title": "On the Performance of Malware Detection Classifiers Using Hardware Performance Counters",
-      "link": "https://arxiv.org/abs/2608.02671",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-05T04:00:00+00:00",
-      "summary": "arXiv:2608.02671v1 Announce Type: new Abstract: Malware detection using Hardware Performance Counters (HPC) has emerged as a promising solution to improve the security of computing systems as a complement to antivirus so"
-    },
-    {
-      "title": "Revisiting Classic Thought Experiments to Measure Consciousness for Artificial Intelligence Safety",
-      "link": "https://arxiv.org/abs/2608.00001",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-05T04:00:00+00:00",
-      "summary": "arXiv:2608.00001v1 Announce Type: new Abstract: This research note revisits Leibniz's mill, Turing's imitation game, and Searle's Chinese Room through the Conservation-Congruent Encoding (CCE) framework. It formalises a "
-    },
-    {
-      "title": "AutoFOAM: The Self-Refining Autonomous OpenFOAM Agent",
-      "link": "https://arxiv.org/abs/2608.00003",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-05T04:00:00+00:00",
-      "summary": "arXiv:2608.00003v1 Announce Type: new Abstract: Computational Fluid Dynamics (CFD) plays an important role in modern engineering, but using open-source solvers such as OpenFOAM requires considerable knowledge and skills,"
-    },
-    {
-      "title": "Enhancing LLMs with Context-Specific Knowledge for Mitigating Misinformation in SMEs: A RAG-based Modeling and Analysis",
-      "link": "https://arxiv.org/abs/2608.00006",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-05T04:00:00+00:00",
-      "summary": "arXiv:2608.00006v1 Announce Type: new Abstract: Large Language Models (LLMs), a part of artificial intelligence (AI), are increasingly being adopted by Small and Medium Enterprises (SMEs) to enhance question-answering ca"
-    },
-    {
-      "title": "Energy Efficiency of Locally Deployed LLMs: A Preliminary Quantitative GPU Power Benchmark on Consumer Hardware",
-      "link": "https://arxiv.org/abs/2608.00008",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-05T04:00:00+00:00",
-      "summary": "arXiv:2608.00008v1 Announce Type: new Abstract: The local deployment of large language models (LLMs) is gaining traction due to privacy concerns and the desire for on-premise inference. However, the energy costs on consu"
-    },
-    {
-      "title": "CoT-Core: Accelerating LLM Evaluation via CoT-Aware Coreset Selection",
-      "link": "https://arxiv.org/abs/2608.00014",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-05T04:00:00+00:00",
-      "summary": "arXiv:2608.00014v1 Announce Type: new Abstract: Evaluating Large Language Models (LLMs) incurs prohibitive computational overhead during continuous development processes. While coreset selection accelerates evaluation, e"
-    },
-    {
-      "title": "Optimization and Constraint Modeling using LLMs with a Retrieval Augmented Generation Process",
-      "link": "https://arxiv.org/abs/2608.00015",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-05T04:00:00+00:00",
-      "summary": "arXiv:2608.00015v1 Announce Type: new Abstract: Both optimization modeling and constraint modeling are non-trivial problems requiring deep domain expertise and proficiency in modeling formalism languages. Despite their i"
-    },
-    {
-      "title": "Memory Reward Inflation in Self-Improving LLM Agents",
-      "link": "https://arxiv.org/abs/2608.00017",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-05T04:00:00+00:00",
-      "summary": "arXiv:2608.00017v1 Announce Type: new Abstract: Self-improving LLM agents increasingly learn from experience without updating any weights. Each episode is stored in an external memory, scored, and retrieved for similar f"
     }
   ]
 }
