@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T13:28:33.359265+00:00",
+  "generated_at": "2026-08-06T23:46:32.888187+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,78 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "The Coordination Gap: How Attackers Are Outpacing Law Enforcement",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-06T21:42:50+00:00",
+      "summary": "The fight against cybercrime continues because threat actors have adapted their strategies to avoid deterrents, but law enforcement still operates in silos."
+    },
+    {
+      "title": "Researcher Claims Control of ChatGPT Secure Sandbox",
+      "link": "https://www.darkreading.com/cloud-security/researcher-claims-control-chatgpt-secure-sandbox",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-06T20:38:51+00:00",
+      "summary": "A researcher demonstrated a proof-of-concept attack chain that provided C2-style influence over ChatGPT's isolated sandbox during a session at Black Hat USA 2026."
+    },
+    {
+      "title": "From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture",
+      "link": "https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-06T19:00:11+00:00",
+      "summary": "Former chief security officers of the Democratic National Committee explain that a strong security-first mindset requires executive support \u2013 and a dose of absurdity."
+    },
+    {
+      "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
+      "link": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-06T17:58:30+00:00",
+      "summary": "Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies when nested virtua"
+    },
+    {
+      "title": "Cyberattack on North Carolina Ports \u2018contained\u2019 as Coast Guard, state officials investigate",
+      "link": "https://therecord.media/cyberattack-north-carolina-ports",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-06T17:15:00+00:00",
+      "summary": "North Carolina Ports is recovering from a cyberattack after its IT system was \u201chacked by an outside actor or group,\u201d requiring a switch to manual processing of operations."
+    },
+    {
+      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+      "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-06T17:13:15+00:00",
+      "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The security issues affect Cisco Catal"
+    },
+    {
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "published": "2026-08-06T17:00:56+00:00",
+      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the"
+    },
+    {
+      "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
+      "link": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-06T16:17:13+00:00",
+      "summary": "An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run. MIT CSAIL "
+    },
+    {
+      "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
+      "link": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-06T15:24:31+00:00",
+      "summary": "Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job. This week runs on cheap leverage: exposed servers, re"
+    },
     {
       "title": "Belarusian cybercriminal behind Ransom Cartel gets 16-year prison sentence",
       "link": "https://therecord.media/belarus-hacker-ransomware-sentenced",
@@ -61,36 +133,36 @@
       "summary": "A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major AI assistant: pr"
     },
     {
-      "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
-      "link": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-06T09:19:23+00:00",
-      "summary": "Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java sour"
+      "title": "Improving GPT\u20115.6 Sol in ChatGPT\u2014and expanding access to GPT-5.6 Luna for free users",
+      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-06T10:00:00+00:00",
+      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna."
     },
     {
-      "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
-      "link": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-06T08:57:30+00:00",
-      "summary": "Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them. In several of the"
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-06T06:00:00+00:00",
+      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health."
     },
     {
-      "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
-      "link": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
-      "source": "The Hacker News",
+      "title": "State Department says Trump raised cyber scam compound issue with Xi",
+      "link": "https://therecord.media/trump-xi-southeast-asia-cyber-scam-compounds",
+      "source": "The Record",
       "category": "cybersecurity",
-      "published": "2026-08-06T08:05:22+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a \"factory-shipped backdoor\" implanted in at least 20 Chinese router models from Zbtlink. According to a new report from VulnCheck, the implant appears in all 21 firmwa"
+      "published": "2026-08-06T04:00:00+00:00",
+      "summary": "President Donald Trump has talked with Chinese President Xi Jinping about Southeast Asian scam compounds, a State Department official told senators at a hearing on the transnational issue."
     },
     {
-      "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
-      "link": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
-      "source": "The Hacker News",
+      "title": "Republic of Georgia alleges foreign disinfo campaign sought to scare off Russian tourists",
+      "link": "https://therecord.media/georgia-alleges-foreign-disinformation-scare-russian-tourists",
+      "source": "The Record",
       "category": "cybersecurity",
-      "published": "2026-08-06T07:19:54+00:00",
-      "summary": "A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. Between 2021 and 202"
+      "published": "2026-08-06T04:00:00+00:00",
+      "summary": "Georgia's State Security Service is investigating whether foreign entities were behind the spread of fabricated stories claiming that Georgians were mistreating Russian tourists."
     },
     {
       "title": "Securing Contrastive mmWave-based Human Activity Recognition against Adversarial Label Flipping",
@@ -237,6 +309,14 @@
       "summary": "[This is a Guest Diary by Daryl Jiminez, an ISC intern as part of the SANS.edu BACS program]"
     },
     {
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-06T00:00:00+00:00",
+      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior."
+    },
+    {
       "title": "AI Sends Global Crime Syndicates Into Fraud Nirvana",
       "link": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
       "source": "Dark Reading",
@@ -251,86 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-05T23:30:00+00:00",
       "summary": "Attackers can take control of agents through malicious instructions hidden in content supplied to AI browsers, and there's no simple fix for the threat."
-    },
-    {
-      "title": "No Perfect Fix for AI Browser Prompt Injection Flaws",
-      "link": "https://www.darkreading.com/application-security/no-perfect-fix-ai-browser-prompt-injection-flaws",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-05T22:18:25+00:00",
-      "summary": "AI browsers from top vendors remain vulnerable to prompt injection attacks despite multiple security guardrails, according to new research."
-    },
-    {
-      "title": "Chinese telcos maintain deep US presence despite Salt Typhoon links, House committee says",
-      "link": "https://therecord.media/chinese-hackers-telecoms-house",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-05T20:45:00+00:00",
-      "summary": "Three Chinese telecommunications giants continue to have footholds in the U.S. internet ecosystem despite their alleged role in previous Chinese hacking campaigns, a House committee report concluded."
-    },
-    {
-      "title": "Canadian man pleads guilty to Snowflake hacks that led to 165 breaches",
-      "link": "https://therecord.media/guilty-plea-snowflake-hack-connor-riley-moucka",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-05T20:15:00+00:00",
-      "summary": "A 26-year-old from Ontario faces as many as 32 years in prison after pleading guilty to fraud, identity theft and conspiracy charges related to the 2024 hacks of cloud platform Snowflake."
-    },
-    {
-      "title": "CSS: The Hidden Threat Lurking in Your Inbox",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/css-hidden-threat-lurking-inbox",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-05T19:47:55+00:00",
-      "summary": "CSS was once just about design. Now researchers warn it's powerful enough to exfiltrate data from webmail \u2014 and some vendors aren't prepared."
-    },
-    {
-      "title": "15 TP-Link Bugs Expose Risks in Zero-Trust Provisioning",
-      "link": "https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-05T19:08:36+00:00",
-      "summary": "Researchers are calling attention to the risks inherent in automated network device provisioning, using a world-leading device manufacturer as a case study."
-    },
-    {
-      "title": "Flaws in Google APK for Python Unlock Agent-to-Agent Attack",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/flaws-google-apk-python-agent-to-agent-attack",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-05T18:03:31+00:00",
-      "summary": "Google has fixed the issues, which exploited a trust boundary between two AI agents with different privilege levels to trigger automation that could compromise the supply chain."
-    },
-    {
-      "title": "Don't Revoke That Token Yet: Inside the keyv/cacheable npm Worm, (Wed, Aug 5th)",
-      "link": "https://isc.sans.edu/diary/rss/33218",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-05T17:56:15+00:00",
-      "summary": "When you learn that a compromised package executed on one of your build hosts, muscle memory takes over: revoke the npm token, rotate the GitHub PAT, cycle the cloud keys. That reflex has been correct in almost every sup"
-    },
-    {
-      "title": "Dutch retailer De Bijenkorf warns customer data may be exposed after cyber incident",
-      "link": "https://therecord.media/de-bijenkorf-luxury-retailer-third-party-cyber-incident",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-05T15:36:00+00:00",
-      "summary": "Amsterdam-based luxury goods chain De Bijenkorf is the latest retailer to announce a cyber incident involving a third-party logistics provider."
-    },
-    {
-      "title": "Puzzle Corner",
-      "link": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-05T14:56:29+00:00",
-      "summary": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD \u201995, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner \u2019"
-    },
-    {
-      "title": "Cyberattacks on water systems expand to 12 states as South Dakota, Georgia announce incidents",
-      "link": "https://therecord.media/iran-cyberattacks-water-treatment",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-05T14:00:00+00:00",
-      "summary": "Water utilities in at least 12 states have reported cyberattacks on their operational technology, as the scope of a campaign allegedly linked to Iranian hackers continues to grow."
     }
   ]
 }
