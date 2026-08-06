@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T08:10:59.467602+00:00",
+  "generated_at": "2026-08-06T13:28:33.359265+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,12 +13,84 @@
   ],
   "items": [
     {
-      "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
-      "link": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
+      "title": "Belarusian cybercriminal behind Ransom Cartel gets 16-year prison sentence",
+      "link": "https://therecord.media/belarus-hacker-ransomware-sentenced",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-06T13:15:00+00:00",
+      "summary": "A Belarusian national active in the cybercriminal world for decades was sentenced to 16 years in U.S. prison for running the Ransom Cartel ransomware operation."
+    },
+    {
+      "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
+      "link": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
       "source": "The Hacker News",
       "category": "cybersecurity",
-      "published": "2026-08-06T06:04:30+00:00",
-      "summary": "Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The intrus"
+      "published": "2026-08-06T12:16:58+00:00",
+      "summary": "Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network. Its August 3 scan co"
+    },
+    {
+      "title": "The Download: Google\u2019s AI shake-up and Meta\u2019s rogue model",
+      "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-06T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Google\u2019s AI empire is being reshaped. Here\u2019s what\u2019s changed. After a wave of painf"
+    },
+    {
+      "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps",
+      "link": "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-06T11:49:48+00:00",
+      "summary": "Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains. Introduced in the JavaScript cryptography library 12 years ago, the function supplied weak "
+    },
+    {
+      "title": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses",
+      "link": "https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-06T11:33:08+00:00",
+      "summary": "Cybersecurity researchers have disclosed a security issue with Apple's iCloud Private Relay tool that can expose a user's real IP address. Introduced with iOS 15, iCloud Private Relay employs a dual-hop architecture to e"
+    },
+    {
+      "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
+      "link": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-06T11:30:00+00:00",
+      "summary": "A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major AI assistant: pr"
+    },
+    {
+      "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
+      "link": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-06T09:19:23+00:00",
+      "summary": "Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java sour"
+    },
+    {
+      "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
+      "link": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-06T08:57:30+00:00",
+      "summary": "Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them. In several of the"
+    },
+    {
+      "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
+      "link": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-06T08:05:22+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a \"factory-shipped backdoor\" implanted in at least 20 Chinese router models from Zbtlink. According to a new report from VulnCheck, the implant appears in all 21 firmwa"
+    },
+    {
+      "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
+      "link": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-06T07:19:54+00:00",
+      "summary": "A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. Between 2021 and 202"
     },
     {
       "title": "Securing Contrastive mmWave-based Human Activity Recognition against Adversarial Label Flipping",
@@ -221,22 +293,6 @@
       "summary": "Researchers are calling attention to the risks inherent in automated network device provisioning, using a world-leading device manufacturer as a case study."
     },
     {
-      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
-      "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-05T18:44:31+00:00",
-      "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had b"
-    },
-    {
-      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
-      "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-05T18:33:47+00:00",
-      "summary": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonatio"
-    },
-    {
       "title": "Flaws in Google APK for Python Unlock Agent-to-Agent Attack",
       "link": "https://www.darkreading.com/vulnerabilities-threats/flaws-google-apk-python-agent-to-agent-attack",
       "source": "Dark Reading",
@@ -253,28 +309,12 @@
       "summary": "When you learn that a compromised package executed on one of your build hosts, muscle memory takes over: revoke the npm token, rotate the GitHub PAT, cycle the cloud keys. That reflex has been correct in almost every sup"
     },
     {
-      "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
-      "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-05T15:36:03+00:00",
-      "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms. One such servic"
-    },
-    {
       "title": "Dutch retailer De Bijenkorf warns customer data may be exposed after cyber incident",
       "link": "https://therecord.media/de-bijenkorf-luxury-retailer-third-party-cyber-incident",
       "source": "The Record",
       "category": "cybersecurity",
       "published": "2026-08-05T15:36:00+00:00",
       "summary": "Amsterdam-based luxury goods chain De Bijenkorf is the latest retailer to announce a cyber incident involving a third-party logistics provider."
-    },
-    {
-      "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
-      "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-05T15:14:05+00:00",
-      "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both pat"
     },
     {
       "title": "Puzzle Corner",
@@ -285,52 +325,12 @@
       "summary": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD \u201995, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner \u2019"
     },
     {
-      "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
-      "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-05T14:27:30+00:00",
-      "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django. The three most serious: An unauthenticated flaw in Veeam's con"
-    },
-    {
       "title": "Cyberattacks on water systems expand to 12 states as South Dakota, Georgia announce incidents",
       "link": "https://therecord.media/iran-cyberattacks-water-treatment",
       "source": "The Record",
       "category": "cybersecurity",
       "published": "2026-08-05T14:00:00+00:00",
       "summary": "Water utilities in at least 12 states have reported cyberattacks on their operational technology, as the scope of a campaign allegedly linked to Iranian hackers continues to grow."
-    },
-    {
-      "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
-      "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-05T13:41:27+00:00",
-      "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty"
-    },
-    {
-      "title": "Anthropic AI agent faked identities, phished real developers in UK government hacking test",
-      "link": "https://therecord.media/anthropic-ai-hacking-uk",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-05T13:00:00+00:00",
-      "summary": "An artificial intelligence agent built by Anthropic independently planted malicious code in a real software project and sent phishing emails to developers during a U.K. government security evaluation, according to Britai"
-    },
-    {
-      "title": "The Download: NASA\u2019s new telescope and Chinese tech import curbs",
-      "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-05T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. NASA\u2019s new dark energy space telescope can also detect killer asteroids At the end"
-    },
-    {
-      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
-      "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-05T11:43:27+00:00",
-      "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for rou"
     }
   ]
 }
