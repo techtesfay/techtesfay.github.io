@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T19:09:22.066851+00:00",
+  "generated_at": "2026-08-06T01:16:25.903722+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,70 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "22 Seconds to Compromise: How Automated SSH Actors Move From Login to Persistence Before You Can Blink [Guest Diary], (Thu, Aug 6th)",
+      "link": "https://isc.sans.edu/diary/rss/33220",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-06T00:15:40+00:00",
+      "summary": "[This is a Guest Diary by Daryl Jiminez, an ISC intern as part of the SANS.edu BACS program]"
+    },
+    {
+      "title": "AI Sends Global Crime Syndicates Into Fraud Nirvana",
+      "link": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-05T23:35:28+00:00",
+      "summary": "Organized crime is convincingly scamming at scale, making billions thanks to AI-enabled voice cloning, deepfake real-time video overlays, LLM-driven persona management, and automated translation."
+    },
+    {
+      "title": "AI Browsers Vulnerable to 'PleaseFix' Zero-Click Agent Hijacking",
+      "link": "https://www.darkreading.com/cyber-risk/ai-browsers-zero-click-agent-hijacking",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-05T23:30:00+00:00",
+      "summary": "Attackers can take control of agents through malicious instructions hidden in content supplied to AI browsers, and there's no simple fix for the threat."
+    },
+    {
+      "title": "No Perfect Fix for AI Browser Prompt Injection Flaws",
+      "link": "https://www.darkreading.com/application-security/no-perfect-fix-ai-browser-prompt-injection-flaws",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-05T22:18:25+00:00",
+      "summary": "AI browsers from top vendors remain vulnerable to prompt injection attacks despite multiple security guardrails, according to new research."
+    },
+    {
+      "title": "Chinese telcos maintain deep US presence despite Salt Typhoon links, House committee says",
+      "link": "https://therecord.media/chinese-hackers-telecoms-house",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-05T20:45:00+00:00",
+      "summary": "Three Chinese telecommunications giants continue to have footholds in the U.S. internet ecosystem despite their alleged role in previous Chinese hacking campaigns, a House committee report concluded."
+    },
+    {
+      "title": "Canadian man pleads guilty to Snowflake hacks that led to 165 breaches",
+      "link": "https://therecord.media/guilty-plea-snowflake-hack-connor-riley-moucka",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-05T20:15:00+00:00",
+      "summary": "A 26-year-old from Ontario faces as many as 32 years in prison after pleading guilty to fraud, identity theft and conspiracy charges related to the 2024 hacks of cloud platform Snowflake."
+    },
+    {
+      "title": "CSS: The Hidden Threat Lurking in Your Inbox",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/css-hidden-threat-lurking-inbox",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-05T19:47:55+00:00",
+      "summary": "CSS was once just about design. Now researchers warn it's powerful enough to exfiltrate data from webmail \u2014 and some vendors aren't prepared."
+    },
+    {
+      "title": "15 TP-Link Bugs Expose Risks in Zero-Trust Provisioning",
+      "link": "https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-05T19:08:36+00:00",
+      "summary": "Researchers are calling attention to the risks inherent in automated network device provisioning, using a world-leading device manufacturer as a case study."
+    },
     {
       "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
       "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
@@ -267,70 +331,6 @@
       "category": "research",
       "published": "2026-08-05T04:00:00+00:00",
       "summary": "arXiv:2608.00017v1 Announce Type: new Abstract: Self-improving LLM agents increasingly learn from experience without updating any weights. Each episode is stored in an external memory, scored, and retrieved for similar f"
-    },
-    {
-      "title": "Request-Level Energy Attribution for Batched LLM Serving",
-      "link": "https://arxiv.org/abs/2608.00026",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-05T04:00:00+00:00",
-      "summary": "arXiv:2608.00026v1 Announce Type: new Abstract: Batched LLM serving improves throughput but complicates energy accounting. GPU power telemetry is aggregate, whereas sustainability reporting, chargeback, and workload anal"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, August 5th, 2026 https://isc.sans.edu/podcastdetail/10038, (Wed, Aug 5th)",
-      "link": "https://isc.sans.edu/diary/rss/33216",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-05T02:00:02+00:00",
-      "summary": ""
-    },
-    {
-      "title": "OpenAI: Cambodian scam centers used ChatGPT to lure Indian nationals, conduct investment fraud",
-      "link": "https://therecord.media/openai-chatgpt-cambodia-scam-centers-disruption",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-04T20:15:00+00:00",
-      "summary": "A tip from WhatsApp led OpenAI to ban multiple accounts associated with investment scams and human trafficking operations based in Cambodian scam centers."
-    },
-    {
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-04T19:00:00+00:00",
-      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation."
-    },
-    {
-      "title": "Smoke#Screen RMM Takeover Gambit Exposes Threat Actor Playbook",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/latest-rmm-fueled-phishing-attack-exposes-threat-actor-playbook",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-04T18:37:35+00:00",
-      "summary": "The attacks use diverse social engineering lures and rotating payloads to deliver ScreenConnect for persistent remote access to compromised networks."
-    },
-    {
-      "title": "Britain\u2019s next war won\u2019t be an away game: Q&A with former head of Defence Intelligence",
-      "link": "https://therecord.media/interview-jim-hockenhull-uk-defence-intelligence-russia-ukraine",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-04T16:19:00+00:00",
-      "summary": "As Chief of Defence Intelligence, General Sir Jim Hockenhull decided to declassify and publish what London knew of Russia\u2019s plans to invade Ukraine, down to a map of the routes its forces would take."
-    },
-    {
-      "title": "AI Notetaker Lets Hackers Spy on Government, Corporate Video Calls",
-      "link": "https://www.darkreading.com/application-security/ai-notetaker-spy-government-corporate-video-calls",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-04T13:00:00+00:00",
-      "summary": "A Google Firebase misconfiguration lets users of tl;dv, an AI meeting tool, query any other users' meeting information and potentially join calls."
-    },
-    {
-      "title": "Botnet Hunting for Vulnerabilities in Diagnostic Tools, (Tue, Aug 4th)",
-      "link": "https://isc.sans.edu/diary/rss/33214",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-04T12:46:19+00:00",
-      "summary": "This morning, I noticed specific sources \"hunting\" for vulnerabilities in URLs that I haven&#;x26;#;39;t noticed before. All of these URLs appear to be associated with diagnostic tools:"
     }
   ]
 }
