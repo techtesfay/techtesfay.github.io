@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T00:41:03.358428+00:00",
+  "generated_at": "2026-08-08T06:29:39.823297+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -165,134 +165,6 @@
       "summary": "UNIX systems (including Linux) are well-known to record a lot of activities in many different locations. But there is one domain where they definitely lack of \"modern\" logging: shells. Most shells provide an historizatio"
     },
     {
-      "title": "Post-Hoc Trajectory-Risk Certification for Modular LLM-Based Security Agents",
-      "link": "https://arxiv.org/abs/2608.05199",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-07T04:00:00+00:00",
-      "summary": "arXiv:2608.05199v1 Announce Type: new Abstract: Autonomous security agents operate as staged pipelines, such as classifying network traffic and then attributing attacks to a specific technique. Split conformal prediction"
-    },
-    {
-      "title": "ASTELD: A Six-Axis Classification Framework for Autonomous AI Agents - Design, Evaluation, and an OpenClaw Case Study",
-      "link": "https://arxiv.org/abs/2608.05201",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-07T04:00:00+00:00",
-      "summary": "arXiv:2608.05201v1 Announce Type: new Abstract: Autonomous AI agent platforms differ substantially in architecture, security, tool integration, execution, autonomy, and deployment, yet the field lacks a common classifica"
-    },
-    {
-      "title": "A Survey of Adversarial Efficiency Degradation for Vision Transformer by Exploiting Input-adaptive Optimization",
-      "link": "https://arxiv.org/abs/2608.05217",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-07T04:00:00+00:00",
-      "summary": "arXiv:2608.05217v1 Announce Type: new Abstract: Vision Transformers (ViTs) increasingly rely on input-adaptive inference, such as token pruning and early halting, to meet energy and latency budgets. This survey examines "
-    },
-    {
-      "title": "CyberBridge: Bridging the Gap Between Cybersecurity Education and Industry",
-      "link": "https://arxiv.org/abs/2608.05231",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-07T04:00:00+00:00",
-      "summary": "arXiv:2608.05231v1 Announce Type: new Abstract: This full research paper presents CyberBridge, a framework that automatically maps cybersecurity job descrip- tions to professional role profiles. As the cybersecurity land"
-    },
-    {
-      "title": "The Hidden Life of Public Safety Communications Signals: A Comparative Security Analysis of TETRA, TETRAPOL, and P25",
-      "link": "https://arxiv.org/abs/2608.05247",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-07T04:00:00+00:00",
-      "summary": "arXiv:2608.05247v1 Announce Type: new Abstract: Public-safety agencies and critical infrastructure operators rely on trunked land-mobile radio (LMR) systems, based on P25, TETRA, and TETRAPOL. These systems are expected "
-    },
-    {
-      "title": "eMicro: Real-Time Multi-Hop Access Control for Microservices with eBPF",
-      "link": "https://arxiv.org/abs/2608.05300",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-07T04:00:00+00:00",
-      "summary": "arXiv:2608.05300v1 Announce Type: new Abstract: Modern cloud applications often comprise thousands of microservices whose interactions form complex request paths. Traditional inter-service access control restricts indivi"
-    },
-    {
-      "title": "The Trust-Free Aggregation Layer of the Unicity Infrastructure",
-      "link": "https://arxiv.org/abs/2608.05316",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-07T04:00:00+00:00",
-      "summary": "arXiv:2608.05316v1 Announce Type: new Abstract: Unicity is a novel blockchain infrastructure for enabling users to execute off-chain peer-to-peer token transactions while preventing parallel states of tokens (double-spen"
-    },
-    {
-      "title": "S12X Patch Diffing with QBinDiff",
-      "link": "https://arxiv.org/abs/2608.05350",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-07T04:00:00+00:00",
-      "summary": "arXiv:2608.05350v1 Announce Type: new Abstract: This paper presents a reverse engineering analysis of a firmware update for a commercial vehicle Brake ECU. We analyze the updater executable to extract firmware and perfor"
-    },
-    {
-      "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
-      "link": "https://arxiv.org/abs/2608.05159",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-07T04:00:00+00:00",
-      "summary": "arXiv:2608.05159v1 Announce Type: new Abstract: Enterprise operations extensively rely on multiple heterogeneous business systems and information applications, which also result in severe data silos and process fragmenta"
-    },
-    {
-      "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
-      "link": "https://arxiv.org/abs/2608.05160",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-07T04:00:00+00:00",
-      "summary": "arXiv:2608.05160v1 Announce Type: new Abstract: We introduce the Ignition Index (I), a validated scalar metric that operationalizes Global Workspace Theory's (GWT) all-or-none ignition prediction in transformer language "
-    },
-    {
-      "title": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
-      "link": "https://arxiv.org/abs/2608.05168",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-07T04:00:00+00:00",
-      "summary": "arXiv:2608.05168v1 Announce Type: new Abstract: Large language models often fail on reasoning tasks despite possessing the capability to solve them. We argue that many such failures arise from localized reasoning bugs in"
-    },
-    {
-      "title": "From Continuous Predictors to Clinical Thresholds: Early Evidence on Performance Trade-offs of Guideline-Based Categorisation for Ischaemic Stroke Outcome Prediction",
-      "link": "https://arxiv.org/abs/2608.05203",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-07T04:00:00+00:00",
-      "summary": "arXiv:2608.05203v1 Announce Type: new Abstract: Machine learning models achieve strong predictive accuracy for 90-day outcome prediction in acute ischaemic stroke, yet clinical adoption is limited by the misalignment of "
-    },
-    {
-      "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
-      "link": "https://arxiv.org/abs/2608.05204",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-07T04:00:00+00:00",
-      "summary": "arXiv:2608.05204v1 Announce Type: new Abstract: LLM-agent ecosystems are rapidly growing around reusable skills: mixed-modality packages of metadata, natural-language instructions, code, tools, references, and operationa"
-    },
-    {
-      "title": "Abstract Event Causal Rules: Induction and Application",
-      "link": "https://arxiv.org/abs/2608.05205",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-07T04:00:00+00:00",
-      "summary": "arXiv:2608.05205v1 Announce Type: new Abstract: Event-centric intelligent analytical systems heavily depend on explicit causal event knowledge for risk early warning, decision-making support and narrative comprehension. "
-    },
-    {
-      "title": "Otter: A Time-Aware, History-Conditioned Human Chess AI",
-      "link": "https://arxiv.org/abs/2608.05206",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-07T04:00:00+00:00",
-      "summary": "arXiv:2608.05206v1 Announce Type: new Abstract: Otter is a 15.3M-parameter human chess AI that predicts human move selection by modeling play as a time-aware, sequential process rather than treating each position in isol"
-    },
-    {
-      "title": "SearchAuditor: Auditing and Attributing Failures in Long-Horizon Search Agents",
-      "link": "https://arxiv.org/abs/2608.05212",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-07T04:00:00+00:00",
-      "summary": "arXiv:2608.05212v1 Announce Type: new Abstract: Deep search agents tackle challenging questions through long-horizon web interactions, a process that is both complex and fragile: small reasoning errors may propagate thro"
-    },
-    {
       "title": "ISC Stormcast For Friday, August 7th, 2026 https://isc.sans.edu/podcastdetail/10042, (Fri, Aug 7th)",
       "link": "https://isc.sans.edu/diary/rss/33224",
       "source": "SANS Internet Storm Center",
@@ -331,6 +203,134 @@
       "category": "cybersecurity",
       "published": "2026-08-06T19:00:11+00:00",
       "summary": "Two former chief security officers of the Democratic National Committee explain that a strong security-first mindset requires executive support \u2014 and a dose of absurdity."
+    },
+    {
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "published": "2026-08-06T17:00:56+00:00",
+      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the"
+    },
+    {
+      "title": "The Download: Google\u2019s AI shake-up and Meta\u2019s rogue model",
+      "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-06T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Google\u2019s AI empire is being reshaped. Here\u2019s what\u2019s changed. After a wave of painf"
+    },
+    {
+      "title": "Improving GPT\u20115.6 Sol in ChatGPT\u2014and expanding access to GPT-5.6 Luna for free users",
+      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-06T10:00:00+00:00",
+      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna."
+    },
+    {
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-06T06:00:00+00:00",
+      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health."
+    },
+    {
+      "title": "ISC Stormcast For Thursday, August 6th, 2026 https://isc.sans.edu/podcastdetail/10040, (Thu, Aug 6th)",
+      "link": "https://isc.sans.edu/diary/rss/33222",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-06T02:00:02+00:00",
+      "summary": ""
+    },
+    {
+      "title": "22 Seconds to Compromise: How Automated SSH Actors Move From Login to Persistence Before You Can Blink [Guest Diary], (Thu, Aug 6th)",
+      "link": "https://isc.sans.edu/diary/rss/33220",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-06T00:15:40+00:00",
+      "summary": "[This is a Guest Diary by Daryl Jiminez, an ISC intern as part of the SANS.edu BACS program]"
+    },
+    {
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-06T00:00:00+00:00",
+      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior."
+    },
+    {
+      "title": "AI Sends Global Crime Syndicates Into Fraud Nirvana",
+      "link": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-05T23:35:28+00:00",
+      "summary": "Organized crime is convincingly scamming at scale, making billions thanks to AI-enabled voice cloning, deepfake real-time video overlays, LLM-driven persona management, and automated translation."
+    },
+    {
+      "title": "AI Browsers Vulnerable to 'PleaseFix' Zero-Click Agent Hijacking",
+      "link": "https://www.darkreading.com/cyber-risk/ai-browsers-zero-click-agent-hijacking",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-05T23:30:00+00:00",
+      "summary": "Attackers can take control of agents through malicious instructions hidden in content supplied to AI browsers, and there's no simple fix for the threat."
+    },
+    {
+      "title": "No Perfect Fix for AI Browser Prompt Injection Flaws",
+      "link": "https://www.darkreading.com/application-security/no-perfect-fix-ai-browser-prompt-injection-flaws",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-05T22:18:25+00:00",
+      "summary": "AI browsers from top vendors remain vulnerable to prompt injection attacks despite multiple security guardrails, according to new research."
+    },
+    {
+      "title": "Don't Revoke That Token Yet: Inside the keyv/cacheable npm Worm, (Wed, Aug 5th)",
+      "link": "https://isc.sans.edu/diary/rss/33218",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-05T17:56:15+00:00",
+      "summary": "When you learn that a compromised package executed on one of your build hosts, muscle memory takes over: revoke the npm token, rotate the GitHub PAT, cycle the cloud keys. That reflex has been correct in almost every sup"
+    },
+    {
+      "title": "Puzzle Corner",
+      "link": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-05T14:56:29+00:00",
+      "summary": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD \u201995, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner \u2019"
+    },
+    {
+      "title": "The Download: NASA\u2019s new telescope and Chinese tech import curbs",
+      "link": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-05T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. NASA\u2019s new dark energy space telescope can also detect killer asteroids At the end"
+    },
+    {
+      "title": "NASA\u2019s new dark-energy space telescope can also detect killer asteroids",
+      "link": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-05T08:06:40+00:00",
+      "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that"
+    },
+    {
+      "title": "ISC Stormcast For Wednesday, August 5th, 2026 https://isc.sans.edu/podcastdetail/10038, (Wed, Aug 5th)",
+      "link": "https://isc.sans.edu/diary/rss/33216",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-05T02:00:02+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-04T19:00:00+00:00",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation."
     }
   ]
 }
