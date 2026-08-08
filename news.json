@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T06:29:39.823297+00:00",
+  "generated_at": "2026-08-08T12:20:58.422976+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,46 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
+      "link": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-08T08:54:50+00:00",
+      "summary": "Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independent"
+    },
+    {
+      "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
+      "link": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-08T08:03:57+00:00",
+      "summary": "New research shows content inside an email can escape its message boundary and interfere with the webmail interface. Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the tech"
+    },
+    {
+      "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
+      "link": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-08T06:58:31+00:00",
+      "summary": "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day. The vulnerability (CVSS score: 10.0), wh"
+    },
+    {
+      "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
+      "link": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-08T06:57:43+00:00",
+      "summary": "N-able has released a fresh round of hotfixes for N\u2011central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product. \"We are proa"
+    },
+    {
+      "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
+      "link": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-08T06:52:16+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following report"
+    },
     {
       "title": "Water utilities group partners with DEF CON offshoot for Water Watch Center",
       "link": "https://therecord.media/water-watch-center-utilities-def-con-franklin-nrwa",
@@ -42,7 +82,7 @@
       "source": "The Hacker News",
       "category": "cybersecurity",
       "published": "2026-08-07T18:16:13+00:00",
-      "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing) to t"
+      "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services has been attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing"
     },
     {
       "title": "US cyber ambassador nominee Cassady confirmed in Senate",
@@ -107,46 +147,6 @@
       "category": "ai",
       "published": "2026-08-07T14:00:00+00:00",
       "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them"
-    },
-    {
-      "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
-      "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-07T12:56:23+00:00",
-      "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP"
-    },
-    {
-      "title": "Growing Up The Hard Way",
-      "link": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-07T11:55:26+00:00",
-      "summary": "Open Source had a great childhood. For two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand tha"
-    },
-    {
-      "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
-      "link": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-07T11:10:33+00:00",
-      "summary": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath. The flaw has existed since 200"
-    },
-    {
-      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
-      "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-07T10:58:38+00:00",
-      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped port"
-    },
-    {
-      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
-      "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-07T10:38:27+00:00",
-      "summary": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to ide"
     },
     {
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
