@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T18:36:03.826717+00:00",
+  "generated_at": "2026-08-08T00:41:03.358428+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,38 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Water utilities group partners with DEF CON offshoot for Water Watch Center",
+      "link": "https://therecord.media/water-watch-center-utilities-def-con-franklin-nrwa",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-07T18:55:00+00:00",
+      "summary": "The National Rural Water Association and a group of cybersecurity experts have formed a program to help cash-strapped utilities face the increase in threats to their systems."
+    },
+    {
+      "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
+      "link": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-07T18:48:17+00:00",
+      "summary": "A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems. \"These packages appear to "
+    },
+    {
+      "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
+      "link": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-07T18:29:08+00:00",
+      "summary": "ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials. The macOS-focused in"
+    },
+    {
+      "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
+      "link": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-07T18:16:13+00:00",
+      "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing) to t"
+    },
     {
       "title": "US cyber ambassador nominee Cassady confirmed in Senate",
       "link": "https://therecord.media/adam-cassady-confirmed-senate-cyber-ambassador",
@@ -77,14 +109,6 @@
       "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them"
     },
     {
-      "title": "Levi Strauss says hackers breached employee computers, accessed corporate data",
-      "link": "https://therecord.media/levis-data-breach-social-engineering",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-07T13:35:00+00:00",
-      "summary": "Intruders exfiltrated certain corporate information after gaining access to three company-issued computers through a social engineering attack, Levi Strauss reported."
-    },
-    {
       "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
       "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
       "source": "The Hacker News",
@@ -125,36 +149,12 @@
       "summary": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to ide"
     },
     {
-      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
-      "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-07T10:09:54+00:00",
-      "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate desync vectors"
-    },
-    {
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "link": "https://openai.com/index/hsp-gruppe",
       "source": "OpenAI News",
       "category": "ai",
       "published": "2026-08-07T09:00:00+00:00",
       "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
-    },
-    {
-      "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
-      "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-07T08:52:11+00:00",
-      "summary": "Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft Entra ID. The attack"
-    },
-    {
-      "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
-      "link": "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-07T08:18:35+00:00",
-      "summary": "A GitHub issue opened by an account with no repository privileges was enough to execute code on the CI runners behind Anthropic's and Google's own coding-agent repositories. On OpenAI's, it was enough to hijack the next "
     },
     {
       "title": "Linux Shell Forensic: Let?s Dive Into Atuin!, (Fri, Aug 7th)",
