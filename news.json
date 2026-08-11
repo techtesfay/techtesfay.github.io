@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T06:42:53.048515+00:00",
+  "generated_at": "2026-08-11T12:36:17.811058+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,78 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Kids\u2019 online safety bill faces dim prospects of passage this session despite progress",
+      "link": "https://therecord.media/kids-online-safety-act-congress",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-11T12:15:00+00:00",
+      "summary": "Proponents of the Kids Online Safety Act are cheering recent progress but acknowledge a long road ahead for legislation that, despite mounting political pressure, may be difficult to pass this session."
+    },
+    {
+      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+      "link": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-11T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google rese"
+    },
+    {
+      "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
+      "link": "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-11T12:05:03+00:00",
+      "summary": "A malicious SIM card can order the device it sits in to run commands of the attacker's choosing. On the cellular modules built into electric-vehicle chargers, industrial routers, and car telematics units, that is enough "
+    },
+    {
+      "title": "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo",
+      "link": "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-11T12:04:51+00:00",
+      "summary": "Mozilla has scrapped the cryptographic key behind Firefox and Thunderbird downloads for Linux after an unencrypted copy of it was committed by mistake to one of the company's own private code repositories. That key is ho"
+    },
+    {
+      "title": "Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers",
+      "link": "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-11T11:35:03+00:00",
+      "summary": "Security researchers invented a cryptocurrency startup, advertised developer jobs, and hired three people they believe were North Korean operatives. Every virtual machine the company issued was recording. The onboarding "
+    },
+    {
+      "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
+      "link": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-11T10:48:26+00:00",
+      "summary": "Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated Windows 11 machin"
+    },
+    {
+      "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
+      "link": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-11T10:24:00+00:00",
+      "summary": "A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instruction. The trick can wo"
+    },
+    {
+      "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
+      "link": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-11T09:16:24+00:00",
+      "summary": "Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world. Targets of these attacks include heal"
+    },
+    {
+      "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
+      "link": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-11T06:55:45+00:00",
+      "summary": "Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote equipment. "
+    },
     {
       "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
       "link": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
@@ -205,14 +277,6 @@
       "summary": "It's time to turn from CVSS-backed patching to choke-point patching focused on breaking chains to critical assets."
     },
     {
-      "title": "Shipping 10\u201350\u00d7 More Code? Watch This Webinar on Securing AI-Speed Development",
-      "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-10T17:29:17+00:00",
-      "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jum"
-    },
-    {
       "title": "Coruna, DarkSword iOS Exploits Proliferate Globally",
       "link": "https://www.darkreading.com/vulnerabilities-threats/coruna-darksword-ios-exploits-proliferate-globally",
       "source": "Dark Reading",
@@ -227,14 +291,6 @@
       "category": "ai",
       "published": "2026-08-10T17:00:00+00:00",
       "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI."
-    },
-    {
-      "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
-      "link": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-10T16:38:37+00:00",
-      "summary": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor. The use of StormEncryptor marks a shift from "
     },
     {
       "title": "Outdated Cybercrime Laws Put Security Researchers at Risk",
@@ -275,62 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-10T15:45:00+00:00",
       "summary": "Two Democratic senators introduced legislation that would allocate $300 million each year to fund cybersecurity improvements for the water and wastewater sector."
-    },
-    {
-      "title": "Russian military hackers pose as recruiters to target Ukrainian IT workers",
-      "link": "https://therecord.media/russian-military-hackers-pose-as-recruiters-ukraine-it-workers",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-10T15:21:00+00:00",
-      "summary": "Ukraine\u2019s computer emergency response team, CERT-UA, said Saturday that the campaign has been running since at least May and is linked to Sandworm, the notorious hacking unit associated with Russia\u2019s GRU military intelli"
-    },
-    {
-      "title": "\u26a1 Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-10T15:00:29+00:00",
-      "summary": "A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default. That pretty much covers the mood this week. Old bugs are"
-    },
-    {
-      "title": "OpenAI\u2019s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-10T14:00:00+00:00",
-      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans."
-    },
-    {
-      "title": "British \u2018Com\u2019 member who abused more than 100 girls worldwide jailed for two years",
-      "link": "https://therecord.media/british-com-member-abuse-jailed-two-years",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-10T13:46:00+00:00",
-      "summary": "Justin Swaddle, of Leeds in northern England, targeted 117 female victims aged 13 to 17, according to the National Crime Agency."
-    },
-    {
-      "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
-      "link": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-10T13:19:58+00:00",
-      "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting doc"
-    },
-    {
-      "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
-      "link": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-10T12:25:04+00:00",
-      "summary": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable passwords and resist phishing. The attac"
-    },
-    {
-      "title": "The Download: AI agents for science, and the \u201ccensorship-industrial complex\u201d",
-      "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-10T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. AI for science needs reasoning, not just data \u2014Eric Schmidt, the former CEO of Goo"
     }
   ]
 }
