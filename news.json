@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T18:39:16.894457+00:00",
+  "generated_at": "2026-08-11T00:45:07.565660+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,46 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "'GhostJacking' Exposes Identity Governance Gaps in AI Agents",
+      "link": "https://www.darkreading.com/cyber-risk/ghostjacking-identity-governance-gaps-ai-agents",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-10T21:54:22+00:00",
+      "summary": "New research shows how attackers can use security alerts and blocked events to manipulate and hijack AI agents."
+    },
+    {
+      "title": "Multistate Water System Attacks Widen, Iran Suspected",
+      "link": "https://www.darkreading.com/ics-ot-security/multistate-water-system-attacks-widen-iran-suspected",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-10T21:34:38+00:00",
+      "summary": "Attacks targeting water systems just keep flowing across a dozen states, against ill-secured, Internet-exposed PLCs."
+    },
+    {
+      "title": "Metabase SQL Zero-Day Attacks Could Have Wide Blast Radius",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/metabase-sql-zero-day-attacks-wide-blast-radius",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-10T21:02:23+00:00",
+      "summary": "The maximum-severity vulnerability, which still has no CVE, allows malicious, remote administrator access to the business-analytics platform and its downstream users."
+    },
+    {
+      "title": "AI professors are negotiating the new realities of academic research",
+      "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-10T20:00:00+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, C"
+    },
+    {
+      "title": "FBI, South Korea warn of Gunra ransomware gang targeting critical infrastructure",
+      "link": "https://therecord.media/ransomware-south-korea-fbi-gunra",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-10T19:30:00+00:00",
+      "summary": "The Gunra ransomware gang is breaching critical infrastructure organizations through vulnerabilities in popular brands of firewalls, the FBI and South Korea\u2019s government warned."
+    },
     {
       "title": "The Patch Gap: Why Defenders Need to Think in Chains, Not Checklists",
       "link": "https://www.darkreading.com/cybersecurity-operations/patch-gap-defenders-chains-not-checklists",
@@ -131,14 +171,6 @@
       "category": "cybersecurity",
       "published": "2026-08-10T13:19:58+00:00",
       "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting doc"
-    },
-    {
-      "title": "China-linked hackers turning popular cybersecurity tool into ransomware launchpad, Microsoft warns",
-      "link": "https://therecord.media/china-hackers-ransomware-microsoft",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-10T13:15:00+00:00",
-      "summary": "A China-linked threat actor is believed to be exploiting a critical vulnerability affecting cybersecurity software from the company N-able."
     },
     {
       "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
@@ -299,38 +331,6 @@
       "category": "research",
       "published": "2026-08-10T04:00:00+00:00",
       "summary": "arXiv:2608.06398v1 Announce Type: new Abstract: Recent byte-level large language models (LLMs) have made tokenizer-free modeling increasingly competitive by grouping bytes into dynamically sized patches. However, existin"
-    },
-    {
-      "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
-      "link": "https://arxiv.org/abs/2608.06400",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-10T04:00:00+00:00",
-      "summary": "arXiv:2608.06400v1 Announce Type: new Abstract: Reward models are central to learning from human preferences, yet identifying what drives their predictions remains challenging. Recent sparse Mixture-of-Experts (MoE) rewa"
-    },
-    {
-      "title": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
-      "link": "https://arxiv.org/abs/2608.06402",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-10T04:00:00+00:00",
-      "summary": "arXiv:2608.06402v1 Announce Type: new Abstract: Community detection is a fundamental task in graph analytics that aims to identify cohesive groups of entities with similar behaviors or interests. Classic objective-driven"
-    },
-    {
-      "title": "ADIAS: Automated Design of Interactive Agentic Systems",
-      "link": "https://arxiv.org/abs/2608.06410",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-10T04:00:00+00:00",
-      "summary": "arXiv:2608.06410v1 Announce Type: new Abstract: Automated agent design improves agent harnesses through iterative revision, evaluation, and feedback summarization. Existing methods are largely candidate-centric: cross-ro"
-    },
-    {
-      "title": "Learning to Predict Middle-Layer Attention in MLLMs for Visual Token Prunin",
-      "link": "https://arxiv.org/abs/2608.06411",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-10T04:00:00+00:00",
-      "summary": "arXiv:2608.06411v1 Announce Type: new Abstract: Multimodal large language models (MLLMs) achieve strong performance across diverse vision-language tasks, but their efficiency is limited by the cost of processing numerous"
     }
   ]
 }
