@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T12:38:48.195362+00:00",
+  "generated_at": "2026-08-12T18:43:38.881293+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,78 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+      "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-12T17:39:27+00:00",
+      "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense"
+    },
+    {
+      "title": "FBI: Hackers using social engineering to breach accounts and steal explicit content",
+      "link": "https://therecord.media/social-engineering-hackers-explicit-photos-fbi-alert",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-12T17:28:00+00:00",
+      "summary": "Leaked passwords, social engineering and spoofed social media sites are among the tools hackers are using to gather individuals' private content and sell it online, the FBI said."
+    },
+    {
+      "title": "Scaling AI agents with trustworthy data",
+      "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-12T16:51:57+00:00",
+      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology\u2019s potential to transform work. But many organizat"
+    },
+    {
+      "title": "Walmart's \"Trusted Agent\" Approach to Purple Teaming",
+      "link": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-12T16:28:04+00:00",
+      "summary": "Walmart co-locates red and blue teams to build trust and improve security through collaborative purple teaming exercises"
+    },
+    {
+      "title": "Linux Kernel Process Accounting, (Wed, Aug 12th)",
+      "link": "https://isc.sans.edu/diary/rss/33240",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-12T14:21:10+00:00",
+      "summary": "A couple of days ago, Xavier posted about Atuin to gain more insight into the command history. Atuin does a great job of better organizing what is usually handled by \"bash&#;x26;#;x5f;history\"&#;x26;#;xc2;&#;x26;#;xa0;an"
+    },
+    {
+      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
+      "link": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-12T14:09:50+00:00",
+      "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infras"
+    },
+    {
+      "title": "Ransomware Hits Colombian Justice Ministry Days Before Presidential Transition",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-12T14:00:00+00:00",
+      "summary": "Attackers continue to target critical infrastructure and government-linked organizations in the country, mirroring the increased activity across Latin America."
+    },
+    {
+      "title": "Three intrusions at UK criminal records office went undetected for two years",
+      "link": "https://therecord.media/uk-criminal-records-office-acro-data-breaches",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-12T13:00:00+00:00",
+      "summary": "Unread antivirus alerts and an unpatched content management system exposed Britain's ACRO to three separate data breaches, according to a reprimand notice."
+    },
+    {
+      "title": "Walmart Leaders Transform Security Operations Without Going Bananas",
+      "link": "https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-12T12:41:03+00:00",
+      "summary": "The big-box giant has scaled its defenses by encouraging trust and innovation. Good communications, transparency, and team spirit are key factors."
+    },
     {
       "title": "Microsoft\u2019s massive Patch Tuesday releases continue as AI reshapes bug discovery",
       "link": "https://therecord.media/microsoft-massive-patch-tuesday-releases-continue-ai",
@@ -35,6 +107,22 @@
       "category": "cybersecurity",
       "published": "2026-08-12T12:06:00+00:00",
       "summary": "Researchers disclosed the bug to Microsoft after examining a long-running campaign by North Korean hackers to exploit the job application process."
+    },
+    {
+      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+      "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-12T11:47:38+00:00",
+      "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. Th"
+    },
+    {
+      "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
+      "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-12T11:41:34+00:00",
+      "summary": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack"
     },
     {
       "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
@@ -77,20 +165,12 @@
       "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-5823"
     },
     {
-      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
-      "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-12T06:41:38+00:00",
-      "summary": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak. The vulnerabil"
-    },
-    {
-      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
-      "link": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-12T06:15:58+00:00",
-      "summary": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw, tra"
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-12T06:00:00+00:00",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
     },
     {
       "title": "World-First SEM-based Recovery of Crash EDR Data from the EEPROM of a Severely Damaged SRS Module Using CrashScan",
@@ -251,86 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-11T21:16:25+00:00",
       "summary": "The ransomware-as-a-service operation is finding success against critical infrastructure targets with leaked Conti code and old flaws in firewalls and VPN appliances."
-    },
-    {
-      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
-      "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-11T20:10:55+00:00",
-      "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacke"
-    },
-    {
-      "title": "NSA installs DHS lawyer as new general counsel",
-      "link": "https://therecord.media/kerianne-tobitsch-new-nsa-general-counsel",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-11T20:00:09+00:00",
-      "summary": "Kerianne Tobitsch, who most recently served as a senior lawyer at the Homeland Security Department, is the NSA's new general counsel, sources told Recorded Future News."
-    },
-    {
-      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
-      "link": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-11T19:36:37+00:00",
-      "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distrib"
-    },
-    {
-      "title": "Ransomware group hijacks hospital system\u2019s Facebook page amid ongoing cyberattack fallout",
-      "link": "https://therecord.media/ransomware-group-hijacks-hospital-facebook-amid-cyberattack-response",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-11T19:15:00+00:00",
-      "summary": "The hackers claimed to have exfiltrated 6 terabytes of data, including highly sensitive health information like records related to sexual assault, mental health, abortions and sexual harassment incidents."
-    },
-    {
-      "title": "How the \u201ccensorship-industrial complex\u201d is changing the internet and US policy",
-      "link": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-11T17:58:57+00:00",
-      "summary": "I first heard the term \u201ccensorship-industrial complex\u201d on April 15, 2025. That\u2019s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from"
-    },
-    {
-      "title": "Microsoft Patch Tuesday August 2026, (Tue, Aug 11th)",
-      "link": "https://isc.sans.edu/diary/rss/33236",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-11T17:54:49+00:00",
-      "summary": "This month we got patches for 418 vulnerabilities. Of these, 62 are critical, 1 is being exploited in the wild, and 2 were publicly disclosed as zero-days. Notable fixes include Windows privilege escalation, container ta"
-    },
-    {
-      "title": "Cyberattack on logistics giant Ceva hits retailers and Steam customers across Europe",
-      "link": "https://therecord.media/ceva-logistics-cyberattack-bol-steam-debijenkorf-ace-tate",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-11T15:43:45+00:00",
-      "summary": "Operations at eight European warehouses belonging to France's CEVA Logistics have reportedly been disrupted by a cyberattack, and several other companies are feeling the effects."
-    },
-    {
-      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-      "link": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-11T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google rese"
-    },
-    {
-      "title": "Testing ads in ChatGPT",
-      "link": "https://openai.com/index/testing-ads-in-chatgpt",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-11T10:00:00+00:00",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
-    },
-    {
-      "title": "Daybreak models are now available on AWS",
-      "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-11T10:00:00+00:00",
-      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows."
     }
   ]
 }
