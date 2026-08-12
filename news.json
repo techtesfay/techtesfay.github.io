@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T18:42:52.586782+00:00",
+  "generated_at": "2026-08-12T00:52:48.149204+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,78 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Microsoft's Patch Tuesday Deluge Continues With August Updates",
+      "link": "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-11T21:42:34+00:00",
+      "summary": "Security experts say prioritization should be the main focus for the August updates, not the massive CVE volume."
+    },
+    {
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "published": "2026-08-11T21:28:35+00:00",
+      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others tha"
+    },
+    {
+      "title": "Gunra Ransomware Gang Exploits Fortinet Flaws, Bypasses MFA",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-11T21:16:25+00:00",
+      "summary": "The ransomware-as-a-service operation is finding success against critical infrastructure targets with leaked Conti code and old flaws in firewalls and VPN appliances."
+    },
+    {
+      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+      "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-11T20:10:55+00:00",
+      "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacke"
+    },
+    {
+      "title": "NSA installs DHS lawyer as new general counsel",
+      "link": "https://therecord.media/kerianne-tobitsch-new-nsa-general-counsel",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-11T20:00:09+00:00",
+      "summary": "Kerianne Tobitsch, who most recently served as a senior lawyer at the Homeland Security Department, is the NSA's new general counsel, sources told Recorded Future News."
+    },
+    {
+      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+      "link": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-11T19:36:37+00:00",
+      "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distrib"
+    },
+    {
+      "title": "Ransomware group hijacks hospital system\u2019s Facebook page amid ongoing cyberattack fallout",
+      "link": "https://therecord.media/ransomware-group-hijacks-hospital-facebook-amid-cyberattack-response",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-11T19:15:00+00:00",
+      "summary": "The hackers claimed to have exfiltrated 6 terabytes of data, including highly sensitive health information like records related to sexual assault, mental health, abortions and sexual harassment incidents."
+    },
+    {
+      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
+      "link": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-11T19:08:47+00:00",
+      "summary": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's. The flaw sat in the annotation tool, the feature that lets p"
+    },
+    {
+      "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
+      "link": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-11T18:36:47+00:00",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading "
+    },
     {
       "title": "How the \u201ccensorship-industrial complex\u201d is changing the Internet and US policy",
       "link": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
@@ -93,44 +165,20 @@
       "summary": "A malicious SIM card can order the device it sits in to run commands of the attacker's choosing. On the cellular modules built into electric-vehicle chargers, industrial routers, and car telematics units, that is enough "
     },
     {
-      "title": "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo",
-      "link": "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-11T12:04:51+00:00",
-      "summary": "Mozilla has scrapped the cryptographic key behind Firefox and Thunderbird downloads for Linux after an unencrypted copy of it was committed by mistake to one of the company's own private code repositories. That key is ho"
-    },
-    {
-      "title": "Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers",
-      "link": "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-11T11:35:03+00:00",
-      "summary": "Security researchers invented a cryptocurrency startup, advertised developer jobs, and hired three people they believe were North Korean operatives. Every virtual machine the company issued was recording. The onboarding "
-    },
-    {
-      "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
-      "link": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-11T10:48:26+00:00",
-      "summary": "Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated Windows 11 machin"
-    },
-    {
-      "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
-      "link": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-11T10:24:00+00:00",
-      "summary": "A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instruction. The trick can wo"
-    },
-    {
       "title": "Testing ads in ChatGPT",
       "link": "https://openai.com/index/testing-ads-in-chatgpt",
       "source": "OpenAI News",
       "category": "ai",
       "published": "2026-08-11T10:00:00+00:00",
       "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
+    },
+    {
+      "title": "Daybreak models are now available on AWS",
+      "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-11T10:00:00+00:00",
+      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows."
     },
     {
       "title": "Zero-Trust Federated Learning for Connected Aftermarket Devices",
@@ -283,54 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-10T21:34:38+00:00",
       "summary": "Attacks targeting water systems just keep flowing across a dozen states, against ill-secured, Internet-exposed PLCs."
-    },
-    {
-      "title": "Metabase SQL Zero-Day Attacks Could Have Wide Blast Radius",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/metabase-sql-zero-day-attacks-wide-blast-radius",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-10T21:02:23+00:00",
-      "summary": "The maximum-severity vulnerability, which still has no CVE, allows malicious, remote administrator access to the business-analytics platform and its downstream users."
-    },
-    {
-      "title": "AI professors are negotiating the new realities of academic research",
-      "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-10T20:00:00+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, C"
-    },
-    {
-      "title": "FBI, South Korea warn of Gunra ransomware gang targeting critical infrastructure",
-      "link": "https://therecord.media/ransomware-south-korea-fbi-gunra",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-10T19:30:00+00:00",
-      "summary": "The Gunra ransomware gang is breaching critical infrastructure organizations through vulnerabilities in popular brands of firewalls, the FBI and South Korea\u2019s government warned."
-    },
-    {
-      "title": "The Patch Gap: Why Defenders Need to Think in Chains, Not Checklists",
-      "link": "https://www.darkreading.com/cybersecurity-operations/patch-gap-defenders-chains-not-checklists",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-10T17:56:34+00:00",
-      "summary": "It's time to turn from CVSS-backed patching to choke-point patching focused on breaking chains to critical assets."
-    },
-    {
-      "title": "Coruna, DarkSword iOS Exploits Proliferate Globally",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/coruna-darksword-ios-exploits-proliferate-globally",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-10T17:09:20+00:00",
-      "summary": "Sophisticated iPhone exploit chains previously limited to nation-states are spreading far and wide to organized cybercrime groups."
-    },
-    {
-      "title": "What building an AI-native finance function taught me",
-      "link": "https://openai.com/index/building-an-ai-native-finance-function",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-10T17:00:00+00:00",
-      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI."
     }
   ]
 }
