@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T00:54:29.595093+00:00",
+  "generated_at": "2026-08-13T07:07:03.191239+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,166 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Belgium's eID Authentication Opens Citizen Accounts to RCE",
+      "link": "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-13T07:00:00+00:00",
+      "summary": "The trust framework underlying Belgium's electronic ID system was fully compromised by severe vulnerabilities in a key browser extension, showcasing bigger problems with extensions in general."
+    },
+    {
+      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-13T06:09:48+00:00",
+      "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which re"
+    },
+    {
+      "title": "Agent Safety Should Be a Runtime Contract",
+      "link": "https://arxiv.org/abs/2608.11274",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-13T04:00:00+00:00",
+      "summary": "arXiv:2608.11274v1 Announce Type: new Abstract: The dominant paradigm treats AI safety as a property to be instilled during model training via RLHF, DPO, or Constitutional AI. We argue this is structurally insufficient f"
+    },
+    {
+      "title": "Knowledge-Graph-Guided Retrieval-Augmented LLMs for Explainable Root Cause Analysis in Automotive HiL Validation",
+      "link": "https://arxiv.org/abs/2608.11277",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-13T04:00:00+00:00",
+      "summary": "arXiv:2608.11277v1 Announce Type: new Abstract: Hardware-in-the-Loop validation of automotive software systems generates large multivariate time-series recordings whose manual analysis is time-consuming and often limited"
+    },
+    {
+      "title": "Benchmarking Cyberattack Detection in Electric Vehicle Charging Infrastructure with Benign User Updates",
+      "link": "https://arxiv.org/abs/2608.11286",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-13T04:00:00+00:00",
+      "summary": "arXiv:2608.11286v1 Announce Type: new Abstract: Cyberattack detection in electric vehicle charging infrastructure is complicated by legitimate post-activation revisions to requested energy and departure time. Charging ma"
+    },
+    {
+      "title": "Dueling Deep Q-Learning for Intrusion Detection",
+      "link": "https://arxiv.org/abs/2608.11291",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-13T04:00:00+00:00",
+      "summary": "arXiv:2608.11291v1 Announce Type: new Abstract: Intrusion detection systems (IDS) and automated systems for detecting and reporting cyber threats, are commonly handled via supervised machine learning methods. Though effe"
+    },
+    {
+      "title": "Battlefield 5G: Dual-PKI and TPM-Based UE Attestation for Tactical 5G Standalone Networks",
+      "link": "https://arxiv.org/abs/2608.11293",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-13T04:00:00+00:00",
+      "summary": "arXiv:2608.11293v1 Announce Type: new Abstract: The standardized 5G Authentication and Key Agreement (5G-AKA) authenticates a subscriber credential stored on a Universal Subscriber Identity Model (USIM) but does not auth"
+    },
+    {
+      "title": "Backdoor Decontamination Dynamics in LLM Agents",
+      "link": "https://arxiv.org/abs/2608.11295",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-13T04:00:00+00:00",
+      "summary": "arXiv:2608.11295v1 Announce Type: new Abstract: Open-weight LLM agents are vulnerable to backdoors installed during fine-tuning, which may be undetectable if the trigger conditions are never met during testing. Assuming "
+    },
+    {
+      "title": "Association-based Privacy Attacks in Wireless Protocols: Formal Modeling and Mitigation",
+      "link": "https://arxiv.org/abs/2608.11337",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-13T04:00:00+00:00",
+      "summary": "arXiv:2608.11337v1 Announce Type: new Abstract: With the surge in privacy-sensitive data from sources such as social media and IoT devices, there is a pressing need for formal, automated methods to assess privacy risks w"
+    },
+    {
+      "title": "An Empirical Study of Output-to-Input Loops for Black-Box Backdoor Detection in Fine-Tuned Open-Weight LLMs",
+      "link": "https://arxiv.org/abs/2608.11348",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-13T04:00:00+00:00",
+      "summary": "arXiv:2608.11348v1 Announce Type: new Abstract: Anyone can upload a fine-tuned large language model (LLM) to a public repository and claim it is safe. A backdoored model behaves normally on ordinary inputs until a hidden"
+    },
+    {
+      "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+      "link": "https://arxiv.org/abs/2608.11207",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-13T04:00:00+00:00",
+      "summary": "arXiv:2608.11207v1 Announce Type: new Abstract: When two LLM agents with structurally opposed objectives interact across multiple turns, the absence of a shared goal function produces not competition but collapse: the vi"
+    },
+    {
+      "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
+      "link": "https://arxiv.org/abs/2608.11210",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-13T04:00:00+00:00",
+      "summary": "arXiv:2608.11210v1 Announce Type: new Abstract: Bayesian calibration of process-based models requires a prior distribution for each model parameter. Despite decades of methodological work, researchers almost always fall "
+    },
+    {
+      "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
+      "link": "https://arxiv.org/abs/2608.11211",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-13T04:00:00+00:00",
+      "summary": "arXiv:2608.11211v1 Announce Type: new Abstract: Conway's 99-graph problem asks whether a strongly regular graph with parameters $\\mathrm{srg}(99,14,1,2)$ exists. We report a systematic, fully reproducible attack by an au"
+    },
+    {
+      "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
+      "link": "https://arxiv.org/abs/2608.11212",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-13T04:00:00+00:00",
+      "summary": "arXiv:2608.11212v1 Announce Type: new Abstract: Top-k Mixture-of-Experts (MoE) routing is discontinuous, so a deployment-motivated numerical disturbance -- simulated 4-bit KV-cache quantization read by a protected BF16 g"
+    },
+    {
+      "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
+      "link": "https://arxiv.org/abs/2608.11215",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-13T04:00:00+00:00",
+      "summary": "arXiv:2608.11215v1 Announce Type: new Abstract: Simulating societies of many large language model (LLM) agents is expensive, yet the questions asked of such simulations are usually macroscopic: phase behaviour, stylised "
+    },
+    {
+      "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
+      "link": "https://arxiv.org/abs/2608.11216",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-13T04:00:00+00:00",
+      "summary": "arXiv:2608.11216v1 Announce Type: new Abstract: World modeling is an unsettled field: architectures, training objectives, and state representations interact in complex ways, and no single recipe dominates across environm"
+    },
+    {
+      "title": "MaSRead: Content-Addressed Reading of Replicated Latent Stores",
+      "link": "https://arxiv.org/abs/2608.11218",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-13T04:00:00+00:00",
+      "summary": "arXiv:2608.11218v1 Announce Type: new Abstract: Independent agents that reason in latent space can share computed state as key-value cache fragments rather than text. Merged by a conflict-free replicated data type, these"
+    },
+    {
+      "title": "From Monolithic to Modular: Segment-level Automatic Prompt Optimization",
+      "link": "https://arxiv.org/abs/2608.11219",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-13T04:00:00+00:00",
+      "summary": "arXiv:2608.11219v1 Announce Type: new Abstract: Automatic Prompt Optimization (APO) often rewrites prompts monolithically, which can improve one behavior while degrading others. We present SAPO, a segment-level APO metho"
+    },
+    {
+      "title": "ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)",
+      "link": "https://isc.sans.edu/diary/rss/33244",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-13T02:00:03+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Using Gemma4 with Ollama - Testing File Hash Analysis and Recommendations with AI, (Wed, Aug 12th)",
+      "link": "https://isc.sans.edu/diary/rss/33242",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-13T01:26:53+00:00",
+      "summary": "In the past few weeks, I have been using Gemma4 as a Large Language Model (LLM) to see how useful it can be to analyze some of the malware hashes uploaded to the DShield sensor over the past 30 days and figure out how it"
+    },
     {
       "title": "Long-running Data Theft Campaign Targeting Salesforce, ServiceNow",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow",
@@ -171,166 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-12T08:04:52+00:00",
       "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems"
-    },
-    {
-      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
-      "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-12T07:31:40+00:00",
-      "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-5823"
-    },
-    {
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-12T06:00:00+00:00",
-      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
-    },
-    {
-      "title": "World-First SEM-based Recovery of Crash EDR Data from the EEPROM of a Severely Damaged SRS Module Using CrashScan",
-      "link": "https://arxiv.org/abs/2608.10152",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-12T04:00:00+00:00",
-      "summary": "arXiv:2608.10152v1 Announce Type: new Abstract: This paper introduces fully working and affordable approach to data recovery from automotive SRS (airbag control) module after permanent failure of its data storage memory "
-    },
-    {
-      "title": "MarkNull: Model-Agnostic Watermark Removal in AI-Generated Images via On-Manifold Latent Manipulation",
-      "link": "https://arxiv.org/abs/2608.10166",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-12T04:00:00+00:00",
-      "summary": "arXiv:2608.10166v1 Announce Type: new Abstract: Digital watermarking has emerged as a critical technique for provenance and copyright attribution in AI-generated imagery, yet its robustness against realistic, model-agnos"
-    },
-    {
-      "title": "Withholding the Completing Chunk: Deterministic Pair-Completion Guardrails for Streaming LLM Output",
-      "link": "https://arxiv.org/abs/2608.10279",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-12T04:00:00+00:00",
-      "summary": "arXiv:2608.10279v1 Announce Type: new Abstract: Streaming language-model output creates a release-timing problem: complete-response moderation acts after streamed text has escaped, whereas repeated semantic classificatio"
-    },
-    {
-      "title": "From Prompt Injection to Web Exploitation: Revisiting Classic Vulnerabilities in LLM-Integrated Applications",
-      "link": "https://arxiv.org/abs/2608.10281",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-12T04:00:00+00:00",
-      "summary": "arXiv:2608.10281v1 Announce Type: new Abstract: Large Language Models are increasingly integrated into web applications through chatbots, tool-calling pipelines, and agentic workflows. In these systems, user input may in"
-    },
-    {
-      "title": "Beyond Detection Accuracy: Measuring Explanation Cost, Stability, and Utility for Resource-Aware IoT Intrusion Detection",
-      "link": "https://arxiv.org/abs/2608.10349",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-12T04:00:00+00:00",
-      "summary": "arXiv:2608.10349v1 Announce Type: new Abstract: Machine-learning intrusion-detection studies commonly emphasize predictive accuracy while treating explanation generation as a computationally free post-processing step. Th"
-    },
-    {
-      "title": "Synthesizing Probabilistic Saturating Counters with Differentially Private Formal Guarantees",
-      "link": "https://arxiv.org/abs/2608.10521",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-12T04:00:00+00:00",
-      "summary": "arXiv:2608.10521v1 Announce Type: new Abstract: Branch predictors improve instruction-level parallelism in modern processors and are commonly modeled using saturating counters. However, classical saturating counters are "
-    },
-    {
-      "title": "On Understanding, Identifying, and Mitigating Vulnerabilities in Agentic Large Language Models",
-      "link": "https://arxiv.org/abs/2608.10530",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-12T04:00:00+00:00",
-      "summary": "arXiv:2608.10530v1 Announce Type: new Abstract: Large Language Models (LLMs) have undergone a shift from stateless conversational interfaces to autonomous agents capable of multi-step planning, tool invocation, code exec"
-    },
-    {
-      "title": "Trigger the Straggler: Load Hijack on Mixture-of-Experts LLMs",
-      "link": "https://arxiv.org/abs/2608.10614",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-12T04:00:00+00:00",
-      "summary": "arXiv:2608.10614v1 Announce Type: new Abstract: Expert parallelism (EP) is a common strategy for serving large Mixture-of-Experts (MoE) models across multiple GPUs by distributing experts among devices. Router decisions "
-    },
-    {
-      "title": "Towards an Argumentative Foundation for Evaluative AI",
-      "link": "https://arxiv.org/abs/2608.07473",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-12T04:00:00+00:00",
-      "summary": "arXiv:2608.07473v1 Announce Type: new Abstract: Evaluative AI (EAI) has been recently proposed as a way to support human decision-making, not by producing a single recommendation, but by presenting competing hypotheses t"
-    },
-    {
-      "title": "Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
-      "link": "https://arxiv.org/abs/2608.07474",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-12T04:00:00+00:00",
-      "summary": "arXiv:2608.07474v1 Announce Type: new Abstract: Prior work showed that human-in-the-loop oversight becomes structurally untenable in high-loss domains when AI output velocity V exceeds human cognitive capacity C_max. The"
-    },
-    {
-      "title": "Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility",
-      "link": "https://arxiv.org/abs/2608.07476",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-12T04:00:00+00:00",
-      "summary": "arXiv:2608.07476v1 Announce Type: new Abstract: We develop a formal framework for constructing canonical interpretations from plural structure theories. A structure theory is a triple T = ({\\Sigma}, A, I) consisting of a"
-    },
-    {
-      "title": "Emotion in an active inference model of human driving",
-      "link": "https://arxiv.org/abs/2608.07480",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-12T04:00:00+00:00",
-      "summary": "arXiv:2608.07480v1 Announce Type: new Abstract: Active inference has emerged as a principled framework for modeling adaptive behavior by balancing goal-directed action with uncertainty reduction. It has been successfully"
-    },
-    {
-      "title": "Training Variable Long Sequences with Data-Centric Parallel",
-      "link": "https://arxiv.org/abs/2608.07524",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-12T04:00:00+00:00",
-      "summary": "arXiv:2608.07524v1 Announce Type: new Abstract: Training deep learning models on variable long sequences poses significant computational challenges. Existing methods force a difficult trade-off between efficiency and eas"
-    },
-    {
-      "title": "The Knowing-Saying Gap: When Probes See Errors that Confidence Misses",
-      "link": "https://arxiv.org/abs/2608.07528",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-12T04:00:00+00:00",
-      "summary": "arXiv:2608.07528v1 Announce Type: new Abstract: Linear probes detect corrupted context in language models with near-perfect accuracy, yet this does not translate into reliable failure prediction. The result is a dissocia"
-    },
-    {
-      "title": "NL2SHACL-Bench: A Benchmark Suite for Natural Language to SHACL Translation",
-      "link": "https://arxiv.org/abs/2608.07530",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-12T04:00:00+00:00",
-      "summary": "arXiv:2608.07530v1 Announce Type: new Abstract: SHACL is a core technology for validating the conformance of RDF knowledge graphs (KGs). Yet, authoring SHACL shapes requires technical expertise that most domain experts l"
-    },
-    {
-      "title": "Dynamic Coalition Formation and Communication Pricing in Skill-Based Agentic AI Systems",
-      "link": "https://arxiv.org/abs/2608.07532",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-12T04:00:00+00:00",
-      "summary": "arXiv:2608.07532v1 Announce Type: new Abstract: Modern agentic AI systems combine multiple large language model agents with heterogeneous skills, yet most architectures either fix communication in advance or allow full b"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, August 12th, 2026 https://isc.sans.edu/podcastdetail/10048, (Wed, Aug 12th)",
-      "link": "https://isc.sans.edu/diary/rss/33238",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-12T02:00:03+00:00",
-      "summary": ""
-    },
-    {
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "link": "https://openai.com/index/ringcentral",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-12T00:00:00+00:00",
-      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations."
     }
   ]
 }
