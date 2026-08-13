@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T12:39:25.212224+00:00",
+  "generated_at": "2026-08-13T18:43:54.078520+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,12 +13,76 @@
   ],
   "items": [
     {
+      "title": "Building a practical path to post-quantum cryptography",
+      "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-13T18:11:42+00:00",
+      "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigati"
+    },
+    {
+      "title": "Flock tightens privacy controls amid scandals over officer abuse",
+      "link": "https://therecord.media/flock-safety-audit-assistance-police-departments",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-13T16:47:00+00:00",
+      "summary": "All Flock Safety customers will be required to adopt its \"Audit Assistance\" feature for tracking abnormal uses, and the company says it will hold license plate data for only seven days in most cases."
+    },
+    {
+      "title": "New Mirai variant adds stealth capabilities to notorious botnet code",
+      "link": "https://therecord.media/new-mirai-variant-adds-stealth-to-botnet-code",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-13T15:52:00+00:00",
+      "summary": "Beyond Mirai\u2019s usual functions, the new code features include encrypted communications with command-and-control servers and a \u201csniffer\u201d that looks for default access credentials."
+    },
+    {
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-13T13:41:10+00:00",
+      "summary": "The police-tech giant Flock is announcing today that it will change officers\u2019 access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid "
+    },
+    {
+      "title": "Brazil orders Discord to suspend livestreaming after teen suicide",
+      "link": "https://therecord.media/discord-brazil-orders-suspension-livestreaming",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-13T13:37:32+00:00",
+      "summary": "Discord's Go Live feature contributed to a 13-year-old girl's death by suicide, according to Brazilian regulators, who told the company to suspend the streaming technology."
+    },
+    {
+      "title": "Trump taps cyber firms to go on offensive against criminals",
+      "link": "https://therecord.media/trump-cyber-crime-offensive",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-13T13:30:00+00:00",
+      "summary": "The Trump administration will allow private companies to launch attacks on cybercrime organizations, the White House announced."
+    },
+    {
+      "title": "Germany moves to give spy agencies hacking and sabotage powers",
+      "link": "https://therecord.media/germany-spy-agency-powers",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-13T12:45:00+00:00",
+      "summary": "Germany\u2019s cabinet approved legislation that would let its intelligence agencies hack foreign systems, sabotage adversaries\u2019 supply chains and feed false information to extremists inside Germany, in the biggest overhaul o"
+    },
+    {
       "title": "The Download: kids\u2019 thoughts on AI, and female clones of male mice",
       "link": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
       "source": "MIT Technology Review",
       "category": "ai",
       "published": "2026-08-13T12:10:00+00:00",
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. How kids feel about AI, in their own words \u2014Jen Swetzoff and Keeley McNamara, the "
+    },
+    {
+      "title": "The builder\u2019s guide to GPT\u20115.6",
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-13T11:00:00+00:00",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
     },
     {
       "title": "'Jewelbug' APT Balances State Espionage & Cryptocurrency Theft",
@@ -37,12 +101,28 @@
       "summary": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July."
     },
     {
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "link": "https://openai.com/index/previewing-ultrafast",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-13T10:00:00+00:00",
+      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14\u00d7 faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
+    },
+    {
       "title": "How kids feel about AI, in their own words",
       "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
       "source": "MIT Technology Review",
       "category": "ai",
       "published": "2026-08-13T09:00:00+00:00",
       "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we\u2019d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes o"
+    },
+    {
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-13T09:00:00+00:00",
+      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI."
     },
     {
       "title": "Belgium's eID Authentication Opens Citizen Accounts to RCE",
@@ -229,14 +309,6 @@
       "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense"
     },
     {
-      "title": "FBI: Hackers using social engineering to breach accounts and steal explicit content",
-      "link": "https://therecord.media/social-engineering-hackers-explicit-photos-fbi-alert",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-12T17:28:00+00:00",
-      "summary": "Leaked passwords, social engineering and spoofed social media sites are among the tools hackers are using to gather individuals' private content and sell it online, the FBI said."
-    },
-    {
       "title": "Scaling AI agents with trustworthy data",
       "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
       "source": "MIT Technology Review",
@@ -259,78 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-12T14:21:10+00:00",
       "summary": "A couple of days ago, Xavier posted about Atuin to gain more insight into the command history. Atuin does a great job of better organizing what is usually handled by \"bash&#;x26;#;x5f;history\"&#;x26;#;xc2;&#;x26;#;xa0;an"
-    },
-    {
-      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
-      "link": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-12T14:09:50+00:00",
-      "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infras"
-    },
-    {
-      "title": "Ransomware Hits Colombian Justice Ministry Days Before Presidential Transition",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-12T14:00:00+00:00",
-      "summary": "Attackers continue to target critical infrastructure and government-linked organizations in the country, mirroring the increased activity across Latin America."
-    },
-    {
-      "title": "Three intrusions at UK criminal records office went undetected for two years",
-      "link": "https://therecord.media/uk-criminal-records-office-acro-data-breaches",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-12T13:00:00+00:00",
-      "summary": "Unread antivirus alerts and an unpatched content management system exposed Britain's ACRO to three separate data breaches, according to a reprimand notice."
-    },
-    {
-      "title": "Walmart Leaders Transform Security Operations Without Going Bananas",
-      "link": "https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-12T12:41:03+00:00",
-      "summary": "The big-box giant has scaled its defenses by encouraging trust and innovation. Good communications, transparency, and team spirit are key factors."
-    },
-    {
-      "title": "Microsoft\u2019s massive Patch Tuesday releases continue as AI reshapes bug discovery",
-      "link": "https://therecord.media/microsoft-massive-patch-tuesday-releases-continue-ai",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-12T12:38:00+00:00",
-      "summary": "This month\u2019s update features about five times the volume of patches Microsoft was shipping in a typical month before AI-assisted vulnerability discovery took hold."
-    },
-    {
-      "title": "The Download: our 35 young innovators and the \u201ccensorship-industrial complex\u201d",
-      "link": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-12T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. How we picked 35 of the world\u2019s top young scientists and engineers On September 8,"
-    },
-    {
-      "title": "CISA gives federal agencies two weeks to patch Microsoft bug exploited in DPRK campaign",
-      "link": "https://therecord.media/cisa-gives-federal-agencies-two-weeks-to-patch-dprk-microsoft-bug",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-12T12:06:00+00:00",
-      "summary": "Researchers disclosed the bug to Microsoft after examining a long-running campaign by North Korean hackers to exploit the job application process."
-    },
-    {
-      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-      "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-12T11:47:38+00:00",
-      "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. Th"
-    },
-    {
-      "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
-      "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-12T11:41:34+00:00",
-      "summary": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack"
     }
   ]
 }
