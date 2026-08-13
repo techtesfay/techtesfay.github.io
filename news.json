@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T07:07:03.191239+00:00",
+  "generated_at": "2026-08-13T12:39:25.212224+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,38 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "The Download: kids\u2019 thoughts on AI, and female clones of male mice",
+      "link": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-13T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. How kids feel about AI, in their own words \u2014Jen Swetzoff and Keeley McNamara, the "
+    },
+    {
+      "title": "'Jewelbug' APT Balances State Espionage & Cryptocurrency Theft",
+      "link": "https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-13T10:00:00+00:00",
+      "summary": "Researchers discovered hackers-for-hire performing cyber espionage and financially motivated heists from the same Web panel."
+    },
+    {
+      "title": "What\u2019s behind this summer\u2019s heat, and why 2027 could be worse",
+      "link": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-13T10:00:00+00:00",
+      "summary": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July."
+    },
+    {
+      "title": "How kids feel about AI, in their own words",
+      "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-13T09:00:00+00:00",
+      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we\u2019d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes o"
+    },
     {
       "title": "Belgium's eID Authentication Opens Citizen Accounts to RCE",
       "link": "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
@@ -213,12 +245,12 @@
       "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology\u2019s potential to transform work. But many organizat"
     },
     {
-      "title": "Walmart's \"Trusted Agent\" Approach to Purple Teaming",
+      "title": "Walmart Takes a 'Trusted Agent' Approach to Purple Teaming",
       "link": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-08-12T16:28:04+00:00",
-      "summary": "Walmart co-locates red and blue teams to build trust and improve security through collaborative purple teaming exercises"
+      "summary": "Walmart colocates red and blue teams to build trust and improve security through collaborative purple teaming exercises"
     },
     {
       "title": "Linux Kernel Process Accounting, (Wed, Aug 12th)",
@@ -299,38 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-12T11:41:34+00:00",
       "summary": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack"
-    },
-    {
-      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
-      "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-12T11:13:03+00:00",
-      "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege"
-    },
-    {
-      "title": "How we picked 35 of the world\u2019s top young scientists and engineers",
-      "link": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-12T09:08:40+00:00",
-      "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever techn"
-    },
-    {
-      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-12T09:01:54+00:00",
-      "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8),"
-    },
-    {
-      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
-      "link": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-12T08:04:52+00:00",
-      "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems"
     }
   ]
 }
