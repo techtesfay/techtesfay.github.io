@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T18:43:38.881293+00:00",
+  "generated_at": "2026-08-13T00:54:29.595093+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,22 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Long-running Data Theft Campaign Targeting Salesforce, ServiceNow",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-12T21:08:54+00:00",
+      "summary": "The \"City-Forum\" campaign has been active since at least March 2025 and has targeted organizations across multiple sectors with custom tooling."
+    },
+    {
+      "title": "Scientists just created female clones of male mice",
+      "link": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-12T18:59:48+00:00",
+      "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice."
+    },
     {
       "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
       "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
@@ -309,28 +325,12 @@
       "summary": ""
     },
     {
-      "title": "Microsoft's Patch Tuesday Deluge Continues With August Updates",
-      "link": "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-11T21:42:34+00:00",
-      "summary": "Security experts say prioritization should be the main focus for the August updates, not the massive CVE volume."
-    },
-    {
-      "title": "Microsoft Plugs Nearly 400 Security Holes",
-      "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-      "source": "Krebs on Security",
-      "category": "cybersecurity",
-      "published": "2026-08-11T21:28:35+00:00",
-      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others tha"
-    },
-    {
-      "title": "Gunra Ransomware Gang Exploits Fortinet Flaws, Bypasses MFA",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-11T21:16:25+00:00",
-      "summary": "The ransomware-as-a-service operation is finding success against critical infrastructure targets with leaked Conti code and old flaws in firewalls and VPN appliances."
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "link": "https://openai.com/index/ringcentral",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-12T00:00:00+00:00",
+      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations."
     }
   ]
 }
