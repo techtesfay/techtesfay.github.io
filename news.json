@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T18:43:54.078520+00:00",
+  "generated_at": "2026-08-14T00:53:33.919417+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,22 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Roundtables: Inside the \u201cCensorship-Industrial Complex\u201d Idea Shaping US Policy",
+      "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-13T21:00:00+00:00",
+      "summary": "Listen to the session or watch below The \u201ccensorship-industrial complex\u201d is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the"
+    },
+    {
+      "title": "Global Threat Campaign Hits Critical VMware vCenter Flaw",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-13T20:45:17+00:00",
+      "summary": "Exploitation against CVE-2026\u201359310 began earlier this month, and patching the vulnerability may not be enough to fully mitigate the threat."
+    },
     {
       "title": "Building a practical path to post-quantum cryptography",
       "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
@@ -315,22 +331,6 @@
       "category": "ai",
       "published": "2026-08-12T16:51:57+00:00",
       "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology\u2019s potential to transform work. But many organizat"
-    },
-    {
-      "title": "Walmart Takes a 'Trusted Agent' Approach to Purple Teaming",
-      "link": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-12T16:28:04+00:00",
-      "summary": "Walmart colocates red and blue teams to build trust and improve security through collaborative purple teaming exercises"
-    },
-    {
-      "title": "Linux Kernel Process Accounting, (Wed, Aug 12th)",
-      "link": "https://isc.sans.edu/diary/rss/33240",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-12T14:21:10+00:00",
-      "summary": "A couple of days ago, Xavier posted about Atuin to gain more insight into the command history. Atuin does a great job of better organizing what is usually handled by \"bash&#;x26;#;x5f;history\"&#;x26;#;xc2;&#;x26;#;xa0;an"
     }
   ]
 }
