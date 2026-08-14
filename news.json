@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T00:53:33.919417+00:00",
+  "generated_at": "2026-08-14T07:03:17.763473+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,142 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "DCBA: Detection of Collaborative Black-Hole Attacks in Connected Dominated Set using Baiting Process",
+      "link": "https://arxiv.org/abs/2608.12347",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-14T04:00:00+00:00",
+      "summary": "arXiv:2608.12347v1 Announce Type: new Abstract: Mobile Ad-hoc Network (MANET) is temporary and dynamic network topology, wherein nodes are mobile in nature and distributed randomly in a network area. In MANET, nodes coop"
+    },
+    {
+      "title": "The energetic cost of mitigating AI attacks in cellular networks",
+      "link": "https://arxiv.org/abs/2608.12431",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-14T04:00:00+00:00",
+      "summary": "arXiv:2608.12431v1 Announce Type: new Abstract: The integration of Artificial Intelligence (AI), generally as Machine Learning (ML) algorithms, in all levels and aspects of cellular networks demonstrates the success of d"
+    },
+    {
+      "title": "Non-Degenerate Risk Certification for Automated Security Decisions: A Decision-Contract Theory with ATT\\&CK-Aligned Triage as a Worked Instance",
+      "link": "https://arxiv.org/abs/2608.12444",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-14T04:00:00+00:00",
+      "summary": "arXiv:2608.12444v1 Announce Type: new Abstract: An unconditional risk bound on automated decisions can be satisfied without automating anything, since a selector that never acts drives the bound to zero. We show this is "
+    },
+    {
+      "title": "SoK: From Generation to Consumption of Privacy Documents in Software Systems",
+      "link": "https://arxiv.org/abs/2608.12511",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-14T04:00:00+00:00",
+      "summary": "arXiv:2608.12511v1 Announce Type: new Abstract: Privacy documents (e.g., privacy policies) are a central mechanism through which digital services disclose data practices and seek user consent. Over the past decades, rese"
+    },
+    {
+      "title": "Tracing Provenance and Detecting Tampering with Complementary LLM Watermarks",
+      "link": "https://arxiv.org/abs/2608.12713",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-14T04:00:00+00:00",
+      "summary": "arXiv:2608.12713v1 Announce Type: new Abstract: Watermarking LLM-generated text is an important task for tracing its provenance. Existing LLM watermarks preserve provenance under editing, but this same robustness allows "
+    },
+    {
+      "title": "PIPES: Securing Agent Perception with Provenance and Priors",
+      "link": "https://arxiv.org/abs/2608.12789",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-14T04:00:00+00:00",
+      "summary": "arXiv:2608.12789v1 Announce Type: new Abstract: Tool-using agents consume external data from sources with different levels of trust, yet tool responses rarely identify who produced each component or what it should convey"
+    },
+    {
+      "title": "RealmEye: Virtual Machine Introspection for Arm CCA Realm VMs",
+      "link": "https://arxiv.org/abs/2608.12822",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-14T04:00:00+00:00",
+      "summary": "arXiv:2608.12822v1 Announce Type: new Abstract: Confidential VMs (CVMs) have become the dominant substrate for sensitive cloud workloads, from financial services to privacy-preserving AI inference. The hardware isolation"
+    },
+    {
+      "title": "Beyond Source: An Empirical Study of Python Bytecode Security Risks",
+      "link": "https://arxiv.org/abs/2608.12853",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-14T04:00:00+00:00",
+      "summary": "arXiv:2608.12853v1 Announce Type: new Abstract: Python package security is largely source-centric, yet Python runtimes can execute bytecode directly through .pyc files, compiled-only modules, and marshalled code objects,"
+    },
+    {
+      "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+      "link": "https://arxiv.org/abs/2608.11207",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-14T04:00:00+00:00",
+      "summary": "arXiv:2608.11207v1 Announce Type: new Abstract: When two LLM agents with structurally opposed objectives interact across multiple turns, the absence of a shared goal function produces not competition but collapse: the vi"
+    },
+    {
+      "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
+      "link": "https://arxiv.org/abs/2608.11210",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-14T04:00:00+00:00",
+      "summary": "arXiv:2608.11210v1 Announce Type: new Abstract: Bayesian calibration of process-based models requires a prior distribution for each model parameter. Despite decades of methodological work, researchers almost always fall "
+    },
+    {
+      "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
+      "link": "https://arxiv.org/abs/2608.11211",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-14T04:00:00+00:00",
+      "summary": "arXiv:2608.11211v1 Announce Type: new Abstract: Conway's 99-graph problem asks whether a strongly regular graph with parameters $\\mathrm{srg}(99,14,1,2)$ exists. We report a systematic, fully reproducible attack by an au"
+    },
+    {
+      "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
+      "link": "https://arxiv.org/abs/2608.11212",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-14T04:00:00+00:00",
+      "summary": "arXiv:2608.11212v1 Announce Type: new Abstract: Top-k Mixture-of-Experts (MoE) routing is discontinuous, so a deployment-motivated numerical disturbance -- simulated 4-bit KV-cache quantization read by a protected BF16 g"
+    },
+    {
+      "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
+      "link": "https://arxiv.org/abs/2608.11215",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-14T04:00:00+00:00",
+      "summary": "arXiv:2608.11215v1 Announce Type: new Abstract: Simulating societies of many large language model (LLM) agents is expensive, yet the questions asked of such simulations are usually macroscopic: phase behaviour, stylised "
+    },
+    {
+      "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
+      "link": "https://arxiv.org/abs/2608.11216",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-14T04:00:00+00:00",
+      "summary": "arXiv:2608.11216v1 Announce Type: new Abstract: World modeling is an unsettled field: architectures, training objectives, and state representations interact in complex ways, and no single recipe dominates across environm"
+    },
+    {
+      "title": "MaSRead: Content-Addressed Reading of Replicated Latent Stores",
+      "link": "https://arxiv.org/abs/2608.11218",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-14T04:00:00+00:00",
+      "summary": "arXiv:2608.11218v1 Announce Type: new Abstract: Independent agents that reason in latent space can share computed state as key-value cache fragments rather than text. Merged by a conflict-free replicated data type, these"
+    },
+    {
+      "title": "From Monolithic to Modular: Segment-level Automatic Prompt Optimization",
+      "link": "https://arxiv.org/abs/2608.11219",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-14T04:00:00+00:00",
+      "summary": "arXiv:2608.11219v1 Announce Type: new Abstract: Automatic Prompt Optimization (APO) often rewrites prompts monolithically, which can improve one behavior while degrading others. We present SAPO, a segment-level APO metho"
+    },
+    {
+      "title": "ISC Stormcast For Friday, August 14th, 2026 https://isc.sans.edu/podcastdetail/10052, (Fri, Aug 14th)",
+      "link": "https://isc.sans.edu/diary/rss/33246",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-14T02:00:03+00:00",
+      "summary": ""
+    },
     {
       "title": "Roundtables: Inside the \u201cCensorship-Industrial Complex\u201d Idea Shaping US Policy",
       "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
@@ -157,134 +293,6 @@
       "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which re"
     },
     {
-      "title": "Agent Safety Should Be a Runtime Contract",
-      "link": "https://arxiv.org/abs/2608.11274",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-13T04:00:00+00:00",
-      "summary": "arXiv:2608.11274v1 Announce Type: new Abstract: The dominant paradigm treats AI safety as a property to be instilled during model training via RLHF, DPO, or Constitutional AI. We argue this is structurally insufficient f"
-    },
-    {
-      "title": "Knowledge-Graph-Guided Retrieval-Augmented LLMs for Explainable Root Cause Analysis in Automotive HiL Validation",
-      "link": "https://arxiv.org/abs/2608.11277",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-13T04:00:00+00:00",
-      "summary": "arXiv:2608.11277v1 Announce Type: new Abstract: Hardware-in-the-Loop validation of automotive software systems generates large multivariate time-series recordings whose manual analysis is time-consuming and often limited"
-    },
-    {
-      "title": "Benchmarking Cyberattack Detection in Electric Vehicle Charging Infrastructure with Benign User Updates",
-      "link": "https://arxiv.org/abs/2608.11286",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-13T04:00:00+00:00",
-      "summary": "arXiv:2608.11286v1 Announce Type: new Abstract: Cyberattack detection in electric vehicle charging infrastructure is complicated by legitimate post-activation revisions to requested energy and departure time. Charging ma"
-    },
-    {
-      "title": "Dueling Deep Q-Learning for Intrusion Detection",
-      "link": "https://arxiv.org/abs/2608.11291",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-13T04:00:00+00:00",
-      "summary": "arXiv:2608.11291v1 Announce Type: new Abstract: Intrusion detection systems (IDS) and automated systems for detecting and reporting cyber threats, are commonly handled via supervised machine learning methods. Though effe"
-    },
-    {
-      "title": "Battlefield 5G: Dual-PKI and TPM-Based UE Attestation for Tactical 5G Standalone Networks",
-      "link": "https://arxiv.org/abs/2608.11293",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-13T04:00:00+00:00",
-      "summary": "arXiv:2608.11293v1 Announce Type: new Abstract: The standardized 5G Authentication and Key Agreement (5G-AKA) authenticates a subscriber credential stored on a Universal Subscriber Identity Model (USIM) but does not auth"
-    },
-    {
-      "title": "Backdoor Decontamination Dynamics in LLM Agents",
-      "link": "https://arxiv.org/abs/2608.11295",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-13T04:00:00+00:00",
-      "summary": "arXiv:2608.11295v1 Announce Type: new Abstract: Open-weight LLM agents are vulnerable to backdoors installed during fine-tuning, which may be undetectable if the trigger conditions are never met during testing. Assuming "
-    },
-    {
-      "title": "Association-based Privacy Attacks in Wireless Protocols: Formal Modeling and Mitigation",
-      "link": "https://arxiv.org/abs/2608.11337",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-13T04:00:00+00:00",
-      "summary": "arXiv:2608.11337v1 Announce Type: new Abstract: With the surge in privacy-sensitive data from sources such as social media and IoT devices, there is a pressing need for formal, automated methods to assess privacy risks w"
-    },
-    {
-      "title": "An Empirical Study of Output-to-Input Loops for Black-Box Backdoor Detection in Fine-Tuned Open-Weight LLMs",
-      "link": "https://arxiv.org/abs/2608.11348",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-13T04:00:00+00:00",
-      "summary": "arXiv:2608.11348v1 Announce Type: new Abstract: Anyone can upload a fine-tuned large language model (LLM) to a public repository and claim it is safe. A backdoored model behaves normally on ordinary inputs until a hidden"
-    },
-    {
-      "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
-      "link": "https://arxiv.org/abs/2608.11207",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-13T04:00:00+00:00",
-      "summary": "arXiv:2608.11207v1 Announce Type: new Abstract: When two LLM agents with structurally opposed objectives interact across multiple turns, the absence of a shared goal function produces not competition but collapse: the vi"
-    },
-    {
-      "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
-      "link": "https://arxiv.org/abs/2608.11210",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-13T04:00:00+00:00",
-      "summary": "arXiv:2608.11210v1 Announce Type: new Abstract: Bayesian calibration of process-based models requires a prior distribution for each model parameter. Despite decades of methodological work, researchers almost always fall "
-    },
-    {
-      "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
-      "link": "https://arxiv.org/abs/2608.11211",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-13T04:00:00+00:00",
-      "summary": "arXiv:2608.11211v1 Announce Type: new Abstract: Conway's 99-graph problem asks whether a strongly regular graph with parameters $\\mathrm{srg}(99,14,1,2)$ exists. We report a systematic, fully reproducible attack by an au"
-    },
-    {
-      "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
-      "link": "https://arxiv.org/abs/2608.11212",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-13T04:00:00+00:00",
-      "summary": "arXiv:2608.11212v1 Announce Type: new Abstract: Top-k Mixture-of-Experts (MoE) routing is discontinuous, so a deployment-motivated numerical disturbance -- simulated 4-bit KV-cache quantization read by a protected BF16 g"
-    },
-    {
-      "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
-      "link": "https://arxiv.org/abs/2608.11215",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-13T04:00:00+00:00",
-      "summary": "arXiv:2608.11215v1 Announce Type: new Abstract: Simulating societies of many large language model (LLM) agents is expensive, yet the questions asked of such simulations are usually macroscopic: phase behaviour, stylised "
-    },
-    {
-      "title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
-      "link": "https://arxiv.org/abs/2608.11216",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-13T04:00:00+00:00",
-      "summary": "arXiv:2608.11216v1 Announce Type: new Abstract: World modeling is an unsettled field: architectures, training objectives, and state representations interact in complex ways, and no single recipe dominates across environm"
-    },
-    {
-      "title": "MaSRead: Content-Addressed Reading of Replicated Latent Stores",
-      "link": "https://arxiv.org/abs/2608.11218",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-13T04:00:00+00:00",
-      "summary": "arXiv:2608.11218v1 Announce Type: new Abstract: Independent agents that reason in latent space can share computed state as key-value cache fragments rather than text. Merged by a conflict-free replicated data type, these"
-    },
-    {
-      "title": "From Monolithic to Modular: Segment-level Automatic Prompt Optimization",
-      "link": "https://arxiv.org/abs/2608.11219",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-13T04:00:00+00:00",
-      "summary": "arXiv:2608.11219v1 Announce Type: new Abstract: Automatic Prompt Optimization (APO) often rewrites prompts monolithically, which can improve one behavior while degrading others. We present SAPO, a segment-level APO metho"
-    },
-    {
       "title": "ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)",
       "link": "https://isc.sans.edu/diary/rss/33244",
       "source": "SANS Internet Storm Center",
@@ -323,14 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-12T17:39:27+00:00",
       "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense"
-    },
-    {
-      "title": "Scaling AI agents with trustworthy data",
-      "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-12T16:51:57+00:00",
-      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology\u2019s potential to transform work. But many organizat"
     }
   ]
 }
