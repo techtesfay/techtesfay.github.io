@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T12:35:44.719671+00:00",
+  "generated_at": "2026-08-14T18:37:25.134577+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,12 +13,52 @@
   ],
   "items": [
     {
-      "title": "Cyera's Oasis Security Buy is All About AI Agent Control",
+      "title": "Amid AI-Driven Bug Tsunami, NIST Looks to\u2026AI",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-14T17:32:46+00:00",
+      "summary": "Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer."
+    },
+    {
+      "title": "Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-14T15:58:50+00:00",
+      "summary": "One Caledonian government agency reported a breach, thanks to a third party that may have serviced other agencies as well."
+    },
+    {
+      "title": "What Boards Need to Know About Tech Risk",
+      "link": "https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-14T14:00:00+00:00",
+      "summary": "Why do so many boards underestimate technology risk until it becomes a crisis?"
+    },
+    {
+      "title": "France investigates tax authority breach after hacker claims 600,000 victims",
+      "link": "https://therecord.media/french-tax-authority-dgfip-confirms-data-breach",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-14T13:14:15+00:00",
+      "summary": "French authorities confirmed that someone gained unauthorized access to systems at the Directorate General of Public Finances in late June after stealing or misusing someone\u2019s identity."
+    },
+    {
+      "title": "Cyera's Oasis Security Buy Is All About AI Agent Control",
       "link": "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-08-14T12:17:21+00:00",
       "summary": "The $1 billion deal aims to converge data security and identity into a single control plane for agents, with privileged access redefined around business context rather than static roles."
+    },
+    {
+      "title": "The Download: Flock\u2019s new rules, cloning\u2019s future, and children\u2019s cells",
+      "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-14T12:17:21+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The p"
     },
     {
       "title": "Who\u2019s Tracking You? Use This New Service to Find Out",
@@ -253,14 +293,6 @@
       "summary": "The Trump administration will allow private companies to launch attacks on cybercrime organizations, the White House announced."
     },
     {
-      "title": "Germany moves to give spy agencies hacking and sabotage powers",
-      "link": "https://therecord.media/germany-spy-agency-powers",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-13T12:45:00+00:00",
-      "summary": "Germany\u2019s cabinet approved legislation that would let its intelligence agencies hack foreign systems, sabotage adversaries\u2019 supply chains and feed false information to extremists inside Germany, in the biggest overhaul o"
-    },
-    {
       "title": "The Download: kids\u2019 thoughts on AI, and female clones of male mice",
       "link": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
       "source": "MIT Technology Review",
@@ -285,14 +317,6 @@
       "summary": "Researchers discovered hackers-for-hire performing cyber espionage and financially motivated heists from the same Web panel."
     },
     {
-      "title": "What\u2019s behind this summer\u2019s heat, and why 2027 could be worse",
-      "link": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-13T10:00:00+00:00",
-      "summary": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July."
-    },
-    {
       "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
       "link": "https://openai.com/index/previewing-ultrafast",
       "source": "OpenAI News",
@@ -307,30 +331,6 @@
       "category": "ai",
       "published": "2026-08-13T09:00:00+00:00",
       "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI."
-    },
-    {
-      "title": "Belgium's eID Authentication Opens Citizen Accounts to RCE",
-      "link": "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-13T07:00:00+00:00",
-      "summary": "The trust framework underlying Belgium's electronic ID system was fully compromised by severe vulnerabilities in a key browser extension, showcasing bigger problems with extensions in general."
-    },
-    {
-      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-13T06:09:48+00:00",
-      "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which re"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)",
-      "link": "https://isc.sans.edu/diary/rss/33244",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-13T02:00:03+00:00",
-      "summary": ""
     }
   ]
 }
