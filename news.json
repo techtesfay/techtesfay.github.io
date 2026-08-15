@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T12:12:59.176997+00:00",
+  "generated_at": "2026-08-15T18:10:47.598340+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -77,7 +77,7 @@
       "summary": "arXiv:2608.12385v1 Announce Type: new Abstract: As large language models serve more requests, cumulative inference cost is becoming increasingly important relative to one-time training cost. The two inference phases stre"
     },
     {
-      "title": "Investigation of banking hack leads to arrests in Germany, Brazil",
+      "title": "Investigation of banking hack leads to arrests in Europe, Brazil",
       "link": "https://therecord.media/investigation-into-banking-hack-leads-to-arrests-germany-brazil",
       "source": "The Record",
       "category": "cybersecurity",
