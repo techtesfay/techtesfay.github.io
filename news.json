@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T18:10:47.598340+00:00",
+  "generated_at": "2026-08-16T00:31:31.002757+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -85,52 +85,12 @@
       "summary": "Germany\u2019s federal police agency, the BKA, said three suspects were picked up in Europe and charged with fraud, and Brazil\u2019s federal police said four others were arrested on similar charges."
     },
     {
-      "title": "Mission-Driven Security: Inside a Global Bank's Defense",
-      "link": "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-14T19:24:18+00:00",
-      "summary": "In this video interview, Standard Chartered's group CISO shares insights on transitioning from technical roles to strategic leadership, the importance of business-savvy security executives, and how AI is reshaping both d"
-    },
-    {
-      "title": "Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to \u2026 AI",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-14T17:32:46+00:00",
-      "summary": "Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer."
-    },
-    {
-      "title": "Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-14T15:58:50+00:00",
-      "summary": "One Caledonian government agency reported a breach, thanks to a third party that may have serviced other agencies as well."
-    },
-    {
-      "title": "What Boards Need to Know About Tech Risk",
-      "link": "https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-14T14:00:00+00:00",
-      "summary": "Why do so many boards underestimate technology risk until it becomes a crisis?"
-    },
-    {
       "title": "France investigates tax authority breach after hacker claims 600,000 victims",
       "link": "https://therecord.media/french-tax-authority-dgfip-confirms-data-breach",
       "source": "The Record",
       "category": "cybersecurity",
       "published": "2026-08-14T13:14:15+00:00",
       "summary": "French authorities confirmed that someone gained unauthorized access to systems at the Directorate General of Public Finances in late June after stealing or misusing someone\u2019s identity."
-    },
-    {
-      "title": "Cyera's Oasis Security Buy Is All About AI Agent Control",
-      "link": "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-14T12:17:21+00:00",
-      "summary": "The $1 billion deal aims to converge data security and identity into a single control plane for agents, with privileged access redefined around business context rather than static roles."
     },
     {
       "title": "The Download: Flock\u2019s new rules, cloning\u2019s future, and children\u2019s cells",
@@ -189,14 +149,6 @@
       "summary": "Listen to the session or watch below The \u201ccensorship-industrial complex\u201d is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the"
     },
     {
-      "title": "Global Threat Campaign Hits Critical VMware vCenter Flaw",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-13T20:45:17+00:00",
-      "summary": "Exploitation against CVE-2026\u201359310 began earlier this month, and patching the vulnerability may not be enough to fully mitigate the threat."
-    },
-    {
       "title": "Building a practical path to post-quantum cryptography",
       "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
       "source": "MIT Technology Review",
@@ -253,14 +205,6 @@
       "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
     },
     {
-      "title": "'Jewelbug' APT Balances State Espionage & Cryptocurrency Theft",
-      "link": "https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-13T10:00:00+00:00",
-      "summary": "Researchers discovered hackers-for-hire performing cyber espionage and financially motivated heists from the same Web panel."
-    },
-    {
       "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
       "link": "https://openai.com/index/previewing-ultrafast",
       "source": "OpenAI News",
@@ -275,14 +219,6 @@
       "category": "ai",
       "published": "2026-08-13T09:00:00+00:00",
       "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI."
-    },
-    {
-      "title": "Belgium's eID Authentication Opens Citizen Accounts to RCE",
-      "link": "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-13T07:00:00+00:00",
-      "summary": "The trust framework underlying Belgium's electronic ID system was fully compromised by severe vulnerabilities in a key browser extension, showcasing bigger problems with extensions in general."
     },
     {
       "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
@@ -331,6 +267,70 @@
       "category": "cybersecurity",
       "published": "2026-08-12T14:09:50+00:00",
       "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infras"
+    },
+    {
+      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+      "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-12T11:47:38+00:00",
+      "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. Th"
+    },
+    {
+      "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
+      "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-12T11:41:34+00:00",
+      "summary": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack"
+    },
+    {
+      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+      "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-12T11:13:03+00:00",
+      "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege"
+    },
+    {
+      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-12T09:01:54+00:00",
+      "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8),"
+    },
+    {
+      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+      "link": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-12T08:04:52+00:00",
+      "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems"
+    },
+    {
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-12T06:00:00+00:00",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
+    },
+    {
+      "title": "ISC Stormcast For Wednesday, August 12th, 2026 https://isc.sans.edu/podcastdetail/10048, (Wed, Aug 12th)",
+      "link": "https://isc.sans.edu/diary/rss/33238",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-12T02:00:03+00:00",
+      "summary": ""
+    },
+    {
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "link": "https://openai.com/index/ringcentral",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-12T00:00:00+00:00",
+      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations."
     }
   ]
 }
