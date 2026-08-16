@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T00:31:31.002757+00:00",
+  "generated_at": "2026-08-16T06:18:41.996607+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,70 +13,6 @@
   ],
   "items": [
     {
-      "title": "Position: Reasoning is a Learnable Rule-Based Process",
-      "link": "https://arxiv.org/abs/2608.12325",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-15T04:00:00+00:00",
-      "summary": "arXiv:2608.12325v1 Announce Type: new Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly e"
-    },
-    {
-      "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
-      "link": "https://arxiv.org/abs/2608.12345",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-15T04:00:00+00:00",
-      "summary": "arXiv:2608.12345v1 Announce Type: new Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce Int"
-    },
-    {
-      "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
-      "link": "https://arxiv.org/abs/2608.12346",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-15T04:00:00+00:00",
-      "summary": "arXiv:2608.12346v1 Announce Type: new Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malici"
-    },
-    {
-      "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
-      "link": "https://arxiv.org/abs/2608.12368",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-15T04:00:00+00:00",
-      "summary": "arXiv:2608.12368v1 Announce Type: new Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annota"
-    },
-    {
-      "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
-      "link": "https://arxiv.org/abs/2608.12371",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-15T04:00:00+00:00",
-      "summary": "arXiv:2608.12371v1 Announce Type: new Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent qualit"
-    },
-    {
-      "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
-      "link": "https://arxiv.org/abs/2608.12372",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-15T04:00:00+00:00",
-      "summary": "arXiv:2608.12372v1 Announce Type: new Abstract: AI systems are increasingly employed as decision aids, decision delegates, or autonomous decision-makers. This position paper argues that in many settings, particularly hig"
-    },
-    {
-      "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
-      "link": "https://arxiv.org/abs/2608.12373",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-15T04:00:00+00:00",
-      "summary": "arXiv:2608.12373v1 Announce Type: new Abstract: Large language models are increasingly used in strategic and advisory contexts, yet their safety alignment is typically evaluated in English only. We test nine models from "
-    },
-    {
-      "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
-      "link": "https://arxiv.org/abs/2608.12385",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-15T04:00:00+00:00",
-      "summary": "arXiv:2608.12385v1 Announce Type: new Abstract: As large language models serve more requests, cumulative inference cost is becoming increasingly important relative to one-time training cost. The two inference phases stre"
-    },
-    {
       "title": "Investigation of banking hack leads to arrests in Europe, Brazil",
       "link": "https://therecord.media/investigation-into-banking-hack-leads-to-arrests-germany-brazil",
       "source": "The Record",
@@ -85,12 +21,52 @@
       "summary": "Germany\u2019s federal police agency, the BKA, said three suspects were picked up in Europe and charged with fraud, and Brazil\u2019s federal police said four others were arrested on similar charges."
     },
     {
+      "title": "Mission-Driven Security: Inside a Global Bank's Defense",
+      "link": "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-14T19:24:18+00:00",
+      "summary": "In this video interview, Standard Chartered's group CISO shares insights on transitioning from technical roles to strategic leadership, the importance of business-savvy security executives, and how AI is reshaping both d"
+    },
+    {
+      "title": "Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to \u2026 AI",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-14T17:32:46+00:00",
+      "summary": "Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer."
+    },
+    {
+      "title": "Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-14T15:58:50+00:00",
+      "summary": "One Caledonian government agency reported a breach, thanks to a third party that may have serviced other agencies as well."
+    },
+    {
+      "title": "What Boards Need to Know About Tech Risk",
+      "link": "https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-14T14:00:00+00:00",
+      "summary": "Why do so many boards underestimate technology risk until it becomes a crisis?"
+    },
+    {
       "title": "France investigates tax authority breach after hacker claims 600,000 victims",
       "link": "https://therecord.media/french-tax-authority-dgfip-confirms-data-breach",
       "source": "The Record",
       "category": "cybersecurity",
       "published": "2026-08-14T13:14:15+00:00",
       "summary": "French authorities confirmed that someone gained unauthorized access to systems at the Directorate General of Public Finances in late June after stealing or misusing someone\u2019s identity."
+    },
+    {
+      "title": "Cyera's Oasis Security Buy Is All About AI Agent Control",
+      "link": "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-14T12:17:21+00:00",
+      "summary": "The $1 billion deal aims to converge data security and identity into a single control plane for agents, with privileged access redefined around business context rather than static roles."
     },
     {
       "title": "The Download: Flock\u2019s new rules, cloning\u2019s future, and children\u2019s cells",
@@ -149,6 +125,14 @@
       "summary": "Listen to the session or watch below The \u201ccensorship-industrial complex\u201d is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the"
     },
     {
+      "title": "Global Threat Campaign Hits Critical VMware vCenter Flaw",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-13T20:45:17+00:00",
+      "summary": "Exploitation against CVE-2026\u201359310 began earlier this month, and patching the vulnerability may not be enough to fully mitigate the threat."
+    },
+    {
       "title": "Building a practical path to post-quantum cryptography",
       "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
       "source": "MIT Technology Review",
@@ -205,6 +189,14 @@
       "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
     },
     {
+      "title": "'Jewelbug' APT Balances State Espionage & Cryptocurrency Theft",
+      "link": "https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-13T10:00:00+00:00",
+      "summary": "Researchers discovered hackers-for-hire performing cyber espionage and financially motivated heists from the same Web panel."
+    },
+    {
       "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
       "link": "https://openai.com/index/previewing-ultrafast",
       "source": "OpenAI News",
@@ -219,6 +211,14 @@
       "category": "ai",
       "published": "2026-08-13T09:00:00+00:00",
       "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI."
+    },
+    {
+      "title": "Belgium's eID Authentication Opens Citizen Accounts to RCE",
+      "link": "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-13T07:00:00+00:00",
+      "summary": "The trust framework underlying Belgium's electronic ID system was fully compromised by severe vulnerabilities in a key browser extension, showcasing bigger problems with extensions in general."
     },
     {
       "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
