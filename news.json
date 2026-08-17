@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T12:17:26.511188+00:00",
+  "generated_at": "2026-08-17T18:19:16.503074+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,86 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "SafePal latest crypto hardware wallet maker affected by breach, with nearly 40,000 impacted",
+      "link": "https://therecord.media/safepal-crypto-hardware-breach",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-17T17:00:00+00:00",
+      "summary": "The crypto hardware wallet company SafePal confirmed a data breach on Sunday, telling users that nearly 40,000 customers had information stolen during a recent security incident."
+    },
+    {
+      "title": "Irregular faces criticism over \u2018spin\u2019 in AI hacking postmortem",
+      "link": "https://therecord.media/irregular-ai-hacking-model-blog",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-17T16:15:00+00:00",
+      "summary": "The company at the center of a series of incidents in which AI models compromised real-world computer systems during security evaluations is facing criticism after the release of a report that security experts say leaves"
+    },
+    {
+      "title": "Poland probes MyDr healthcare software breach potentially affecting 19 million people",
+      "link": "https://therecord.media/poland-probes-mydr-healthcare-software-breach",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-17T16:01:00+00:00",
+      "summary": "MyDr, a privately-owned Polish company that supplies software to doctors, clinics and other healthcare providers, said on Friday that it had identified and removed the cause of the incident and introduced additional secu"
+    },
+    {
+      "title": "Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS",
+      "link": "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-17T15:44:34+00:00",
+      "summary": "The botnet adds exploitation modules, credential theft, and reverse SOCKS relays to turn compromised devices into persistent attacker infrastructure."
+    },
+    {
+      "title": "Apple Screen Sharing Security, (Mon, Aug 17th)",
+      "link": "https://isc.sans.edu/diary/rss/33252",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-17T14:33:58+00:00",
+      "summary": "About 20 years ago, with macOS 10.5 (Leopard), Apple introduced screen sharing. Apple did not invent a new protocol for screen sharing. Instead, it used the established VNC protocol. VNC is a pretty simple, unencrypted p"
+    },
+    {
+      "title": "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-17T13:23:51+00:00",
+      "summary": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading fart"
+    },
+    {
+      "title": "Ukraine says cyberattack hit Russian e-commerce giant Wildberries amid drone strikes",
+      "link": "https://therecord.media/russia-wildberries-cyberattack-ukraine",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-17T12:30:00+00:00",
+      "summary": "Ukraine\u2019s military intelligence claimed it disrupted the operations of Russia\u2019s largest online marketplace, Wildberries, in a cyberattack intended to amplify the impact of drone strikes on the company\u2019s infrastructure."
+    },
+    {
+      "title": "The Download: dead robot friends and the \u201ccensorship-industrial complex\u201d",
+      "link": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-17T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. What happens when a kid\u2019s robot best friend dies? When Xander first met Moxie, she"
+    },
+    {
+      "title": "How MCP Servers Can Expose Enterprise Secrets",
+      "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-17T11:58:00+00:00",
+      "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI "
+    },
+    {
+      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+      "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-17T10:52:34+00:00",
+      "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the ch"
+    },
     {
       "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
       "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
@@ -43,6 +123,22 @@
       "category": "cybersecurity",
       "published": "2026-08-17T07:36:19+00:00",
       "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of "
+    },
+    {
+      "title": "The Defender\u2019s Window",
+      "link": "https://openai.com/index/the-defenders-window",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-17T05:30:00+00:00",
+      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now."
+    },
+    {
+      "title": "OpenAI joins PORTS-Pike project",
+      "link": "https://openai.com/index/openai-joins-ports-pike-project",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-17T05:00:00+00:00",
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs"
     },
     {
       "title": "\"I Thought You Were The Uncensored Place\": Norms, Rules, and Moderation in AI-Generated Sexual Content Communities",
@@ -210,7 +306,7 @@
       "source": "The Hacker News",
       "category": "cybersecurity",
       "published": "2026-08-15T07:24:04+00:00",
-      "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC) has warned. The vulnerability in ques"
+      "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC-NL) has warned. The vulnerability in q"
     },
     {
       "title": "Investigation of banking hack leads to arrests in Europe, Brazil",
@@ -235,102 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-14T18:48:46+00:00",
       "summary": "Threat actors are acquiring expired domains to inherit website traffic and reputation to redirect victims to scams and malware on a large scale. DNS threat intelligence firm Infoblox has given the name dropcatch domains "
-    },
-    {
-      "title": "Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to \u2026 AI",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-14T17:32:46+00:00",
-      "summary": "Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer."
-    },
-    {
-      "title": "IAM Compliance Requirements and Best Practices",
-      "link": "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-14T17:19:49+00:00",
-      "summary": "IAM compliance is the practice of demonstrating that identity and access controls are not only documented but actually enforced across users, applications, infrastructure, and non-human identities. This guide explains wh"
-    },
-    {
-      "title": "Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-14T15:58:50+00:00",
-      "summary": "One Caledonian government agency reported a breach, thanks to a third party that may have serviced other agencies as well."
-    },
-    {
-      "title": "What Boards Need to Know About Tech Risk",
-      "link": "https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-14T14:00:00+00:00",
-      "summary": "Why do so many boards underestimate technology risk until it becomes a crisis?"
-    },
-    {
-      "title": "France investigates tax authority breach after hacker claims 600,000 victims",
-      "link": "https://therecord.media/french-tax-authority-dgfip-confirms-data-breach",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-14T13:14:15+00:00",
-      "summary": "French authorities confirmed that someone gained unauthorized access to systems at the Directorate General of Public Finances in late June after stealing or misusing someone\u2019s identity."
-    },
-    {
-      "title": "Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth",
-      "link": "https://thehackernews.com/2026/08/mustang-panda-adds-signed-windows.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-14T13:08:56+00:00",
-      "summary": "The threat actor known as HoneyMyte (aka Mustang Panda) has been observed deploying an updated version of the CoolClient backdoor with a signed Windows kernel-mode rootkit that can hide and protect malicious processes, f"
-    },
-    {
-      "title": "Cyera's Oasis Security Buy Is All About AI Agent Control",
-      "link": "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-14T12:17:21+00:00",
-      "summary": "The $1 billion deal aims to converge data security and identity into a single control plane for agents, with privileged access redefined around business context rather than static roles."
-    },
-    {
-      "title": "The Download: Flock\u2019s new rules, cloning\u2019s future, and children\u2019s cells",
-      "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-14T12:17:21+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The p"
-    },
-    {
-      "title": "Who\u2019s Tracking You? Use This New Service to Find Out",
-      "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
-      "source": "Krebs on Security",
-      "category": "cybersecurity",
-      "published": "2026-08-14T11:24:35+00:00",
-      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily pa"
-    },
-    {
-      "title": "Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers",
-      "link": "https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-14T11:07:45+00:00",
-      "summary": "Cybersecurity researchers have detailed a post-exploitation technique that enables the Chrome DevTools Protocol (CDP) inside a running Google Chrome or Microsoft Edge process on Windows, allowing an operator to access co"
-    },
-    {
-      "title": "This scientist is helping build a missing map of childhood",
-      "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-14T09:00:00+00:00",
-      "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cel"
-    },
-    {
-      "title": "Job titles of the future: Space travel agent",
-      "link": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-14T09:00:00+00:00",
-      "summary": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman & Erica, he has orchestrated everything from the construction of a client\u2019s superyacht to "
     }
   ]
 }
