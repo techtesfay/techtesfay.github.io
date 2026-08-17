@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T18:10:54.175976+00:00",
+  "generated_at": "2026-08-17T00:29:49.092140+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Wireshark 4.6.8 Released, (Sun, Aug 16th)",
+      "link": "https://isc.sans.edu/diary/rss/33248",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-16T21:31:48+00:00",
+      "summary": "Wireshark release 4.6.8 fixes 28 vulnerabilities and 25 bugs."
+    },
     {
       "title": "Investigation of banking hack leads to arrests in Europe, Brazil",
       "link": "https://therecord.media/investigation-into-banking-hack-leads-to-arrests-germany-brazil",
@@ -323,14 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-12T02:00:03+00:00",
       "summary": ""
-    },
-    {
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "link": "https://openai.com/index/ringcentral",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-12T00:00:00+00:00",
-      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations."
     }
   ]
 }
