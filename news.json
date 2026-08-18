@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T18:19:16.503074+00:00",
+  "generated_at": "2026-08-18T00:29:21.851071+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,86 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Video Call Exploit Chains Two Flaws in Unisoc Modems",
+      "link": "https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-17T21:37:23+00:00",
+      "summary": "Researchers found that by combining two vulnerabilities, they could take over an Android device by delivering a payload and getting the victim to answer their phone."
+    },
+    {
+      "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+      "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-17T21:03:04+00:00",
+      "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker t"
+    },
+    {
+      "title": "Apple Patches iOS and macOS, (Mon, Aug 17th)",
+      "link": "https://isc.sans.edu/diary/rss/33254",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-17T20:26:39+00:00",
+      "summary": "Apple today released updates for iOS/iPadOS (26 and 18) and macOS 26. This update fixes 108 vulnerabilities and comes about two weeks after the much smaller macOS update that addressed the single screen-sharing vulnerabi"
+    },
+    {
+      "title": "'Turf War' Between Claude Agents Leads to Self-Replicating Malware",
+      "link": "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-17T20:26:34+00:00",
+      "summary": "Three testing models with the same goal but different directives engaged in \"increasingly aggressive\" territorial attacks on one another, according to Anthropic."
+    },
+    {
+      "title": "Nearly 750k had financial info, SSNs leaked in South Carolina loan company breach",
+      "link": "https://therecord.media/financial-info-leak-debt-consolidator",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-17T20:05:00+00:00",
+      "summary": "The breach affected anyone who received a loan through the company or inquired about a loan product through a third party."
+    },
+    {
+      "title": "Adam Shostack Talks Hugging Face & PHANTOM-B",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-17T19:22:56+00:00",
+      "summary": "World-class threat modeler Adam Shostack shared he was \"blown away\" by OpenAI's revelations about the Hugging Face attack, and explains why his new threat model for LLMs is both \"lightweight yet still usable.\""
+    },
+    {
+      "title": "What Flock\u2019s defenders are missing",
+      "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-17T19:16:09+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic licen"
+    },
+    {
+      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
+      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-17T18:44:17+00:00",
+      "summary": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted"
+    },
+    {
+      "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
+      "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-17T18:22:09+00:00",
+      "summary": "A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites. The vulne"
+    },
+    {
+      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
+      "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-17T17:41:06+00:00",
+      "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian cybersecur"
+    },
     {
       "title": "SafePal latest crypto hardware wallet maker affected by breach, with nearly 40,000 impacted",
       "link": "https://therecord.media/safepal-crypto-hardware-breach",
@@ -115,14 +195,6 @@
       "category": "ai",
       "published": "2026-08-17T09:00:00+00:00",
       "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing"
-    },
-    {
-      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
-      "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-17T07:36:19+00:00",
-      "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of "
     },
     {
       "title": "The Defender\u2019s Window",
@@ -259,78 +331,6 @@
       "category": "research",
       "published": "2026-08-17T04:00:00+00:00",
       "summary": "arXiv:2608.13591v1 Announce Type: new Abstract: High-confidence errors in large language models are often treated as evidence of fragile internal inference. We study a different possibility: stable miscalibration, where "
-    },
-    {
-      "title": "Measuring Cross-Task Behavioral Consistency in Language Model Agents",
-      "link": "https://arxiv.org/abs/2608.13598",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-17T04:00:00+00:00",
-      "summary": "arXiv:2608.13598v1 Announce Type: new Abstract: Agent evaluation relies almost entirely on outcome metrics such as success rate, which capture whether an agent succeeds but not how consistently it behaves. We argue that "
-    },
-    {
-      "title": "New policy ideas for the Intelligence Age",
-      "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-17T03:15:00+00:00",
-      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
-    },
-    {
-      "title": "ISC Stormcast For Monday, August 17th, 2026 https://isc.sans.edu/podcastdetail/10054, (Mon, Aug 17th)",
-      "link": "https://isc.sans.edu/diary/rss/33250",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-17T02:00:02+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Wireshark 4.6.8 Released, (Sun, Aug 16th)",
-      "link": "https://isc.sans.edu/diary/rss/33248",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-16T21:31:48+00:00",
-      "summary": "Wireshark release 4.6.8 fixes 28 vulnerabilities and 25 bugs."
-    },
-    {
-      "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
-      "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-15T08:38:46+00:00",
-      "summary": "A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts. The vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It relates to an i"
-    },
-    {
-      "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
-      "link": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-15T07:24:04+00:00",
-      "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC-NL) has warned. The vulnerability in q"
-    },
-    {
-      "title": "Investigation of banking hack leads to arrests in Europe, Brazil",
-      "link": "https://therecord.media/investigation-into-banking-hack-leads-to-arrests-germany-brazil",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-14T20:31:00+00:00",
-      "summary": "Germany\u2019s federal police agency, the BKA, said three suspects were picked up in Europe and charged with fraud, and Brazil\u2019s federal police said four others were arrested on similar charges."
-    },
-    {
-      "title": "Mission-Driven Security: Inside a Global Bank's Defense",
-      "link": "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-14T19:24:18+00:00",
-      "summary": "In this video interview, Standard Chartered's group CISO shares insights on transitioning from technical roles to strategic leadership, the importance of business-savvy security executives, and how AI is reshaping both d"
-    },
-    {
-      "title": "Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware",
-      "link": "https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-14T18:48:46+00:00",
-      "summary": "Threat actors are acquiring expired domains to inherit website traffic and reputation to redirect victims to scams and malware on a large scale. DNS threat intelligence firm Infoblox has given the name dropcatch domains "
     }
   ]
 }
