@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T12:19:16.327551+00:00",
+  "generated_at": "2026-08-18T18:18:18.367889+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,12 +13,76 @@
   ],
   "items": [
     {
-      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
-      "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
+      "title": "More than 200 victims of Medusa ransomware identified over the last year, CISA says",
+      "link": "https://therecord.media/more-than-200-medusa-ransomware-victims-in-last-year-cisa",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-18T18:05:00+00:00",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) and FBI updated an advisory on the group initially released in March 2025 \u2014 writing that as of April 2026, Medusa actors have hit more than 500 victims. CISA pr"
+    },
+    {
+      "title": "Berlin cuts two state ministries off government network after security breach",
+      "link": "https://therecord.media/berlin-cuts-two-state-ministries-off-government-breach",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-18T16:40:00+00:00",
+      "summary": "The affected ministries \u2014 one responsible for urban development, construction and housing, and the other for mobility, transport, climate protection and the environment \u2014 have been isolated from government networks since"
+    },
+    {
+      "title": "University of Texas forced to take systems offline in San Antonio after cyberattack",
+      "link": "https://therecord.media/university-of-texas-forced-to-take-systems-offline-cyberattack-san-antonio",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-18T16:20:00+00:00",
+      "summary": "The University of Texas at San Antonio, which serves 40,000 students across six campuses, said its IT team identified threat activity on its academic campus over the weekend and took some systems, including phones, offli"
+    },
+    {
+      "title": "Hackers target Ukrainian agency managing assets seized from sanctioned Russians",
+      "link": "https://therecord.media/hackers-target-ukraine-agency-sanctioned-russians",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-18T14:45:00+00:00",
+      "summary": "The agency said the latest attack came amid preparations to select a manager for seized corporate rights in IDS Ukraine, one of the country\u2019s largest producers of bottled mineral water and beverages."
+    },
+    {
+      "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-18T13:00:00+00:00",
+      "summary": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments."
+    },
+    {
+      "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
+      "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-18T13:00:00+00:00",
+      "summary": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence."
+    },
+    {
+      "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+      "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
       "source": "The Hacker News",
       "category": "cybersecurity",
-      "published": "2026-08-18T11:40:06+00:00",
-      "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the "
+      "published": "2026-08-18T12:38:36+00:00",
+      "summary": "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that a"
+    },
+    {
+      "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
+      "link": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-18T12:38:20+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT. \"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-c"
+    },
+    {
+      "title": "The Download: how people really use AI, and Flock\u2019s design choices",
+      "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-18T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. We still don\u2019t know how people are really using AI AI companies like Anthropic and"
     },
     {
       "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
@@ -27,6 +91,14 @@
       "category": "cybersecurity",
       "published": "2026-08-18T11:30:00+00:00",
       "summary": "A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security pla"
+    },
+    {
+      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
+      "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-18T11:20:00+00:00",
+      "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the "
     },
     {
       "title": "Partnering with CodeAI to prepare the first AI generation",
@@ -75,6 +147,14 @@
       "category": "ai",
       "published": "2026-08-18T09:00:00+00:00",
       "summary": "The AI industry\u2019s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips"
+    },
+    {
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "link": "https://openai.com/index/asana",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-18T07:00:00+00:00",
+      "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K."
     },
     {
       "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
@@ -251,86 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-17T20:26:39+00:00",
       "summary": "Apple today released updates for iOS/iPadOS (26 and 18) and macOS 26. This update fixes 108 vulnerabilities and comes about two weeks after the much smaller macOS update that addressed the single screen-sharing vulnerabi"
-    },
-    {
-      "title": "'Turf War' Between Claude Agents Leads to Self-Replicating Malware",
-      "link": "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-17T20:26:34+00:00",
-      "summary": "Three testing models with the same goal but different directives engaged in \"increasingly aggressive\" territorial attacks on one another, according to Anthropic."
-    },
-    {
-      "title": "Nearly 750k had financial info, SSNs leaked in South Carolina loan company breach",
-      "link": "https://therecord.media/financial-info-leak-debt-consolidator",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-17T20:05:00+00:00",
-      "summary": "The breach affected anyone who received a loan through the company or inquired about a loan product through a third party."
-    },
-    {
-      "title": "Adam Shostack Talks Hugging Face & PHANTOM-B",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-17T19:22:56+00:00",
-      "summary": "World-class threat modeler Adam Shostack shared he was \"blown away\" by OpenAI's revelations about the Hugging Face attack, and explains why his new threat model for LLMs is both \"lightweight yet still usable.\""
-    },
-    {
-      "title": "What Flock\u2019s defenders are missing",
-      "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-17T19:16:09+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic licen"
-    },
-    {
-      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
-      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-17T18:44:17+00:00",
-      "summary": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted"
-    },
-    {
-      "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
-      "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-17T18:22:09+00:00",
-      "summary": "A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites. The vulne"
-    },
-    {
-      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
-      "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-17T17:41:06+00:00",
-      "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian cybersecur"
-    },
-    {
-      "title": "SafePal latest crypto hardware wallet maker affected by breach, with nearly 40,000 impacted",
-      "link": "https://therecord.media/safepal-crypto-hardware-breach",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-17T17:00:00+00:00",
-      "summary": "The crypto hardware wallet company SafePal confirmed a data breach on Sunday, telling users that nearly 40,000 customers had information stolen during a recent security incident."
-    },
-    {
-      "title": "Irregular faces criticism over \u2018spin\u2019 in AI hacking postmortem",
-      "link": "https://therecord.media/irregular-ai-hacking-model-blog",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-17T16:15:00+00:00",
-      "summary": "The company at the center of a series of incidents in which AI models compromised real-world computer systems during security evaluations is facing criticism after the release of a report that security experts say leaves"
-    },
-    {
-      "title": "Poland probes MyDr healthcare software breach potentially affecting 19 million people",
-      "link": "https://therecord.media/poland-probes-mydr-healthcare-software-breach",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-17T16:01:00+00:00",
-      "summary": "MyDr, a privately-owned Polish company that supplies software to doctors, clinics and other healthcare providers, said on Friday that it had identified and removed the cause of the incident and introduced additional secu"
     }
   ]
 }
