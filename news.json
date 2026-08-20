@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T12:20:35.721998+00:00",
+  "generated_at": "2026-08-20T18:19:44.242677+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,28 +13,132 @@
   ],
   "items": [
     {
+      "title": "N-able Bug Exposes Password Vault Master Keys",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-20T17:39:24+00:00",
+      "summary": "The popular \"Passportal\" password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely?"
+    },
+    {
+      "title": "Senators press TikTok over withholding of safety features for some users",
+      "link": "https://therecord.media/senators-press-tiktok-over-withholding-safety-features",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-20T17:33:00+00:00",
+      "summary": "In a letter on Wednesday, Sens. Marsha Blackburn (R-TN) and Richard Blumenthal (D-CT) criticized the company for having \u201cknowingly withheld a critical safety measure for millions of American users.\""
+    },
+    {
+      "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
+      "link": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-20T16:59:44+00:00",
+      "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts. The activity is targeting Siemens"
+    },
+    {
+      "title": "Debates over AI consciousness are a trap",
+      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-20T15:42:39+00:00",
+      "summary": "\u201cRunaway\u201d AI, \u201crogue\u201d agents, and \u201cautonomous\u201d actors\u2014the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, D"
+    },
+    {
+      "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-20T14:59:22+00:00",
+      "summary": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India."
+    },
+    {
+      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+      "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-20T14:36:27+00:00",
+      "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controll"
+    },
+    {
+      "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
+      "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-20T13:48:24+00:00",
+      "summary": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the"
+    },
+    {
+      "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
+      "link": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-20T13:35:13+00:00",
+      "summary": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability. According to the cloud computing and"
+    },
+    {
+      "title": "'Grandoreiro' Malware Resurfaces With Mexico Campaign",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-20T13:30:00+00:00",
+      "summary": "The banking Trojan, post-law enforcement takedown, is sprucing itself up with features that make detection and analysis harder."
+    },
+    {
+      "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-20T13:24:28+00:00",
+      "summary": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska). The vulnerability in question is CV"
+    },
+    {
+      "title": "Using Microsoft Graph and Powershell - Risk Detection Commands, (Thu, Aug 20th)",
+      "link": "https://isc.sans.edu/diary/rss/33266",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-20T13:09:50+00:00",
+      "summary": "Building on the last diary on Using MS Graph and Powershell, let&#;x26;#;39;s look at \"Risky\" logins."
+    },
+    {
       "title": "Using Microsoft Graph and Powershell to Mine for Information - Stale Accounts and Licenses, (Thu, Aug 20th)",
       "link": "https://isc.sans.edu/diary/rss/33264",
       "source": "SANS Internet Storm Center",
       "category": "cybersecurity",
-      "published": "2026-08-20T12:08:40+00:00",
+      "published": "2026-08-20T12:45:32+00:00",
       "summary": "Microsoft Graph is a newer API that is meant to replace several others.&#;x26;#;xc2;&#;x26;#;xa0; OK, it&#;x26;#;39;s at version 2.3.9, so it&#;x26;#;39;s not all that new, but it&#;x26;#;39;s new enough that lots of fol"
     },
     {
-      "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
-      "link": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-20T11:05:11+00:00",
-      "summary": "Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacker to issue arbitrary"
+      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+      "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-20T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000"
     },
     {
-      "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
-      "link": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
+      "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
+      "link": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
       "source": "The Hacker News",
       "category": "cybersecurity",
-      "published": "2026-08-20T10:38:28+00:00",
-      "summary": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands its targeting footprint globally."
+      "published": "2026-08-20T12:01:24+00:00",
+      "summary": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) ter"
+    },
+    {
+      "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
+      "link": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-20T11:45:00+00:00",
+      "summary": "In March 2026, an internal AI agent at Meta triggered a \u201cSev 1\u201d incident after sensitive company and user data was exposed to employees who weren\u2019t authorized to access it. The incident began when a Meta employee posted "
+    },
+    {
+      "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
+      "link": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-20T11:39:35+00:00",
+      "summary": "Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the websites they front,"
     },
     {
       "title": "The next big thing in hydrogen could be underground",
@@ -59,22 +163,6 @@
       "category": "ai",
       "published": "2026-08-20T09:00:00+00:00",
       "summary": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother\u2019s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just"
-    },
-    {
-      "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
-      "link": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-20T08:42:03+00:00",
-      "summary": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products. According to the Socket Threat Research team, the ex"
-    },
-    {
-      "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
-      "link": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-20T06:04:34+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution. The vulnerability, tracked as CVE-2026-32475"
     },
     {
       "title": "AdaRare: Telemetry-Guided Joint Profile Control for Greybox Fuzzing",
@@ -213,6 +301,14 @@
       "summary": ""
     },
     {
+      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "link": "https://openai.com/index/stampli",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-20T00:00:00+00:00",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
+    },
+    {
       "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
       "link": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
       "source": "Dark Reading",
@@ -229,108 +325,12 @@
       "summary": "Katie Moussouris of Luta Security talks with the Dark Reading News Desk about how enterprises will now need to monitor risks posed by their own agents in the wake of the recent Hugging Face attack."
     },
     {
-      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
-      "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-19T19:02:40+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a remote Spectre attack against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second"
-    },
-    {
       "title": "Offering Zero Data Retention for frontier models",
       "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "source": "OpenAI News",
       "category": "ai",
       "published": "2026-08-19T19:00:00+00:00",
       "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
-    },
-    {
-      "title": "Electronic health record company CareCloud says 3.7 million people affected by breach",
-      "link": "https://therecord.media/electronic-health-record-company-carecloud-data-breach",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-19T18:10:00+00:00",
-      "summary": "Healthcare software firm CareCloud filed documents with the Department of Health and Human Services confirming that 3,756,469 people had information leaked after a hacker spent eight hours in one of the company\u2019s electro"
-    },
-    {
-      "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
-      "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-19T18:06:44+00:00",
-      "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monito"
-    },
-    {
-      "title": "NSA, FBI warns of hackers using AI-generated tools in attacks on critical infrastructure technology",
-      "link": "https://therecord.media/nsa-fbi-warns-of-hackers-using-ai-generated-tools-critical-infrastructure",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-19T17:58:00+00:00",
-      "summary": "The National Security Agency (NSA), FBI and other federal agencies said the campaign is targeting Siemens S7 Series PLCs and was being fueled by \u201cAI-assisted development\u201d alongside exploitation of known vulnerabilities."
-    },
-    {
-      "title": "SilkParasite Threatens Central Asian Orgs With Flurry of RATs",
-      "link": "https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-19T16:58:23+00:00",
-      "summary": "A spear-phishing campaign by a China-nexus group linked to FamousSparrow provides insight into geopolitical, technical, and strategic global moves by the country's APTs."
-    },
-    {
-      "title": "Simple Scans for Cloud Metadata Service, (Wed, Aug 19th)",
-      "link": "https://isc.sans.edu/diary/rss/33260",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-19T14:24:58+00:00",
-      "summary": "Cloud providers typically expose a REST API at 169.254.169.254 that allows code running on virtual machines to retrieve machine-specific data. Some of the data is more or less harmless, such as the region the machine is "
-    },
-    {
-      "title": "Latvian officials resign after cyberattack exposes data on 1.2 million people",
-      "link": "https://therecord.media/latvia-cyberattack-vehicle-data",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-19T13:45:00+00:00",
-      "summary": "Latvia\u2019s road traffic agency confirmed that hackers stole data connected to about two-thirds of the country\u2019s population in a major cyberattack that has prompted calls for senior officials to resign."
-    },
-    {
-      "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
-      "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-19T13:12:17+00:00",
-      "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access tool (RAT) families, five of which h"
-    },
-    {
-      "title": "US charges Iranians for sprawling hacking campaign on government agencies, universities",
-      "link": "https://therecord.media/iran-cyberattacks-us-doj",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-19T12:15:00+00:00",
-      "summary": "The Justice Department accused 17 alleged hackers with ties to the Iranian government of breaching email accounts at U.S. government agencies and stealing intellectual property from dozens of universities."
-    },
-    {
-      "title": "The Download: AI\u2019s self-improvement problem, and what\u2019s driving the heat",
-      "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-19T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. AI\u2019s recursive self-improvement might not come so quickly after all The AI industr"
-    },
-    {
-      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
-      "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-19T11:34:28+00:00",
-      "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass fl"
-    },
-    {
-      "title": "Child-monitoring apps might need a reboot",
-      "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-19T09:00:00+00:00",
-      "summary": "Pam Wisniewski\u2019s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she\u2019d been isolated in a fifth-wheel trailer at the end of a seven-\u00admile dirt road. She moved"
     }
   ]
 }
