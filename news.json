@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T00:30:06.520704+00:00",
+  "generated_at": "2026-08-20T06:22:50.708444+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,150 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
+      "link": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-20T06:04:34+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution. The vulnerability, tracked as CVE-2026-32475"
+    },
+    {
+      "title": "AdaRare: Telemetry-Guided Joint Profile Control for Greybox Fuzzing",
+      "link": "https://arxiv.org/abs/2608.18187",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-20T04:00:00+00:00",
+      "summary": "arXiv:2608.18187v1 Announce Type: new Abstract: Greybox fuzzers combine interacting queue, mutation, dictionary, energy, and comparison-solving control surfaces, while prior adaptive systems typically optimize other deci"
+    },
+    {
+      "title": "Model Card for OpenAI Privacy Filter",
+      "link": "https://arxiv.org/abs/2608.18274",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-20T04:00:00+00:00",
+      "summary": "arXiv:2608.18274v1 Announce Type: new Abstract: OpenAI Privacy Filter is a compact, bidirectional token-classification model for detecting and redacting personally identifiable information (PII) and secrets in unstructur"
+    },
+    {
+      "title": "XNET: Intelligent Dynamic Sampling for High-Speed Network Security Monitoring",
+      "link": "https://arxiv.org/abs/2608.18349",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-20T04:00:00+00:00",
+      "summary": "arXiv:2608.18349v1 Announce Type: new Abstract: Growing network speeds, with 100GbE line rates becoming common in modern enterprise networks, pose challenges to operators and security applications, as they struggle to sc"
+    },
+    {
+      "title": "Task-Conditioned Least-Privilege Learning for Executable Terminal and MCP Agents",
+      "link": "https://arxiv.org/abs/2608.18351",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-20T04:00:00+00:00",
+      "summary": "arXiv:2608.18351v1 Announce Type: new Abstract: Tool-using large language-model agents can complete a task while exercising authority that the user did not grant or the task does not need, causing excess-authority errors"
+    },
+    {
+      "title": "0xPass: A Secure Protocol for Universal Cross-Chain Accounts",
+      "link": "https://arxiv.org/abs/2608.18359",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-20T04:00:00+00:00",
+      "summary": "arXiv:2608.18359v1 Announce Type: new Abstract: Universal accounts allow users to manage assets and execute operations across heterogeneous blockchain ecosystems through a single interface, but they introduce security an"
+    },
+    {
+      "title": "AoNT Trap: Borromean-Entangled Mutable Chameleon Trapdoor Hash All-or-Nothing Stream Cipher",
+      "link": "https://arxiv.org/abs/2608.18403",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-20T04:00:00+00:00",
+      "summary": "arXiv:2608.18403v1 Announce Type: new Abstract: This work introduces the Borromean-Entangled Chameleon Trapdoor Hash All-or-Nothing (AoNT) Stream Cipher (BEC-Trap), a novel construction that merges Borromean interdepende"
+    },
+    {
+      "title": "Beyond Distortion Robustness: Rethinking Severe Cropping as Erasure-Resilient Message Embedding",
+      "link": "https://arxiv.org/abs/2608.18567",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-20T04:00:00+00:00",
+      "summary": "arXiv:2608.18567v1 Announce Type: new Abstract: Robust message embedding in images is important for multimedia security applications such as copyright protection and content tracing. Existing methods are largely develope"
+    },
+    {
+      "title": "VQC-ZTI: Variational Quantum Control for Zero Trust Protection of the Tactile Internet",
+      "link": "https://arxiv.org/abs/2608.18572",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-20T04:00:00+00:00",
+      "summary": "arXiv:2608.18572v1 Announce Type: new Abstract: Tactile Internet services couple cyber events directly to physical actuation, so security decisions must improve risk discrimination without perturbing the control path. Th"
+    },
+    {
+      "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+      "link": "https://arxiv.org/abs/2608.18078",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-20T04:00:00+00:00",
+      "summary": "arXiv:2608.18078v1 Announce Type: new Abstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavi"
+    },
+    {
+      "title": "Position: Profiling Game Worlds by Transition Complexity",
+      "link": "https://arxiv.org/abs/2608.18079",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-20T04:00:00+00:00",
+      "summary": "arXiv:2608.18079v1 Announce Type: new Abstract: Game world modeling (GWM) and reinforcement learning (RL) are often confounded because research papers rarely quantify how difficult the underlying transition prediction pr"
+    },
+    {
+      "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
+      "link": "https://arxiv.org/abs/2608.18080",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-20T04:00:00+00:00",
+      "summary": "arXiv:2608.18080v1 Announce Type: new Abstract: We present a review on the applications of large language models (LLMs) in health, e.g., social media analysis, clinical conversational agents, therapy support tools, promp"
+    },
+    {
+      "title": "Position: Behavioral Systems Require Behavioral Tests",
+      "link": "https://arxiv.org/abs/2608.18081",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-20T04:00:00+00:00",
+      "summary": "arXiv:2608.18081v1 Announce Type: new Abstract: Artificial agentic systems increasingly operate as behavioral systems by interacting with dynamic environments, pursuing goals, and adapting over time. Yet, current evaluat"
+    },
+    {
+      "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
+      "link": "https://arxiv.org/abs/2608.18086",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-20T04:00:00+00:00",
+      "summary": "arXiv:2608.18086v1 Announce Type: new Abstract: The growth of open-weight foundation models (OWFMs) has prompted the AI community to re-evaluate strategies for effective downstream governance. Although model cards have b"
+    },
+    {
+      "title": "A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring",
+      "link": "https://arxiv.org/abs/2608.18088",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-20T04:00:00+00:00",
+      "summary": "arXiv:2608.18088v1 Announce Type: new Abstract: Drone propeller faults can create safety and reliability risks when their effects are distributed across multiple flight-log channels rather than appearing as a single diag"
+    },
+    {
+      "title": "Position: Multi-Agent Systems Should Prioritize Concurrency Control",
+      "link": "https://arxiv.org/abs/2608.18092",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-20T04:00:00+00:00",
+      "summary": "arXiv:2608.18092v1 Announce Type: new Abstract: LLM-based multi-agent systems (MAS) promise scalable collaboration, yet adding agents often reduces reliability. This position paper argues that many MAS failures are funda"
+    },
+    {
+      "title": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management",
+      "link": "https://arxiv.org/abs/2608.18099",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-20T04:00:00+00:00",
+      "summary": "arXiv:2608.18099v1 Announce Type: new Abstract: Investment management is a high-stakes domain in which agentic AI systems must do more than generate plausible text. They must retrieve point-in-time data, assemble correct"
+    },
+    {
+      "title": "ISC Stormcast For Thursday, August 20th, 2026 https://isc.sans.edu/podcastdetail/10060, (Thu, Aug 20th)",
+      "link": "https://isc.sans.edu/diary/rss/33262",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-20T02:00:03+00:00",
+      "summary": ""
+    },
     {
       "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
       "link": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
@@ -157,142 +301,6 @@
       "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
     },
     {
-      "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
-      "link": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-19T06:01:53+00:00",
-      "summary": "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing "
-    },
-    {
-      "title": "Quantum-Safe Web Service Architecture Using Time-Based One-Time Passwords",
-      "link": "https://arxiv.org/abs/2608.16961",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-19T04:00:00+00:00",
-      "summary": "arXiv:2608.16961v1 Announce Type: new Abstract: One-Time Passwords (OTPs) have become a common option for multi-factor authentication in several applications. For instance, during website login processes, OTPs are often "
-    },
-    {
-      "title": "Probing the Prefill: Detecting Code Vulnerabilities via Latent Activations",
-      "link": "https://arxiv.org/abs/2608.16970",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-19T04:00:00+00:00",
-      "summary": "arXiv:2608.16970v1 Announce Type: new Abstract: LLM-based code generation is now embedded in mission-critical pipelines, but defenses against vulnerable output remain post-hoc -- static analyzers, fine-tuned classifiers,"
-    },
-    {
-      "title": "Remote-Timer-as-a-Service: Efficient Microarchitectural Leakage in the Cloud with Remote Timers",
-      "link": "https://arxiv.org/abs/2608.17043",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-19T04:00:00+00:00",
-      "summary": "arXiv:2608.17043v1 Announce Type: new Abstract: Edge computing solutions have become a crucial part of the industry, delivering fast, flexible and scalable applications close to the end users, with typical use cases incl"
-    },
-    {
-      "title": "CUSTOS: Toward Forensic-Ready Zero Trust at the Capture-Containment Boundary",
-      "link": "https://arxiv.org/abs/2608.17068",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-19T04:00:00+00:00",
-      "summary": "arXiv:2608.17068v1 Announce Type: new Abstract: Zero Trust (ZT) replaces implicit trust with continuous verification, but mutual TLS, ephemeral workloads, identity-centric control, and automated remediation reduce payloa"
-    },
-    {
-      "title": "SentryBus: A Multi-Vantage Observability Model and Validated Instrument for I2C Sensor-Interface Manipulation",
-      "link": "https://arxiv.org/abs/2608.17082",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-19T04:00:00+00:00",
-      "summary": "arXiv:2608.17082v1 Announce Type: new Abstract: Sensor-driven systems in medical Internet of Things devices, drones, and cyber-physical systems commonly trust a measurement once it reaches the embedded processor. An adve"
-    },
-    {
-      "title": "Structured Driving-State Narratives for Small Language Model-Based GNSS Spoofing Detection",
-      "link": "https://arxiv.org/abs/2608.17092",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-19T04:00:00+00:00",
-      "summary": "arXiv:2608.17092v1 Announce Type: new Abstract: Autonomous vehicles (AVs) depend on reliable Global Navigation Satellite System (GNSS) positioning. However, spoofed GNSS signals can induce plausible but incorrect vehicle"
-    },
-    {
-      "title": "Digital Twin-Based Intrusion Detection for Vehicle Powertrain CAN Bus Systems",
-      "link": "https://arxiv.org/abs/2608.17093",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-19T04:00:00+00:00",
-      "summary": "arXiv:2608.17093v1 Announce Type: new Abstract: Existing automotive intrusion detection systems (IDSs) for the Controller Area Network (CAN) largely target discrepancies in message timing, frequency, or sequencing and ca"
-    },
-    {
-      "title": "Protocol-Embedded Compliance for Privacy-Preserving, Non-Custodial Digital Payments",
-      "link": "https://arxiv.org/abs/2608.17145",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-19T04:00:00+00:00",
-      "summary": "arXiv:2608.17145v1 Announce Type: new Abstract: Received wisdom on payments infrastructure strongly supports the custodial, account-based model as a necessity for transaction integrity, auditability and verification; the"
-    },
-    {
-      "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
-      "link": "https://arxiv.org/abs/2608.16890",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-19T04:00:00+00:00",
-      "summary": "arXiv:2608.16890v1 Announce Type: new Abstract: Clinical trial programming -- transforming study protocols into analysis-ready datasets under CDISC standards -- is a bottleneck in regulatory submissions, yet LLM-based co"
-    },
-    {
-      "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
-      "link": "https://arxiv.org/abs/2608.16891",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-19T04:00:00+00:00",
-      "summary": "arXiv:2608.16891v1 Announce Type: new Abstract: Agentic AI systems request tool actions that can modify files, send messages, launch jobs, or change workflow state. This shifts the safety problem from harmful text genera"
-    },
-    {
-      "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
-      "link": "https://arxiv.org/abs/2608.16956",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-19T04:00:00+00:00",
-      "summary": "arXiv:2608.16956v1 Announce Type: new Abstract: API buyers purchase a dated contract, not a model name alone: the contract includes the requested and served model, reasoning-effort term or its omission, output rail, serv"
-    },
-    {
-      "title": "FedPref: Federated Preference Learning for Structured Radiology Report Extraction",
-      "link": "https://arxiv.org/abs/2608.16971",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-19T04:00:00+00:00",
-      "summary": "arXiv:2608.16971v1 Announce Type: new Abstract: Radiology reports describe findings and locations in free text, but downstream search and analysis require these relations in a fixed schema. Learning this extraction requi"
-    },
-    {
-      "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
-      "link": "https://arxiv.org/abs/2608.16977",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-19T04:00:00+00:00",
-      "summary": "arXiv:2608.16977v1 Announce Type: new Abstract: AI systems are increasingly capable of contributing to mathematical research. In research practice, frontier-model reasoning is a limited resource, and expert mathematical "
-    },
-    {
-      "title": "SkillEffect: Checked Lowering for Memory-Bounded Agent Tools",
-      "link": "https://arxiv.org/abs/2608.17007",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-19T04:00:00+00:00",
-      "summary": "arXiv:2608.17007v1 Announce Type: new Abstract: Agent Skills can specify procedural and resource obligations for tool use, and language models instantiate them as concrete programs. However, when models turn this guidanc"
-    },
-    {
-      "title": "Memory Is Communication: The Frontier Between Remembering and Signaling",
-      "link": "https://arxiv.org/abs/2608.17053",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-19T04:00:00+00:00",
-      "summary": "arXiv:2608.17053v1 Announce Type: new Abstract: A bounded agent may obtain information for a decision from its own past, from peers, or from both sources. Retaining task-relevant history can reduce later communication, w"
-    },
-    {
-      "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization",
-      "link": "https://arxiv.org/abs/2608.17067",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-19T04:00:00+00:00",
-      "summary": "arXiv:2608.17067v1 Announce Type: new Abstract: As text-to-image generative models advance, they raise critical safety concerns, particularly the generation of Not-Safe-For-Work (NSFW) content such as violence and nudity"
-    },
-    {
       "title": "ISC Stormcast For Wednesday, August 19th, 2026 https://isc.sans.edu/podcastdetail/10058, (Wed, Aug 19th)",
       "link": "https://isc.sans.edu/diary/rss/33258",
       "source": "SANS Internet Storm Center",
@@ -323,14 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-18T21:25:58+00:00",
       "summary": "A lack of technical details could make it hard for organizations running self-managed GitLab versions to detect potential exploitation of CVE-2026-19478."
-    },
-    {
-      "title": "'CoSnitch' Attack Tricked Copilot Into Mapping Out Architecture",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-18T20:17:24+00:00",
-      "summary": "Researchers discovered a \"meta-hacking\" technique that can manipulate the AI service into revealing its own security weaknesses."
     }
   ]
 }
