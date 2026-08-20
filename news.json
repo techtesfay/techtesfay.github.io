@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T18:15:13.372212+00:00",
+  "generated_at": "2026-08-20T00:30:06.520704+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,8 +13,24 @@
   ],
   "items": [
     {
+      "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
+      "link": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-19T20:32:09+00:00",
+      "summary": "The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency."
+    },
+    {
+      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+      "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-19T19:02:40+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a remote Spectre attack against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second"
+    },
+    {
       "title": "Offering Zero Data Retention for frontier models",
-      "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "source": "OpenAI News",
       "category": "ai",
       "published": "2026-08-19T19:00:00+00:00",
@@ -27,6 +43,14 @@
       "category": "cybersecurity",
       "published": "2026-08-19T18:10:00+00:00",
       "summary": "Healthcare software firm CareCloud filed documents with the Department of Health and Human Services confirming that 3,756,469 people had information leaked after a hacker spent eight hours in one of the company\u2019s electro"
+    },
+    {
+      "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+      "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-19T18:06:44+00:00",
+      "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monito"
     },
     {
       "title": "NSA, FBI warns of hackers using AI-generated tools in attacks on critical infrastructure technology",
@@ -139,14 +163,6 @@
       "category": "cybersecurity",
       "published": "2026-08-19T06:01:53+00:00",
       "summary": "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing "
-    },
-    {
-      "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
-      "link": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-19T05:39:25+00:00",
-      "summary": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) softw"
     },
     {
       "title": "Quantum-Safe Web Service Architecture Using Time-Based One-Time Passwords",
@@ -315,22 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-18T20:17:24+00:00",
       "summary": "Researchers discovered a \"meta-hacking\" technique that can manipulate the AI service into revealing its own security weaknesses."
-    },
-    {
-      "title": "Strengthening democratic oversight in national security",
-      "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-18T19:00:00+00:00",
-      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise."
-    },
-    {
-      "title": "CISOs Break Their Silence in 'Declassified' Docuseries",
-      "link": "https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-18T18:32:01+00:00",
-      "summary": "Million-dollar heists, divorce, and career-ending burnout are all stories told in the latest docuseries revealing a behind-the-scenes look at the cybersecurity community."
     }
   ]
 }
