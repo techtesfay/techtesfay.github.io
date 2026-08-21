@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T06:22:55.738494+00:00",
+  "generated_at": "2026-08-21T12:20:21.131371+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -19,6 +19,62 @@
       "category": "cybersecurity",
       "published": "2026-08-21T14:00:00+00:00",
       "summary": "Government agencies with smaller budgets need support \u2014 and here's how you can help."
+    },
+    {
+      "title": "Wazuh and AI For Enhanced SOC Workflows",
+      "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-21T11:21:39+00:00",
+      "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover "
+    },
+    {
+      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+      "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-21T10:03:11+00:00",
+      "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crossw"
+    },
+    {
+      "title": "Mother tongue",
+      "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-21T09:00:00+00:00",
+      "summary": "\u201cDaddy?\u201d Theo curled against my side in bed. \u201cWhere do words go when they die?\u201d I\u2019d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and s"
+    },
+    {
+      "title": "When AI designs a drug, who gets the credit?",
+      "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-21T09:00:00+00:00",
+      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been \u201cdiscovered by\u201d its genera"
+    },
+    {
+      "title": "This company\u2019s plans to deploy space mirrors could jeopardize the night sky for many",
+      "link": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-21T09:00:00+00:00",
+      "summary": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US company Reflect Orbit"
+    },
+    {
+      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+      "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-21T07:04:25+00:00",
+      "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code inj"
+    },
+    {
+      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+      "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-21T06:06:11+00:00",
+      "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CVSS "
     },
     {
       "title": "Incident-Data Robustness Analysis of the OWASP Top 10 for LLM Applications (2026): How a Community-Expert Ranking Holds Up Against a Large-Scale LLM Incident Corpus",
@@ -269,68 +325,12 @@
       "summary": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India."
     },
     {
-      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
-      "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-20T14:36:27+00:00",
-      "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controll"
-    },
-    {
-      "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
-      "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-20T13:48:24+00:00",
-      "summary": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the"
-    },
-    {
-      "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
-      "link": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-20T13:35:13+00:00",
-      "summary": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability. According to the cloud computing and"
-    },
-    {
       "title": "'Grandoreiro' Malware Resurfaces With Mexico Campaign",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-08-20T13:30:00+00:00",
       "summary": "The banking Trojan, post-law enforcement takedown, is sprucing itself up with features that make detection and analysis harder."
-    },
-    {
-      "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-20T13:24:28+00:00",
-      "summary": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska). The vulnerability in question is CV"
-    },
-    {
-      "title": "Using Microsoft Graph and Powershell - Risk Detection Commands, (Thu, Aug 20th)",
-      "link": "https://isc.sans.edu/diary/rss/33266",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-20T13:09:50+00:00",
-      "summary": "Building on the last diary on Using MS Graph and Powershell, let&#;x26;#;39;s look at \"Risky\" logins."
-    },
-    {
-      "title": "Using Microsoft Graph and Powershell to Mine for Information - Stale Accounts and Licenses, (Thu, Aug 20th)",
-      "link": "https://isc.sans.edu/diary/rss/33264",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-20T12:45:32+00:00",
-      "summary": "Microsoft Graph is a newer API that is meant to replace several others.&#;x26;#;xc2;&#;x26;#;xa0; OK, it&#;x26;#;39;s at version 2.3.9, so it&#;x26;#;39;s not all that new, but it&#;x26;#;39;s new enough that lots of fol"
-    },
-    {
-      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
-      "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-20T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000"
     }
   ]
 }
