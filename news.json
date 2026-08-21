@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T18:19:44.242677+00:00",
+  "generated_at": "2026-08-21T00:32:19.068671+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,54 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Calling on Cyber Pros to Help Defend City Hall",
+      "link": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-21T14:00:00+00:00",
+      "summary": "Government agencies with smaller budgets need support \u2014 and here's how you can help."
+    },
+    {
+      "title": "New CUSTODY Framework Constrains AI Agents Inside the Network",
+      "link": "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-20T20:42:18+00:00",
+      "summary": "Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face."
+    },
+    {
+      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
+      "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-20T20:22:35+00:00",
+      "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded"
+    },
+    {
+      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
+      "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-20T19:59:19+00:00",
+      "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think "
+    },
+    {
+      "title": "China\u2019s \u2018SilkParasite\u2019 espionage operation targeting Central Asia with AI-assisted malware",
+      "link": "https://therecord.media/china-cyber-espionage-central-asia",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-20T19:30:00+00:00",
+      "summary": "Suspected military-grade hackers based in China used artificial intelligence to develop malware in a campaign to penetrate Central Asian governments."
+    },
+    {
+      "title": "What We Missed: Delta Flight Disrupted With Wi-Fi Hack",
+      "link": "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-20T19:11:15+00:00",
+      "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, including some scary airplane security risks and the US government's newest \"hack back\" strategy."
+    },
     {
       "title": "N-able Bug Exposes Password Vault Master Keys",
       "link": "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys",
@@ -27,6 +75,22 @@
       "category": "cybersecurity",
       "published": "2026-08-20T17:33:00+00:00",
       "summary": "In a letter on Wednesday, Sens. Marsha Blackburn (R-TN) and Richard Blumenthal (D-CT) criticized the company for having \u201cknowingly withheld a critical safety measure for millions of American users.\""
+    },
+    {
+      "title": "Money and Mindset: The Two Biggest Roadblocks to Cyber Policing",
+      "link": "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-20T17:32:51+00:00",
+      "summary": "Law enforcement training is not keeping pace with the volume and rapid evolution of cybercrimes, though officers really only need to learn the basics, but focus and budgets hinder progress."
+    },
+    {
+      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+      "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-20T17:23:48+00:00",
+      "summary": "A lot of this week\u2019s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to c"
     },
     {
       "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
@@ -117,30 +181,6 @@
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000"
     },
     {
-      "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
-      "link": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-20T12:01:24+00:00",
-      "summary": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) ter"
-    },
-    {
-      "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
-      "link": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-20T11:45:00+00:00",
-      "summary": "In March 2026, an internal AI agent at Meta triggered a \u201cSev 1\u201d incident after sensitive company and user data was exposed to employees who weren\u2019t authorized to access it. The incident began when a Meta employee posted "
-    },
-    {
-      "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
-      "link": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-20T11:39:35+00:00",
-      "summary": "Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the websites they front,"
-    },
-    {
       "title": "The next big thing in hydrogen could be underground",
       "link": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
       "source": "MIT Technology Review",
@@ -163,6 +203,14 @@
       "category": "ai",
       "published": "2026-08-20T09:00:00+00:00",
       "summary": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother\u2019s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just"
+    },
+    {
+      "title": "Introducing AI Futures",
+      "link": "https://openai.com/index/introducing-ai-futures",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-20T07:00:00+00:00",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
     },
     {
       "title": "AdaRare: Telemetry-Guided Joint Profile Control for Greybox Fuzzing",
@@ -283,54 +331,6 @@
       "category": "research",
       "published": "2026-08-20T04:00:00+00:00",
       "summary": "arXiv:2608.18092v1 Announce Type: new Abstract: LLM-based multi-agent systems (MAS) promise scalable collaboration, yet adding agents often reduces reliability. This position paper argues that many MAS failures are funda"
-    },
-    {
-      "title": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management",
-      "link": "https://arxiv.org/abs/2608.18099",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-20T04:00:00+00:00",
-      "summary": "arXiv:2608.18099v1 Announce Type: new Abstract: Investment management is a high-stakes domain in which agentic AI systems must do more than generate plausible text. They must retrieve point-in-time data, assemble correct"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, August 20th, 2026 https://isc.sans.edu/podcastdetail/10060, (Thu, Aug 20th)",
-      "link": "https://isc.sans.edu/diary/rss/33262",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-20T02:00:03+00:00",
-      "summary": ""
-    },
-    {
-      "title": "How ChatGPT Work helps Stampli move ideas to market",
-      "link": "https://openai.com/index/stampli",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-20T00:00:00+00:00",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
-    },
-    {
-      "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
-      "link": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-19T20:32:09+00:00",
-      "summary": "The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency."
-    },
-    {
-      "title": "Agentic AI Presents New Insider Threat Model for Orgs",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/agentic-ai-new-insider-threat-model",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-19T19:54:43+00:00",
-      "summary": "Katie Moussouris of Luta Security talks with the Dark Reading News Desk about how enterprises will now need to monitor risks posed by their own agents in the wake of the recent Hugging Face attack."
-    },
-    {
-      "title": "Offering Zero Data Retention for frontier models",
-      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-19T19:00:00+00:00",
-      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
     }
   ]
 }
