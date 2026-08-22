@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T12:13:58.633781+00:00",
+  "generated_at": "2026-08-22T18:11:11.620408+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
+      "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-22T14:32:41+00:00",
+      "summary": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country. As part of the sett"
+    },
     {
       "title": "Lawmakers call for investigation into impact of CISA staffing cuts",
       "link": "https://therecord.media/lawmakers-call-for-investigation-into-impact-of-cisa-cuts",
@@ -187,14 +195,6 @@
       "category": "cybersecurity",
       "published": "2026-08-20T20:42:18+00:00",
       "summary": "Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face."
-    },
-    {
-      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
-      "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-20T20:22:35+00:00",
-      "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded"
     },
     {
       "title": "China\u2019s \u2018SilkParasite\u2019 espionage operation targeting Central Asia with AI-assisted malware",
