@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T00:29:45.337555+00:00",
+  "generated_at": "2026-08-22T06:17:48.629392+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -157,134 +157,6 @@
       "summary": "Update: The story was updated after publication to note that the vulnerability has not been exploited. Although the security bulletin originally marked the \"Exploited\" field under the Exploitability Assessment table as \""
     },
     {
-      "title": "Incident-Data Robustness Analysis of the OWASP Top 10 for LLM Applications (2026): How a Community-Expert Ranking Holds Up Against a Large-Scale LLM Incident Corpus",
-      "link": "https://arxiv.org/abs/2608.19266",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-21T04:00:00+00:00",
-      "summary": "arXiv:2608.19266v1 Announce Type: new Abstract: The OWASP Top 10 for LLM Applications ranks the risks that a community of security practitioners judges most important. We ask a narrower question: checked against the reco"
-    },
-    {
-      "title": "ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication",
-      "link": "https://arxiv.org/abs/2608.19302",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-21T04:00:00+00:00",
-      "summary": "arXiv:2608.19302v1 Announce Type: new Abstract: Confidential communication among a dynamic group of participants that ensures flexible and efficient many-to- many communication is highly desired capability. We leverage a"
-    },
-    {
-      "title": "Aray: Deterministic-First Synthesis of Benign Artifacts for YARA Validation",
-      "link": "https://arxiv.org/abs/2608.19387",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-21T04:00:00+00:00",
-      "summary": "arXiv:2608.19387v1 Announce Type: new Abstract: A YARA rule is easy to distribute, but the malware sample used to demonstrate a positive match is not. This complicates storage, continuous integration, disaster-recovery e"
-    },
-    {
-      "title": "Redactable blockchains and polynomial equations",
-      "link": "https://arxiv.org/abs/2608.19401",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-21T04:00:00+00:00",
-      "summary": "arXiv:2608.19401v1 Announce Type: new Abstract: We develop new tools for constructing redactable authenticated data structures with post-quantum security. In our construction, inverting the proposed one-way function mean"
-    },
-    {
-      "title": "A Federated Learning Framework for Privacy-Preserving Oral Cancer Screening on Smartphones",
-      "link": "https://arxiv.org/abs/2608.19462",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-21T04:00:00+00:00",
-      "summary": "arXiv:2608.19462v1 Announce Type: new Abstract: Data are the cornerstone of robust AI models. However, in the medical domain, access to reliable data is constrained by regulatory requirements and patient privacy, and cli"
-    },
-    {
-      "title": "AEGIS: Attention-Embedding Gradient Isolation Shield - Triple-Channel Gradient Masking for Privacy-Preserving Federated LLM Fine-Tuning",
-      "link": "https://arxiv.org/abs/2608.19534",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-21T04:00:00+00:00",
-      "summary": "arXiv:2608.19534v1 Announce Type: new Abstract: Gradient inversion attacks recover private training text from gradients shared in federated learning, posing a serious threat to collaborative model training. Through our a"
-    },
-    {
-      "title": "Enhancing Privacy in Federated Learning via Dual Obfuscation of Gradients and Training Images",
-      "link": "https://arxiv.org/abs/2608.19650",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-21T04:00:00+00:00",
-      "summary": "arXiv:2608.19650v1 Announce Type: new Abstract: Federated learning enables collaborative model training while keeping data locally at each client; however, recent studies have shown that training data can be reconstructe"
-    },
-    {
-      "title": "TGL-APT: Temporal Graph Learning with Graph Distillation for Efficient APT Investigation",
-      "link": "https://arxiv.org/abs/2608.19750",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-21T04:00:00+00:00",
-      "summary": "arXiv:2608.19750v1 Announce Type: new Abstract: Advanced Persistent Threat (APT) attacks pose a critical challenge to modern systems, as their stealthy, multi-stage nature renders conventional detection methods ineffecti"
-    },
-    {
-      "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
-      "link": "https://arxiv.org/abs/2608.18078",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-21T04:00:00+00:00",
-      "summary": "arXiv:2608.18078v1 Announce Type: new Abstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavi"
-    },
-    {
-      "title": "Position: Profiling Game Worlds by Transition Complexity",
-      "link": "https://arxiv.org/abs/2608.18079",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-21T04:00:00+00:00",
-      "summary": "arXiv:2608.18079v1 Announce Type: new Abstract: Game world modeling (GWM) and reinforcement learning (RL) are often confounded because research papers rarely quantify how difficult the underlying transition prediction pr"
-    },
-    {
-      "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
-      "link": "https://arxiv.org/abs/2608.18080",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-21T04:00:00+00:00",
-      "summary": "arXiv:2608.18080v1 Announce Type: new Abstract: We present a review on the applications of large language models (LLMs) in health, e.g., social media analysis, clinical conversational agents, therapy support tools, promp"
-    },
-    {
-      "title": "Position: Behavioral Systems Require Behavioral Tests",
-      "link": "https://arxiv.org/abs/2608.18081",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-21T04:00:00+00:00",
-      "summary": "arXiv:2608.18081v1 Announce Type: new Abstract: Artificial agentic systems increasingly operate as behavioral systems by interacting with dynamic environments, pursuing goals, and adapting over time. Yet, current evaluat"
-    },
-    {
-      "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
-      "link": "https://arxiv.org/abs/2608.18086",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-21T04:00:00+00:00",
-      "summary": "arXiv:2608.18086v1 Announce Type: new Abstract: The growth of open-weight foundation models (OWFMs) has prompted the AI community to re-evaluate strategies for effective downstream governance. Although model cards have b"
-    },
-    {
-      "title": "A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring",
-      "link": "https://arxiv.org/abs/2608.18088",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-21T04:00:00+00:00",
-      "summary": "arXiv:2608.18088v1 Announce Type: new Abstract: Drone propeller faults can create safety and reliability risks when their effects are distributed across multiple flight-log channels rather than appearing as a single diag"
-    },
-    {
-      "title": "Position: Multi-Agent Systems Should Prioritize Concurrency Control",
-      "link": "https://arxiv.org/abs/2608.18092",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-21T04:00:00+00:00",
-      "summary": "arXiv:2608.18092v1 Announce Type: new Abstract: LLM-based multi-agent systems (MAS) promise scalable collaboration, yet adding agents often reduces reliability. This position paper argues that many MAS failures are funda"
-    },
-    {
-      "title": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management",
-      "link": "https://arxiv.org/abs/2608.18099",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-21T04:00:00+00:00",
-      "summary": "arXiv:2608.18099v1 Announce Type: new Abstract: Investment management is a high-stakes domain in which agentic AI systems must do more than generate plausible text. They must retrieve point-in-time data, assemble correct"
-    },
-    {
       "title": "Who Got Missed in the MFA Rollout? More Powershell + Graph + Entra scripting!, (Fri, Aug 21st)",
       "link": "https://isc.sans.edu/diary/rss/33272",
       "source": "SANS Internet Storm Center",
@@ -331,6 +203,134 @@
       "category": "cybersecurity",
       "published": "2026-08-20T19:30:00+00:00",
       "summary": "Suspected military-grade hackers based in China used artificial intelligence to develop malware in a campaign to penetrate Central Asian governments."
+    },
+    {
+      "title": "What We Missed: Delta Flight Disrupted With Wi-Fi Hack",
+      "link": "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-20T19:11:15+00:00",
+      "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, including some scary airplane security risks and the US government's newest \"hack back\" strategy."
+    },
+    {
+      "title": "N-able Bug Exposes Password Vault Master Keys",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-20T17:39:24+00:00",
+      "summary": "The popular \"Passportal\" password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely?"
+    },
+    {
+      "title": "Money and Mindset: The Two Biggest Roadblocks to Cyber Policing",
+      "link": "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-20T17:32:51+00:00",
+      "summary": "Law enforcement training is falling behind the volume and rapid evolution of cybercrimes. Officers really only need to learn the basics, but lack of focus and budget hinder progress."
+    },
+    {
+      "title": "Debates over AI consciousness are a trap",
+      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-20T15:42:39+00:00",
+      "summary": "\u201cRunaway\u201d AI, \u201crogue\u201d agents, and \u201cautonomous\u201d actors\u2014the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, D"
+    },
+    {
+      "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-20T14:59:22+00:00",
+      "summary": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India."
+    },
+    {
+      "title": "Using Microsoft Graph and Powershell - Risk Detection Commands, (Thu, Aug 20th)",
+      "link": "https://isc.sans.edu/diary/rss/33266",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-20T13:09:50+00:00",
+      "summary": "Building on the last diary on Using MS Graph and Powershell, let&#;x26;#;39;s look at \"Risky\" logins."
+    },
+    {
+      "title": "Using Microsoft Graph and Powershell to Mine for Information - Stale Accounts and Licenses, (Thu, Aug 20th)",
+      "link": "https://isc.sans.edu/diary/rss/33264",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-20T12:45:32+00:00",
+      "summary": "Microsoft Graph is a newer API that is meant to replace several others.&#;x26;#;xc2;&#;x26;#;xa0; OK, it&#;x26;#;39;s at version 2.3.9, so it&#;x26;#;39;s not all that new, but it&#;x26;#;39;s new enough that lots of fol"
+    },
+    {
+      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+      "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-20T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000"
+    },
+    {
+      "title": "The next big thing in hydrogen could be underground",
+      "link": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-20T10:00:00+00:00",
+      "summary": "There\u2019s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmak"
+    },
+    {
+      "title": "Unlocking hidden revenue streams with market models",
+      "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-20T09:47:22+00:00",
+      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider "
+    },
+    {
+      "title": "Introducing AI Futures",
+      "link": "https://openai.com/index/introducing-ai-futures",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-20T07:00:00+00:00",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
+    },
+    {
+      "title": "ISC Stormcast For Thursday, August 20th, 2026 https://isc.sans.edu/podcastdetail/10060, (Thu, Aug 20th)",
+      "link": "https://isc.sans.edu/diary/rss/33262",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-20T02:00:03+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "link": "https://openai.com/index/stampli",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-20T00:00:00+00:00",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
+    },
+    {
+      "title": "Offering Zero Data Retention for frontier models",
+      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-19T19:00:00+00:00",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
+    },
+    {
+      "title": "Simple Scans for Cloud Metadata Service, (Wed, Aug 19th)",
+      "link": "https://isc.sans.edu/diary/rss/33260",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-19T14:24:58+00:00",
+      "summary": "Cloud providers typically expose a REST API at 169.254.169.254 that allows code running on virtual machines to retrieve machine-specific data. Some of the data is more or less harmless, such as the region the machine is "
+    },
+    {
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "link": "https://openai.com/index/replit",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-19T07:00:00+00:00",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
     }
   ]
 }
