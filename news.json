@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T12:20:54.192522+00:00",
+  "generated_at": "2026-08-24T18:21:03.370431+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,12 +13,68 @@
   ],
   "items": [
     {
-      "title": "Hackers infect Android car systems to build proxy botnet",
+      "title": "Tricky 'SynkLoader' Multitool May Herald Ransomware",
+      "link": "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-24T15:02:32+00:00",
+      "summary": "An advanced, multilingual malware family brings back a trick from yesteryear \u2014 screen hijacking \u2014 for effective password theft, along with a slew of novel features."
+    },
+    {
+      "title": "ToxicPanda Banking Trojan Matures Into Enterprise Threat",
+      "link": "https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-24T14:34:59+00:00",
+      "summary": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk."
+    },
+    {
+      "title": "\u26a1 Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-24T14:32:10+00:00",
+      "summary": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That\u2019s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes e"
+    },
+    {
+      "title": "How to encourage smarter AI use in the classroom",
+      "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-24T14:20:19+00:00",
+      "summary": "This article is from Making AI Work, MIT Technology Review\u2019s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon th"
+    },
+    {
+      "title": "The Vulnerability Gap: Why Discovery Is Outrunning Repair",
+      "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-24T14:00:00+00:00",
+      "summary": "AI is discovering more vulnerabilities, faster, and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community."
+    },
+    {
+      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
+      "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-24T12:35:36+00:00",
+      "summary": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen "
+    },
+    {
+      "title": "Hackers infecting Android car systems to build proxy botnet",
       "link": "https://therecord.media/android-botnet-china-hackers",
       "source": "The Record",
       "category": "cybersecurity",
       "published": "2026-08-24T12:15:00+00:00",
-      "summary": "A malware is being used to infect Android-based car systems, turning the devices into part of a botnet."
+      "summary": "A new strain of malware is being used to infect Android-based car systems, turning the devices into part of a botnet."
+    },
+    {
+      "title": "The Download: kids outlearning AI, and space travel agents",
+      "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-24T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Kids outlearn AI\u2014and we still don\u2019t know why Teaching a computer to use human lang"
     },
     {
       "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
@@ -226,7 +282,7 @@
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-08-21T20:24:42+00:00",
-      "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes"
+      "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes."
     },
     {
       "title": "Lawmakers call for investigation into impact of CISA staffing cuts",
@@ -235,14 +291,6 @@
       "category": "cybersecurity",
       "published": "2026-08-21T19:56:00+00:00",
       "summary": "Lawmakers say little is known about how recent cuts have impacted CISA and how the knowledge that was lost has been replaced."
-    },
-    {
-      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
-      "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-21T18:53:00+00:00",
-      "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux i"
     },
     {
       "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint",
@@ -259,14 +307,6 @@
       "category": "cybersecurity",
       "published": "2026-08-21T16:16:00+00:00",
       "summary": "The bank said there is no evidence that its own systems, networks or data repositories were compromised."
-    },
-    {
-      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
-      "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-21T15:52:10+00:00",
-      "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging"
     },
     {
       "title": "Canada\u2019s Hospital for Sick Children attacked by cybercriminals again as employee data stolen",
@@ -291,46 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-21T13:55:00+00:00",
       "summary": "The statement came a day after a hacking group calling itself Black Spark claimed it had spent more than a month inside Microolap\u2019s network and gained access to its internal systems, including EtherSensor, the company's "
-    },
-    {
-      "title": "OpenAI Adds Controls That Should've Been There Already",
-      "link": "https://www.darkreading.com/application-security/openai-adds-controls-already",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-21T13:30:00+00:00",
-      "summary": "The new AI security controls follow the Hugging Face incident last month, though many of these additions perhaps should have been in place prior to the frontier models escaping."
-    },
-    {
-      "title": "Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near",
-      "link": "https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-21T13:10:33+00:00",
-      "summary": "The coming threat of super-powerful computers capable of cracking today\u2019s algorithms requires upgrading encryption now. Tech companies have begun building defenses."
-    },
-    {
-      "title": "The Download: threats from space mirrors and credit for AI drugs",
-      "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-21T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. This company\u2019s plans to deploy space mirrors could jeopardize the night sky for ma"
-    },
-    {
-      "title": "Mother tongue",
-      "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-21T09:00:00+00:00",
-      "summary": "\u201cDaddy?\u201d Theo curled against my side in bed. \u201cWhere do words go when they die?\u201d I\u2019d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and s"
-    },
-    {
-      "title": "When AI designs a drug, who gets the credit?",
-      "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-21T09:00:00+00:00",
-      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been \u201cdiscovered by\u201d its genera"
     }
   ]
 }
