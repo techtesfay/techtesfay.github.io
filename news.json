@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T00:31:51.455749+00:00",
+  "generated_at": "2026-08-24T06:31:35.109848+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,142 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "AEGIS: Preventing Cross-Domain Resource Abuse in MCP",
+      "link": "https://arxiv.org/abs/2608.20481",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-24T04:00:00+00:00",
+      "summary": "arXiv:2608.20481v1 Announce Type: new Abstract: The Model Context Protocol (MCP) is an open source JSON-RPC protocol that standardizes how large language models (LLMs) interact with external systems through programmatic "
+    },
+    {
+      "title": "aiXamine: Unified Black-Box Evaluation of Cross-Dimensional Trade-offs in LLM Safety, Security, and Privacy",
+      "link": "https://arxiv.org/abs/2608.20554",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-24T04:00:00+00:00",
+      "summary": "arXiv:2608.20554v1 Announce Type: new Abstract: The critical failure modes in deployed large language models (LLMs) are cross-dimensional: a model can score 99.3 in safety alignment while refusing one in three benign que"
+    },
+    {
+      "title": "Beyond End-to-End Success: Diagnosing Failures in Long-Horizon Security LLM Agents",
+      "link": "https://arxiv.org/abs/2608.20563",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-24T04:00:00+00:00",
+      "summary": "arXiv:2608.20563v1 Announce Type: new Abstract: Long-horizon security LLM agents must carry information and decisions across many dependent interactions, where later actions often depend on services, state, or access dis"
+    },
+    {
+      "title": "Temporal Risk on Satellites",
+      "link": "https://arxiv.org/abs/2608.20575",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-24T04:00:00+00:00",
+      "summary": "arXiv:2608.20575v1 Announce Type: new Abstract: Satellite vulnerabilities change over time as orbits shift, power margins tighten, and the space environment deteriorates. However, most cybersecurity risk frameworks still"
+    },
+    {
+      "title": "Keyed Provenance Watermarking with Complementary Lattice-Based Secure Aggregation for Federated Learning",
+      "link": "https://arxiv.org/abs/2608.20580",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-24T04:00:00+00:00",
+      "summary": "arXiv:2608.20580v1 Announce Type: new Abstract: Federated learning (FL) is vulnerable to multi-level attacks. However, existing methods address them separately, leaving FL exposed to data leakage, unauthorized reuse, and"
+    },
+    {
+      "title": "MATEE: Efficiently Bridging the Semantic Gap in TrustZone via Arm Pointer Authentication",
+      "link": "https://arxiv.org/abs/2608.20583",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-24T04:00:00+00:00",
+      "summary": "arXiv:2608.20583v1 Announce Type: new Abstract: Trusted Execution Environments (TEEs) employ hardware-based isolation mechanisms to safeguard the confidentiality and integrity of sensitive code and data. One such prevale"
+    },
+    {
+      "title": "More Granular, Less Trust: Enforcing Intra-Process Isolation with Arm CCA in an Untrusted Management Environment",
+      "link": "https://arxiv.org/abs/2608.20584",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-24T04:00:00+00:00",
+      "summary": "arXiv:2608.20584v1 Announce Type: new Abstract: With the increasing adoption of confidential computing, security-sensitive applications are often deployed in confidential virtual machines (CVMs), which reduce reliance on"
+    },
+    {
+      "title": "ARQ: Agentic CodeQL Query Refinement for C/C++ Vulnerability Detection",
+      "link": "https://arxiv.org/abs/2608.20637",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-24T04:00:00+00:00",
+      "summary": "arXiv:2608.20637v1 Announce Type: new Abstract: Static analyzers have been widely adopted for vulnerability detection in C/C++ programs. Query-based static analyzers (e.g., CodeQL) encode vulnerable code patterns in dete"
+    },
+    {
+      "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+      "link": "https://arxiv.org/abs/2608.20341",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-24T04:00:00+00:00",
+      "summary": "arXiv:2608.20341v1 Announce Type: new Abstract: Frontier coding agents backed by large language models with context windows from hundreds of thousands to millions of tokens are restructuring the Software Development Life"
+    },
+    {
+      "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+      "link": "https://arxiv.org/abs/2608.20342",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-24T04:00:00+00:00",
+      "summary": "arXiv:2608.20342v1 Announce Type: new Abstract: Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from prior work. We present PrimeAgentOrchestrato"
+    },
+    {
+      "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
+      "link": "https://arxiv.org/abs/2608.20378",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-24T04:00:00+00:00",
+      "summary": "arXiv:2608.20378v1 Announce Type: new Abstract: Safety alignment in Large Language Models (LLMs) is often superficial, relying on refusal mechanisms that trigger only at the final stages of generation without erasing the"
+    },
+    {
+      "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
+      "link": "https://arxiv.org/abs/2608.20379",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-24T04:00:00+00:00",
+      "summary": "arXiv:2608.20379v1 Announce Type: new Abstract: Advances in large language models (LLMs) have fueled a wave of research into agency: the ability to reason, plan, and act. This effort has produced agentic frameworks that "
+    },
+    {
+      "title": "Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles",
+      "link": "https://arxiv.org/abs/2608.20384",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-24T04:00:00+00:00",
+      "summary": "arXiv:2608.20384v1 Announce Type: new Abstract: Multimodal affect and behaviour classifiers that fuse heterogeneous text, audio, and visual streams must simultaneously achieve competitive accuracy and produce human-under"
+    },
+    {
+      "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
+      "link": "https://arxiv.org/abs/2608.20389",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-24T04:00:00+00:00",
+      "summary": "arXiv:2608.20389v1 Announce Type: new Abstract: A production agent harness must discover and rank, from a growing library of skills, the one most appropriate for a user's task. At small scale this selection happens in co"
+    },
+    {
+      "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
+      "link": "https://arxiv.org/abs/2608.20397",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-24T04:00:00+00:00",
+      "summary": "arXiv:2608.20397v1 Announce Type: new Abstract: Agentic large language models (LLMs) on the Model Context Protocol (MCP) re-encode verbose tool schemas every turn, so prefill - quadratic in sequence length - dominates ti"
+    },
+    {
+      "title": "Environmental Slow AI: Design Principles for Generative Systems",
+      "link": "https://arxiv.org/abs/2608.20398",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-24T04:00:00+00:00",
+      "summary": "arXiv:2608.20398v1 Announce Type: new Abstract: Generative AI (genAI) systems produce cultural artefacts at scale, but they also reflect embedded cultural values through their design. Once identified, these values become"
+    },
+    {
+      "title": "ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/10064, (Mon, Aug 24th)",
+      "link": "https://isc.sans.edu/diary/rss/33276",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-24T02:00:03+00:00",
+      "summary": ""
+    },
     {
       "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
       "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
@@ -27,6 +163,14 @@
       "category": "cybersecurity",
       "published": "2026-08-21T20:24:42+00:00",
       "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes"
+    },
+    {
+      "title": "Lawmakers call for investigation into impact of CISA staffing cuts",
+      "link": "https://therecord.media/lawmakers-call-for-investigation-into-impact-of-cisa-cuts",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-21T19:56:00+00:00",
+      "summary": "Lawmakers say little is known about how recent cuts have impacted CISA and how the knowledge that was lost has been replaced."
     },
     {
       "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
@@ -45,6 +189,14 @@
       "summary": "The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons."
     },
     {
+      "title": "U.S. Bank says breach claims related to fourth-party incident",
+      "link": "https://therecord.media/us-bank-says-breach-claims-related-to-fourth-party-incident",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-21T16:16:00+00:00",
+      "summary": "The bank said there is no evidence that its own systems, networks or data repositories were compromised."
+    },
+    {
       "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
       "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
       "source": "The Hacker News",
@@ -61,12 +213,28 @@
       "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said th"
     },
     {
+      "title": "Canada\u2019s Hospital for Sick Children attacked by cybercriminals again as employee data stolen",
+      "link": "https://therecord.media/canada-hospital-for-sick-children-attacked-again-employee-data",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-21T15:00:00+00:00",
+      "summary": "The Hospital for Sick Children \u2014 which was hit in a ransomware incident in 2022 that disabled some of its systems \u2014 released a statement on Thursday warning of a data theft incident they believe is tied to a third-party "
+    },
+    {
       "title": "Calling on Cyber Pros to Help Defend City Hall",
       "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-08-21T14:00:00+00:00",
       "summary": "Government agencies with smaller budgets need support \u2014 and here's how you can help."
+    },
+    {
+      "title": "Russian network monitoring firm confirms cyberattack claimed by pro-Ukraine hackers",
+      "link": "https://therecord.media/russian-network-monitoring-firm-confirms-cyberattack-claimed-by-pro-ukraine-group",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-21T13:55:00+00:00",
+      "summary": "The statement came a day after a hacking group calling itself Black Spark claimed it had spent more than a month inside Microolap\u2019s network and gained access to its internal systems, including EtherSensor, the company's "
     },
     {
       "title": "OpenAI Adds Controls That Should've Been There Already",
@@ -163,174 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-21T02:00:03+00:00",
       "summary": ""
-    },
-    {
-      "title": "Even MOAR Powershell, looking at Entra logins - the good, the bad and the password sprays, (Fri, Aug 21st)",
-      "link": "https://isc.sans.edu/diary/rss/33268",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-21T01:49:18+00:00",
-      "summary": "One thing that folks never seem to do after \"going to the CLOOOOUUUUD\" is to look at their logs, logs that they would have checked daily when things were on premise."
-    },
-    {
-      "title": "New CUSTODY Framework Constrains AI Agents Inside the Network",
-      "link": "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-20T20:42:18+00:00",
-      "summary": "Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face."
-    },
-    {
-      "title": "What We Missed: Delta Flight Disrupted With Wi-Fi Hack",
-      "link": "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-20T19:11:15+00:00",
-      "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, including some scary airplane security risks and the US government's newest \"hack back\" strategy."
-    },
-    {
-      "title": "N-able Bug Exposes Password Vault Master Keys",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-20T17:39:24+00:00",
-      "summary": "The popular \"Passportal\" password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely?"
-    },
-    {
-      "title": "Debates over AI consciousness are a trap",
-      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-20T15:42:39+00:00",
-      "summary": "\u201cRunaway\u201d AI, \u201crogue\u201d agents, and \u201cautonomous\u201d actors\u2014the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, D"
-    },
-    {
-      "title": "Using Microsoft Graph and Powershell - Risk Detection Commands, (Thu, Aug 20th)",
-      "link": "https://isc.sans.edu/diary/rss/33266",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-20T13:09:50+00:00",
-      "summary": "Building on the last diary on Using MS Graph and Powershell, let&#;x26;#;39;s look at \"Risky\" logins."
-    },
-    {
-      "title": "Using Microsoft Graph and Powershell to Mine for Information - Stale Accounts and Licenses, (Thu, Aug 20th)",
-      "link": "https://isc.sans.edu/diary/rss/33264",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-20T12:45:32+00:00",
-      "summary": "Microsoft Graph is a newer API that is meant to replace several others.&#;x26;#;xc2;&#;x26;#;xa0; OK, it&#;x26;#;39;s at version 2.3.9, so it&#;x26;#;39;s not all that new, but it&#;x26;#;39;s new enough that lots of fol"
-    },
-    {
-      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
-      "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-20T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000"
-    },
-    {
-      "title": "The next big thing in hydrogen could be underground",
-      "link": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-20T10:00:00+00:00",
-      "summary": "There\u2019s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmak"
-    },
-    {
-      "title": "Unlocking hidden revenue streams with market models",
-      "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-20T09:47:22+00:00",
-      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider "
-    },
-    {
-      "title": "Introducing AI Futures",
-      "link": "https://openai.com/index/introducing-ai-futures",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-20T07:00:00+00:00",
-      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
-    },
-    {
-      "title": "ISC Stormcast For Thursday, August 20th, 2026 https://isc.sans.edu/podcastdetail/10060, (Thu, Aug 20th)",
-      "link": "https://isc.sans.edu/diary/rss/33262",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-20T02:00:03+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "link": "https://openai.com/index/stampli",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-20T00:00:00+00:00",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
-    },
-    {
-      "title": "Offering Zero Data Retention for frontier models",
-      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-19T19:00:00+00:00",
-      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
-    },
-    {
-      "title": "Simple Scans for Cloud Metadata Service, (Wed, Aug 19th)",
-      "link": "https://isc.sans.edu/diary/rss/33260",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-19T14:24:58+00:00",
-      "summary": "Cloud providers typically expose a REST API at 169.254.169.254 that allows code running on virtual machines to retrieve machine-specific data. Some of the data is more or less harmless, such as the region the machine is "
-    },
-    {
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "link": "https://openai.com/index/replit",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-19T07:00:00+00:00",
-      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, August 19th, 2026 https://isc.sans.edu/podcastdetail/10058, (Wed, Aug 19th)",
-      "link": "https://isc.sans.edu/diary/rss/33258",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-19T02:00:03+00:00",
-      "summary": ""
-    },
-    {
-      "title": "ChatGPT Ads expands across Europe",
-      "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-18T22:00:00+00:00",
-      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
-    },
-    {
-      "title": "Strengthening democratic oversight in national security",
-      "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-18T19:00:00+00:00",
-      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise."
-    },
-    {
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "link": "https://openai.com/index/partnering-with-codeai",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-18T11:00:00+00:00",
-      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly."
-    },
-    {
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-18T11:00:00+00:00",
-      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development."
     }
   ]
 }
