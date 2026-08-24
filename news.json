@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T18:11:13.694688+00:00",
+  "generated_at": "2026-08-24T00:31:51.455749+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -29,14 +29,6 @@
       "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes"
     },
     {
-      "title": "Lawmakers call for investigation into impact of CISA staffing cuts",
-      "link": "https://therecord.media/lawmakers-call-for-investigation-into-impact-of-cisa-cuts",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-21T19:56:00+00:00",
-      "summary": "Lawmakers say little is known about how recent cuts have impacted CISA and how the knowledge that was lost has been replaced."
-    },
-    {
       "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
       "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
       "source": "The Hacker News",
@@ -51,14 +43,6 @@
       "category": "cybersecurity",
       "published": "2026-08-21T17:36:53+00:00",
       "summary": "The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons."
-    },
-    {
-      "title": "U.S. Bank says breach claims related to fourth-party incident",
-      "link": "https://therecord.media/us-bank-says-breach-claims-related-to-fourth-party-incident",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-21T16:16:00+00:00",
-      "summary": "The bank said there is no evidence that its own systems, networks or data repositories were compromised."
     },
     {
       "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
@@ -77,28 +61,12 @@
       "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said th"
     },
     {
-      "title": "Canada\u2019s Hospital for Sick Children attacked by cybercriminals again as employee data stolen",
-      "link": "https://therecord.media/canada-hospital-for-sick-children-attacked-again-employee-data",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-21T15:00:00+00:00",
-      "summary": "The Hospital for Sick Children \u2014 which was hit in a ransomware incident in 2022 that disabled some of its systems \u2014 released a statement on Thursday warning of a data theft incident they believe is tied to a third-party "
-    },
-    {
       "title": "Calling on Cyber Pros to Help Defend City Hall",
       "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-08-21T14:00:00+00:00",
       "summary": "Government agencies with smaller budgets need support \u2014 and here's how you can help."
-    },
-    {
-      "title": "Russian network monitoring firm confirms cyberattack claimed by pro-Ukraine hackers",
-      "link": "https://therecord.media/russian-network-monitoring-firm-confirms-cyberattack-claimed-by-pro-ukraine-group",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-21T13:55:00+00:00",
-      "summary": "The statement came a day after a hacking group calling itself Black Spark claimed it had spent more than a month inside Microolap\u2019s network and gained access to its internal systems, including EtherSensor, the company's "
     },
     {
       "title": "OpenAI Adds Controls That Should've Been There Already",
@@ -213,14 +181,6 @@
       "summary": "Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face."
     },
     {
-      "title": "China\u2019s \u2018SilkParasite\u2019 espionage operation targeting Central Asia with AI-assisted malware",
-      "link": "https://therecord.media/china-cyber-espionage-central-asia",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-20T19:30:00+00:00",
-      "summary": "Suspected military-grade hackers based in China used artificial intelligence to develop malware in a campaign to penetrate Central Asian governments."
-    },
-    {
       "title": "What We Missed: Delta Flight Disrupted With Wi-Fi Hack",
       "link": "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack",
       "source": "Dark Reading",
@@ -331,6 +291,46 @@
       "category": "ai",
       "published": "2026-08-19T07:00:00+00:00",
       "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
+    },
+    {
+      "title": "ISC Stormcast For Wednesday, August 19th, 2026 https://isc.sans.edu/podcastdetail/10058, (Wed, Aug 19th)",
+      "link": "https://isc.sans.edu/diary/rss/33258",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-19T02:00:03+00:00",
+      "summary": ""
+    },
+    {
+      "title": "ChatGPT Ads expands across Europe",
+      "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-18T22:00:00+00:00",
+      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
+    },
+    {
+      "title": "Strengthening democratic oversight in national security",
+      "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-18T19:00:00+00:00",
+      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise."
+    },
+    {
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "link": "https://openai.com/index/partnering-with-codeai",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-18T11:00:00+00:00",
+      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly."
+    },
+    {
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-18T11:00:00+00:00",
+      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development."
     }
   ]
 }
