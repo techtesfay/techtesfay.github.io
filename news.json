@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T00:30:49.317643+00:00",
+  "generated_at": "2026-08-25T06:23:15.046413+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,142 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Scalable PII Discovery in Mobile App Databases via Hypothesis-Driven Search",
+      "link": "https://arxiv.org/abs/2608.21469",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-25T04:00:00+00:00",
+      "summary": "arXiv:2608.21469v1 Announce Type: new Abstract: Discovering personally identifiable information (PII) in mobile forensic databases is difficult because the relevant table-column regions are unknown, distributed across he"
+    },
+    {
+      "title": "Structural Inference in Undocumented Mobile Databases: A Reproducible Benchmark for Evaluating Agentic Reasoning in Digital Forensics",
+      "link": "https://arxiv.org/abs/2608.21470",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-25T04:00:00+00:00",
+      "summary": "arXiv:2608.21470v1 Announce Type: new Abstract: Agentic large language models are increasingly used in digital forensic analysis, yet their ability to infer relational structure inside undocumented mobile application dat"
+    },
+    {
+      "title": "A Case-Control Measurement Study of OSINT Source Effectiveness for Critical Infrastructure Defense",
+      "link": "https://arxiv.org/abs/2608.21471",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-25T04:00:00+00:00",
+      "summary": "arXiv:2608.21471v1 Announce Type: new Abstract: Defenders of critical infrastructure (CI) subscribe to many public open-source intelligence (OSINT) feeds without an empirical basis for which feeds actually precede attack"
+    },
+    {
+      "title": "Explainable Adaptive Zero Trust Framework for AWS with Adversarial Robustness Evaluation",
+      "link": "https://arxiv.org/abs/2608.21477",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-25T04:00:00+00:00",
+      "summary": "arXiv:2608.21477v1 Announce Type: new Abstract: Cloud environments built on Amazon Web Services face a structural security vulnerability: once a credential passes authentication, the resulting session is often treated as"
+    },
+    {
+      "title": "SecOPD: Mitigating Adaptive Prompt Injections by On-Policy Distillation",
+      "link": "https://arxiv.org/abs/2608.21500",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-25T04:00:00+00:00",
+      "summary": "arXiv:2608.21500v1 Announce Type: new Abstract: Prompt injection is listed as the \\#1 threat to AI agents. When an agent accesses external data from websites, files, or emails, an attacker may inject a prompt into the da"
+    },
+    {
+      "title": "Enhancing User Resilience Against AI-Augmented Phishing: A Two-Stage Framework for Detection and Personalized Training",
+      "link": "https://arxiv.org/abs/2608.21547",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-25T04:00:00+00:00",
+      "summary": "arXiv:2608.21547v1 Announce Type: new Abstract: The rapid development of artificial intelligence, including agents and deepfake techniques, has accelerated phishing attacks and lowered the threshold for attackers. Modern"
+    },
+    {
+      "title": "Hiding Directions, Leaking Structure: Breaking ArrowCloak through Low-Rank Structure",
+      "link": "https://arxiv.org/abs/2608.21615",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-25T04:00:00+00:00",
+      "summary": "arXiv:2608.21615v1 Announce Type: new Abstract: TEE-shielded inference keeps sensitive state in a trusted execution environment (TEE) while offloading linear algebra to an untrusted accelerator. Wang et al., in Game of A"
+    },
+    {
+      "title": "Cross-Layer Roots of Trust: Integrating Biometrics, PUFs, and Hardware Obfuscation",
+      "link": "https://arxiv.org/abs/2608.21643",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-25T04:00:00+00:00",
+      "summary": "arXiv:2608.21643v1 Announce Type: new Abstract: Modern cyber--physical, Internet-of-Things (IoT), wearable, and edge systems increasingly require trust in three distinct entities: the human requesting access, the physica"
+    },
+    {
+      "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+      "link": "https://arxiv.org/abs/2608.21362",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-25T04:00:00+00:00",
+      "summary": "arXiv:2608.21362v1 Announce Type: new Abstract: Transformer-based large language models (LLMs) incur high prefill latency because key-value (KV) tensors must be recomputed for each request. Existing prefix-caching system"
+    },
+    {
+      "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
+      "link": "https://arxiv.org/abs/2608.21363",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-25T04:00:00+00:00",
+      "summary": "arXiv:2608.21363v1 Announce Type: new Abstract: A protocol is presented for recording the governance decisions of automated AI runtimes. When a runtime releases, blocks, defers, redacts, or escalates an individual output"
+    },
+    {
+      "title": "Reviewing Model Collapse and Countermeasures",
+      "link": "https://arxiv.org/abs/2608.21366",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-25T04:00:00+00:00",
+      "summary": "arXiv:2608.21366v1 Announce Type: new Abstract: Driven by massive amounts of web-scale data, generative AI (GenAI) has achieved remarkable progress, enabling various applications in diverse sectors. The advances of GenAI"
+    },
+    {
+      "title": "AI Learning and Conceptual Transfer in the Game of Hidden Rules",
+      "link": "https://arxiv.org/abs/2608.21372",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-25T04:00:00+00:00",
+      "summary": "arXiv:2608.21372v1 Announce Type: new Abstract: This report summarizes the work conducted on the Game of Hidden Rules (GOHR), focusing on reinforcement learning agents trained to infer hidden rules from trial-and-error f"
+    },
+    {
+      "title": "LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform",
+      "link": "https://arxiv.org/abs/2608.21374",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-25T04:00:00+00:00",
+      "summary": "arXiv:2608.21374v1 Announce Type: new Abstract: Literature reviews are essential to scientific progress, but rigorously evaluating automatically generated reviews remains difficult because many aspects of research utilit"
+    },
+    {
+      "title": "SchemaRouter: Field-Aware Tool Routing for Efficient Heterogeneous Agentic RAG",
+      "link": "https://arxiv.org/abs/2608.21375",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-25T04:00:00+00:00",
+      "summary": "arXiv:2608.21375v1 Announce Type: new Abstract: Heterogeneous agentic retrieval-augmented generation (RAG) systems increasingly orchestrate external APIs, internal databases, vector stores, and graph stores. Exposing all"
+    },
+    {
+      "title": "RIACT: A Responsible AI System for Personalized Study Habit Tracking and Early Burnout Signal Detection in University Students",
+      "link": "https://arxiv.org/abs/2608.21379",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-25T04:00:00+00:00",
+      "summary": "arXiv:2608.21379v1 Announce Type: new Abstract: Student burnout is highly prevalent in higher education, with reported rates ranging from 12% to over 70% and consistently exceeding those of the working population - yet i"
+    },
+    {
+      "title": "There Is No Neutral Harness: Modern LLM Leaderboards Are Manufactured by Config-Fragile Items",
+      "link": "https://arxiv.org/abs/2608.21382",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-25T04:00:00+00:00",
+      "summary": "arXiv:2608.21382v1 Announce Type: new Abstract: Multiple-choice benchmarks fix the questions and the correct answers, but not the harness: the order of the options, the wording of the prompt, and whether a language model"
+    },
+    {
+      "title": "ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/10066, (Tue, Aug 25th)",
+      "link": "https://isc.sans.edu/diary/rss/33278",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-25T02:00:03+00:00",
+      "summary": ""
+    },
     {
       "title": "US sanctions Iranian cyber actors as UK discloses power plant attack",
       "link": "https://therecord.media/iran-cyberattacks-us-uk",
@@ -189,148 +325,12 @@
       "summary": "New malware that uses steganography always gets my attention, but I was disappointed when I looked at the latest DOUBLECUP write-up. It doesn&#;x26;#;39;t use real steganography:"
     },
     {
-      "title": "AEGIS: Preventing Cross-Domain Resource Abuse in MCP",
-      "link": "https://arxiv.org/abs/2608.20481",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-24T04:00:00+00:00",
-      "summary": "arXiv:2608.20481v1 Announce Type: new Abstract: The Model Context Protocol (MCP) is an open source JSON-RPC protocol that standardizes how large language models (LLMs) interact with external systems through programmatic "
-    },
-    {
-      "title": "aiXamine: Unified Black-Box Evaluation of Cross-Dimensional Trade-offs in LLM Safety, Security, and Privacy",
-      "link": "https://arxiv.org/abs/2608.20554",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-24T04:00:00+00:00",
-      "summary": "arXiv:2608.20554v1 Announce Type: new Abstract: The critical failure modes in deployed large language models (LLMs) are cross-dimensional: a model can score 99.3 in safety alignment while refusing one in three benign que"
-    },
-    {
-      "title": "Beyond End-to-End Success: Diagnosing Failures in Long-Horizon Security LLM Agents",
-      "link": "https://arxiv.org/abs/2608.20563",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-24T04:00:00+00:00",
-      "summary": "arXiv:2608.20563v1 Announce Type: new Abstract: Long-horizon security LLM agents must carry information and decisions across many dependent interactions, where later actions often depend on services, state, or access dis"
-    },
-    {
-      "title": "Temporal Risk on Satellites",
-      "link": "https://arxiv.org/abs/2608.20575",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-24T04:00:00+00:00",
-      "summary": "arXiv:2608.20575v1 Announce Type: new Abstract: Satellite vulnerabilities change over time as orbits shift, power margins tighten, and the space environment deteriorates. However, most cybersecurity risk frameworks still"
-    },
-    {
-      "title": "Keyed Provenance Watermarking with Complementary Lattice-Based Secure Aggregation for Federated Learning",
-      "link": "https://arxiv.org/abs/2608.20580",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-24T04:00:00+00:00",
-      "summary": "arXiv:2608.20580v1 Announce Type: new Abstract: Federated learning (FL) is vulnerable to multi-level attacks. However, existing methods address them separately, leaving FL exposed to data leakage, unauthorized reuse, and"
-    },
-    {
-      "title": "MATEE: Efficiently Bridging the Semantic Gap in TrustZone via Arm Pointer Authentication",
-      "link": "https://arxiv.org/abs/2608.20583",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-24T04:00:00+00:00",
-      "summary": "arXiv:2608.20583v1 Announce Type: new Abstract: Trusted Execution Environments (TEEs) employ hardware-based isolation mechanisms to safeguard the confidentiality and integrity of sensitive code and data. One such prevale"
-    },
-    {
-      "title": "More Granular, Less Trust: Enforcing Intra-Process Isolation with Arm CCA in an Untrusted Management Environment",
-      "link": "https://arxiv.org/abs/2608.20584",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-24T04:00:00+00:00",
-      "summary": "arXiv:2608.20584v1 Announce Type: new Abstract: With the increasing adoption of confidential computing, security-sensitive applications are often deployed in confidential virtual machines (CVMs), which reduce reliance on"
-    },
-    {
-      "title": "ARQ: Agentic CodeQL Query Refinement for C/C++ Vulnerability Detection",
-      "link": "https://arxiv.org/abs/2608.20637",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-24T04:00:00+00:00",
-      "summary": "arXiv:2608.20637v1 Announce Type: new Abstract: Static analyzers have been widely adopted for vulnerability detection in C/C++ programs. Query-based static analyzers (e.g., CodeQL) encode vulnerable code patterns in dete"
-    },
-    {
-      "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
-      "link": "https://arxiv.org/abs/2608.20341",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-24T04:00:00+00:00",
-      "summary": "arXiv:2608.20341v1 Announce Type: new Abstract: Frontier coding agents backed by large language models with context windows from hundreds of thousands to millions of tokens are restructuring the Software Development Life"
-    },
-    {
-      "title": "PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
-      "link": "https://arxiv.org/abs/2608.20342",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-24T04:00:00+00:00",
-      "summary": "arXiv:2608.20342v1 Announce Type: new Abstract: Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from prior work. We present PrimeAgentOrchestrato"
-    },
-    {
-      "title": "Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
-      "link": "https://arxiv.org/abs/2608.20378",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-24T04:00:00+00:00",
-      "summary": "arXiv:2608.20378v1 Announce Type: new Abstract: Safety alignment in Large Language Models (LLMs) is often superficial, relying on refusal mechanisms that trigger only at the final stages of generation without erasing the"
-    },
-    {
-      "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
-      "link": "https://arxiv.org/abs/2608.20379",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-24T04:00:00+00:00",
-      "summary": "arXiv:2608.20379v1 Announce Type: new Abstract: Advances in large language models (LLMs) have fueled a wave of research into agency: the ability to reason, plan, and act. This effort has produced agentic frameworks that "
-    },
-    {
-      "title": "Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles",
-      "link": "https://arxiv.org/abs/2608.20384",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-24T04:00:00+00:00",
-      "summary": "arXiv:2608.20384v1 Announce Type: new Abstract: Multimodal affect and behaviour classifiers that fuse heterogeneous text, audio, and visual streams must simultaneously achieve competitive accuracy and produce human-under"
-    },
-    {
-      "title": "Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
-      "link": "https://arxiv.org/abs/2608.20389",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-24T04:00:00+00:00",
-      "summary": "arXiv:2608.20389v1 Announce Type: new Abstract: A production agent harness must discover and rank, from a growing library of skills, the one most appropriate for a user's task. At small scale this selection happens in co"
-    },
-    {
-      "title": "Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
-      "link": "https://arxiv.org/abs/2608.20397",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-24T04:00:00+00:00",
-      "summary": "arXiv:2608.20397v1 Announce Type: new Abstract: Agentic large language models (LLMs) on the Model Context Protocol (MCP) re-encode verbose tool schemas every turn, so prefill - quadratic in sequence length - dominates ti"
-    },
-    {
-      "title": "Environmental Slow AI: Design Principles for Generative Systems",
-      "link": "https://arxiv.org/abs/2608.20398",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-24T04:00:00+00:00",
-      "summary": "arXiv:2608.20398v1 Announce Type: new Abstract: Generative AI (genAI) systems produce cultural artefacts at scale, but they also reflect embedded cultural values through their design. Once identified, these values become"
-    },
-    {
       "title": "ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/10064, (Mon, Aug 24th)",
       "link": "https://isc.sans.edu/diary/rss/33276",
       "source": "SANS Internet Storm Center",
       "category": "cybersecurity",
       "published": "2026-08-24T02:00:03+00:00",
       "summary": ""
-    },
-    {
-      "title": "How an Emerging Industrial Protocol Family Could Put OT at Risk",
-      "link": "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-21T20:24:42+00:00",
-      "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes."
     }
   ]
 }
