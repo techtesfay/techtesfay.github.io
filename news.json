@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T18:21:03.370431+00:00",
+  "generated_at": "2026-08-25T00:30:49.317643+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,62 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "US sanctions Iranian cyber actors as UK discloses power plant attack",
+      "link": "https://therecord.media/iran-cyberattacks-us-uk",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-24T23:00:00+00:00",
+      "summary": "The U.S. sanctioned several Iranian nationals for cyberattacks on critical infrastructure just days after reports emerged of a cyber intrusion on a small power plant in the United Kingdom."
+    },
+    {
+      "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-24T21:46:55+00:00",
+      "summary": "CISA has issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications."
+    },
+    {
+      "title": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text",
+      "link": "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-24T20:51:27+00:00",
+      "summary": "ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer."
+    },
+    {
+      "title": "New Zealand to pursue social media ban for children under 16",
+      "link": "https://therecord.media/new-zealand-to-pursue-social-media-ban-for-children",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-24T20:36:00+00:00",
+      "summary": "The legislation would mandate that high-risk social media platforms such as Instagram, TikTok, Snapchat and Facebook take \u201creasonable steps\u201d to ensure users are over age 16 by using tools like facial age estimation, digi"
+    },
+    {
+      "title": "Indian man who fled US arrested on charges he helped scammers siphon $7.5 million from the elderly",
+      "link": "https://therecord.media/cyber-scam-indian-arrested",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-24T18:30:00+00:00",
+      "summary": "A Jersey City resident is facing charges for his alleged role as a money mule for overseas cyberscammers who stole millions from elderly New Yorkers."
+    },
+    {
+      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+      "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-24T17:41:30+00:00",
+      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce ope"
+    },
+    {
+      "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
+      "link": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-24T17:41:11+00:00",
+      "summary": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more "
+    },
     {
       "title": "Tricky 'SynkLoader' Multitool May Herald Ransomware",
       "link": "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware",
@@ -77,12 +133,12 @@
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Kids outlearn AI\u2014and we still don\u2019t know why Teaching a computer to use human lang"
     },
     {
-      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-      "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-24T11:58:00+00:00",
-      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce ope"
+      "title": "Advancing price-performance for developers with GPT\u20115.6 in Kiro",
+      "link": "https://openai.com/index/gpt-5-6-in-kiro",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-24T12:00:00+00:00",
+      "summary": "GPT\u20115.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
     },
     {
       "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
@@ -269,68 +325,12 @@
       "summary": ""
     },
     {
-      "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
-      "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-22T14:32:41+00:00",
-      "summary": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country. As part of the sett"
-    },
-    {
       "title": "How an Emerging Industrial Protocol Family Could Put OT at Risk",
       "link": "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-08-21T20:24:42+00:00",
       "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes."
-    },
-    {
-      "title": "Lawmakers call for investigation into impact of CISA staffing cuts",
-      "link": "https://therecord.media/lawmakers-call-for-investigation-into-impact-of-cisa-cuts",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-21T19:56:00+00:00",
-      "summary": "Lawmakers say little is known about how recent cuts have impacted CISA and how the knowledge that was lost has been replaced."
-    },
-    {
-      "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint",
-      "link": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-21T17:36:53+00:00",
-      "summary": "The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons."
-    },
-    {
-      "title": "U.S. Bank says breach claims related to fourth-party incident",
-      "link": "https://therecord.media/us-bank-says-breach-claims-related-to-fourth-party-incident",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-21T16:16:00+00:00",
-      "summary": "The bank said there is no evidence that its own systems, networks or data repositories were compromised."
-    },
-    {
-      "title": "Canada\u2019s Hospital for Sick Children attacked by cybercriminals again as employee data stolen",
-      "link": "https://therecord.media/canada-hospital-for-sick-children-attacked-again-employee-data",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-21T15:00:00+00:00",
-      "summary": "The Hospital for Sick Children \u2014 which was hit in a ransomware incident in 2022 that disabled some of its systems \u2014 released a statement on Thursday warning of a data theft incident they believe is tied to a third-party "
-    },
-    {
-      "title": "Calling on Cyber Pros to Help Defend City Hall",
-      "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-21T14:00:00+00:00",
-      "summary": "Government agencies with smaller budgets need support \u2014 and here's how you can help."
-    },
-    {
-      "title": "Russian network monitoring firm confirms cyberattack claimed by pro-Ukraine hackers",
-      "link": "https://therecord.media/russian-network-monitoring-firm-confirms-cyberattack-claimed-by-pro-ukraine-group",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-21T13:55:00+00:00",
-      "summary": "The statement came a day after a hacking group calling itself Black Spark claimed it had spent more than a month inside Microolap\u2019s network and gained access to its internal systems, including EtherSensor, the company's "
     }
   ]
 }
