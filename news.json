@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T12:21:40.178778+00:00",
+  "generated_at": "2026-08-25T18:20:29.232894+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,12 +13,108 @@
   ],
   "items": [
     {
+      "title": "Art and algorithms at Sotheby\u2019s",
+      "link": "https://www.technologyreview.com/2026/08/25/1140908/art-and-algorithms-at-sothebys/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-25T18:00:00+00:00",
+      "summary": "Do fine art and high tech ever converge? At Sotheby\u2019s they do, thanks to Kelly Shen \u201917. Shen works in the growing field of art intelligence for the New York auction house. Shen builds algorithms to predict prices, using"
+    },
+    {
+      "title": "Is Cyber Facing an Affordability Crisis?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-25T14:53:13+00:00",
+      "summary": "As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security."
+    },
+    {
+      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+      "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-25T14:07:37+00:00",
+      "summary": "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside "
+    },
+    {
+      "title": "Ukraine to give Britain access to battlefield data to train AI",
+      "link": "https://therecord.media/ukraine-uk-ai-drone-data",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-25T14:00:00+00:00",
+      "summary": "Ukraine will give Britain access to a vast trove of battlefield data collected during the war with Russia, allowing U.K. companies and researchers to use it to train and test artificial intelligence systems."
+    },
+    {
+      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+      "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-25T13:19:41+00:00",
+      "summary": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishi"
+    },
+    {
+      "title": "UK government seeks powers to secretly block risky tech suppliers",
+      "link": "https://therecord.media/uk-technology-national-security",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-25T12:45:00+00:00",
+      "summary": "The British government is seeking new powers to ban certain technology vendors from supplying companies working in the country\u2019s critical sectors \u2014 potentially doing so in secret."
+    },
+    {
+      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+      "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-25T12:43:51+00:00",
+      "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to Vuln"
+    },
+    {
+      "title": "The Download: smarter AI in schools, and a robot \u201ccarnival\u201d in Shanghai",
+      "link": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-25T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. How to encourage smarter AI use in the classroom Chatbots took schools by surprise"
+    },
+    {
+      "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
+      "link": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-25T11:56:15+00:00",
+      "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-facto"
+    },
+    {
+      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
+      "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-25T11:52:43+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While the malware is simply"
+    },
+    {
       "title": "Large DDoS attack knocks Norwegian public services offline",
       "link": "https://therecord.media/norway-cyberattack-ddos-government",
       "source": "The Record",
       "category": "cybersecurity",
       "published": "2026-08-25T11:45:00+00:00",
       "summary": "The Norwegian Digitalisation Agency said it was working with its IT partner to stabilize systems affected by a distributed denial-of-service attack, with some services gradually coming back online."
+    },
+    {
+      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
+      "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-25T11:33:44+00:00",
+      "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE. Whi"
+    },
+    {
+      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
+      "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-25T11:14:07+00:00",
+      "summary": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time a"
     },
     {
       "title": "Welcome to the spiderverse, a world measured through webs",
@@ -45,12 +141,20 @@
       "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, in"
     },
     {
-      "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
-      "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-25T06:12:35+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catal"
+      "title": "The full stack behind abundant intelligence",
+      "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-25T07:05:00+00:00",
+      "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost."
+    },
+    {
+      "title": "Jalape\u00f1o\u2019s first results show industry-leading speed and efficiency in AI inference",
+      "link": "https://openai.com/index/jalapeno-first-results",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-25T07:00:00+00:00",
+      "summary": "Jalape\u00f1o is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
     },
     {
       "title": "Scalable PII Discovery in Mobile App Databases via Hypothesis-Driven Search",
@@ -181,20 +285,20 @@
       "summary": "arXiv:2608.21382v1 Announce Type: new Abstract: Multiple-choice benchmarks fix the questions and the correct answers, but not the harness: the order of the options, the wording of the prompt, and whether a language model"
     },
     {
-      "title": "ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/10066, (Tue, Aug 25th)",
-      "link": "https://isc.sans.edu/diary/rss/33278",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-25T02:00:03+00:00",
-      "summary": ""
-    },
-    {
       "title": "Disrupting a new covert influence campaign from Russia",
       "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
       "source": "OpenAI News",
       "category": "ai",
       "published": "2026-08-25T00:00:00+00:00",
       "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a \u201csovereignty\u201d index praising Russia and criticizing the West."
+    },
+    {
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "link": "https://openai.com/index/introducing-admin-plugin",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-25T00:00:00+00:00",
+      "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests."
     },
     {
       "title": "US sanctions Iranian cyber actors as UK discloses power plant attack",
@@ -210,7 +314,7 @@
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-08-24T21:46:55+00:00",
-      "summary": "CISA has issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications."
+      "summary": "CISA issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications."
     },
     {
       "title": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text",
@@ -227,110 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-24T20:36:00+00:00",
       "summary": "The legislation would mandate that high-risk social media platforms such as Instagram, TikTok, Snapchat and Facebook take \u201creasonable steps\u201d to ensure users are over age 16 by using tools like facial age estimation, digi"
-    },
-    {
-      "title": "Indian man who fled US arrested on charges he helped scammers siphon $7.5 million from the elderly",
-      "link": "https://therecord.media/cyber-scam-indian-arrested",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-24T18:30:00+00:00",
-      "summary": "A Jersey City resident is facing charges for his alleged role as a money mule for overseas cyberscammers who stole millions from elderly New Yorkers."
-    },
-    {
-      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-      "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-24T17:41:30+00:00",
-      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce ope"
-    },
-    {
-      "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
-      "link": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-24T17:41:11+00:00",
-      "summary": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more "
-    },
-    {
-      "title": "Tricky 'SynkLoader' Multitool May Herald Ransomware",
-      "link": "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-24T15:02:32+00:00",
-      "summary": "An advanced, multilingual malware family brings back a trick from yesteryear \u2014 screen hijacking \u2014 for effective password theft, along with a slew of novel features."
-    },
-    {
-      "title": "ToxicPanda Banking Trojan Matures Into Enterprise Threat",
-      "link": "https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-24T14:34:59+00:00",
-      "summary": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk."
-    },
-    {
-      "title": "\u26a1 Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-24T14:32:10+00:00",
-      "summary": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That\u2019s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes e"
-    },
-    {
-      "title": "How to encourage smarter AI use in the classroom",
-      "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-24T14:20:19+00:00",
-      "summary": "This article is from Making AI Work, MIT Technology Review\u2019s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon th"
-    },
-    {
-      "title": "The Vulnerability Gap: Why Discovery Is Outrunning Repair",
-      "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-24T14:00:00+00:00",
-      "summary": "AI is discovering more vulnerabilities, faster, and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community."
-    },
-    {
-      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
-      "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-24T12:35:36+00:00",
-      "summary": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen "
-    },
-    {
-      "title": "Hackers infecting Android car systems to build proxy botnet",
-      "link": "https://therecord.media/android-botnet-china-hackers",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-24T12:15:00+00:00",
-      "summary": "A new strain of malware is being used to infect Android-based car systems, turning the devices into part of a botnet."
-    },
-    {
-      "title": "The Download: kids outlearning AI, and space travel agents",
-      "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-24T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Kids outlearn AI\u2014and we still don\u2019t know why Teaching a computer to use human lang"
-    },
-    {
-      "title": "Advancing price-performance for developers with GPT\u20115.6 in Kiro",
-      "link": "https://openai.com/index/gpt-5-6-in-kiro",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-24T12:00:00+00:00",
-      "summary": "GPT\u20115.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
-    },
-    {
-      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
-      "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-24T11:56:34+00:00",
-      "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any use"
     }
   ]
 }
