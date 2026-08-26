@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T06:25:19.952072+00:00",
+  "generated_at": "2026-08-26T12:23:32.059559+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,110 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+      "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-26T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids\u2019 use of technology was onc"
+    },
+    {
+      "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
+      "link": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-26T11:36:49+00:00",
+      "summary": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known patter"
+    },
+    {
+      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+      "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-26T10:27:23+00:00",
+      "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only book"
+    },
+    {
+      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
+      "link": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-26T09:38:45+00:00",
+      "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social"
+    },
+    {
+      "title": "Raised on AI",
+      "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-26T09:00:00+00:00",
+      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creatin"
+    },
+    {
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-26T09:00:00+00:00",
+      "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming g"
+    },
+    {
+      "title": "Interpol's Jackal IV Disrupts West African Crime Infrastructure",
+      "link": "https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-26T08:30:00+00:00",
+      "summary": "The international law enforcement operation focused on disrupting crime-as-a-service networks and supporting infrastructure behind groups like Black Axe."
+    },
+    {
+      "title": "Nigeria Looks to Sovereign Cloud for Cyber, National Security",
+      "link": "https://www.darkreading.com/cybersecurity-operations/nigeria-sovereign-cloud-cyber-national-security",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-26T08:00:00+00:00",
+      "summary": "The West African nation launched financing, procurement, and infrastructure policies to boost its sovereign cloud initiative and increase domestic technical knowledge."
+    },
+    {
+      "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
+      "link": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-26T07:54:12+00:00",
+      "summary": "An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects. \"The operation, which brought together 22 countries from six contine"
+    },
+    {
+      "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
+      "link": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-26T07:12:55+00:00",
+      "summary": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs comm"
+    },
+    {
+      "title": "Bill Gates says we\u2019ve passed AI\u2019s danger thresholds. Now what?",
+      "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-26T07:01:00+00:00",
+      "summary": "It\u2019s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates"
+    },
+    {
+      "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
+      "link": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-26T06:27:07+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea. The vulnerability in question is CVE-"
+    },
+    {
+      "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
+      "link": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-26T05:47:28+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as Appl"
+    },
     {
       "title": "Effective Pivot Attack Detection via System and Network Information",
       "link": "https://arxiv.org/abs/2608.23731",
@@ -149,6 +253,14 @@
       "summary": ""
     },
     {
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "link": "https://openai.com/index/loveholidays",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-26T00:00:00+00:00",
+      "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster."
+    },
+    {
       "title": "Hidden Prompts Trick AI Into False Email Summaries",
       "link": "https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries",
       "source": "Dark Reading",
@@ -189,38 +301,6 @@
       "summary": "For Rupert Young \u201995, SM \u201995, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the \u201cprecise eye\u201d for detai"
     },
     {
-      "title": "AgeLab research inspires an A I startup",
-      "link": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-25T21:00:00+00:00",
-      "summary": "When Don Yansen \u201963 arrived at the MIT AgeLab for a study on technology in care\u00adgiving for older adults, he didn\u2019t plan to launch another company. But when he heard participants talk about how hard modern devices can be "
-    },
-    {
-      "title": "Amping up T cells to target cancer",
-      "link": "https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-25T21:00:00+00:00",
-      "summary": "Vaccines that turn the body\u2019s immune system against tumors have shown promise in clinical trials, and a handful have been FDA approved for certain cancers. In many patients, however, these vaccines don\u2019t stimulate enough"
-    },
-    {
-      "title": "Taking your temperature from the inside",
-      "link": "https://www.technologyreview.com/2026/08/25/1140952/taking-your-temperature-from-the-inside/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-25T21:00:00+00:00",
-      "summary": "Oral and forehead thermometers may not accurately capture a person\u2019s core body temperature, and the few ingestible temperature sensors on the market are so big they are hard to swallow and risk obstructing the GI tract. "
-    },
-    {
-      "title": "Seeing through murky waters",
-      "link": "https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-25T21:00:00+00:00",
-      "summary": "When remotely operated vehicles settle on the seafloor or dig through a sand bed, they can kick up clouds of sediment that onboard cameras struggle to see through. Often, the only thing to do is wait until the dust settl"
-    },
-    {
       "title": "58 arrested in international cybercrime crackdown",
       "link": "https://therecord.media/58-arrested-international-cybercrime-crackdown-interpol",
       "source": "The Record",
@@ -234,7 +314,7 @@
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-08-25T19:50:16+00:00",
-      "summary": "Attackers can exploit a security bug in NVIDIA's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption."
+      "summary": "Attackers can exploit a security bug in Nvidia's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption."
     },
     {
       "title": "Employee benefits platform Paylogix says hackers stole financial and health data",
@@ -251,86 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-25T18:17:17+00:00",
       "summary": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and its enablers. \"We are "
-    },
-    {
-      "title": "Obfuscating IP Addresses as Hostnames, (Tue, Aug 25th)",
-      "link": "https://isc.sans.edu/diary/rss/33280",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-25T15:03:33+00:00",
-      "summary": "It is pretty obvious that hostnames can replace IP addresses. Pretty much any software accepting an IP address will also accept a hostname as an argument. Last week, I wrote about scans for the cloud metadata service lis"
-    },
-    {
-      "title": "Is Cyber Facing an Affordability Crisis?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-25T14:53:13+00:00",
-      "summary": "As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security."
-    },
-    {
-      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
-      "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-25T14:07:37+00:00",
-      "summary": "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside "
-    },
-    {
-      "title": "Ukraine to give Britain access to battlefield data to train AI",
-      "link": "https://therecord.media/ukraine-uk-ai-drone-data",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-25T14:00:00+00:00",
-      "summary": "Ukraine will give Britain access to a vast trove of battlefield data collected during the war with Russia, allowing U.K. companies and researchers to use it to train and test artificial intelligence systems."
-    },
-    {
-      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
-      "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-25T13:19:41+00:00",
-      "summary": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishi"
-    },
-    {
-      "title": "UK government seeks powers to secretly block risky tech suppliers",
-      "link": "https://therecord.media/uk-technology-national-security",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-25T12:45:00+00:00",
-      "summary": "The British government is seeking new powers to ban certain technology vendors from supplying companies working in the country\u2019s critical sectors \u2014 potentially doing so in secret."
-    },
-    {
-      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
-      "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-25T12:43:51+00:00",
-      "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to Vuln"
-    },
-    {
-      "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
-      "link": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-25T11:56:15+00:00",
-      "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-facto"
-    },
-    {
-      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
-      "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-25T11:52:43+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While the malware is simply"
-    },
-    {
-      "title": "Large DDoS attack knocks Norwegian public services offline",
-      "link": "https://therecord.media/norway-cyberattack-ddos-government",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-25T11:45:00+00:00",
-      "summary": "The Norwegian Digitalisation Agency said it was working with its IT partner to stabilize systems affected by a distributed denial-of-service attack, with some services gradually coming back online."
     }
   ]
 }
