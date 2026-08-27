@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T05:22:02.575506+00:00",
+  "generated_at": "2026-08-27T16:57:00.059799+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,158 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Finland appeals court revives case against Eagle S Officers over cable breaks",
+      "link": "https://therecord.media/finland-appeals-court-revives-case-against-eagle-s",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-27T15:30:00+00:00",
+      "summary": "The appeals court sent the case back to the Helsinki District Court to be heard on its merits, although the three men, who had previously been detained in Finland, have since left the country."
+    },
+    {
+      "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-27T15:13:00+00:00",
+      "summary": "Credit: Hacktron Vercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticated remote code execution, one exploitable via specially craft"
+    },
+    {
+      "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
+      "link": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-27T15:12:16+00:00",
+      "summary": "A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine. The rest of the week gets stranger: botnets borrowing AI, command traf"
+    },
+    {
+      "title": "Chinese and Russian spies stepping up cyberattacks, German companies report",
+      "link": "https://therecord.media/germany-cyberattacks-china-russia",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-27T14:45:00+00:00",
+      "summary": "Foreign intelligence services, particularly those from China and Russia, are increasingly behind cyberattacks on German companies, according to a new survey of the country\u2019s private sector."
+    },
+    {
+      "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
+      "link": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-27T13:39:56+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via p"
+    },
+    {
+      "title": "Cyberattack on Manchester Airports Group exposes data of 8.7 million customers",
+      "link": "https://therecord.media/cyberattack-on-manchester-airports-group-exposes-millions-customer-info",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-27T13:15:00+00:00",
+      "summary": "A spokesperson told The Yorkshire Post that roughly 8.7 million people were impacted, although they did not provide a date range. They added that in the \u201cvast majority\u201d of cases, the only information accessed was an emai"
+    },
+    {
+      "title": "Australia charges two men for TeamPCP supply-chain hacking spree",
+      "link": "https://therecord.media/australia-teampcp-hackers-arrested",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-27T13:00:00+00:00",
+      "summary": "Two men in Australia were charged Wednesday over their alleged membership in TeamPCP, the cybercrime group blamed for one of the most damaging hacking campaigns of the past year."
+    },
+    {
+      "title": "DOJ firearms agency says hackers breached system containing investigation targets",
+      "link": "https://therecord.media/doj-atf-cyberattack-qilin-ransomware",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-27T12:15:00+00:00",
+      "summary": "The Bureau of Alcohol, Tobacco, Firearms and Explosives confirmed it experienced a cyberattack on a system containing investigation information, as a prolific ransomware gang claimed to have carried out the breach."
+    },
+    {
+      "title": "The Download: inside OpenAI\u2019s Hugging Face hack, and a new EV takes on the US",
+      "link": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-27T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible f"
+    },
+    {
+      "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
+      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-27T11:56:30+00:00",
+      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate expl"
+    },
+    {
+      "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-27T11:56:26+00:00",
+      "summary": "The Australian Federal Police (AFP) has charged two Western Australian men with a combined total of 14 offences over their alleged role in TeamPCP, the cybercrime group behind the March 2026 compromise of the open-source"
+    },
+    {
+      "title": "What the Data Says About AI in Security Operations in 2026",
+      "link": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-27T11:30:00+00:00",
+      "summary": "AI is officially mainstream in security operations. According to Prophet Security's State of AI in Security Operations 2026 report (produced from ViB\u2019s survey of 250+ cybersecurity pros), 40% of security teams now use AI"
+    },
+    {
+      "title": "Russian Hackers Phish EU Officials Over Messaging Apps",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-phish-eu-officials-messaging-apps",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-27T11:16:01+00:00",
+      "summary": "EU governments are trying to move away from popular messaging apps as nation-state threat groups shift their focus from email to Signal and WhatsApp."
+    },
+    {
+      "title": "Two Alleged \u2018TeamPCP\u2019 Hackers Arrested in Australia",
+      "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "published": "2026-08-27T11:04:15+00:00",
+      "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In"
+    },
+    {
+      "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
+      "link": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-27T11:00:57+00:00",
+      "summary": "Individuals and organizations in Cambodia have emerged as the target of a new campaign that delivers an open-source remote access trojan (RAT) called Spark RAT. \"The samples employ diverse lure themes, suggesting an effo"
+    },
+    {
+      "title": "Is Slate Auto\u2019s new electric truck the EV Americans need?",
+      "link": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-27T10:00:00+00:00",
+      "summary": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that\u2019s pretty dismal, especially because the transportation sector is the single biggest source o"
+    },
+    {
+      "title": "A polymorphic phishing page (that occasionally breaks itself), (Thu, Aug 27th)",
+      "link": "https://isc.sans.edu/diary/rss/33290",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-27T09:57:28+00:00",
+      "summary": "As I've mentioned before in some of my diaries, from time to time, I like to go over phishing messages that get caught in my various spam traps or sent to us here at the Internet Storm Center."
+    },
+    {
+      "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
+      "link": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-27T09:33:38+00:00",
+      "summary": "Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communications organization "
+    },
+    {
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-27T09:00:00+00:00",
+      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
+    },
     {
       "title": "ToolMinimize: Auditing and Rewriting LLM Agent Tool Calls to Minimize Privacy Exposure",
       "link": "https://arxiv.org/abs/2608.24957",
@@ -141,6 +293,14 @@
       "summary": "arXiv:2608.23641v1 Announce Type: new Abstract: Model welfare research infers what a model prefers from the answers returned to prompts written to elicit preferences. Keeling et al. (2024), Mazeika et al. (2025), Mikaels"
     },
     {
+      "title": "Expanding OpenAI\u2019s presence in Brazil",
+      "link": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-27T03:00:00+00:00",
+      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
+    },
+    {
       "title": "ISC Stormcast For Thursday, August 27th, 2026 https://isc.sans.edu/podcastdetail/10070, (Thu, Aug 27th)",
       "link": "https://isc.sans.edu/diary/rss/33286",
       "source": "SANS Internet Storm Center",
@@ -157,12 +317,12 @@
       "summary": "GoCaracal is a new modular malware framework that broadens Dark Caracal's capabilities to steal data and maintain access to victims."
     },
     {
-      "title": "Exclusive: NSA to host a hacker reunion in bid to rebuild secretive unit",
-      "link": "https://therecord.media/nsa-to-host-hacker-reunion-in-bid-to-rebuild-secretive-unit",
-      "source": "The Record",
+      "title": "'HTTP Terminator' Hunts for Novel Desync Attacks",
+      "link": "https://www.darkreading.com/application-security/http-terminator-hunts-novel-desync-attacks",
+      "source": "Dark Reading",
       "category": "cybersecurity",
-      "published": "2026-08-26T20:53:00+00:00",
-      "summary": "The National Security Agency will welcome back to campus potentially hundreds of former members of the elite group known as Tailored Access Operations (TAO) to celebrate the division\u2019s recent rebranding."
+      "published": "2026-08-26T19:54:34+00:00",
+      "summary": "James Kettle of PortSwigger talks with the Dark Reading News Desk about his AI-powered open source tool, which found new HTTP request-smuggling techniques."
     },
     {
       "title": "Red Flags That Expose Fake North Korean IT Workers",
@@ -171,166 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-26T19:21:24+00:00",
       "summary": "North Korean operatives posing as IT workers are improving their tactics, but researchers say there are still ways to spot them before they do damage."
-    },
-    {
-      "title": "Medical device firm Boston Scientific says cyberattack has disrupted shipment processes",
-      "link": "https://therecord.media/boston-scientific-cyberattack-disrupts-shipment-processes",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-26T19:10:00+00:00",
-      "summary": "The company released a statement and filed documents with the Securities and Exchange Commission (SEC) saying a cybersecurity incident was discovered on Tuesday."
-    },
-    {
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-26T19:00:00+00:00",
-      "summary": "The models responsible for last month\u2019s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a gro"
-    },
-    {
-      "title": "Meta pledges to overhaul kids\u2019 safety protections, pay $17 billion to settle social media case",
-      "link": "https://therecord.media/meta-settlement-children-online-safety-social-media",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-26T18:35:00+00:00",
-      "summary": "A multibillion-dollar settlement with attorneys general from nearly every U.S. state and territory will mean new privacy and safety protections in Meta products."
-    },
-    {
-      "title": "Android Malware Hijacks Update System for Car Head Units",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/android-malware-hijacks-update-system-car-head-units",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-26T17:33:45+00:00",
-      "summary": "Threat actors behind a notorious click-fraud botnet have set their sights on vehicle infotainment modules and are abusing legitimate functionality to spread infections."
-    },
-    {
-      "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
-      "link": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-26T16:42:03+00:00",
-      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and other sensitive network"
-    },
-    {
-      "title": "US takes down alleged Chinese hacking tools used against Federal Reserve, DOJ and Senate",
-      "link": "https://therecord.media/qscan-qtrouter-us-takedown-alleged-china-hacking-tools",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-26T16:25:00+00:00",
-      "summary": "The DOJ said it disrupted Chinese state-backed tools used to scan, infect and exploit IoT devices for attacks on federal agencies and multiple industries."
-    },
-    {
-      "title": "Who Has Admin Rights in your Entra ID Directory?, (Wed, Aug 26th)",
-      "link": "https://isc.sans.edu/diary/rss/33284",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-26T15:58:15+00:00",
-      "summary": "A common thing that folks should \"worry\" about in Entra (or any platform really) is \"who has rights to administer\"&#;x26;#;x3f;&#;x26;#;xc2;&#;x26;#;xa0; Who can delete or change key things, or modify them in ways that m"
-    },
-    {
-      "title": "Iran-linked hackers expand infrastructure across Europe and Middle East, report says",
-      "link": "https://therecord.media/iran-linked-hackers-expand-infrastructure-europe-middle-east",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-26T15:45:00+00:00",
-      "summary": "Researchers said they identified servers and domains associated with several countries in Europe and the Middle East, potentially pointing to a broader targeting profile for an Iranian hacking group."
-    },
-    {
-      "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
-      "link": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-26T15:35:05+00:00",
-      "summary": "Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic Revolutionary"
-    },
-    {
-      "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
-      "link": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-26T13:44:31+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessio"
-    },
-    {
-      "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
-      "link": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-26T13:07:02+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it describe"
-    },
-    {
-      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-      "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-26T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids\u2019 use of technology was onc"
-    },
-    {
-      "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
-      "link": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-26T11:55:00+00:00",
-      "summary": "The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura's HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a server and execute c"
-    },
-    {
-      "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
-      "link": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-26T11:36:49+00:00",
-      "summary": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known patter"
-    },
-    {
-      "title": "'NovaCookies' Kit Steals Microsoft 365 Sessions for $320 a Month",
-      "link": "https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-26T11:33:40+00:00",
-      "summary": "The adversary-in-the-middle (AitM) phishing service lowers the barrier to entry for actors to create attacks and steal more than just user credentials."
-    },
-    {
-      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
-      "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-26T10:27:23+00:00",
-      "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only book"
-    },
-    {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-26T10:00:00+00:00",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
-    },
-    {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "link": "https://openai.com/index/learning-never-stops",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-26T10:00:00+00:00",
-      "summary": "OpenAI\u2019s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
-    },
-    {
-      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
-      "link": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-26T09:38:45+00:00",
-      "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social"
-    },
-    {
-      "title": "Raised on AI",
-      "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-26T09:00:00+00:00",
-      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creatin"
     }
   ]
 }
