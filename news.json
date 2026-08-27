@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T19:29:56.336173+00:00",
+  "generated_at": "2026-08-27T05:22:02.575506+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,166 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "ToolMinimize: Auditing and Rewriting LLM Agent Tool Calls to Minimize Privacy Exposure",
+      "link": "https://arxiv.org/abs/2608.24957",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-27T04:00:00+00:00",
+      "summary": "arXiv:2608.24957v1 Announce Type: new Abstract: LLM agents routinely include privacy-sensitive data (PSD) in tool call arguments beyond what the invoked tools require, crossing trust boundaries to third-party services on"
+    },
+    {
+      "title": "Retrieved But Not Reliable: A Survey on Attacks, and Defenses in Retrieval-Augmented Generation",
+      "link": "https://arxiv.org/abs/2608.24977",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-27T04:00:00+00:00",
+      "summary": "arXiv:2608.24977v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) enhances large language models by grounding outputs in external knowledge, improving factuality and reducing hallucinations. At the sam"
+    },
+    {
+      "title": "Static Detection of Post-Quantum Cryptographic Algorithms in Stripped Binaries for Digital Forensic Examination and Migration Assurance",
+      "link": "https://arxiv.org/abs/2608.25122",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-27T04:00:00+00:00",
+      "summary": "arXiv:2608.25122v1 Announce Type: new Abstract: Currently, there is no method to verify from compiled binary code whether a quantum-vulnerable algorithm has been replaced by an approved post-quantum algorithm. Cryptograp"
+    },
+    {
+      "title": "CA-less Mutual Co-Signing of Documents over a Unidirectional Visual Channel with Transported Hardware Attestation",
+      "link": "https://arxiv.org/abs/2608.25144",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-27T04:00:00+00:00",
+      "summary": "arXiv:2608.25144v1 Announce Type: new Abstract: We describe and analyze a protocol for mutual co-signing of a document by two mobile devices that (i) communicate only over a one-way, lossy, low-bandwidth optical channel "
+    },
+    {
+      "title": "BGPay: An Incentive-Compatible Mechanism for BGP Hijack Filtering",
+      "link": "https://arxiv.org/abs/2608.25165",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-27T04:00:00+00:00",
+      "summary": "arXiv:2608.25165v1 Announce Type: new Abstract: BGP hijacking remains a persistent threat as existing defenses, including RPKI/ROV suffer from a fundamental incentive misalignment: the networks best positioned to filter "
+    },
+    {
+      "title": "Authenticated Data Structures for Dynamic Workloads",
+      "link": "https://arxiv.org/abs/2608.25206",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-27T04:00:00+00:00",
+      "summary": "arXiv:2608.25206v1 Announce Type: new Abstract: We introduce the Huffman-Merkle Tree (HMT), an authenticated data structure (ADS) for dynamic workloads where items may differ in access frequencies, and access frequencies"
+    },
+    {
+      "title": "Automotive HSMs - Architectural Challenges and Security Implications",
+      "link": "https://arxiv.org/abs/2608.25216",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-27T04:00:00+00:00",
+      "summary": "arXiv:2608.25216v1 Announce Type: new Abstract: Automotive electronic control units (ECUs) increasingly depend on hardware-rooted security to protect software integrity, authenticity, and lifecycle management in the pres"
+    },
+    {
+      "title": "LLMscope: Extracting LLM Assets from Edge AI Chips via Optical Probing",
+      "link": "https://arxiv.org/abs/2608.25321",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-27T04:00:00+00:00",
+      "summary": "arXiv:2608.25321v1 Announce Type: new Abstract: The move of LLM inference to edge AI accelerators introduces new physical vulnerabilities. During execution, model parameters and intermediate inference states are repeated"
+    },
+    {
+      "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+      "link": "https://arxiv.org/abs/2608.23568",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-27T04:00:00+00:00",
+      "summary": "arXiv:2608.23568v1 Announce Type: new Abstract: Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render the same history as a memory entry, summary, "
+    },
+    {
+      "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+      "link": "https://arxiv.org/abs/2608.23569",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-27T04:00:00+00:00",
+      "summary": "arXiv:2608.23569v1 Announce Type: new Abstract: State-of-the-art Natural Language to SQL (NL2SQL) models report execution accuracy exceeding 89 percent on established benchmarks such as Spider and BIRD. However, these be"
+    },
+    {
+      "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
+      "link": "https://arxiv.org/abs/2608.23622",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-27T04:00:00+00:00",
+      "summary": "arXiv:2608.23622v1 Announce Type: new Abstract: Large language models (LLMs) have shown strong capabilities in reasoning, planning, and tool use, but many scientific and engineering tasks require more than plausible text"
+    },
+    {
+      "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
+      "link": "https://arxiv.org/abs/2608.23626",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-27T04:00:00+00:00",
+      "summary": "arXiv:2608.23626v1 Announce Type: new Abstract: Foundation models for astronomy are trained on survey pixels together with the catalogue products derived from those pixels. Those catalogues are incomplete at a measurable"
+    },
+    {
+      "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
+      "link": "https://arxiv.org/abs/2608.23631",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-27T04:00:00+00:00",
+      "summary": "arXiv:2608.23631v1 Announce Type: new Abstract: Multi-objective materials discovery with LLM agents is often limited not only by how many candidates can be proposed, but by how effectively each costly property evaluation"
+    },
+    {
+      "title": "Function-Level Execution Feedback for Code Preference Optimization",
+      "link": "https://arxiv.org/abs/2608.23632",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-27T04:00:00+00:00",
+      "summary": "arXiv:2608.23632v1 Announce Type: new Abstract: Process supervision has improved mathematical reasoning, where intermediate steps are naturally expressed as chains of thought. In code generation, however, process supervi"
+    },
+    {
+      "title": "Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes",
+      "link": "https://arxiv.org/abs/2608.23640",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-27T04:00:00+00:00",
+      "summary": "arXiv:2608.23640v1 Announce Type: new Abstract: When a large language model (LLM) is asked to write a person's life, how much of what it writes actually happened? We present a scene-level case-study audit - the first qua"
+    },
+    {
+      "title": "How much of a measured AI preference is the model, and how much is the instrument?",
+      "link": "https://arxiv.org/abs/2608.23641",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-27T04:00:00+00:00",
+      "summary": "arXiv:2608.23641v1 Announce Type: new Abstract: Model welfare research infers what a model prefers from the answers returned to prompts written to elicit preferences. Keeling et al. (2024), Mazeika et al. (2025), Mikaels"
+    },
+    {
+      "title": "ISC Stormcast For Thursday, August 27th, 2026 https://isc.sans.edu/podcastdetail/10070, (Thu, Aug 27th)",
+      "link": "https://isc.sans.edu/diary/rss/33286",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-27T02:00:03+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Dark Caracal Adds New Malware to Cyber Espionage Arsenal",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-26T21:33:06+00:00",
+      "summary": "GoCaracal is a new modular malware framework that broadens Dark Caracal's capabilities to steal data and maintain access to victims."
+    },
+    {
+      "title": "Exclusive: NSA to host a hacker reunion in bid to rebuild secretive unit",
+      "link": "https://therecord.media/nsa-to-host-hacker-reunion-in-bid-to-rebuild-secretive-unit",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-26T20:53:00+00:00",
+      "summary": "The National Security Agency will welcome back to campus potentially hundreds of former members of the elite group known as Tailored Access Operations (TAO) to celebrate the division\u2019s recent rebranding."
+    },
+    {
+      "title": "Red Flags That Expose Fake North Korean IT Workers",
+      "link": "https://www.darkreading.com/insider-threats/red-flags-expose-fake-north-korean-it-workers",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-26T19:21:24+00:00",
+      "summary": "North Korean operatives posing as IT workers are improving their tactics, but researchers say there are still ways to spot them before they do damage."
+    },
     {
       "title": "Medical device firm Boston Scientific says cyberattack has disrupted shipment processes",
       "link": "https://therecord.media/boston-scientific-cyberattack-disrupts-shipment-processes",
@@ -171,166 +331,6 @@
       "category": "ai",
       "published": "2026-08-26T09:00:00+00:00",
       "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creatin"
-    },
-    {
-      "title": "AI models flub these intelligence tests. Can you fare any better?",
-      "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-26T09:00:00+00:00",
-      "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming g"
-    },
-    {
-      "title": "Interpol's Jackal IV Disrupts West African Crime Infrastructure",
-      "link": "https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-26T08:30:00+00:00",
-      "summary": "The international law enforcement operation focused on disrupting crime-as-a-service networks and infrastructure behind groups like Black Axe."
-    },
-    {
-      "title": "Nigeria Looks to Sovereign Cloud for Cyber, National Security",
-      "link": "https://www.darkreading.com/cybersecurity-operations/nigeria-sovereign-cloud-cyber-national-security",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-26T08:00:00+00:00",
-      "summary": "The West African nation launched financing, procurement, and infrastructure policies to boost its sovereign cloud initiative and increase domestic technical knowledge."
-    },
-    {
-      "title": "Bill Gates says we\u2019ve passed AI\u2019s danger thresholds. Now what?",
-      "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-26T07:01:00+00:00",
-      "summary": "It\u2019s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates"
-    },
-    {
-      "title": "Effective Pivot Attack Detection via System and Network Information",
-      "link": "https://arxiv.org/abs/2608.23731",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-26T04:00:00+00:00",
-      "summary": "arXiv:2608.23731v1 Announce Type: new Abstract: Perimeter-based security appliances, such as firewalls or Intrusion Detection Systems, are ineffective against modern attacks that use pivoting, wherein attackers \"pivot\" t"
-    },
-    {
-      "title": "TrustShiftProbe: Characterizing, Benchmarking, and Defending Staged Trust Attacks on MCP Servers",
-      "link": "https://arxiv.org/abs/2608.23763",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-26T04:00:00+00:00",
-      "summary": "arXiv:2608.23763v1 Announce Type: new Abstract: The Model Context Protocol (MCP) has emerged as the standard layer connecting Large Language Model agents to external tool backends. This openness introduces a severe serve"
-    },
-    {
-      "title": "ROBBIN: Rowhammer-Based Backdoor Injection during Inference",
-      "link": "https://arxiv.org/abs/2608.23774",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-26T04:00:00+00:00",
-      "summary": "arXiv:2608.23774v1 Announce Type: new Abstract: Existing Rowhammer-based inference-time backdoor attacks design their bit-flip strategies purely at the algorithmic level, without accounting for the bit-flips that the und"
-    },
-    {
-      "title": "A Scenario-Based Evaluation of CRQC+AI Vulnerability Spectrum for TLS 1.3 Cryptographic Dependencies",
-      "link": "https://arxiv.org/abs/2608.23785",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-26T04:00:00+00:00",
-      "summary": "arXiv:2608.23785v1 Announce Type: new Abstract: This paper evaluates quantum and AI-accelerated risks to TLS 1.3 cryptographic dependencies under an evidence-tiered model, distinguishing mechanism-backed threats (Shor al"
-    },
-    {
-      "title": "Beyond the Mandate: A Systematic Security Analysis of the Agent Payments Protocol (AP2)",
-      "link": "https://arxiv.org/abs/2608.23858",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-26T04:00:00+00:00",
-      "summary": "arXiv:2608.23858v1 Announce Type: new Abstract: The Agent Payments Protocol (AP2), introduced by Google, enables large language model (LLM)-driven shopping agents to authorize and execute payments on behalf of users. Its"
-    },
-    {
-      "title": "SoK: ARCUS: On the Efficiency and Efficacy of Hardware Fuzzing",
-      "link": "https://arxiv.org/abs/2608.23933",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-26T04:00:00+00:00",
-      "summary": "arXiv:2608.23933v1 Announce Type: new Abstract: This work presents a comprehensive analysis of contemporary hardware fuzzing techniques applied across three major abstraction layers: Instruction Set Architecture (ISA), m"
-    },
-    {
-      "title": "STAIN-FL: Stealthy Targeted Attack Injection with Contextual Triggers in Federated Learning",
-      "link": "https://arxiv.org/abs/2608.23952",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-26T04:00:00+00:00",
-      "summary": "arXiv:2608.23952v1 Announce Type: new Abstract: Federated video anomaly detection trains model collaboratively without sharing raw surveillance footage, but limited server-side visibility lets compromised clients to inje"
-    },
-    {
-      "title": "NeuronGuard: Robust LLM Safety Alignment via Ablation-Aware Safety Signal Redistribution",
-      "link": "https://arxiv.org/abs/2608.23959",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-26T04:00:00+00:00",
-      "summary": "arXiv:2608.23959v1 Announce Type: new Abstract: Safety alignment in large language models (LLMs) remains brittle against a growing spectrum of attacks. Jailbreak attacks bypass safety mechanisms through crafted prompts, "
-    },
-    {
-      "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
-      "link": "https://arxiv.org/abs/2608.23568",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-26T04:00:00+00:00",
-      "summary": "arXiv:2608.23568v1 Announce Type: new Abstract: Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render the same history as a memory entry, summary, "
-    },
-    {
-      "title": "ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
-      "link": "https://arxiv.org/abs/2608.23569",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-26T04:00:00+00:00",
-      "summary": "arXiv:2608.23569v1 Announce Type: new Abstract: State-of-the-art Natural Language to SQL (NL2SQL) models report execution accuracy exceeding 89 percent on established benchmarks such as Spider and BIRD. However, these be"
-    },
-    {
-      "title": "LLM Agents Perform Controlled Experiments Using Simulation Models",
-      "link": "https://arxiv.org/abs/2608.23622",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-26T04:00:00+00:00",
-      "summary": "arXiv:2608.23622v1 Announce Type: new Abstract: Large language models (LLMs) have shown strong capabilities in reasoning, planning, and tool use, but many scientific and engineering tasks require more than plausible text"
-    },
-    {
-      "title": "A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
-      "link": "https://arxiv.org/abs/2608.23626",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-26T04:00:00+00:00",
-      "summary": "arXiv:2608.23626v1 Announce Type: new Abstract: Foundation models for astronomy are trained on survey pixels together with the catalogue products derived from those pixels. Those catalogues are incomplete at a measurable"
-    },
-    {
-      "title": "TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
-      "link": "https://arxiv.org/abs/2608.23631",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-26T04:00:00+00:00",
-      "summary": "arXiv:2608.23631v1 Announce Type: new Abstract: Multi-objective materials discovery with LLM agents is often limited not only by how many candidates can be proposed, but by how effectively each costly property evaluation"
-    },
-    {
-      "title": "Function-Level Execution Feedback for Code Preference Optimization",
-      "link": "https://arxiv.org/abs/2608.23632",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-26T04:00:00+00:00",
-      "summary": "arXiv:2608.23632v1 Announce Type: new Abstract: Process supervision has improved mathematical reasoning, where intermediate steps are naturally expressed as chains of thought. In code generation, however, process supervi"
-    },
-    {
-      "title": "Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes",
-      "link": "https://arxiv.org/abs/2608.23640",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-26T04:00:00+00:00",
-      "summary": "arXiv:2608.23640v1 Announce Type: new Abstract: When a large language model (LLM) is asked to write a person's life, how much of what it writes actually happened? We present a scene-level case-study audit - the first qua"
-    },
-    {
-      "title": "How much of a measured AI preference is the model, and how much is the instrument?",
-      "link": "https://arxiv.org/abs/2608.23641",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-26T04:00:00+00:00",
-      "summary": "arXiv:2608.23641v1 Announce Type: new Abstract: Model welfare research infers what a model prefers from the answers returned to prompts written to elicit preferences. Keeling et al. (2024), Mazeika et al. (2025), Mikaels"
     }
   ]
 }
