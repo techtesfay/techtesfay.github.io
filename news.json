@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T16:57:00.059799+00:00",
+  "generated_at": "2026-08-28T01:49:51.004272+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,46 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "A startup claims it\u2019s found a drug to make your blood young",
+      "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-27T19:48:13+00:00",
+      "summary": "I knew I\u2019d officially become a \u2018longevity influencer\u2019 this month when a company called Generation Lab reached out to offer me the chance to write about\u2014and even receive\u2014their new rejuvenation treatment, an injectable com"
+    },
+    {
+      "title": "White House bans foreign-made equipment for power generation over cyber backdoor concerns",
+      "link": "https://therecord.media/trump-cyber-electricity-parts",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-27T19:45:00+00:00",
+      "summary": "The Trump administration is banning the acquisition of foreign-made components used to manage electricity and power, alleging that \u201ccertain foreign actors are increasingly creating and exploiting vulnerabilities\u201d in the "
+    },
+    {
+      "title": "Chinese Routers Sold Worldwide Contain Backdoors",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-27T19:31:45+00:00",
+      "summary": "An untold number of ZBT routers sold around the world as white-label products come with several implants built by the manufacturer."
+    },
+    {
+      "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+      "link": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-27T18:36:19+00:00",
+      "summary": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May"
+    },
+    {
+      "title": "Agentic AI Risks, CVE Program Concerns Permeate Black Hat USA 2026",
+      "link": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-27T17:25:09+00:00",
+      "summary": "This installment of the Reporters' Notebook video series discusses the topics that dominated the cybersecurity conference, such as AI's effects on vulnerability reporting and security research."
+    },
     {
       "title": "Finland appeals court revives case against Eagle S Officers over cable breaks",
       "link": "https://therecord.media/finland-appeals-court-revives-case-against-eagle-s",
@@ -67,14 +107,6 @@
       "category": "cybersecurity",
       "published": "2026-08-27T13:00:00+00:00",
       "summary": "Two men in Australia were charged Wednesday over their alleged membership in TeamPCP, the cybercrime group blamed for one of the most damaging hacking campaigns of the past year."
-    },
-    {
-      "title": "DOJ firearms agency says hackers breached system containing investigation targets",
-      "link": "https://therecord.media/doj-atf-cyberattack-qilin-ransomware",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-27T12:15:00+00:00",
-      "summary": "The Bureau of Alcohol, Tobacco, Firearms and Explosives confirmed it experienced a cyberattack on a system containing investigation information, as a prolific ransomware gang claimed to have carried out the breach."
     },
     {
       "title": "The Download: inside OpenAI\u2019s Hugging Face hack, and a new EV takes on the US",
@@ -147,14 +179,6 @@
       "category": "cybersecurity",
       "published": "2026-08-27T09:57:28+00:00",
       "summary": "As I've mentioned before in some of my diaries, from time to time, I like to go over phishing messages that get caught in my various spam traps or sent to us here at the Internet Storm Center."
-    },
-    {
-      "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
-      "link": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-27T09:33:38+00:00",
-      "summary": "Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communications organization "
     },
     {
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
@@ -307,30 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-27T02:00:03+00:00",
       "summary": ""
-    },
-    {
-      "title": "Dark Caracal Adds New Malware to Cyber Espionage Arsenal",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-26T21:33:06+00:00",
-      "summary": "GoCaracal is a new modular malware framework that broadens Dark Caracal's capabilities to steal data and maintain access to victims."
-    },
-    {
-      "title": "'HTTP Terminator' Hunts for Novel Desync Attacks",
-      "link": "https://www.darkreading.com/application-security/http-terminator-hunts-novel-desync-attacks",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-26T19:54:34+00:00",
-      "summary": "James Kettle of PortSwigger talks with the Dark Reading News Desk about his AI-powered open source tool, which found new HTTP request-smuggling techniques."
-    },
-    {
-      "title": "Red Flags That Expose Fake North Korean IT Workers",
-      "link": "https://www.darkreading.com/insider-threats/red-flags-expose-fake-north-korean-it-workers",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-26T19:21:24+00:00",
-      "summary": "North Korean operatives posing as IT workers are improving their tactics, but researchers say there are still ways to spot them before they do damage."
     }
   ]
 }
