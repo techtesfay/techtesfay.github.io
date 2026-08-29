@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:47:04.679668+00:00",
+  "generated_at": "2026-08-29T01:13:49.756181+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,12 +13,68 @@
   ],
   "items": [
     {
+      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+      "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-28T21:30:52+00:00",
+      "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The "
+    },
+    {
+      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
+      "link": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-28T20:38:47+00:00",
+      "summary": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated GHSA-7g4"
+    },
+    {
+      "title": "Hundreds of OpenAI Agents Invaded Hugging Face Servers",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-28T20:19:22+00:00",
+      "summary": "The Hugging Face incident was bigger and worse than previously thought, with approximately 700 agents collaborating on a sophisticated, multistage attack."
+    },
+    {
+      "title": "Offensive Security Investments Surge as AI Threats Increase",
+      "link": "https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-28T18:25:43+00:00",
+      "summary": "Omdia's Theresa Lanowitz talks with the Dark Reading News Desk about the potential \u2014 and risks \u2014 of using agentic AI for penetration testing, red teaming, and other practices."
+    },
+    {
+      "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
+      "link": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-28T17:12:15+00:00",
+      "summary": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening. \"This vulne"
+    },
+    {
       "title": "PaperCut warns of hackers using printer management software flaw in attacks",
       "link": "https://therecord.media/papercut-warns-of-hackers-using-printer-management-vulnerabilities",
       "source": "The Record",
       "category": "cybersecurity",
       "published": "2026-08-28T16:30:00+00:00",
       "summary": "PaperCut released an emergency advisory on Thursday evening saying vulnerabilities in their print management software, PaperCut NG and MF, are under active exploitation."
+    },
+    {
+      "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
+      "link": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-28T16:20:46+00:00",
+      "summary": "Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users' home networks. Topping the list is support "
+    },
+    {
+      "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
+      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-28T15:56:55+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speakin"
     },
     {
       "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
@@ -77,52 +133,12 @@
       "summary": "An Identity Fabric knits fragmented identity systems into a coherent layer that observes how identities behave across applications, APIs, and infrastructure. As enterprise access spans more cloud services and automated w"
     },
     {
-      "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
-      "link": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-28T11:20:32+00:00",
-      "summary": "ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated attacker."
-    },
-    {
-      "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
-      "link": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-28T10:58:29+00:00",
-      "summary": "VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run comman"
-    },
-    {
-      "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
-      "link": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-28T09:45:15+00:00",
-      "summary": "cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user. The vulnerability, assigned "
-    },
-    {
       "title": "How to sign up for a virtual power plant\u2014and decide whether you should",
       "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
       "source": "MIT Technology Review",
       "category": "ai",
       "published": "2026-08-28T09:00:00+00:00",
       "summary": "MIT Technology Review\u2019s How To series helps you get things done. Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increas"
-    },
-    {
-      "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
-      "link": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-28T08:25:36+00:00",
-      "summary": "PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. The company has released an "
-    },
-    {
-      "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
-      "link": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-28T08:20:59+00:00",
-      "summary": "Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and T\u00fcrkiye between late September 2025 and early April 2026. These campaigns, per Reco"
     },
     {
       "title": "Some Malicious PE Stats, (Thu, Aug 27th)",
@@ -301,14 +317,6 @@
       "summary": "An untold number of ZBT routers sold around the world as white-label products come with several implants built by the manufacturer."
     },
     {
-      "title": "Agentic AI Risks, CVE Program Concerns Permeate Black Hat USA 2026",
-      "link": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-27T17:25:09+00:00",
-      "summary": "This installment of the Reporters' Notebook video series discusses the topics that dominated the cybersecurity conference, such as AI's effects on vulnerability reporting and security research."
-    },
-    {
       "title": "Finland appeals court revives case against Eagle S Officers over cable breaks",
       "link": "https://therecord.media/finland-appeals-court-revives-case-against-eagle-s",
       "source": "The Record",
@@ -323,14 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-27T14:45:00+00:00",
       "summary": "Foreign intelligence services, particularly those from China and Russia, are increasingly behind cyberattacks on German companies, according to a new survey of the country\u2019s private sector."
-    },
-    {
-      "title": "Cyberattack on Manchester Airports Group exposes data of 8.7 million customers",
-      "link": "https://therecord.media/cyberattack-on-manchester-airports-group-exposes-millions-customer-info",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-27T13:15:00+00:00",
-      "summary": "A spokesperson told The Yorkshire Post that roughly 8.7 million people were impacted, although they did not provide a date range. They added that in the \u201cvast majority\u201d of cases, the only information accessed was an emai"
     }
   ]
 }
