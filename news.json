@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T15:49:45.904293+00:00",
+  "generated_at": "2026-08-29T20:04:08.655582+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+      "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-29T16:25:03+00:00",
+      "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and"
+    },
     {
       "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
       "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
@@ -123,14 +131,6 @@
       "category": "cybersecurity",
       "published": "2026-08-28T12:07:24+00:00",
       "summary": "Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot's Loco"
-    },
-    {
-      "title": "Key Reasons Why Identity Fabric Matters in 2026",
-      "link": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-28T11:30:00+00:00",
-      "summary": "An Identity Fabric knits fragmented identity systems into a coherent layer that observes how identities behave across applications, APIs, and infrastructure. As enterprise access spans more cloud services and automated w"
     },
     {
       "title": "How to sign up for a virtual power plant\u2014and decide whether you should",
