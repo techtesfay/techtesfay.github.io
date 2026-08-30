@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T01:58:59.609619+00:00",
+  "generated_at": "2026-08-30T10:48:56.330000+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,22 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
+      "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-30T07:36:33+00:00",
+      "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While traditional ClickFix campaigns direct vic"
+    },
+    {
+      "title": "YARA-X 1.20.0 Release, (Sun, Aug 30th)",
+      "link": "https://isc.sans.edu/diary/rss/33288",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-30T07:14:49+00:00",
+      "summary": "YARA-X&#;x26;#;39;s 1.20.0 release brings 14 improvements and 13 bugfixes."
+    },
     {
       "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
       "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
@@ -123,14 +139,6 @@
       "category": "ai",
       "published": "2026-08-28T12:35:27+00:00",
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. A startup claims it\u2019s found a drug to make your blood young \u2014Antonio Regalado I kn"
-    },
-    {
-      "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
-      "link": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-28T12:07:24+00:00",
-      "summary": "Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot's Loco"
     },
     {
       "title": "How to sign up for a virtual power plant\u2014and decide whether you should",
@@ -323,14 +331,6 @@
       "category": "ai",
       "published": "2026-08-26T09:00:00+00:00",
       "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creatin"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, August 26th, 2026 https://isc.sans.edu/podcastdetail/10068, (Wed, Aug 26th)",
-      "link": "https://isc.sans.edu/diary/rss/33282",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-26T02:40:13+00:00",
-      "summary": ""
     }
   ]
 }
