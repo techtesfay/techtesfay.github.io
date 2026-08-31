@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T11:57:57.885557+00:00",
+  "generated_at": "2026-08-31T18:39:32.509598+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,86 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-08-31T18:00:00+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you\u2019ve probably heard about last month\u2019s major AI security incident, in whi"
+    },
+    {
+      "title": "AI Model Rules Are Not Security Controls",
+      "link": "https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-31T17:34:26+00:00",
+      "summary": "OpenAI's Hugging Face attack postmortem shows agents don't care about rules \u2014 they need strong controls."
+    },
+    {
+      "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
+      "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-31T17:24:28+00:00",
+      "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identi"
+    },
+    {
+      "title": "Berlin says it won\u2019t pay ransom after hackers steal government data",
+      "link": "https://therecord.media/berlin-says-it-wont-pay-ransom-after-hackers-steal-gov-data",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-31T14:45:00+00:00",
+      "summary": "Governing Mayor Kai Wegner said that Berlin had received an extortion demand following the cyberattack, which was discovered in mid-August."
+    },
+    {
+      "title": "\u26a1 Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-31T13:50:00+00:00",
+      "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new "
+    },
+    {
+      "title": "Pharmaceutical giant McKesson warns of 'service degradation' following cyberattack",
+      "link": "https://therecord.media/mckesson-cyberattack-ransomware-pharma",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-31T12:45:00+00:00",
+      "summary": "The pharmaceutical and healthcare technology company McKesson informed regulators it is in the early stages of investigating a cybersecurity incident involving an unnamed third-party application."
+    },
+    {
+      "title": "Slovenian casinos reopen after cyberattack knocked gaming systems offline",
+      "link": "https://therecord.media/slovenia-cyberattack-casinos-reopen",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-08-31T12:30:00+00:00",
+      "summary": "One of Slovenia\u2019s largest gambling and tourism groups has begun reopening its casinos after a cyberattack forced them to shut down for several days."
+    },
+    {
+      "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
+      "link": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-31T12:14:00+00:00",
+      "summary": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such sof"
+    },
+    {
+      "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
+      "link": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-31T11:47:24+00:00",
+      "summary": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudS"
+    },
+    {
+      "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
+      "link": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-31T11:31:47+00:00",
+      "summary": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer\u2019s machine. Anthropic\u2019s new Compliance API endpoints give security teams their clearest view yet i"
+    },
     {
       "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
       "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
@@ -157,6 +237,14 @@
       "summary": "arXiv:2608.27477v1 Announce Type: new Abstract: Graphical user interfaces have emerged as an important environment for evaluating autonomous AI agents on multimodal interactive tasks. Existing benchmarks such as AndroidW"
     },
     {
+      "title": "A milestone in expanding access to AI",
+      "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-31T04:00:00+00:00",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
+    },
+    {
       "title": "ISC Stormcast For Monday, August 31st, 2026 https://isc.sans.edu/podcastdetail/10074, (Mon, Aug 31st)",
       "link": "https://isc.sans.edu/diary/rss/33296",
       "source": "SANS Internet Storm Center",
@@ -181,30 +269,6 @@
       "summary": "YARA-X&#;x26;#;39;s 1.20.0 release brings 14 improvements and 13 bugfixes."
     },
     {
-      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
-      "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-29T16:25:03+00:00",
-      "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and"
-    },
-    {
-      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
-      "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-28T21:30:52+00:00",
-      "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The "
-    },
-    {
-      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
-      "link": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-28T20:38:47+00:00",
-      "summary": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated GHSA-7g4"
-    },
-    {
       "title": "Hundreds of OpenAI Agents Invaded Hugging Face Servers",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers",
       "source": "Dark Reading",
@@ -221,28 +285,12 @@
       "summary": "Omdia's Theresa Lanowitz talks with the Dark Reading News Desk about the potential \u2014 and risks \u2014 of using agentic AI for penetration testing, red teaming, and other practices."
     },
     {
-      "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
-      "link": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-28T17:12:15+00:00",
-      "summary": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening. \"This vulne"
-    },
-    {
       "title": "PaperCut warns of hackers using printer management software flaw in attacks",
       "link": "https://therecord.media/papercut-warns-of-hackers-using-printer-management-vulnerabilities",
       "source": "The Record",
       "category": "cybersecurity",
       "published": "2026-08-28T16:30:00+00:00",
       "summary": "PaperCut released an emergency advisory on Thursday evening saying vulnerabilities in their print management software, PaperCut NG and MF, are under active exploitation."
-    },
-    {
-      "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
-      "link": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-28T16:20:46+00:00",
-      "summary": "Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users' home networks. Topping the list is support "
     },
     {
       "title": "You Need Cyber Deception for OT",
@@ -266,7 +314,7 @@
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-08-28T13:00:00+00:00",
-      "summary": "The surge of AI-powered vulnerability reports is driving down bug bounty prices, and that could spell trouble for independent researchers."
+      "summary": "The surge in AI-powered vulnerability reports is driving down bug bounty prices, and that could spell trouble for independent researchers."
     },
     {
       "title": "The Download: a secretive antiaging drug and joining virtual power plants",
@@ -283,54 +331,6 @@
       "category": "ai",
       "published": "2026-08-28T09:00:00+00:00",
       "summary": "MIT Technology Review\u2019s How To series helps you get things done. Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increas"
-    },
-    {
-      "title": "Some Malicious PE Stats, (Thu, Aug 27th)",
-      "link": "https://isc.sans.edu/diary/rss/33292",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-28T07:04:13+00:00",
-      "summary": "During my last FOR610 session, a student asked me if I had some statistics in mind about the compilers used to generate malicious PE files? A couple of months ago, I shared some stats about the trend in 64bits VS. 32bits"
-    },
-    {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-28T06:00:00+00:00",
-      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
-    },
-    {
-      "title": "ISC Stormcast For Friday, August 28th, 2026 https://isc.sans.edu/podcastdetail/10072, (Fri, Aug 28th)",
-      "link": "https://isc.sans.edu/diary/rss/33294",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-28T02:00:02+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Supporting Thailand\u2019s next generation of AI startups",
-      "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-28T02:00:00+00:00",
-      "summary": "OpenAI and Thailand\u2019s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products."
-    },
-    {
-      "title": "A startup claims it\u2019s found a drug to make your blood young",
-      "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-27T19:48:13+00:00",
-      "summary": "I knew I\u2019d officially become a \u201clongevity influencer\u201d this month when a company called Generation Lab reached out to offer me the chance to write about\u2014and even receive\u2014their new rejuvenation treatment, an injectable com"
-    },
-    {
-      "title": "White House bans foreign-made equipment for power generation over cyber backdoor concerns",
-      "link": "https://therecord.media/trump-cyber-electricity-parts",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-27T19:45:00+00:00",
-      "summary": "The Trump administration is banning the acquisition of foreign-made components used to manage electricity and power, alleging that \u201ccertain foreign actors are increasingly creating and exploiting vulnerabilities\u201d in the "
     }
   ]
 }
