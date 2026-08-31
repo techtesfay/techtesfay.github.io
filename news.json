@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T01:54:48.298053+00:00",
+  "generated_at": "2026-08-31T11:57:57.885557+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,158 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
+      "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-31T09:04:55+00:00",
+      "summary": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers"
+    },
+    {
+      "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
+      "link": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-08-31T07:56:53+00:00",
+      "summary": "The U.S. Department of Justice (DoJ) on Friday corrected a previously issued press statement that several of its agencies were victims of attacks carried out by Chinese threat actors, instead now pointing out that they w"
+    },
+    {
+      "title": "Can Tainted Pixels Expose Deepfake Videos?",
+      "link": "https://arxiv.org/abs/2608.27492",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-31T04:00:00+00:00",
+      "summary": "arXiv:2608.27492v1 Announce Type: new Abstract: Publicly-acceesible face-manipulation tools have made deepfake creation accessible to non-expert users. Against these, existing defenses are mostly post-hoc, detecting only"
+    },
+    {
+      "title": "ROPE: Routed Origin Policy Enforcement against Indirect Prompt Injection",
+      "link": "https://arxiv.org/abs/2608.27496",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-31T04:00:00+00:00",
+      "summary": "arXiv:2608.27496v1 Announce Type: new Abstract: Indirect prompt injection (IPI) plants instructions in the content a tool-using LLM agent reads, steering the agent into harmful tool calls. The strongest defenses are syst"
+    },
+    {
+      "title": "Circuit Discovery Helps Detect LLM Jailbreaking: A Mechanistic Interpretability Study",
+      "link": "https://arxiv.org/abs/2608.27504",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-31T04:00:00+00:00",
+      "summary": "arXiv:2608.27504v1 Announce Type: new Abstract: Despite extensive safety alignment, large language models (LLMs) remain vulnerable to jailbreak attacks that bypass safeguards to elicit harmful content. While prior work a"
+    },
+    {
+      "title": "eBPF-Based Cybersecurity Mechanisms: A Systematic Literature Review",
+      "link": "https://arxiv.org/abs/2608.27511",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-31T04:00:00+00:00",
+      "summary": "arXiv:2608.27511v1 Announce Type: new Abstract: Extended Berkeley Packet Filter (eBPF) has emerged as a kernel-level framework enabling dynamic security enforcement in modern operating systems. While eBPF's cybersecurity"
+    },
+    {
+      "title": "Fully Unleashing the Multimodal Attacker: Meta-Adaptive Jailbreaking of Vision-Language Models",
+      "link": "https://arxiv.org/abs/2608.27531",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-31T04:00:00+00:00",
+      "summary": "arXiv:2608.27531v1 Announce Type: new Abstract: The safety of large vision-language models is increasingly stress-tested by multimodal jailbreaks, yet existing attacks remain largely static at the meta level: template-ba"
+    },
+    {
+      "title": "FlyBlind: Cross-Slice Timeliness Attacks on UAV Situational Awareness over 5G",
+      "link": "https://arxiv.org/abs/2608.27604",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-31T04:00:00+00:00",
+      "summary": "arXiv:2608.27604v1 Announce Type: new Abstract: Beyond Visual Line of Sight (BVLOS) Uncrewed Aerial Systems (UAS) operating over 5G Standalone (SA) networks use a shared User Plane for both command-and-control (C2) data "
+    },
+    {
+      "title": "Semantic Watermarking with Order-Robust Detection over Sub-sentence Units",
+      "link": "https://arxiv.org/abs/2608.27666",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-31T04:00:00+00:00",
+      "summary": "arXiv:2608.27666v1 Announce Type: new Abstract: Semantic watermarks tie the mark to sentence meaning rather than token choices, promising robustness to content-preserving edits. However, the detector only observes attack"
+    },
+    {
+      "title": "Revisiting Continuous Noise Sampling for Multi-Party Differential Privacy",
+      "link": "https://arxiv.org/abs/2608.27766",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-08-31T04:00:00+00:00",
+      "summary": "arXiv:2608.27766v1 Announce Type: new Abstract: Combining secure multi-party computation (MPC) with differential privacy (DP) enables multiple parties to release aggregate statistics without a trusted curator, and the co"
+    },
+    {
+      "title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
+      "link": "https://arxiv.org/abs/2608.27459",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-31T04:00:00+00:00",
+      "summary": "arXiv:2608.27459v1 Announce Type: new Abstract: In 2011, IBM's Watson was something like a sealed capsule of its era's queryable knowledge. Its DeepQA system defeated the strongest human Jeopardy! champions, but the know"
+    },
+    {
+      "title": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation",
+      "link": "https://arxiv.org/abs/2608.27463",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-31T04:00:00+00:00",
+      "summary": "arXiv:2608.27463v1 Announce Type: new Abstract: LLMs now sit on every side of evaluation: as examinees scored on benchmarks, judges of other models' outputs, and raters of human-generated content. Each paradigm can be vi"
+    },
+    {
+      "title": "Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered XAI",
+      "link": "https://arxiv.org/abs/2608.27464",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-31T04:00:00+00:00",
+      "summary": "arXiv:2608.27464v1 Announce Type: new Abstract: This position paper argues that human-centered explainable AI (HCXAI) should incorporate insights from the psychology of information seeking. Drawing on Sharot and Sunstein"
+    },
+    {
+      "title": "Retrieving Relations, Detecting Fallacies: A RAG Approach to Political Debate Analysis",
+      "link": "https://arxiv.org/abs/2608.27471",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-31T04:00:00+00:00",
+      "summary": "arXiv:2608.27471v1 Announce Type: new Abstract: Fallacies are arguments that employ invalid reasoning, making their automatic detection critical in sensitive contexts such as high-stakes political debates, where public o"
+    },
+    {
+      "title": "LLM-Augmented Causal Discovery: Probabilistic Fusion of Edge Existence and Orientation",
+      "link": "https://arxiv.org/abs/2608.27472",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-31T04:00:00+00:00",
+      "summary": "arXiv:2608.27472v1 Announce Type: new Abstract: Bayesian network structure learning (BNSL) from observational data struggles with orientation identifiability, while large language models (LLMs) offer broad but often unre"
+    },
+    {
+      "title": "Hypothesize, Evaluate, Refine: A Scientific Agent for PDE Discovery with Unknown Spatial Coefficient Fields",
+      "link": "https://arxiv.org/abs/2608.27475",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-31T04:00:00+00:00",
+      "summary": "arXiv:2608.27475v1 Announce Type: new Abstract: Discovering PDEs in heterogeneous media requires jointly identifying the governing operator and the unknown spatial fields that parameterize it. These tasks are coupled: ch"
+    },
+    {
+      "title": "Class-Based Heuristic Selection for Solving the Flying Block Puzzle",
+      "link": "https://arxiv.org/abs/2608.27476",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-31T04:00:00+00:00",
+      "summary": "arXiv:2608.27476v1 Announce Type: new Abstract: Heuristic search underlies planning in autonomous systems ranging from warehouse logistics to robotic navigation, yet generic heuristics fail to exploit the structural cons"
+    },
+    {
+      "title": "Benchmarking General Mobile Assistants in Challenging Real-World Scenarios",
+      "link": "https://arxiv.org/abs/2608.27477",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-08-31T04:00:00+00:00",
+      "summary": "arXiv:2608.27477v1 Announce Type: new Abstract: Graphical user interfaces have emerged as an important environment for evaluating autonomous AI agents on multimodal interactive tasks. Existing benchmarks such as AndroidW"
+    },
+    {
+      "title": "ISC Stormcast For Monday, August 31st, 2026 https://isc.sans.edu/podcastdetail/10074, (Mon, Aug 31st)",
+      "link": "https://isc.sans.edu/diary/rss/33296",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-08-31T02:00:03+00:00",
+      "summary": ""
+    },
     {
       "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
       "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
@@ -91,22 +243,6 @@
       "category": "cybersecurity",
       "published": "2026-08-28T16:20:46+00:00",
       "summary": "Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users' home networks. Topping the list is support "
-    },
-    {
-      "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
-      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-28T15:56:55+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speakin"
-    },
-    {
-      "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
-      "link": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-28T15:27:26+00:00",
-      "summary": "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining capab"
     },
     {
       "title": "You Need Cyber Deception for OT",
@@ -195,142 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-27T19:45:00+00:00",
       "summary": "The Trump administration is banning the acquisition of foreign-made components used to manage electricity and power, alleging that \u201ccertain foreign actors are increasingly creating and exploiting vulnerabilities\u201d in the "
-    },
-    {
-      "title": "Chinese Routers Sold Worldwide Contain Backdoors",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-27T19:31:45+00:00",
-      "summary": "An untold number of ZBT routers sold around the world as white-label products come with several implants built by the manufacturer."
-    },
-    {
-      "title": "Finland appeals court revives case against Eagle S Officers over cable breaks",
-      "link": "https://therecord.media/finland-appeals-court-revives-case-against-eagle-s",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-27T15:30:00+00:00",
-      "summary": "The appeals court sent the case back to the Helsinki District Court to be heard on its merits, although the three men, who had previously been detained in Finland, have since left the country."
-    },
-    {
-      "title": "Chinese and Russian spies stepping up cyberattacks, German companies report",
-      "link": "https://therecord.media/germany-cyberattacks-china-russia",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-27T14:45:00+00:00",
-      "summary": "Foreign intelligence services, particularly those from China and Russia, are increasingly behind cyberattacks on German companies, according to a new survey of the country\u2019s private sector."
-    },
-    {
-      "title": "Cyberattack on Manchester Airports Group exposes data of 8.7 million customers",
-      "link": "https://therecord.media/cyberattack-on-manchester-airports-group-exposes-millions-customer-info",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-27T13:15:00+00:00",
-      "summary": "A spokesperson told The Yorkshire Post that roughly 8.7 million people were impacted, although they did not provide a date range. They added that in the \u201cvast majority\u201d of cases, the only information accessed was an emai"
-    },
-    {
-      "title": "The Download: inside OpenAI\u2019s Hugging Face hack, and a new EV takes on the US",
-      "link": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-27T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible f"
-    },
-    {
-      "title": "Two Alleged \u2018TeamPCP\u2019 Hackers Arrested in Australia",
-      "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
-      "source": "Krebs on Security",
-      "category": "cybersecurity",
-      "published": "2026-08-27T11:04:15+00:00",
-      "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In"
-    },
-    {
-      "title": "Is Slate Auto\u2019s new electric truck the EV Americans need?",
-      "link": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-27T10:00:00+00:00",
-      "summary": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that\u2019s pretty dismal, especially because the transportation sector is the single biggest source o"
-    },
-    {
-      "title": "A polymorphic phishing page (that occasionally breaks itself), (Thu, Aug 27th)",
-      "link": "https://isc.sans.edu/diary/rss/33290",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-27T09:57:28+00:00",
-      "summary": "As I've mentioned before in some of my diaries, from time to time, I like to go over phishing messages that get caught in my various spam traps or sent to us here at the Internet Storm Center."
-    },
-    {
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-27T09:00:00+00:00",
-      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
-    },
-    {
-      "title": "Expanding OpenAI\u2019s presence in Brazil",
-      "link": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-27T03:00:00+00:00",
-      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
-    },
-    {
-      "title": "ISC Stormcast For Thursday, August 27th, 2026 https://isc.sans.edu/podcastdetail/10070, (Thu, Aug 27th)",
-      "link": "https://isc.sans.edu/diary/rss/33286",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-27T02:00:03+00:00",
-      "summary": ""
-    },
-    {
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-26T19:00:00+00:00",
-      "summary": "The models responsible for last month\u2019s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a gro"
-    },
-    {
-      "title": "Who Has Admin Rights in your Entra ID Directory?, (Wed, Aug 26th)",
-      "link": "https://isc.sans.edu/diary/rss/33284",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-26T15:58:15+00:00",
-      "summary": "A common thing that folks should \"worry\" about in Entra (or any platform really) is \"who has rights to administer\"&#;x26;#;x3f;&#;x26;#;xc2;&#;x26;#;xa0; Who can delete or change key things, or modify them in ways that m"
-    },
-    {
-      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-      "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-26T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids\u2019 use of technology was onc"
-    },
-    {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "link": "https://openai.com/index/learning-never-stops",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-26T10:00:00+00:00",
-      "summary": "OpenAI\u2019s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
-    },
-    {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-26T10:00:00+00:00",
-      "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
-    },
-    {
-      "title": "Raised on AI",
-      "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-26T09:00:00+00:00",
-      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creatin"
     }
   ]
 }
