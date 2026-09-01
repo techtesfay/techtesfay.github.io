@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T02:17:05.826763+00:00",
+  "generated_at": "2026-09-01T10:37:36.191809+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,166 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
+      "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-01T09:05:30+00:00",
+      "summary": "METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, "
+    },
+    {
+      "title": "How engineered microbes could help feed the world\u2019s crops",
+      "link": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-01T09:00:00+00:00",
+      "summary": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a"
+    },
+    {
+      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
+      "link": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-01T08:26:24+00:00",
+      "summary": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial "
+    },
+    {
+      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-01T07:22:30+00:00",
+      "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack "
+    },
+    {
+      "title": "Breaking Darknet CAPTCHAs with general purpose LLM",
+      "link": "https://arxiv.org/abs/2608.28794",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-01T04:00:00+00:00",
+      "summary": "arXiv:2608.28794v1 Announce Type: new Abstract: Our work evaluates the effectiveness of automated methods for solving CAPTCHA challenges commonly encountered in darknet environments. These CAPTCHAs are typically designed"
+    },
+    {
+      "title": "Enhancing Web Application Firewalls with BERT-GNN for SQL Injection Detection",
+      "link": "https://arxiv.org/abs/2608.28882",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-01T04:00:00+00:00",
+      "summary": "arXiv:2608.28882v1 Announce Type: new Abstract: Detecting sophisticated SQL Injection (SQLi) attacks remains among the most critical challenges in web applications security. This research study has resulted in an optimis"
+    },
+    {
+      "title": "Enhancing Web Application Firewalls with Machine Learning for SQL Injection Detection",
+      "link": "https://arxiv.org/abs/2608.28889",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-01T04:00:00+00:00",
+      "summary": "arXiv:2608.28889v1 Announce Type: new Abstract: Detecting SQL Injection (SQLi) attacks ranks among the most critical challenges in web application security. This research conducted a systematic literature review to ident"
+    },
+    {
+      "title": "Identity by Design, Demographics by Accident: Demographic Leakage and Suppression in Behavioral Biometric Embeddings",
+      "link": "https://arxiv.org/abs/2608.28921",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-01T04:00:00+00:00",
+      "summary": "arXiv:2608.28921v1 Announce Type: new Abstract: Behavioral biometric authentication (BBA) systems use deep learning models to transform biometric signals, such as eye movements, voice, keystroke/touchstroke dynamics, and"
+    },
+    {
+      "title": "Membership is Ownership: A Robust Ownership Verification Framework for Diffusion Models",
+      "link": "https://arxiv.org/abs/2608.28929",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-01T04:00:00+00:00",
+      "summary": "arXiv:2608.28929v1 Announce Type: new Abstract: Large-scale diffusion models have fueled numerous profitable downstream applications for AI-related businesses, including visual editing and content creation. Meanwhile, du"
+    },
+    {
+      "title": "CARVY-FL: Client Anticlustering for Robust Voting in Provably Secure Federated Learning",
+      "link": "https://arxiv.org/abs/2608.28992",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-01T04:00:00+00:00",
+      "summary": "arXiv:2608.28992v1 Announce Type: new Abstract: Federated learning (FL) enables collaborative training without directly sharing raw data, but remains vulnerable to malicious clients. Voting-based FL improves robustness b"
+    },
+    {
+      "title": "A Comprehensive Survey on Linguistic Steganography: Methods, Countermeasures, Evaluation, and Challenges",
+      "link": "https://arxiv.org/abs/2608.29077",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-01T04:00:00+00:00",
+      "summary": "arXiv:2608.29077v1 Announce Type: new Abstract: Linguistic steganography hides secret messages in natural language text. Large language models (LLMs) have reshaped the field, but a systematic account of how these scatter"
+    },
+    {
+      "title": "UiAs: User-Independent 3D Facial Anti-Spoofing via Multi-modal Wireless Signals",
+      "link": "https://arxiv.org/abs/2608.29084",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-01T04:00:00+00:00",
+      "summary": "arXiv:2608.29084v1 Announce Type: new Abstract: Face authentication is widely deployed in security-sensitive applications, while increasingly realistic 3D spoofing attacks pose growing threats. High-fidelity 3D masks can"
+    },
+    {
+      "title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
+      "link": "https://arxiv.org/abs/2608.27459",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-01T04:00:00+00:00",
+      "summary": "arXiv:2608.27459v1 Announce Type: new Abstract: In 2011, IBM's Watson was something like a sealed capsule of its era's queryable knowledge. Its DeepQA system defeated the strongest human Jeopardy! champions, but the know"
+    },
+    {
+      "title": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation",
+      "link": "https://arxiv.org/abs/2608.27463",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-01T04:00:00+00:00",
+      "summary": "arXiv:2608.27463v1 Announce Type: new Abstract: LLMs now sit on every side of evaluation: as examinees scored on benchmarks, judges of other models' outputs, and raters of human-generated content. Each paradigm can be vi"
+    },
+    {
+      "title": "Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered XAI",
+      "link": "https://arxiv.org/abs/2608.27464",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-01T04:00:00+00:00",
+      "summary": "arXiv:2608.27464v1 Announce Type: new Abstract: This position paper argues that human-centered explainable AI (HCXAI) should incorporate insights from the psychology of information seeking. Drawing on Sharot and Sunstein"
+    },
+    {
+      "title": "Retrieving Relations, Detecting Fallacies: A RAG Approach to Political Debate Analysis",
+      "link": "https://arxiv.org/abs/2608.27471",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-01T04:00:00+00:00",
+      "summary": "arXiv:2608.27471v1 Announce Type: new Abstract: Fallacies are arguments that employ invalid reasoning, making their automatic detection critical in sensitive contexts such as high-stakes political debates, where public o"
+    },
+    {
+      "title": "LLM-Augmented Causal Discovery: Probabilistic Fusion of Edge Existence and Orientation",
+      "link": "https://arxiv.org/abs/2608.27472",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-01T04:00:00+00:00",
+      "summary": "arXiv:2608.27472v1 Announce Type: new Abstract: Bayesian network structure learning (BNSL) from observational data struggles with orientation identifiability, while large language models (LLMs) offer broad but often unre"
+    },
+    {
+      "title": "Hypothesize, Evaluate, Refine: A Scientific Agent for PDE Discovery with Unknown Spatial Coefficient Fields",
+      "link": "https://arxiv.org/abs/2608.27475",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-01T04:00:00+00:00",
+      "summary": "arXiv:2608.27475v1 Announce Type: new Abstract: Discovering PDEs in heterogeneous media requires jointly identifying the governing operator and the unknown spatial fields that parameterize it. These tasks are coupled: ch"
+    },
+    {
+      "title": "Class-Based Heuristic Selection for Solving the Flying Block Puzzle",
+      "link": "https://arxiv.org/abs/2608.27476",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-01T04:00:00+00:00",
+      "summary": "arXiv:2608.27476v1 Announce Type: new Abstract: Heuristic search underlies planning in autonomous systems ranging from warehouse logistics to robotic navigation, yet generic heuristics fail to exploit the structural cons"
+    },
+    {
+      "title": "Benchmarking General Mobile Assistants in Challenging Real-World Scenarios",
+      "link": "https://arxiv.org/abs/2608.27477",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-01T04:00:00+00:00",
+      "summary": "arXiv:2608.27477v1 Announce Type: new Abstract: Graphical user interfaces have emerged as an important environment for evaluating autonomous AI agents on multimodal interactive tasks. Existing benchmarks such as AndroidW"
+    },
     {
       "title": "ISC Stormcast For Tuesday, September 1st, 2026 https://isc.sans.edu/podcastdetail/10076, (Tue, Sep 1st)",
       "link": "https://isc.sans.edu/diary/rss/33302",
@@ -149,20 +309,12 @@
       "summary": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer\u2019s machine. Anthropic\u2019s new Compliance API endpoints give security teams their clearest view yet i"
     },
     {
-      "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
-      "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-31T09:04:55+00:00",
-      "summary": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers"
-    },
-    {
-      "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
-      "link": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-31T07:56:53+00:00",
-      "summary": "The U.S. Department of Justice (DoJ) on Friday corrected a previously issued press statement that several of its agencies were victims of attacks carried out by Chinese threat actors, instead now pointing out that they w"
+      "title": "OpenAI supports California\u2019s bill to advance youth AI safety",
+      "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-08-31T07:00:00+00:00",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore."
     },
     {
       "title": "Polimill builds Japan's next-generation public AI infrastructure",
@@ -173,164 +325,12 @@
       "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
     },
     {
-      "title": "Can Tainted Pixels Expose Deepfake Videos?",
-      "link": "https://arxiv.org/abs/2608.27492",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-31T04:00:00+00:00",
-      "summary": "arXiv:2608.27492v1 Announce Type: new Abstract: Publicly-acceesible face-manipulation tools have made deepfake creation accessible to non-expert users. Against these, existing defenses are mostly post-hoc, detecting only"
-    },
-    {
-      "title": "ROPE: Routed Origin Policy Enforcement against Indirect Prompt Injection",
-      "link": "https://arxiv.org/abs/2608.27496",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-31T04:00:00+00:00",
-      "summary": "arXiv:2608.27496v1 Announce Type: new Abstract: Indirect prompt injection (IPI) plants instructions in the content a tool-using LLM agent reads, steering the agent into harmful tool calls. The strongest defenses are syst"
-    },
-    {
-      "title": "Circuit Discovery Helps Detect LLM Jailbreaking: A Mechanistic Interpretability Study",
-      "link": "https://arxiv.org/abs/2608.27504",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-31T04:00:00+00:00",
-      "summary": "arXiv:2608.27504v1 Announce Type: new Abstract: Despite extensive safety alignment, large language models (LLMs) remain vulnerable to jailbreak attacks that bypass safeguards to elicit harmful content. While prior work a"
-    },
-    {
-      "title": "eBPF-Based Cybersecurity Mechanisms: A Systematic Literature Review",
-      "link": "https://arxiv.org/abs/2608.27511",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-31T04:00:00+00:00",
-      "summary": "arXiv:2608.27511v1 Announce Type: new Abstract: Extended Berkeley Packet Filter (eBPF) has emerged as a kernel-level framework enabling dynamic security enforcement in modern operating systems. While eBPF's cybersecurity"
-    },
-    {
-      "title": "Fully Unleashing the Multimodal Attacker: Meta-Adaptive Jailbreaking of Vision-Language Models",
-      "link": "https://arxiv.org/abs/2608.27531",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-31T04:00:00+00:00",
-      "summary": "arXiv:2608.27531v1 Announce Type: new Abstract: The safety of large vision-language models is increasingly stress-tested by multimodal jailbreaks, yet existing attacks remain largely static at the meta level: template-ba"
-    },
-    {
-      "title": "FlyBlind: Cross-Slice Timeliness Attacks on UAV Situational Awareness over 5G",
-      "link": "https://arxiv.org/abs/2608.27604",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-31T04:00:00+00:00",
-      "summary": "arXiv:2608.27604v1 Announce Type: new Abstract: Beyond Visual Line of Sight (BVLOS) Uncrewed Aerial Systems (UAS) operating over 5G Standalone (SA) networks use a shared User Plane for both command-and-control (C2) data "
-    },
-    {
-      "title": "Semantic Watermarking with Order-Robust Detection over Sub-sentence Units",
-      "link": "https://arxiv.org/abs/2608.27666",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-31T04:00:00+00:00",
-      "summary": "arXiv:2608.27666v1 Announce Type: new Abstract: Semantic watermarks tie the mark to sentence meaning rather than token choices, promising robustness to content-preserving edits. However, the detector only observes attack"
-    },
-    {
-      "title": "Revisiting Continuous Noise Sampling for Multi-Party Differential Privacy",
-      "link": "https://arxiv.org/abs/2608.27766",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-08-31T04:00:00+00:00",
-      "summary": "arXiv:2608.27766v1 Announce Type: new Abstract: Combining secure multi-party computation (MPC) with differential privacy (DP) enables multiple parties to release aggregate statistics without a trusted curator, and the co"
-    },
-    {
-      "title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
-      "link": "https://arxiv.org/abs/2608.27459",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-31T04:00:00+00:00",
-      "summary": "arXiv:2608.27459v1 Announce Type: new Abstract: In 2011, IBM's Watson was something like a sealed capsule of its era's queryable knowledge. Its DeepQA system defeated the strongest human Jeopardy! champions, but the know"
-    },
-    {
-      "title": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation",
-      "link": "https://arxiv.org/abs/2608.27463",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-31T04:00:00+00:00",
-      "summary": "arXiv:2608.27463v1 Announce Type: new Abstract: LLMs now sit on every side of evaluation: as examinees scored on benchmarks, judges of other models' outputs, and raters of human-generated content. Each paradigm can be vi"
-    },
-    {
-      "title": "Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered XAI",
-      "link": "https://arxiv.org/abs/2608.27464",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-31T04:00:00+00:00",
-      "summary": "arXiv:2608.27464v1 Announce Type: new Abstract: This position paper argues that human-centered explainable AI (HCXAI) should incorporate insights from the psychology of information seeking. Drawing on Sharot and Sunstein"
-    },
-    {
-      "title": "Retrieving Relations, Detecting Fallacies: A RAG Approach to Political Debate Analysis",
-      "link": "https://arxiv.org/abs/2608.27471",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-31T04:00:00+00:00",
-      "summary": "arXiv:2608.27471v1 Announce Type: new Abstract: Fallacies are arguments that employ invalid reasoning, making their automatic detection critical in sensitive contexts such as high-stakes political debates, where public o"
-    },
-    {
-      "title": "LLM-Augmented Causal Discovery: Probabilistic Fusion of Edge Existence and Orientation",
-      "link": "https://arxiv.org/abs/2608.27472",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-31T04:00:00+00:00",
-      "summary": "arXiv:2608.27472v1 Announce Type: new Abstract: Bayesian network structure learning (BNSL) from observational data struggles with orientation identifiability, while large language models (LLMs) offer broad but often unre"
-    },
-    {
-      "title": "Hypothesize, Evaluate, Refine: A Scientific Agent for PDE Discovery with Unknown Spatial Coefficient Fields",
-      "link": "https://arxiv.org/abs/2608.27475",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-31T04:00:00+00:00",
-      "summary": "arXiv:2608.27475v1 Announce Type: new Abstract: Discovering PDEs in heterogeneous media requires jointly identifying the governing operator and the unknown spatial fields that parameterize it. These tasks are coupled: ch"
-    },
-    {
-      "title": "Class-Based Heuristic Selection for Solving the Flying Block Puzzle",
-      "link": "https://arxiv.org/abs/2608.27476",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-31T04:00:00+00:00",
-      "summary": "arXiv:2608.27476v1 Announce Type: new Abstract: Heuristic search underlies planning in autonomous systems ranging from warehouse logistics to robotic navigation, yet generic heuristics fail to exploit the structural cons"
-    },
-    {
-      "title": "Benchmarking General Mobile Assistants in Challenging Real-World Scenarios",
-      "link": "https://arxiv.org/abs/2608.27477",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-08-31T04:00:00+00:00",
-      "summary": "arXiv:2608.27477v1 Announce Type: new Abstract: Graphical user interfaces have emerged as an important environment for evaluating autonomous AI agents on multimodal interactive tasks. Existing benchmarks such as AndroidW"
-    },
-    {
       "title": "A milestone in expanding access to AI",
       "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
       "source": "OpenAI News",
       "category": "ai",
       "published": "2026-08-31T04:00:00+00:00",
       "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
-    },
-    {
-      "title": "ISC Stormcast For Monday, August 31st, 2026 https://isc.sans.edu/podcastdetail/10074, (Mon, Aug 31st)",
-      "link": "https://isc.sans.edu/diary/rss/33296",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-31T02:00:03+00:00",
-      "summary": ""
-    },
-    {
-      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
-      "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-30T07:36:33+00:00",
-      "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While traditional ClickFix campaigns direct vic"
-    },
-    {
-      "title": "YARA-X 1.20.0 Release, (Sun, Aug 30th)",
-      "link": "https://isc.sans.edu/diary/rss/33288",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-30T07:14:49+00:00",
-      "summary": "YARA-X&#;x26;#;39;s 1.20.0 release brings 14 improvements and 13 bugfixes."
     }
   ]
 }
