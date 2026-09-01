@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T15:38:54.489366+00:00",
+  "generated_at": "2026-09-01T20:13:33.692440+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,46 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "How AI plotted an interstellar journey to Alpha Centauri",
+      "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-01T19:10:36+00:00",
+      "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029. It\u2019s a hugely ambitious mission\u2014if all goes well, the space"
+    },
+    {
+      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-01T17:53:11+00:00",
+      "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9."
+    },
+    {
+      "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
+      "link": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-01T17:19:24+00:00",
+      "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024. Google Threat Intelligence Group (GTIG)"
+    },
+    {
+      "title": "How AI-native companies turn workflows into operating capability",
+      "link": "https://openai.com/index/ai-native-company-workflows",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-01T17:00:00+00:00",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply."
+    },
+    {
+      "title": "Healthcare facilities operator Nutex says patient, employee data stolen in August incident",
+      "link": "https://therecord.media/nutex-health-data-breach",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-01T15:31:00+00:00",
+      "summary": "Cybercriminals breached company data and made an extortion attempt with it, Houston-based Nutex Health said in a filing with federal regulators."
+    },
     {
       "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
       "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
@@ -45,6 +85,14 @@
       "summary": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Lin"
     },
     {
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "link": "https://openai.com/index/path-to-astra",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-01T13:00:00+00:00",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release."
+    },
+    {
       "title": "Iranian cyber spies target aviation, fintech developers with new malware",
       "link": "https://therecord.media/iranian-cyber-spies-target-aviation-fintech-new-malware",
       "source": "The Record",
@@ -67,6 +115,14 @@
       "category": "ai",
       "published": "2026-09-01T12:10:00+00:00",
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. How engineered microbes could help feed the world\u2019s crops Fertilizer is crucial fo"
+    },
+    {
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-01T12:00:00+00:00",
+      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
     },
     {
       "title": "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones",
@@ -275,62 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-31T20:25:36+00:00",
       "summary": "The ClickFix-style campaign features a sophisticated, multistage attack chain that includes reverse tunnels into victim organizations' networks."
-    },
-    {
-      "title": "The Guardrails Debate: Security Researcher Changes His Mind",
-      "link": "https://www.darkreading.com/cyber-risk/the-guardrails-debate-security-researcher-changes-his-mind",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-31T20:09:24+00:00",
-      "summary": "While guardrails are critical, as evidenced by recent high-profile incidents, defenders need help staying ahead of attackers who do not play by the rules."
-    },
-    {
-      "title": "The Coding-Agent Trap: When a \"Free\" LLM Endpoint Is the Adversary, (Mon, Aug 31st)",
-      "link": "https://isc.sans.edu/diary/rss/33298",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-08-31T20:00:34+00:00",
-      "summary": "One of my internet-exposed inference honeypots was discovered, relabeled with sought-after model names, and incorporated into infrastructure apparently used to provide \"free\" LLM backends. It then received a real coding-"
-    },
-    {
-      "title": "Fraudsters steal $6 million from Tectonic crypto platform after inflating token price",
-      "link": "https://therecord.media/crypto-tectonic-hack-cronos",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-31T19:45:00+00:00",
-      "summary": "At least $6 million was stolen from crypto platform Tectonic after an attacker manipulated the price of the Tonic coin over the weekend."
-    },
-    {
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-08-31T18:00:00+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you\u2019ve probably heard about last month\u2019s major AI security incident, in whi"
-    },
-    {
-      "title": "AI Model Rules Are Not Security Controls",
-      "link": "https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-31T17:34:26+00:00",
-      "summary": "OpenAI's Hugging Face attack postmortem shows agents don't care about rules \u2014 they need strong controls."
-    },
-    {
-      "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
-      "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-31T17:24:28+00:00",
-      "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identi"
-    },
-    {
-      "title": "Berlin says it won\u2019t pay ransom after hackers steal government data",
-      "link": "https://therecord.media/berlin-says-it-wont-pay-ransom-after-hackers-steal-gov-data",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-31T14:45:00+00:00",
-      "summary": "Governing Mayor Kai Wegner said that Berlin had received an extortion demand following the cyberattack, which was discovered in mid-August."
     }
   ]
 }
