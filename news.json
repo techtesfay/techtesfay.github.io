@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T10:37:36.191809+00:00",
+  "generated_at": "2026-09-01T15:38:54.489366+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,70 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
+      "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-01T14:07:20+00:00",
+      "summary": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and"
+    },
+    {
+      "title": "Making the AI-powered case for legacy modernization",
+      "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-01T14:00:00+00:00",
+      "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization "
+    },
+    {
+      "title": "ClickFix Campaign Compromises 31 Orgs, Abuses Polygon Blockchain",
+      "link": "https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-01T13:56:42+00:00",
+      "summary": "The campaign uses EtherHiding to dynamically update its command-and-control server, abusing the blockchain as an attacker-controlled address book."
+    },
+    {
+      "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
+      "link": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-01T13:08:58+00:00",
+      "summary": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Lin"
+    },
+    {
+      "title": "Iranian cyber spies target aviation, fintech developers with new malware",
+      "link": "https://therecord.media/iranian-cyber-spies-target-aviation-fintech-new-malware",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-01T12:33:00+00:00",
+      "summary": "In a report published Tuesday, Kaspersky said it first discovered NodeRabbit on a system in Afghanistan and later identified variants on systems in Egypt and Ethiopia."
+    },
+    {
+      "title": "Cyber risk from frontier AI poses \u2018most immediate concern\u2019 to global financial system, watchdog warns",
+      "link": "https://therecord.media/cyber-risk-from-frontier-ai-most-immediate-concern-to-global-finance",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-01T12:28:00+00:00",
+      "summary": "Andrew Bailey, chair of the Financial Stability Board, called on financial institutions and technology providers to \u201cprepare for more severe scenarios involving simultaneous disruption across multiple firms or shared tec"
+    },
+    {
+      "title": "The Download: engineered microbes for crops, and OpenAI\u2019s culture problem",
+      "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-01T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. How engineered microbes could help feed the world\u2019s crops Fertilizer is crucial fo"
+    },
+    {
+      "title": "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones",
+      "link": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-01T11:30:00+00:00",
+      "summary": "The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them th"
+    },
     {
       "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
       "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
@@ -213,6 +277,14 @@
       "summary": "The ClickFix-style campaign features a sophisticated, multistage attack chain that includes reverse tunnels into victim organizations' networks."
     },
     {
+      "title": "The Guardrails Debate: Security Researcher Changes His Mind",
+      "link": "https://www.darkreading.com/cyber-risk/the-guardrails-debate-security-researcher-changes-his-mind",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-08-31T20:09:24+00:00",
+      "summary": "While guardrails are critical, as evidenced by recent high-profile incidents, defenders need help staying ahead of attackers who do not play by the rules."
+    },
+    {
       "title": "The Coding-Agent Trap: When a \"Free\" LLM Endpoint Is the Adversary, (Mon, Aug 31st)",
       "link": "https://isc.sans.edu/diary/rss/33298",
       "source": "SANS Internet Storm Center",
@@ -259,78 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-08-31T14:45:00+00:00",
       "summary": "Governing Mayor Kai Wegner said that Berlin had received an extortion demand following the cyberattack, which was discovered in mid-August."
-    },
-    {
-      "title": "\u26a1 Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-31T13:50:00+00:00",
-      "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new "
-    },
-    {
-      "title": "Pharmaceutical giant McKesson warns of 'service degradation' following cyberattack",
-      "link": "https://therecord.media/mckesson-cyberattack-ransomware-pharma",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-31T12:45:00+00:00",
-      "summary": "The pharmaceutical and healthcare technology company McKesson informed regulators it is in the early stages of investigating a cybersecurity incident involving an unnamed third-party application."
-    },
-    {
-      "title": "Slovenian casinos reopen after cyberattack knocked gaming systems offline",
-      "link": "https://therecord.media/slovenia-cyberattack-casinos-reopen",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-31T12:30:00+00:00",
-      "summary": "One of Slovenia\u2019s largest gambling and tourism groups has begun reopening its casinos after a cyberattack forced them to shut down for several days."
-    },
-    {
-      "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
-      "link": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-31T12:14:00+00:00",
-      "summary": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such sof"
-    },
-    {
-      "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
-      "link": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-31T11:47:24+00:00",
-      "summary": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudS"
-    },
-    {
-      "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-      "link": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-08-31T11:31:47+00:00",
-      "summary": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer\u2019s machine. Anthropic\u2019s new Compliance API endpoints give security teams their clearest view yet i"
-    },
-    {
-      "title": "OpenAI supports California\u2019s bill to advance youth AI safety",
-      "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-31T07:00:00+00:00",
-      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore."
-    },
-    {
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "link": "https://openai.com/index/polimill",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-31T07:00:00+00:00",
-      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
-    },
-    {
-      "title": "A milestone in expanding access to AI",
-      "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-08-31T04:00:00+00:00",
-      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
     }
   ]
 }
