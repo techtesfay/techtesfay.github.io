@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T01:38:52.722028+00:00",
+  "generated_at": "2026-09-02T10:03:12.214080+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,174 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
+      "link": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-02T09:18:02+00:00",
+      "summary": "Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals. The project"
+    },
+    {
+      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
+      "link": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-02T09:10:23+00:00",
+      "summary": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,0"
+    },
+    {
+      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
+      "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-02T07:47:13+00:00",
+      "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-s"
+    },
+    {
+      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-02T07:08:50+00:00",
+      "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (CVSS"
+    },
+    {
+      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
+      "link": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-02T06:56:30+00:00",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on August "
+    },
+    {
+      "title": "AgentProv: Auditing Agentic LLM API Providers via Tool-use Policy Probes",
+      "link": "https://arxiv.org/abs/2609.00052",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-02T04:00:00+00:00",
+      "summary": "arXiv:2609.00052v1 Announce Type: new Abstract: Commercial LLM APIs advertise a specific foundation model, but the served backbone may be silently substituted, quantized, or wrapped, for example to save deployment costs."
+    },
+    {
+      "title": "A Formal Analysis of Agent Payment Protocols",
+      "link": "https://arxiv.org/abs/2609.00060",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-02T04:00:00+00:00",
+      "summary": "arXiv:2609.00060v1 Announce Type: new Abstract: Agent payment protocols are emerging as a key transaction layer for autonomous commerce, enabling AI agents to purchase goods and services and execute payments on users' be"
+    },
+    {
+      "title": "Explainable Artificial Intelligence for Industrial Cybersecurity: A Review of Methods, Operational Integration, and Research Challenges",
+      "link": "https://arxiv.org/abs/2609.00171",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-02T04:00:00+00:00",
+      "summary": "arXiv:2609.00171v1 Announce Type: new Abstract: The increasing digitalization of industrial infrastructure and the convergence of information technology (IT) and operational technology (OT) have expanded the cyberattack "
+    },
+    {
+      "title": "DUPIN: Attack Learning Is Still Needed! Demonstrating Few-Shot after Unsupervised Pretraining Is A Nimble Forensics Learner",
+      "link": "https://arxiv.org/abs/2609.00259",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-02T04:00:00+00:00",
+      "summary": "arXiv:2609.00259v1 Announce Type: new Abstract: We propose a novel approach to learning-based attack forensics called DUPIN. DUPIN performs unsupervised pre-training on an enormous amount of audit events in the form of p"
+    },
+    {
+      "title": "Delegation Without Trust: An Empirical Gap Analysis of Identity, Authorization, and Runtime Governance in Multi-Agent LLM Systems",
+      "link": "https://arxiv.org/abs/2609.00267",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-02T04:00:00+00:00",
+      "summary": "arXiv:2609.00267v1 Announce Type: new Abstract: Autonomous LLM agents increasingly act on a user's behalf: they hold credentials, call tools and services, and spawn sub-agents that act further on their behalf. This turns"
+    },
+    {
+      "title": "Workload Identification with Physical Side Channels for AI Governance",
+      "link": "https://arxiv.org/abs/2609.00309",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-02T04:00:00+00:00",
+      "summary": "arXiv:2609.00309v1 Announce Type: new Abstract: AI compute verification is one of the first tangible and tractable points for international policy aimed at AI governance. Determining whether frontier labs, or any operato"
+    },
+    {
+      "title": "OreProof: Verifiable Provenance with Limited Disclosure for Critical-Minerals Supply Chains Using Zero-Knowledge Proofs",
+      "link": "https://arxiv.org/abs/2609.00340",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-02T04:00:00+00:00",
+      "summary": "arXiv:2609.00340v1 Announce Type: new Abstract: Critical-minerals supply chains face a structural tension: regulators and buyers demand verifiable provenance, yet upstream actors are hesitant to disclose supplier identit"
+    },
+    {
+      "title": "NeuroPriv: Adversarial Representation Learning for Privacy in Wearable EEG Systems",
+      "link": "https://arxiv.org/abs/2609.00390",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-02T04:00:00+00:00",
+      "summary": "arXiv:2609.00390v1 Announce Type: new Abstract: Wearable EEG systems may expose sensitive information beyond their intended health function, creating substantial risks to neuroprivacy. In this work, we show that commonly"
+    },
+    {
+      "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
+      "link": "https://arxiv.org/abs/2609.00002",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-02T04:00:00+00:00",
+      "summary": "arXiv:2609.00002v1 Announce Type: new Abstract: World models enable language-model agents to predict environment dynamics and plan before acting. In text environments, the model must learn symbolic action effects from se"
+    },
+    {
+      "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
+      "link": "https://arxiv.org/abs/2609.00003",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-02T04:00:00+00:00",
+      "summary": "arXiv:2609.00003v1 Announce Type: new Abstract: Machine unlearning studies the removal of knowledge from an AI model, making the system forget a concept it previously learned. Despite rapid progress in generative machine"
+    },
+    {
+      "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
+      "link": "https://arxiv.org/abs/2609.00004",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-02T04:00:00+00:00",
+      "summary": "arXiv:2609.00004v1 Announce Type: new Abstract: This paper studies a finite-horizon multi-item capacitated lot-sizing problem in which demand quantities are deterministic, while demand-arrival periods are stochastic. Eac"
+    },
+    {
+      "title": "Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models",
+      "link": "https://arxiv.org/abs/2609.00005",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-02T04:00:00+00:00",
+      "summary": "arXiv:2609.00005v1 Announce Type: new Abstract: Financial scams targeting older adults increasingly occur through text and voice channels such as email, SMS, and phone calls, unfolding over multiple conversational turns "
+    },
+    {
+      "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
+      "link": "https://arxiv.org/abs/2609.00012",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-02T04:00:00+00:00",
+      "summary": "arXiv:2609.00012v1 Announce Type: new Abstract: Long-horizon tasks remain uncommon in large language model (LLM) evaluation, and for a reason: when each step depends on the last, per-step accuracy that looks excellent in"
+    },
+    {
+      "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
+      "link": "https://arxiv.org/abs/2609.00015",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-02T04:00:00+00:00",
+      "summary": "arXiv:2609.00015v1 Announce Type: new Abstract: AI agents powered by large language models are evolving from isolated assistants into heterogeneous systems in which multiple agents, planners, controllers, and execution b"
+    },
+    {
+      "title": "SCAFFOLD: A Large-Scale Structured Dataset of Computer Science Research Figures with Diagram QA and Chain-of-Thought Reasoning Traces",
+      "link": "https://arxiv.org/abs/2609.00018",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-02T04:00:00+00:00",
+      "summary": "arXiv:2609.00018v1 Announce Type: new Abstract: Computer science papers rely heavily on diagrams: architecture drawings, system flowcharts, and pipeline schematics that often carry more information than the text around t"
+    },
+    {
+      "title": "UI-Venus-2 Technical Report",
+      "link": "https://arxiv.org/abs/2609.00028",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-02T04:00:00+00:00",
+      "summary": "arXiv:2609.00028v1 Announce Type: new Abstract: Multimodal GUI agents have emerged as a promising paradigm for digital task automation, yet transitioning from benchmark-oriented models to dependable real-world applicatio"
+    },
     {
       "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency",
@@ -27,14 +195,6 @@
       "category": "cybersecurity",
       "published": "2026-09-01T22:40:28+00:00",
       "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose l"
-    },
-    {
-      "title": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)",
-      "link": "https://isc.sans.edu/diary/rss/33300",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-01T21:30:18+00:00",
-      "summary": "Introduction"
     },
     {
       "title": "Attackers Pounce on Critical Artifactory Flaw Following Disclosure",
@@ -141,14 +301,6 @@
       "summary": "The campaign uses EtherHiding to dynamically update its command-and-control server, abusing the blockchain as an attacker-controlled address book."
     },
     {
-      "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
-      "link": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-01T13:08:58+00:00",
-      "summary": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Lin"
-    },
-    {
       "title": "Path to Astra: critical capabilities and frontier safeguards",
       "link": "https://openai.com/index/path-to-astra",
       "source": "OpenAI News",
@@ -179,158 +331,6 @@
       "category": "ai",
       "published": "2026-09-01T12:10:00+00:00",
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. How engineered microbes could help feed the world\u2019s crops Fertilizer is crucial fo"
-    },
-    {
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-01T12:00:00+00:00",
-      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
-    },
-    {
-      "title": "Threat Actors Don\u2019t Want Better Attacks. They Want Repeatable Ones",
-      "link": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-01T11:30:00+00:00",
-      "summary": "The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them th"
-    },
-    {
-      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
-      "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-01T09:05:30+00:00",
-      "summary": "METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, "
-    },
-    {
-      "title": "How engineered microbes could help feed the world\u2019s crops",
-      "link": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-01T09:00:00+00:00",
-      "summary": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a"
-    },
-    {
-      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
-      "link": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-01T08:26:24+00:00",
-      "summary": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial "
-    },
-    {
-      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-01T07:22:30+00:00",
-      "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack "
-    },
-    {
-      "title": "Breaking Darknet CAPTCHAs with general purpose LLM",
-      "link": "https://arxiv.org/abs/2608.28794",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-01T04:00:00+00:00",
-      "summary": "arXiv:2608.28794v1 Announce Type: new Abstract: Our work evaluates the effectiveness of automated methods for solving CAPTCHA challenges commonly encountered in darknet environments. These CAPTCHAs are typically designed"
-    },
-    {
-      "title": "Enhancing Web Application Firewalls with BERT-GNN for SQL Injection Detection",
-      "link": "https://arxiv.org/abs/2608.28882",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-01T04:00:00+00:00",
-      "summary": "arXiv:2608.28882v1 Announce Type: new Abstract: Detecting sophisticated SQL Injection (SQLi) attacks remains among the most critical challenges in web applications security. This research study has resulted in an optimis"
-    },
-    {
-      "title": "Enhancing Web Application Firewalls with Machine Learning for SQL Injection Detection",
-      "link": "https://arxiv.org/abs/2608.28889",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-01T04:00:00+00:00",
-      "summary": "arXiv:2608.28889v1 Announce Type: new Abstract: Detecting SQL Injection (SQLi) attacks ranks among the most critical challenges in web application security. This research conducted a systematic literature review to ident"
-    },
-    {
-      "title": "Identity by Design, Demographics by Accident: Demographic Leakage and Suppression in Behavioral Biometric Embeddings",
-      "link": "https://arxiv.org/abs/2608.28921",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-01T04:00:00+00:00",
-      "summary": "arXiv:2608.28921v1 Announce Type: new Abstract: Behavioral biometric authentication (BBA) systems use deep learning models to transform biometric signals, such as eye movements, voice, keystroke/touchstroke dynamics, and"
-    },
-    {
-      "title": "Membership is Ownership: A Robust Ownership Verification Framework for Diffusion Models",
-      "link": "https://arxiv.org/abs/2608.28929",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-01T04:00:00+00:00",
-      "summary": "arXiv:2608.28929v1 Announce Type: new Abstract: Large-scale diffusion models have fueled numerous profitable downstream applications for AI-related businesses, including visual editing and content creation. Meanwhile, du"
-    },
-    {
-      "title": "CARVY-FL: Client Anticlustering for Robust Voting in Provably Secure Federated Learning",
-      "link": "https://arxiv.org/abs/2608.28992",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-01T04:00:00+00:00",
-      "summary": "arXiv:2608.28992v1 Announce Type: new Abstract: Federated learning (FL) enables collaborative training without directly sharing raw data, but remains vulnerable to malicious clients. Voting-based FL improves robustness b"
-    },
-    {
-      "title": "A Comprehensive Survey on Linguistic Steganography: Methods, Countermeasures, Evaluation, and Challenges",
-      "link": "https://arxiv.org/abs/2608.29077",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-01T04:00:00+00:00",
-      "summary": "arXiv:2608.29077v1 Announce Type: new Abstract: Linguistic steganography hides secret messages in natural language text. Large language models (LLMs) have reshaped the field, but a systematic account of how these scatter"
-    },
-    {
-      "title": "UiAs: User-Independent 3D Facial Anti-Spoofing via Multi-modal Wireless Signals",
-      "link": "https://arxiv.org/abs/2608.29084",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-01T04:00:00+00:00",
-      "summary": "arXiv:2608.29084v1 Announce Type: new Abstract: Face authentication is widely deployed in security-sensitive applications, while increasingly realistic 3D spoofing attacks pose growing threats. High-fidelity 3D masks can"
-    },
-    {
-      "title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
-      "link": "https://arxiv.org/abs/2608.27459",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-01T04:00:00+00:00",
-      "summary": "arXiv:2608.27459v1 Announce Type: new Abstract: In 2011, IBM's Watson was something like a sealed capsule of its era's queryable knowledge. Its DeepQA system defeated the strongest human Jeopardy! champions, but the know"
-    },
-    {
-      "title": "Rating the Raters: Rasch Measurement Theory for LLM Evaluation",
-      "link": "https://arxiv.org/abs/2608.27463",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-01T04:00:00+00:00",
-      "summary": "arXiv:2608.27463v1 Announce Type: new Abstract: LLMs now sit on every side of evaluation: as examinees scored on benchmarks, judges of other models' outputs, and raters of human-generated content. Each paradigm can be vi"
-    },
-    {
-      "title": "Not All Explanations Are Sought: Information-Seeking Psychology for Human-Centered XAI",
-      "link": "https://arxiv.org/abs/2608.27464",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-01T04:00:00+00:00",
-      "summary": "arXiv:2608.27464v1 Announce Type: new Abstract: This position paper argues that human-centered explainable AI (HCXAI) should incorporate insights from the psychology of information seeking. Drawing on Sharot and Sunstein"
-    },
-    {
-      "title": "Retrieving Relations, Detecting Fallacies: A RAG Approach to Political Debate Analysis",
-      "link": "https://arxiv.org/abs/2608.27471",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-01T04:00:00+00:00",
-      "summary": "arXiv:2608.27471v1 Announce Type: new Abstract: Fallacies are arguments that employ invalid reasoning, making their automatic detection critical in sensitive contexts such as high-stakes political debates, where public o"
-    },
-    {
-      "title": "LLM-Augmented Causal Discovery: Probabilistic Fusion of Edge Existence and Orientation",
-      "link": "https://arxiv.org/abs/2608.27472",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-01T04:00:00+00:00",
-      "summary": "arXiv:2608.27472v1 Announce Type: new Abstract: Bayesian network structure learning (BNSL) from observational data struggles with orientation identifiability, while large language models (LLMs) offer broad but often unre"
     }
   ]
 }
