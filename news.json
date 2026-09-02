@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T20:13:33.692440+00:00",
+  "generated_at": "2026-09-02T01:38:52.722028+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,70 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-02T01:00:00+00:00",
+      "summary": "Threat actors exploited commodity in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores."
+    },
+    {
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "published": "2026-09-01T22:40:28+00:00",
+      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose l"
+    },
+    {
+      "title": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)",
+      "link": "https://isc.sans.edu/diary/rss/33300",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-01T21:30:18+00:00",
+      "summary": "Introduction"
+    },
+    {
+      "title": "Attackers Pounce on Critical Artifactory Flaw Following Disclosure",
+      "link": "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-01T21:05:53+00:00",
+      "summary": "CVE-2026-82329 is an authentication bypass flaw in JFrog's repository manager that enables bad actors to gain admin-level access on affected systems."
+    },
+    {
+      "title": "Stronger Security Drives Ransomware Groups to Recruit From Within",
+      "link": "https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-01T21:03:19+00:00",
+      "summary": "Some security researchers have observed an uptick in insider-assisted ransomware attacks, but malicious insiders pose other threats that cost companies millions."
+    },
+    {
+      "title": "Critical Langflow Flaw Exploited as Attacks on AI Platform Rise",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-01T20:48:52+00:00",
+      "summary": "The attacks targeting CVE-2026-0768 are the latest threat against the low-code AI development platform, which is receiving more attention from adversaries this year."
+    },
+    {
+      "title": "China's 'Fire Ant' campaign used compromised Cisco routers as platform for more attacks",
+      "link": "https://therecord.media/router-hacks-fire-ant-group-china",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-01T20:35:00+00:00",
+      "summary": "A hacking operation dubbed Fire Ant \"didn\u2019t just compromise systems,\" according to researchers. \"It compromised the trust layer those systems depend on.\""
+    },
+    {
+      "title": "AI Model Evaluator METR Hit by Credential Theft, Probing",
+      "link": "https://www.darkreading.com/identity-access-management-security/ai-model-evaluator-metr-credential-theft-probing",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-01T20:13:09+00:00",
+      "summary": "In one attack, threat actors stole an API key that ultimately led to the consumption of $600,000 in public AI model credits for the security nonprofit."
+    },
     {
       "title": "How AI plotted an interstellar journey to Alpha Centauri",
       "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
@@ -267,70 +331,6 @@
       "category": "research",
       "published": "2026-09-01T04:00:00+00:00",
       "summary": "arXiv:2608.27472v1 Announce Type: new Abstract: Bayesian network structure learning (BNSL) from observational data struggles with orientation identifiability, while large language models (LLMs) offer broad but often unre"
-    },
-    {
-      "title": "Hypothesize, Evaluate, Refine: A Scientific Agent for PDE Discovery with Unknown Spatial Coefficient Fields",
-      "link": "https://arxiv.org/abs/2608.27475",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-01T04:00:00+00:00",
-      "summary": "arXiv:2608.27475v1 Announce Type: new Abstract: Discovering PDEs in heterogeneous media requires jointly identifying the governing operator and the unknown spatial fields that parameterize it. These tasks are coupled: ch"
-    },
-    {
-      "title": "Class-Based Heuristic Selection for Solving the Flying Block Puzzle",
-      "link": "https://arxiv.org/abs/2608.27476",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-01T04:00:00+00:00",
-      "summary": "arXiv:2608.27476v1 Announce Type: new Abstract: Heuristic search underlies planning in autonomous systems ranging from warehouse logistics to robotic navigation, yet generic heuristics fail to exploit the structural cons"
-    },
-    {
-      "title": "Benchmarking General Mobile Assistants in Challenging Real-World Scenarios",
-      "link": "https://arxiv.org/abs/2608.27477",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-01T04:00:00+00:00",
-      "summary": "arXiv:2608.27477v1 Announce Type: new Abstract: Graphical user interfaces have emerged as an important environment for evaluating autonomous AI agents on multimodal interactive tasks. Existing benchmarks such as AndroidW"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, September 1st, 2026 https://isc.sans.edu/podcastdetail/10076, (Tue, Sep 1st)",
-      "link": "https://isc.sans.edu/diary/rss/33302",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-01T02:00:03+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)",
-      "link": "https://isc.sans.edu/diary/rss/33300",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-01T00:33:21+00:00",
-      "summary": "Introduction"
-    },
-    {
-      "title": "Anthropic Users Hit by Infostealer Attacks, Session Thefts",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-31T21:08:46+00:00",
-      "summary": "A threat actor used a variety of infostealers to collect session information and access Claude accounts belonging to an unknown number of users."
-    },
-    {
-      "title": "Five plead guilty in latest federal ATM jackpotting case",
-      "link": "https://therecord.media/kansas-atm-jackpotting-guilty-pleas",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-08-31T20:31:00+00:00",
-      "summary": "Federal law enforcement continued to warn about ATM jackpotting gangs as it announced guilty pleas from five Venezuelan nationals."
-    },
-    {
-      "title": "'TerminalFix' Campaign Weaponizes PowerShell for Enterprise Attacks",
-      "link": "https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-08-31T20:25:36+00:00",
-      "summary": "The ClickFix-style campaign features a sophisticated, multistage attack chain that includes reverse tunnels into victim organizations' networks."
     }
   ]
 }
