@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T10:03:12.214080+00:00",
+  "generated_at": "2026-09-02T15:26:42.766003+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,94 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "New pro-Ukraine hacker group targets Russian companies with custom ransomware",
+      "link": "https://therecord.media/new-pro-ukraine-hacker-group-custom-ransomware-russia",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-02T15:07:00+00:00",
+      "summary": "The group, which calls itself VantaCore, has targeted at least seven known victims, Russian cybersecurity firm F6 said in a report published this week."
+    },
+    {
+      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+      "link": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-02T14:06:59+00:00",
+      "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them s"
+    },
+    {
+      "title": "Facilitating AI integration with simplicity at scale",
+      "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-02T14:00:00+00:00",
+      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silo"
+    },
+    {
+      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
+      "link": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-02T13:44:16+00:00",
+      "summary": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to "
+    },
+    {
+      "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
+      "link": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-02T13:12:45+00:00",
+      "summary": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A ho"
+    },
+    {
+      "title": "Hackers expose donor data from Russian fundraisers for Ukrainians, political prisoners",
+      "link": "https://therecord.media/hackers-russia-fundraisers-ukraine",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-02T13:00:00+00:00",
+      "summary": "Hackers reportedly gained access to payment accounts used by two Russian fundraising projects supporting Ukrainians and political prisoners, exposing donor email addresses and limited payment card information."
+    },
+    {
+      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
+      "link": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-02T12:22:02+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators ne"
+    },
+    {
+      "title": "Sality, one of the longest-running botnets, finally gets disrupted",
+      "link": "https://therecord.media/sality-botnet-cyber-doj",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-02T12:15:00+00:00",
+      "summary": "U.S. and European authorities disrupted the long-running botnet Sality, turning the malware\u2019s peer-to-peer architecture against itself to cut thousands of infected computers off from operators."
+    },
+    {
+      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-02T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and game"
+    },
+    {
+      "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
+      "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-02T11:30:00+00:00",
+      "summary": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on a"
+    },
+    {
+      "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-02T10:53:49+00:00",
+      "summary": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks. The vulnerabilities, discovered inte"
+    },
     {
       "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
       "link": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
@@ -27,30 +115,6 @@
       "category": "cybersecurity",
       "published": "2026-09-02T09:10:23+00:00",
       "summary": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,0"
-    },
-    {
-      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-      "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-02T07:47:13+00:00",
-      "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-s"
-    },
-    {
-      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-02T07:08:50+00:00",
-      "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (CVSS"
-    },
-    {
-      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
-      "link": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-02T06:56:30+00:00",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on August "
     },
     {
       "title": "AgentProv: Auditing Agentic LLM API Providers via Tool-use Policy Probes",
@@ -181,12 +245,20 @@
       "summary": "arXiv:2609.00028v1 Announce Type: new Abstract: Multimodal GUI agents have emerged as a promising paradigm for digital task automation, yet transitioning from benchmark-oriented models to dependable real-world applicatio"
     },
     {
+      "title": "ISC Stormcast For Wednesday, September 2nd, 2026 https://isc.sans.edu/podcastdetail/10078, (Wed, Sep 2nd)",
+      "link": "https://isc.sans.edu/diary/rss/33304",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-02T02:00:02+00:00",
+      "summary": ""
+    },
+    {
       "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-09-02T01:00:00+00:00",
-      "summary": "Threat actors exploited commodity in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores."
+      "summary": "Threat actors exploited commodity vulnerabilities in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores."
     },
     {
       "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
@@ -197,7 +269,15 @@
       "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose l"
     },
     {
-      "title": "Attackers Pounce on Critical Artifactory Flaw Following Disclosure",
+      "title": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)",
+      "link": "https://isc.sans.edu/diary/rss/33300",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-01T21:30:18+00:00",
+      "summary": "Introduction"
+    },
+    {
+      "title": "Attackers Pounce on Critical Artifactory Bug Following Disclosure",
       "link": "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure",
       "source": "Dark Reading",
       "category": "cybersecurity",
@@ -213,7 +293,7 @@
       "summary": "Some security researchers have observed an uptick in insider-assisted ransomware attacks, but malicious insiders pose other threats that cost companies millions."
     },
     {
-      "title": "Critical Langflow Flaw Exploited as Attacks on AI Platform Rise",
+      "title": "Critical Langflow Vulnerability Exploited as Attacks on AI Platform Rise",
       "link": "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise",
       "source": "Dark Reading",
       "category": "cybersecurity",
@@ -245,92 +325,12 @@
       "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029. It\u2019s a hugely ambitious mission\u2014if all goes well, the space"
     },
     {
-      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-01T17:53:11+00:00",
-      "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9."
-    },
-    {
-      "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
-      "link": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-01T17:19:24+00:00",
-      "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024. Google Threat Intelligence Group (GTIG)"
-    },
-    {
       "title": "How AI-native companies turn workflows into operating capability",
       "link": "https://openai.com/index/ai-native-company-workflows",
       "source": "OpenAI News",
       "category": "ai",
       "published": "2026-09-01T17:00:00+00:00",
       "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply."
-    },
-    {
-      "title": "Healthcare facilities operator Nutex says patient, employee data stolen in August incident",
-      "link": "https://therecord.media/nutex-health-data-breach",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-01T15:31:00+00:00",
-      "summary": "Cybercriminals breached company data and made an extortion attempt with it, Houston-based Nutex Health said in a filing with federal regulators."
-    },
-    {
-      "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
-      "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-01T14:07:20+00:00",
-      "summary": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and"
-    },
-    {
-      "title": "Making the AI-powered case for legacy modernization",
-      "link": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-01T14:00:00+00:00",
-      "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization "
-    },
-    {
-      "title": "ClickFix Campaign Compromises 31 Orgs, Abuses Polygon Blockchain",
-      "link": "https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-01T13:56:42+00:00",
-      "summary": "The campaign uses EtherHiding to dynamically update its command-and-control server, abusing the blockchain as an attacker-controlled address book."
-    },
-    {
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "link": "https://openai.com/index/path-to-astra",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-01T13:00:00+00:00",
-      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release."
-    },
-    {
-      "title": "Iranian cyber spies target aviation, fintech developers with new malware",
-      "link": "https://therecord.media/iranian-cyber-spies-target-aviation-fintech-new-malware",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-01T12:33:00+00:00",
-      "summary": "In a report published Tuesday, Kaspersky said it first discovered NodeRabbit on a system in Afghanistan and later identified variants on systems in Egypt and Ethiopia."
-    },
-    {
-      "title": "Cyber risk from frontier AI poses \u2018most immediate concern\u2019 to global financial system, watchdog warns",
-      "link": "https://therecord.media/cyber-risk-from-frontier-ai-most-immediate-concern-to-global-finance",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-01T12:28:00+00:00",
-      "summary": "Andrew Bailey, chair of the Financial Stability Board, called on financial institutions and technology providers to \u201cprepare for more severe scenarios involving simultaneous disruption across multiple firms or shared tec"
-    },
-    {
-      "title": "The Download: engineered microbes for crops, and OpenAI\u2019s culture problem",
-      "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-01T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. How engineered microbes could help feed the world\u2019s crops Fertilizer is crucial fo"
     }
   ]
 }
