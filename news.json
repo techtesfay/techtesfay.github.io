@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T20:11:52.826239+00:00",
+  "generated_at": "2026-09-03T01:43:45.421113+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,30 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "AI\u2019s Vulnerability Surge May Be More Manageable Than First Feared",
+      "link": "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-02T21:14:06+00:00",
+      "summary": "New research suggests the coming Vulnpocalypse may not be so overwhelming for enterprise security teams \u2014 if they have the right strategies."
+    },
+    {
+      "title": "SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-02T20:43:59+00:00",
+      "summary": "The exploitation activity follows attacks earlier this summer on two other zero-day vulnerabilities in the vendor's edge devices."
+    },
+    {
+      "title": "AI Gives Cybercriminals a Dangerous Time Advantage",
+      "link": "https://www.darkreading.com/threat-intelligence/ai-gives-cybercriminals-dangerous-time-advantage",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-02T19:46:31+00:00",
+      "summary": "Former cybercriminal Brett Johnson provides a look inside the mind of a threat actor and discusses where AI provides the most value for attackers."
+    },
     {
       "title": "Russian national facing 20 years for malware campaign that infected 80,000 freelancers",
       "link": "https://therecord.media/russian-national-facing-20-years-malware-campaign",
@@ -123,6 +147,14 @@
       "category": "ai",
       "published": "2026-09-02T12:10:00+00:00",
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and game"
+    },
+    {
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "link": "https://openai.com/index/atv-big-air-tour",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-02T12:00:00+00:00",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
     },
     {
       "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
@@ -299,38 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-09-01T21:30:18+00:00",
       "summary": "Introduction"
-    },
-    {
-      "title": "Attackers Pounce on Critical Artifactory Bug Following Disclosure",
-      "link": "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-01T21:05:53+00:00",
-      "summary": "CVE-2026-82329 is an authentication bypass flaw in JFrog's repository manager that enables bad actors to gain admin-level access on affected systems."
-    },
-    {
-      "title": "Stronger Security Drives Ransomware Groups to Recruit From Within",
-      "link": "https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-01T21:03:19+00:00",
-      "summary": "Some security researchers have observed an uptick in insider-assisted ransomware attacks, but malicious insiders pose other threats that cost companies millions."
-    },
-    {
-      "title": "Critical Langflow Vulnerability Exploited as Attacks on AI Platform Rise",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-01T20:48:52+00:00",
-      "summary": "The attacks targeting CVE-2026-0768 are the latest threat against the low-code AI development platform, which is receiving more attention from adversaries this year."
-    },
-    {
-      "title": "AI Model Evaluator METR Hit by Credential Theft, Probing",
-      "link": "https://www.darkreading.com/identity-access-management-security/ai-model-evaluator-metr-credential-theft-probing",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-01T20:13:09+00:00",
-      "summary": "In one attack, threat actors stole an API key that ultimately led to the consumption of $600,000 in public AI model credits for the security nonprofit."
     }
   ]
 }
