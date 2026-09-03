@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T01:43:45.421113+00:00",
+  "generated_at": "2026-09-03T10:13:20.551974+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,182 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Scaling agentic AI pilots across the enterprise",
+      "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-03T09:30:32+00:00",
+      "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that r"
+    },
+    {
+      "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
+      "link": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-03T08:43:17+00:00",
+      "summary": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation. \"Our analysi"
+    },
+    {
+      "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
+      "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-03T06:26:59+00:00",
+      "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon. \"Falc"
+    },
+    {
+      "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+      "link": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-03T05:19:04+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs. The vulnerabilitie"
+    },
+    {
+      "title": "Context Inference Attacks Without Jailbreaks",
+      "link": "https://arxiv.org/abs/2609.01663",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-03T04:00:00+00:00",
+      "summary": "arXiv:2609.01663v1 Announce Type: new Abstract: Agentic AI systems are increasingly deployed to process sensitive data at inference time, such as healthcare records or financial documents assembled into a hidden \\emph{co"
+    },
+    {
+      "title": "Private Computation Space: Experience with Trusted Multi-Cluster Federated Learning for Agriculture",
+      "link": "https://arxiv.org/abs/2609.01667",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-03T04:00:00+00:00",
+      "summary": "arXiv:2609.01667v1 Announce Type: new Abstract: Artificial Intelligence has shown to help improve agricultural practices, yet adoption remains limited: 69% of U.S. farmers have privacy concerns with sharing their data, a"
+    },
+    {
+      "title": "Ranked by the Matcher: A Reproducibility Audit of Knowledge Graph Extraction from Threat Reports",
+      "link": "https://arxiv.org/abs/2609.01671",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-03T04:00:00+00:00",
+      "summary": "arXiv:2609.01671v1 Announce Type: new Abstract: Security teams and researchers choose knowledge-graph extraction tooling for threat reports on the strength of published triple-F1 scores, yet those scores depend on how pr"
+    },
+    {
+      "title": "Skill-as-API: Confidential Multi-Agent Coordination for Agentic Software Engineering",
+      "link": "https://arxiv.org/abs/2609.01677",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-03T04:00:00+00:00",
+      "summary": "arXiv:2609.01677v1 Announce Type: new Abstract: AI coding agents are evolving from solitary tools into collaborative teammates that discover and invoke one another's specialized skills. But the coordination channel itsel"
+    },
+    {
+      "title": "Public-Sharing Labels and Verbatim Field Egress in an MCP-to-A2A Agent Configuration: A Controlled Multi-Model Study",
+      "link": "https://arxiv.org/abs/2609.01693",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-03T04:00:00+00:00",
+      "summary": "arXiv:2609.01693v1 Announce Type: new Abstract: Safety properties assessed separately for Model Context Protocol (MCP) tool use and Agent2Agent (A2A) delegation need not describe behavior when one agent uses both. We mea"
+    },
+    {
+      "title": "Hearing the Whispers: Black-Box Membership Inference Attacks on Finetuned TTS Models",
+      "link": "https://arxiv.org/abs/2609.01723",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-03T04:00:00+00:00",
+      "summary": "arXiv:2609.01723v1 Announce Type: new Abstract: Text-to-Speech (TTS) foundation models are increasingly fine-tuned on private datasets to synthesize highly personalized voices, introducing severe privacy risks by exposin"
+    },
+    {
+      "title": "HEAT: Faster Fully Homomorphic Inference via Approximations-Weights Co-Adaptation",
+      "link": "https://arxiv.org/abs/2609.01730",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-03T04:00:00+00:00",
+      "summary": "arXiv:2609.01730v1 Announce Type: new Abstract: Fully homomorphic encryption (FHE) allows a server to run a language model directly on encrypted user prompts, but current approaches remain prohibitively slow. Ciphertexts"
+    },
+    {
+      "title": "Towards Behavior Tree-Guided Vulnerability Detection with Lightweight LLMs",
+      "link": "https://arxiv.org/abs/2609.01758",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-03T04:00:00+00:00",
+      "summary": "arXiv:2609.01758v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly used for software vulnerability detection, but their performance depends on how source code is represented in the input. Most "
+    },
+    {
+      "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+      "link": "https://arxiv.org/abs/2609.01611",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-03T04:00:00+00:00",
+      "summary": "arXiv:2609.01611v1 Announce Type: new Abstract: Frontier large language models can often recognize when they are being evaluated, a capability known as evaluation awareness. If models behave differently in evaluations th"
+    },
+    {
+      "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+      "link": "https://arxiv.org/abs/2609.01685",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-03T04:00:00+00:00",
+      "summary": "arXiv:2609.01685v1 Announce Type: new Abstract: With the development of artificial intelligence (AI), the landscape of meta-ethics, which has largely centred on human ethics, faces pressures that may significantly reconf"
+    },
+    {
+      "title": "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
+      "link": "https://arxiv.org/abs/2609.01741",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-03T04:00:00+00:00",
+      "summary": "arXiv:2609.01741v1 Announce Type: new Abstract: Statutes are increasingly parsed by machines before people read them, and the parsers disagree: on Missouri's statutes, two independently written extractors diverge on nume"
+    },
+    {
+      "title": "When Does Information Sharing Improve Decentralized Discovery? Aggregation, Independent Rescue, and Equilibrium Selection",
+      "link": "https://arxiv.org/abs/2609.01814",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-03T04:00:00+00:00",
+      "summary": "arXiv:2609.01814v1 Announce Type: new Abstract: Information sharing can improve a pooled estimate while eliminating independent rescue actions. This paper separates those effects in exact finite discovery models. A centr"
+    },
+    {
+      "title": "Induction and Inquiry via Probabilistic Reasoning over Language and Code",
+      "link": "https://arxiv.org/abs/2609.01815",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-03T04:00:00+00:00",
+      "summary": "arXiv:2609.01815v1 Announce Type: new Abstract: How humans grow and maintain abstract knowledge from the sparse, streaming noisy data of experience is a longstanding challenge in cognitive science. Any computational acco"
+    },
+    {
+      "title": "Architecting Conversational Data Systems for Stateless LLM APIs: The Hydration Proxy Pattern",
+      "link": "https://arxiv.org/abs/2609.01834",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-03T04:00:00+00:00",
+      "summary": "arXiv:2609.01834v1 Announce Type: new Abstract: As enterprise platforms transition to conversational reasoning interfaces, the stateless nature of LLM APIs creates an architectural gap. While statelessness enables horizo"
+    },
+    {
+      "title": "SSAKG 2.0: An Open-Source Package for Structural Associative Sequence Memory and Context-Based Retrieval",
+      "link": "https://arxiv.org/abs/2609.01849",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-03T04:00:00+00:00",
+      "summary": "arXiv:2609.01849v1 Announce Type: new Abstract: This article presents SSAKG 2.0, an open-source software package for constructing and operating Structural Sequential Associative Knowledge Graphs (SSAKGs). An SSAKG repres"
+    },
+    {
+      "title": "The Memory Trust Gap: Capability-Dependent Failures in Persistent-Memory Agents",
+      "link": "https://arxiv.org/abs/2609.01852",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-03T04:00:00+00:00",
+      "summary": "arXiv:2609.01852v1 Announce Type: new Abstract: Persistent memory supports personalized agents, but a stale stored fact can override current authoritative evidence without warning. We study when this harm begins as model"
+    },
+    {
+      "title": "Honeypot-Omaha and batch.py [Guest Diary], (Wed, Sep 2nd)",
+      "link": "https://isc.sans.edu/diary/rss/33306",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-03T02:02:56+00:00",
+      "summary": "[This is a Guest Diary by Frank Igbokwe, an ISC intern as part of the SANS.edu BACS program]"
+    },
+    {
+      "title": "ISC Stormcast For Thursday, September 3rd, 2026 https://isc.sans.edu/podcastdetail/10080, (Thu, Sep 3rd)",
+      "link": "https://isc.sans.edu/diary/rss/33308",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-03T02:00:03+00:00",
+      "summary": ""
+    },
     {
       "title": "AI\u2019s Vulnerability Surge May Be More Manageable Than First Feared",
       "link": "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
@@ -125,14 +301,6 @@
       "summary": "Hackers reportedly gained access to payment accounts used by two Russian fundraising projects supporting Ukrainians and political prisoners, exposing donor email addresses and limited payment card information."
     },
     {
-      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
-      "link": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-02T12:22:02+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators ne"
-    },
-    {
       "title": "Sality, one of the longest-running botnets, finally gets disrupted",
       "link": "https://therecord.media/sality-botnet-cyber-doj",
       "source": "The Record",
@@ -157,180 +325,12 @@
       "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
     },
     {
-      "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
-      "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-02T11:30:00+00:00",
-      "summary": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on a"
-    },
-    {
-      "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-02T10:53:49+00:00",
-      "summary": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks. The vulnerabilities, discovered inte"
-    },
-    {
-      "title": "AgentProv: Auditing Agentic LLM API Providers via Tool-use Policy Probes",
-      "link": "https://arxiv.org/abs/2609.00052",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-02T04:00:00+00:00",
-      "summary": "arXiv:2609.00052v1 Announce Type: new Abstract: Commercial LLM APIs advertise a specific foundation model, but the served backbone may be silently substituted, quantized, or wrapped, for example to save deployment costs."
-    },
-    {
-      "title": "A Formal Analysis of Agent Payment Protocols",
-      "link": "https://arxiv.org/abs/2609.00060",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-02T04:00:00+00:00",
-      "summary": "arXiv:2609.00060v1 Announce Type: new Abstract: Agent payment protocols are emerging as a key transaction layer for autonomous commerce, enabling AI agents to purchase goods and services and execute payments on users' be"
-    },
-    {
-      "title": "Explainable Artificial Intelligence for Industrial Cybersecurity: A Review of Methods, Operational Integration, and Research Challenges",
-      "link": "https://arxiv.org/abs/2609.00171",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-02T04:00:00+00:00",
-      "summary": "arXiv:2609.00171v1 Announce Type: new Abstract: The increasing digitalization of industrial infrastructure and the convergence of information technology (IT) and operational technology (OT) have expanded the cyberattack "
-    },
-    {
-      "title": "DUPIN: Attack Learning Is Still Needed! Demonstrating Few-Shot after Unsupervised Pretraining Is A Nimble Forensics Learner",
-      "link": "https://arxiv.org/abs/2609.00259",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-02T04:00:00+00:00",
-      "summary": "arXiv:2609.00259v1 Announce Type: new Abstract: We propose a novel approach to learning-based attack forensics called DUPIN. DUPIN performs unsupervised pre-training on an enormous amount of audit events in the form of p"
-    },
-    {
-      "title": "Delegation Without Trust: An Empirical Gap Analysis of Identity, Authorization, and Runtime Governance in Multi-Agent LLM Systems",
-      "link": "https://arxiv.org/abs/2609.00267",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-02T04:00:00+00:00",
-      "summary": "arXiv:2609.00267v1 Announce Type: new Abstract: Autonomous LLM agents increasingly act on a user's behalf: they hold credentials, call tools and services, and spawn sub-agents that act further on their behalf. This turns"
-    },
-    {
-      "title": "Workload Identification with Physical Side Channels for AI Governance",
-      "link": "https://arxiv.org/abs/2609.00309",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-02T04:00:00+00:00",
-      "summary": "arXiv:2609.00309v1 Announce Type: new Abstract: AI compute verification is one of the first tangible and tractable points for international policy aimed at AI governance. Determining whether frontier labs, or any operato"
-    },
-    {
-      "title": "OreProof: Verifiable Provenance with Limited Disclosure for Critical-Minerals Supply Chains Using Zero-Knowledge Proofs",
-      "link": "https://arxiv.org/abs/2609.00340",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-02T04:00:00+00:00",
-      "summary": "arXiv:2609.00340v1 Announce Type: new Abstract: Critical-minerals supply chains face a structural tension: regulators and buyers demand verifiable provenance, yet upstream actors are hesitant to disclose supplier identit"
-    },
-    {
-      "title": "NeuroPriv: Adversarial Representation Learning for Privacy in Wearable EEG Systems",
-      "link": "https://arxiv.org/abs/2609.00390",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-02T04:00:00+00:00",
-      "summary": "arXiv:2609.00390v1 Announce Type: new Abstract: Wearable EEG systems may expose sensitive information beyond their intended health function, creating substantial risks to neuroprivacy. In this work, we show that commonly"
-    },
-    {
-      "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
-      "link": "https://arxiv.org/abs/2609.00002",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-02T04:00:00+00:00",
-      "summary": "arXiv:2609.00002v1 Announce Type: new Abstract: World models enable language-model agents to predict environment dynamics and plan before acting. In text environments, the model must learn symbolic action effects from se"
-    },
-    {
-      "title": "I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
-      "link": "https://arxiv.org/abs/2609.00003",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-02T04:00:00+00:00",
-      "summary": "arXiv:2609.00003v1 Announce Type: new Abstract: Machine unlearning studies the removal of knowledge from an AI model, making the system forget a concept it previously learned. Despite rapid progress in generative machine"
-    },
-    {
-      "title": "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
-      "link": "https://arxiv.org/abs/2609.00004",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-02T04:00:00+00:00",
-      "summary": "arXiv:2609.00004v1 Announce Type: new Abstract: This paper studies a finite-horizon multi-item capacitated lot-sizing problem in which demand quantities are deterministic, while demand-arrival periods are stochastic. Eac"
-    },
-    {
-      "title": "Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models",
-      "link": "https://arxiv.org/abs/2609.00005",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-02T04:00:00+00:00",
-      "summary": "arXiv:2609.00005v1 Announce Type: new Abstract: Financial scams targeting older adults increasingly occur through text and voice channels such as email, SMS, and phone calls, unfolding over multiple conversational turns "
-    },
-    {
-      "title": "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls",
-      "link": "https://arxiv.org/abs/2609.00012",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-02T04:00:00+00:00",
-      "summary": "arXiv:2609.00012v1 Announce Type: new Abstract: Long-horizon tasks remain uncommon in large language model (LLM) evaluation, and for a reason: when each step depends on the last, per-step accuracy that looks excellent in"
-    },
-    {
-      "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
-      "link": "https://arxiv.org/abs/2609.00015",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-02T04:00:00+00:00",
-      "summary": "arXiv:2609.00015v1 Announce Type: new Abstract: AI agents powered by large language models are evolving from isolated assistants into heterogeneous systems in which multiple agents, planners, controllers, and execution b"
-    },
-    {
-      "title": "SCAFFOLD: A Large-Scale Structured Dataset of Computer Science Research Figures with Diagram QA and Chain-of-Thought Reasoning Traces",
-      "link": "https://arxiv.org/abs/2609.00018",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-02T04:00:00+00:00",
-      "summary": "arXiv:2609.00018v1 Announce Type: new Abstract: Computer science papers rely heavily on diagrams: architecture drawings, system flowcharts, and pipeline schematics that often carry more information than the text around t"
-    },
-    {
-      "title": "UI-Venus-2 Technical Report",
-      "link": "https://arxiv.org/abs/2609.00028",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-02T04:00:00+00:00",
-      "summary": "arXiv:2609.00028v1 Announce Type: new Abstract: Multimodal GUI agents have emerged as a promising paradigm for digital task automation, yet transitioning from benchmark-oriented models to dependable real-world applicatio"
-    },
-    {
       "title": "ISC Stormcast For Wednesday, September 2nd, 2026 https://isc.sans.edu/podcastdetail/10078, (Wed, Sep 2nd)",
       "link": "https://isc.sans.edu/diary/rss/33304",
       "source": "SANS Internet Storm Center",
       "category": "cybersecurity",
       "published": "2026-09-02T02:00:02+00:00",
       "summary": ""
-    },
-    {
-      "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-02T01:00:00+00:00",
-      "summary": "Threat actors exploited commodity vulnerabilities in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores."
-    },
-    {
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "source": "Krebs on Security",
-      "category": "cybersecurity",
-      "published": "2026-09-01T22:40:28+00:00",
-      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose l"
-    },
-    {
-      "title": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)",
-      "link": "https://isc.sans.edu/diary/rss/33300",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-01T21:30:18+00:00",
-      "summary": "Introduction"
     }
   ]
 }
