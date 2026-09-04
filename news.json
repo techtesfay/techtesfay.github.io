@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T10:03:13.008022+00:00",
+  "generated_at": "2026-09-04T15:15:57.275212+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,54 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+      "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-04T14:51:13+00:00",
+      "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected"
+    },
+    {
+      "title": "UK account-hack losses surge as new reporting system exposes hidden cases",
+      "link": "https://therecord.media/uk-account-hack-losses-surge-as-reporting-changes",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-04T14:45:00+00:00",
+      "summary": "In its first annual assessment, published Friday, the City of London Police said victims reported losing \u00a36.3 million ($8.5 million) to account hacks in the year ending March 31, up from \u00a31.2 million ($1.6 million) a yea"
+    },
+    {
+      "title": "Russian data centers face new security requirements amid Ukraine's drone threats",
+      "link": "https://therecord.media/russia-data-centers-ukraine-drone-threats",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-04T13:39:00+00:00",
+      "summary": "Russia's data centers are concentrated in areas increasingly exposed to Ukrainian drone attacks. The Kremlin wants them to stiffen their physical defenses."
+    },
+    {
+      "title": "AI Is Ending the Era of Hidden Vulnerabilities \u2014 Are Vendors Ready?",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-04T13:00:00+00:00",
+      "summary": "A tidal wave of bug reports is overwhelming software vendors, exposing secure-by-design failures and creating disclosure bottlenecks."
+    },
+    {
+      "title": "G7 urges organizations to prepare for quantum cyber threats",
+      "link": "https://therecord.media/g7-urges-organizations-to-prepare-for-quantum-threats",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-04T12:34:00+00:00",
+      "summary": "In a joint advisory released Thursday, the G7 Cyber Security Working Group and the U.S. Cybersecurity and Infrastructure Security Agency, CISA, said organizations should begin moving to post-quantum cryptography now."
+    },
+    {
+      "title": "The Download: selling battlefield drone data and AI reshaping language",
+      "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-04T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace \u2014Cory Alpert, a"
+    },
     {
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
       "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
@@ -237,14 +285,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts. \"Unlike the st"
     },
     {
-      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
-      "link": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-03T14:39:05+00:00",
-      "summary": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. s"
-    },
-    {
       "title": "AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours",
       "source": "Dark Reading",
@@ -291,46 +331,6 @@
       "category": "ai",
       "published": "2026-09-03T12:00:00+00:00",
       "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
-    },
-    {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-03T12:00:00+00:00",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
-    },
-    {
-      "title": "Agriculture relies on fossil fuels. It\u2019s costing us.",
-      "link": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-03T10:00:00+00:00",
-      "summary": "If you\u2019ve had to fill up your vehicle\u2019s gas tank or buy a plane ticket lately, you\u2019ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how"
-    },
-    {
-      "title": "Scaling agentic AI pilots across the enterprise",
-      "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-03T09:30:32+00:00",
-      "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that r"
-    },
-    {
-      "title": "Honeypot-Omaha and batch.py [Guest Diary], (Wed, Sep 2nd)",
-      "link": "https://isc.sans.edu/diary/rss/33306",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-03T02:02:56+00:00",
-      "summary": "[This is a Guest Diary by Frank Igbokwe, an ISC intern as part of the SANS.edu BACS program]"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, September 3rd, 2026 https://isc.sans.edu/podcastdetail/10080, (Thu, Sep 3rd)",
-      "link": "https://isc.sans.edu/diary/rss/33308",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-03T02:00:03+00:00",
-      "summary": ""
     }
   ]
 }
