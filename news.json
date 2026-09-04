@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T15:15:57.275212+00:00",
+  "generated_at": "2026-09-04T19:57:48.312072+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,46 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Architecting memory and storage in the AI era",
+      "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-04T18:39:19+00:00",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of com"
+    },
+    {
+      "title": "Companies Have 6 Months to Prepare for Automated Attacks",
+      "link": "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-04T15:57:31+00:00",
+      "summary": "Frontier AI models have already demonstrated they can autonomously \u2014 and in some cases, inadvertently \u2014 conduct end-to-end compromises, but the situation will become more urgent very soon."
+    },
+    {
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+      "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-04T15:57:15+00:00",
+      "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to"
+    },
+    {
+      "title": "US, Britain to coordinate on scam center takedowns",
+      "link": "https://therecord.media/scam-compounds-coordination-us-uk-memorandum",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-04T15:42:00+00:00",
+      "summary": "The U.S. Department of Justice and the U.K.'s National Crime Agency and Crown Prosecutor signed a memorandum to cooperate on cases involving Southeast Asian scam operations."
+    },
+    {
+      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+      "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-04T15:20:19+00:00",
+      "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-20"
+    },
     {
       "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
       "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
@@ -99,6 +139,14 @@
       "category": "cybersecurity",
       "published": "2026-09-04T06:47:52+00:00",
       "summary": "OpenAI on Thursday officially unveiled GPT\u20116 Astra, which it described as the \"world's most intelligent and aligned model.\" The development comes days after the artificial intelligence (AI) company said the model had rea"
+    },
+    {
+      "title": "US offers $10 million for info on Iranian allegedly behind cyberattacks on critical infrastructure",
+      "link": "https://therecord.media/us-reward-amir-yaryab-iran-irgc-cyberattacks",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-04T04:00:00+00:00",
+      "summary": "Amir Yaryab is the leader of the IRGC's cyber unit and oversees hacker groups such as the CyberAv3ngers, the State Department said in posting a reward for information about him."
     },
     {
       "title": "A Public-Key-Dependent Adversarial-Deletion Ceiling for Fixed-Alphabet Multi-Bit Pseudorandom Codes",
@@ -253,14 +301,6 @@
       "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the latest antics of ShinyHunters to new research about the prevalence (or lack thereof) of AI-generated m"
     },
     {
-      "title": "Large group of Serbian opposition, activist figures targeted with spyware",
-      "link": "https://therecord.media/serbia-spyware-pegasus-europe",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-03T19:30:41+00:00",
-      "summary": "At least 14 Serbians have been targeted with advanced spyware since December, with victims including a member of Parliament, a local opposition politician and student protesters, according to digital forensic researchers"
-    },
-    {
       "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
       "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
       "source": "The Hacker News",
@@ -269,20 +309,12 @@
       "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click \u201cAllow.\u201d Why break in when someone might open the door? That idea runs through this edition. Attack"
     },
     {
-      "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
-      "link": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
-      "source": "The Hacker News",
+      "title": "What the AI Warning Letter Completely Missed",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-warning-letter-missed-people",
+      "source": "Dark Reading",
       "category": "cybersecurity",
-      "published": "2026-09-03T15:52:07+00:00",
-      "summary": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardenin"
-    },
-    {
-      "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
-      "link": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-03T15:26:47+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts. \"Unlike the st"
+      "published": "2026-09-03T17:23:14+00:00",
+      "summary": "The recent AI warning letter is right about the \"window,\" but it omits naming who is coming through it or, critically, who will close it."
     },
     {
       "title": "AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours",
@@ -299,38 +331,6 @@
       "category": "ai",
       "published": "2026-09-03T13:15:00+00:00",
       "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
-    },
-    {
-      "title": "The Download: rethinking child safety and fossil-fueled farming",
-      "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-03T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining f"
-    },
-    {
-      "title": "'Breeze Comet' Tears Into Brazilian & Global Financial Systems",
-      "link": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-03T12:00:00+00:00",
-      "summary": "Brazil's most sophisticated threat group is making light work of the country's financial systems, putting money directly into its own pocket."
-    },
-    {
-      "title": "US and Canadian court data exposed in Thomson Reuters breach",
-      "link": "https://therecord.media/thomson-reuters-cyberattack-data",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-03T12:00:00+00:00",
-      "summary": "Sealed court information and sensitive personal data were exposed in a breach of a Thomson Reuters records platform affecting courts in at least 12 U.S. states, the U.S. Virgin Islands and Canada."
-    },
-    {
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-03T12:00:00+00:00",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
     }
   ]
 }
