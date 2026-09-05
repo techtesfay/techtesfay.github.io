@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T19:57:48.312072+00:00",
+  "generated_at": "2026-09-05T01:38:57.505056+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "numbat - AI agent observability, (Fri, Sep 4th)",
+      "link": "https://isc.sans.edu/diary/rss/33312",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-05T01:13:36+00:00",
+      "summary": "\u00e2\u20ac\u2039\u00e2\u20ac\u2039\u00e2\u20ac\u2039\u00e2\u20ac\u2039\u00e2\u20ac\u2039\u00e2\u20ac\u2039\u00e2\u20ac\u2039"
+    },
     {
       "title": "Architecting memory and storage in the AI era",
       "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
@@ -91,6 +99,14 @@
       "category": "cybersecurity",
       "published": "2026-09-04T12:34:00+00:00",
       "summary": "In a joint advisory released Thursday, the G7 Cyber Security Working Group and the U.S. Cybersecurity and Infrastructure Security Agency, CISA, said organizations should begin moving to post-quantum cryptography now."
+    },
+    {
+      "title": "Insurers Search for Answers to Rein in Rogue AI",
+      "link": "https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-04T12:15:03+00:00",
+      "summary": "As incidents of unintended harm caused by rogue AI agents mount, CISOs and insurance firms are figuring out how to handle the fallout."
     },
     {
       "title": "The Download: selling battlefield drone data and AI reshaping language",
@@ -315,22 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-09-03T17:23:14+00:00",
       "summary": "The recent AI warning letter is right about the \"window,\" but it omits naming who is coming through it or, critically, who will close it."
-    },
-    {
-      "title": "AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-03T14:38:49+00:00",
-      "summary": "The incident demonstrates how frontier AI agents can dramatically compress an attack timeline and coordinate a large-scale breach, according to researchers."
-    },
-    {
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-03T13:15:00+00:00",
-      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
     }
   ]
 }
