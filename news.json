@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T01:38:57.505056+00:00",
+  "generated_at": "2026-09-05T09:32:22.775760+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,12 +13,92 @@
   ],
   "items": [
     {
+      "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
+      "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-05T07:55:10+00:00",
+      "summary": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a "
+    },
+    {
+      "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-05T07:31:53+00:00",
+      "summary": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary Research Team said it observed at"
+    },
+    {
+      "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
+      "link": "https://arxiv.org/abs/2609.02981",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-05T04:00:00+00:00",
+      "summary": "arXiv:2609.02981v1 Announce Type: new Abstract: Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems that can diagnose learners, recommend task"
+    },
+    {
+      "title": "MasterControl Seventeen Every Time",
+      "link": "https://arxiv.org/abs/2609.03209",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-05T04:00:00+00:00",
+      "summary": "arXiv:2609.03209v1 Announce Type: new Abstract: We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects and runs a pre-approved analytical progra"
+    },
+    {
+      "title": "Speculative Macro Commit for Faster Tool-Using Agents",
+      "link": "https://arxiv.org/abs/2609.03236",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-05T04:00:00+00:00",
+      "summary": "arXiv:2609.03236v1 Announce Type: new Abstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment transition, and obse"
+    },
+    {
+      "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
+      "link": "https://arxiv.org/abs/2609.03340",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-05T04:00:00+00:00",
+      "summary": "arXiv:2609.03340v1 Announce Type: new Abstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from requirement $r_3$, another agent may com"
+    },
+    {
+      "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
+      "link": "https://arxiv.org/abs/2609.03402",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-05T04:00:00+00:00",
+      "summary": "arXiv:2609.03402v1 Announce Type: new Abstract: Artificial intelligence (AI) teaching assistants powered by large language models (LLMs) offer scalable educational support but often provide limited personalization. This "
+    },
+    {
+      "title": "Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation",
+      "link": "https://arxiv.org/abs/2609.03407",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-05T04:00:00+00:00",
+      "summary": "arXiv:2609.03407v1 Announce Type: new Abstract: People increasingly turn to large language models (LLMs) for everyday advice, making ethically charged interpersonal problems a practical moral-advisory context. Most prior"
+    },
+    {
+      "title": "Dude: A Dual-Detection Multi-Agent System for Paper-Code Discrepancy Detection",
+      "link": "https://arxiv.org/abs/2609.03416",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-05T04:00:00+00:00",
+      "summary": "arXiv:2609.03416v1 Announce Type: new Abstract: LLM-empowered paper-code discrepancy detection has received growing concern since the scaling of research submissions exceeds the manual review capability. However, the lim"
+    },
+    {
+      "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
+      "link": "https://arxiv.org/abs/2609.03423",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-05T04:00:00+00:00",
+      "summary": "arXiv:2609.03423v1 Announce Type: new Abstract: Full-duplex voice agents must continuously decide when to listen, backchannel, interrupt, handle speech overlaps, take the floor, and yield. Existing benchmarks largely tes"
+    },
+    {
       "title": "numbat - AI agent observability, (Fri, Sep 4th)",
       "link": "https://isc.sans.edu/diary/rss/33312",
       "source": "SANS Internet Storm Center",
       "category": "cybersecurity",
-      "published": "2026-09-05T01:13:36+00:00",
-      "summary": "\u00e2\u20ac\u2039\u00e2\u20ac\u2039\u00e2\u20ac\u2039\u00e2\u20ac\u2039\u00e2\u20ac\u2039\u00e2\u20ac\u2039\u00e2\u20ac\u2039"
+      "published": "2026-09-05T03:39:52+00:00",
+      "summary": ""
     },
     {
       "title": "Architecting memory and storage in the AI era",
@@ -149,148 +229,12 @@
       "summary": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8), h"
     },
     {
-      "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
-      "link": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-04T06:47:52+00:00",
-      "summary": "OpenAI on Thursday officially unveiled GPT\u20116 Astra, which it described as the \"world's most intelligent and aligned model.\" The development comes days after the artificial intelligence (AI) company said the model had rea"
-    },
-    {
       "title": "US offers $10 million for info on Iranian allegedly behind cyberattacks on critical infrastructure",
       "link": "https://therecord.media/us-reward-amir-yaryab-iran-irgc-cyberattacks",
       "source": "The Record",
       "category": "cybersecurity",
       "published": "2026-09-04T04:00:00+00:00",
       "summary": "Amir Yaryab is the leader of the IRGC's cyber unit and oversees hacker groups such as the CyberAv3ngers, the State Department said in posting a reward for information about him."
-    },
-    {
-      "title": "A Public-Key-Dependent Adversarial-Deletion Ceiling for Fixed-Alphabet Multi-Bit Pseudorandom Codes",
-      "link": "https://arxiv.org/abs/2609.02943",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-04T04:00:00+00:00",
-      "summary": "arXiv:2609.02943v1 Announce Type: new Abstract: A pseudorandom code (PRC) is a keyed error-correcting code whose codewords are computationally indistinguishable from uniform strings. We study public-key PRCs over fixed a"
-    },
-    {
-      "title": "Privacy-Preserving Heterogeneous Multi-LLM Federated Inference for Cognitive Diagnosis",
-      "link": "https://arxiv.org/abs/2609.02947",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-04T04:00:00+00:00",
-      "summary": "arXiv:2609.02947v1 Announce Type: new Abstract: Significant challenges remain in AI-driven educational systems in balancing privacy preservation with accurate cognitive diagnosis. To overcome this, we propose a federated"
-    },
-    {
-      "title": "PrivateHub: Contrastive Diffusion Model for Private Sensor-Intensive Environment Data Generation",
-      "link": "https://arxiv.org/abs/2609.02958",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-04T04:00:00+00:00",
-      "summary": "arXiv:2609.02958v1 Announce Type: new Abstract: Sensor-intensive environments enable many intelligent services by inferring user applications from heterogeneous data streams. However, not all applications should be expos"
-    },
-    {
-      "title": "When Optimization Becomes Manipulation: Defending Generative Search against Malicious Generative Engine Optimization",
-      "link": "https://arxiv.org/abs/2609.02964",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-04T04:00:00+00:00",
-      "summary": "arXiv:2609.02964v1 Announce Type: new Abstract: This paper focuses on defending generative search engines against malicious Generative Engine Optimization (GEO), which rewrites web documents to match engines' citation pr"
-    },
-    {
-      "title": "Privacy-Preserving Topology-Guided Safety for LLM-Based Multi-Agent Systems via Federated Graph Learning",
-      "link": "https://arxiv.org/abs/2609.02967",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-04T04:00:00+00:00",
-      "summary": "arXiv:2609.02967v1 Announce Type: new Abstract: Topology-guided safeguards for LLM-based multi-agent systems (MAS) train a GNN over the inter-agent communication graph to localize risky agents and intervene on the topolo"
-    },
-    {
-      "title": "Privacy Leakage in Federated Learning: Gradient-Based Client Identity Inference and Defenses for Inertial Sensing in Vehicular Edge Networks",
-      "link": "https://arxiv.org/abs/2609.02971",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-04T04:00:00+00:00",
-      "summary": "arXiv:2609.02971v1 Announce Type: new Abstract: As vehicular networks move toward 5G/6G edge intelligence, federated learning (FL) is widely promoted as a privacy-preserving way for vehicles and infrastructure to train s"
-    },
-    {
-      "title": "Boundary-Mutation Testing for Pattern-Based Secret Detection: A Rule-Level Method and Cross-Scanner Evaluation",
-      "link": "https://arxiv.org/abs/2609.02983",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-04T04:00:00+00:00",
-      "summary": "arXiv:2609.02983v1 Announce Type: new Abstract: Pattern-based secret scanners are commonly validated with example-based fixtures that fix one variable: the text surrounding a credential. We introduce boundary-mutation te"
-    },
-    {
-      "title": "Population-Calibrated Graph Screening at 835-Million-Address Scale, with Label-Free Transfer to New Chains",
-      "link": "https://arxiv.org/abs/2609.03036",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-04T04:00:00+00:00",
-      "summary": "arXiv:2609.03036v1 Announce Type: new Abstract: Compliance screening of blockchain addresses is, in practice, a lookup against sanctions registries plus clustering heuristics; it fails on unlabelled addresses and on chai"
-    },
-    {
-      "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
-      "link": "https://arxiv.org/abs/2609.02981",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-04T04:00:00+00:00",
-      "summary": "arXiv:2609.02981v1 Announce Type: new Abstract: Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems that can diagnose learners, recommend task"
-    },
-    {
-      "title": "MasterControl Seventeen Every Time",
-      "link": "https://arxiv.org/abs/2609.03209",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-04T04:00:00+00:00",
-      "summary": "arXiv:2609.03209v1 Announce Type: new Abstract: We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects and runs a pre-approved analytical progra"
-    },
-    {
-      "title": "Speculative Macro Commit for Faster Tool-Using Agents",
-      "link": "https://arxiv.org/abs/2609.03236",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-04T04:00:00+00:00",
-      "summary": "arXiv:2609.03236v1 Announce Type: new Abstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment transition, and obse"
-    },
-    {
-      "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
-      "link": "https://arxiv.org/abs/2609.03340",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-04T04:00:00+00:00",
-      "summary": "arXiv:2609.03340v1 Announce Type: new Abstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from requirement $r_3$, another agent may com"
-    },
-    {
-      "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
-      "link": "https://arxiv.org/abs/2609.03402",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-04T04:00:00+00:00",
-      "summary": "arXiv:2609.03402v1 Announce Type: new Abstract: Artificial intelligence (AI) teaching assistants powered by large language models (LLMs) offer scalable educational support but often provide limited personalization. This "
-    },
-    {
-      "title": "Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation",
-      "link": "https://arxiv.org/abs/2609.03407",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-04T04:00:00+00:00",
-      "summary": "arXiv:2609.03407v1 Announce Type: new Abstract: People increasingly turn to large language models (LLMs) for everyday advice, making ethically charged interpersonal problems a practical moral-advisory context. Most prior"
-    },
-    {
-      "title": "Dude: A Dual-Detection Multi-Agent System for Paper-Code Discrepancy Detection",
-      "link": "https://arxiv.org/abs/2609.03416",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-04T04:00:00+00:00",
-      "summary": "arXiv:2609.03416v1 Announce Type: new Abstract: LLM-empowered paper-code discrepancy detection has received growing concern since the scaling of research submissions exceeds the manual review capability. However, the lim"
-    },
-    {
-      "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
-      "link": "https://arxiv.org/abs/2609.03423",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-04T04:00:00+00:00",
-      "summary": "arXiv:2609.03423v1 Announce Type: new Abstract: Full-duplex voice agents must continuously decide when to listen, backchannel, interrupt, handle speech overlaps, take the floor, and yield. Existing benchmarks largely tes"
     },
     {
       "title": "ISC Stormcast For Friday, September 4th, 2026 https://isc.sans.edu/podcastdetail/10082, (Fri, Sep 4th)",
@@ -317,20 +261,76 @@
       "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the latest antics of ShinyHunters to new research about the prevalence (or lack thereof) of AI-generated m"
     },
     {
-      "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
-      "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-03T18:02:47+00:00",
-      "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click \u201cAllow.\u201d Why break in when someone might open the door? That idea runs through this edition. Attack"
-    },
-    {
       "title": "What the AI Warning Letter Completely Missed",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-warning-letter-missed-people",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-09-03T17:23:14+00:00",
       "summary": "The recent AI warning letter is right about the \"window,\" but it omits naming who is coming through it or, critically, who will close it."
+    },
+    {
+      "title": "AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-03T14:38:49+00:00",
+      "summary": "The incident demonstrates how frontier AI agents can dramatically compress an attack timeline and coordinate a large-scale breach, according to researchers."
+    },
+    {
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-03T13:15:00+00:00",
+      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
+    },
+    {
+      "title": "The Download: rethinking child safety and fossil-fueled farming",
+      "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-03T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining f"
+    },
+    {
+      "title": "'Breeze Comet' Tears Into Brazilian & Global Financial Systems",
+      "link": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-03T12:00:00+00:00",
+      "summary": "Brazil's most sophisticated threat group is making light work of the country's financial systems, putting money directly into its own pocket."
+    },
+    {
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-03T12:00:00+00:00",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
+    },
+    {
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-03T12:00:00+00:00",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
+    },
+    {
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "link": "https://openai.com/index/gpt-6-astra",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-03T11:00:00+00:00",
+      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
+    },
+    {
+      "title": "Agriculture relies on fossil fuels. It\u2019s costing us.",
+      "link": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-03T10:00:00+00:00",
+      "summary": "If you\u2019ve had to fill up your vehicle\u2019s gas tank or buy a plane ticket lately, you\u2019ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how"
     }
   ]
 }
