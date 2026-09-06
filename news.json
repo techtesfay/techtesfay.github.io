@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T19:37:39.392492+00:00",
+  "generated_at": "2026-09-06T01:32:52.362885+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+      "link": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-05T20:14:47+00:00",
+      "summary": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec "
+    },
     {
       "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
       "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
@@ -163,14 +171,6 @@
       "category": "cybersecurity",
       "published": "2026-09-04T15:20:19+00:00",
       "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-20"
-    },
-    {
-      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
-      "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-04T14:51:13+00:00",
-      "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected"
     },
     {
       "title": "UK account-hack losses surge as new reporting system exposes hidden cases",
