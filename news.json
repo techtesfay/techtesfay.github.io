@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T14:29:28.682652+00:00",
+  "generated_at": "2026-09-06T19:40:10.768960+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -21,12 +21,28 @@
       "summary": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska's "
     },
     {
+      "title": "An Alien Mind",
+      "link": "https://openai.com/index/an-alien-mind",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-06T09:00:00+00:00",
+      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
+    },
+    {
       "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
       "link": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
       "source": "The Hacker News",
       "category": "cybersecurity",
       "published": "2026-09-06T08:34:20+00:00",
       "summary": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself. One of th"
+    },
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-06T08:00:00+00:00",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
     },
     {
       "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
@@ -237,20 +253,20 @@
       "summary": "Brazil's most sophisticated threat group is making light work of the country's financial systems, putting money directly into its own pocket."
     },
     {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-03T12:00:00+00:00",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
-    },
-    {
       "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
       "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
       "source": "OpenAI News",
       "category": "ai",
       "published": "2026-09-03T12:00:00+00:00",
       "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
+    },
+    {
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-03T12:00:00+00:00",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
     },
     {
       "title": "GPT-6 Astra: A new generation of intelligence",
@@ -315,22 +331,6 @@
       "category": "ai",
       "published": "2026-09-02T12:10:00+00:00",
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and game"
-    },
-    {
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "link": "https://openai.com/index/atv-big-air-tour",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-02T12:00:00+00:00",
-      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, September 2nd, 2026 https://isc.sans.edu/podcastdetail/10078, (Wed, Sep 2nd)",
-      "link": "https://isc.sans.edu/diary/rss/33304",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-02T02:00:02+00:00",
-      "summary": ""
     }
   ]
 }
