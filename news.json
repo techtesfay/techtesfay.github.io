@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T01:32:52.362885+00:00",
+  "generated_at": "2026-09-06T09:46:52.798235+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -59,70 +59,6 @@
       "category": "cybersecurity",
       "published": "2026-09-05T07:31:53+00:00",
       "summary": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary Research Team said it observed at"
-    },
-    {
-      "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
-      "link": "https://arxiv.org/abs/2609.02981",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-05T04:00:00+00:00",
-      "summary": "arXiv:2609.02981v1 Announce Type: new Abstract: Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems that can diagnose learners, recommend task"
-    },
-    {
-      "title": "MasterControl Seventeen Every Time",
-      "link": "https://arxiv.org/abs/2609.03209",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-05T04:00:00+00:00",
-      "summary": "arXiv:2609.03209v1 Announce Type: new Abstract: We study a governed approach to enterprise analytics: a language model interprets the question, while deterministic policy selects and runs a pre-approved analytical progra"
-    },
-    {
-      "title": "Speculative Macro Commit for Faster Tool-Using Agents",
-      "link": "https://arxiv.org/abs/2609.03236",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-05T04:00:00+00:00",
-      "summary": "arXiv:2609.03236v1 Announce Type: new Abstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment transition, and obse"
-    },
-    {
-      "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
-      "link": "https://arxiv.org/abs/2609.03340",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-05T04:00:00+00:00",
-      "summary": "arXiv:2609.03340v1 Announce Type: new Abstract: Distributed LLM-agent teams can read the latest shared facts and still act on an obsolete plan. A planner may derive an action from requirement $r_3$, another agent may com"
-    },
-    {
-      "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
-      "link": "https://arxiv.org/abs/2609.03402",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-05T04:00:00+00:00",
-      "summary": "arXiv:2609.03402v1 Announce Type: new Abstract: Artificial intelligence (AI) teaching assistants powered by large language models (LLMs) offer scalable educational support but often provide limited personalization. This "
-    },
-    {
-      "title": "Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation",
-      "link": "https://arxiv.org/abs/2609.03407",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-05T04:00:00+00:00",
-      "summary": "arXiv:2609.03407v1 Announce Type: new Abstract: People increasingly turn to large language models (LLMs) for everyday advice, making ethically charged interpersonal problems a practical moral-advisory context. Most prior"
-    },
-    {
-      "title": "Dude: A Dual-Detection Multi-Agent System for Paper-Code Discrepancy Detection",
-      "link": "https://arxiv.org/abs/2609.03416",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-05T04:00:00+00:00",
-      "summary": "arXiv:2609.03416v1 Announce Type: new Abstract: LLM-empowered paper-code discrepancy detection has received growing concern since the scaling of research submissions exceeds the manual review capability. However, the lim"
-    },
-    {
-      "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
-      "link": "https://arxiv.org/abs/2609.03423",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-05T04:00:00+00:00",
-      "summary": "arXiv:2609.03423v1 Announce Type: new Abstract: Full-duplex voice agents must continuously decide when to listen, backchannel, interrupt, handle speech overlaps, take the floor, and yield. Existing benchmarks largely tes"
     },
     {
       "title": "numbat - AI agent observability, (Fri, Sep 4th)",
@@ -331,6 +267,70 @@
       "category": "ai",
       "published": "2026-09-03T10:00:00+00:00",
       "summary": "If you\u2019ve had to fill up your vehicle\u2019s gas tank or buy a plane ticket lately, you\u2019ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how"
+    },
+    {
+      "title": "Scaling agentic AI pilots across the enterprise",
+      "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-03T09:30:32+00:00",
+      "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that r"
+    },
+    {
+      "title": "Honeypot-Omaha and batch.py [Guest Diary], (Wed, Sep 2nd)",
+      "link": "https://isc.sans.edu/diary/rss/33306",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-03T02:02:56+00:00",
+      "summary": "[This is a Guest Diary by Frank Igbokwe, an ISC intern as part of the SANS.edu BACS program]"
+    },
+    {
+      "title": "ISC Stormcast For Thursday, September 3rd, 2026 https://isc.sans.edu/podcastdetail/10080, (Thu, Sep 3rd)",
+      "link": "https://isc.sans.edu/diary/rss/33308",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-03T02:00:03+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Safety overview: GPT-6 Astra",
+      "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-03T00:00:00+00:00",
+      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework."
+    },
+    {
+      "title": "Facilitating AI integration with simplicity at scale",
+      "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-02T14:00:00+00:00",
+      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silo"
+    },
+    {
+      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-02T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and game"
+    },
+    {
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "link": "https://openai.com/index/atv-big-air-tour",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-02T12:00:00+00:00",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
+    },
+    {
+      "title": "ISC Stormcast For Wednesday, September 2nd, 2026 https://isc.sans.edu/podcastdetail/10078, (Wed, Sep 2nd)",
+      "link": "https://isc.sans.edu/diary/rss/33304",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-02T02:00:02+00:00",
+      "summary": ""
     }
   ]
 }
