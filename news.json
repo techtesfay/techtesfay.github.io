@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T16:44:11.003966+00:00",
+  "generated_at": "2026-09-07T20:51:11.444727+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+      "link": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-07T18:12:09+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser. \"Requiring prior administrative or code ex"
+    },
     {
       "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
       "link": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
@@ -227,14 +235,6 @@
       "category": "cybersecurity",
       "published": "2026-09-06T21:43:17+00:00",
       "summary": "Mikrotik released a patch late last week for an already-exploited vulnerability. The vulnerability allows an SSH authentication bypass and is already being exploited. At this point, assume compromise. Attackers have been"
-    },
-    {
-      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
-      "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-06T09:32:38+00:00",
-      "summary": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska's "
     },
     {
       "title": "An Alien Mind",
