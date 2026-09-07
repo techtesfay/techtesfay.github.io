@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T19:40:10.768960+00:00",
+  "generated_at": "2026-09-07T01:31:34.784298+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Critical MikroTik Vulnerability - Patch Now, (Sun, Sep 6th)",
+      "link": "https://isc.sans.edu/diary/rss/33314",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-06T21:43:17+00:00",
+      "summary": "Mikrotik released a patch late last week for an already-exploited vulnerability. The vulnerability allows an SSH authentication bypass and is already being exploited. At this point, assume compromise. Attackers have been"
+    },
     {
       "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
       "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
@@ -323,14 +331,6 @@
       "category": "ai",
       "published": "2026-09-02T14:00:00+00:00",
       "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silo"
-    },
-    {
-      "title": "The Download: AI puzzles and a path to our nearest star system",
-      "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-02T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and game"
     }
   ]
 }
