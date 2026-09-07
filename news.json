@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T01:31:34.784298+00:00",
+  "generated_at": "2026-09-07T10:52:10.022515+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,158 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+      "link": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-07T08:31:12+00:00",
+      "summary": "Every on-premises N-central build below 2026.3.1.14 \u2014 including servers updated to Hotfix 3 a day earlier \u2014 needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say tha"
+    },
+    {
+      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+      "link": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-07T07:53:04+00:00",
+      "summary": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities. \"The payloads are protected with javas"
+    },
+    {
+      "title": "Blockchain-Enabled Secure Logging for Fiscal Electronic Mechanisms: Evaluation of the Greek eSEND and myDATA Tax Systems",
+      "link": "https://arxiv.org/abs/2609.04356",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-07T04:00:00+00:00",
+      "summary": "arXiv:2609.04356v1 Announce Type: new Abstract: This paper analyzes the implementation of blockchain-based integrity mechanisms in Greek Fiscal Electronic Mechanisms (FEMs) and the central tax information system eSEND. T"
+    },
+    {
+      "title": "Privacy Failure in Split-LLM Training, The Returned Gradient Nullifies the Decoys",
+      "link": "https://arxiv.org/abs/2609.04382",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-07T04:00:00+00:00",
+      "summary": "arXiv:2609.04382v1 Announce Type: new Abstract: We present a systems-security case study of a two-node split-LLM training system whose privacy evaluation passed while leaving an observable channel untested. The Trusted L"
+    },
+    {
+      "title": "Candidate Comparability Before Promotion: Conditional Validation in Adaptive Network Intrusion Detection",
+      "link": "https://arxiv.org/abs/2609.04388",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-07T04:00:00+00:00",
+      "summary": "arXiv:2609.04388v1 Announce Type: new Abstract: Adaptive network intrusion detection systems retrain classifiers after drift alarms, but an alarm detects change; it does not establish that a challenger should replace the"
+    },
+    {
+      "title": "Engineered Persuasion: Evaluating Personalized Pretexts in LLM-Generated Spear Phishing",
+      "link": "https://arxiv.org/abs/2609.04410",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-07T04:00:00+00:00",
+      "summary": "arXiv:2609.04410v1 Announce Type: new Abstract: Large language models can insert workplace details into phishing pretexts at low cost, but those details may either support or undermine a message's credibility. We recruit"
+    },
+    {
+      "title": "Nebulon Enterprise Simulated Threats for Phishing Research (NEST-Phish): A Synthetic Enterprise Phishing Email Dataset for Behavioral and Machine-Learning Research",
+      "link": "https://arxiv.org/abs/2609.04474",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-07T04:00:00+00:00",
+      "summary": "arXiv:2609.04474v1 Announce Type: new Abstract: Phishing remains one of the most persistent cyber threats, yet publicly shareable datasets for studying phishing in realistic enterprise email settings remain limited. To a"
+    },
+    {
+      "title": "Client-Side Probing of Deleted Ridge Statistics in Federated Unlearning",
+      "link": "https://arxiv.org/abs/2609.04475",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-07T04:00:00+00:00",
+      "summary": "arXiv:2609.04475v1 Announce Type: new Abstract: Federated unlearning aims to remove a client's data from a shared model without retraining from scratch. Some efficient systems make deletion exact by storing compact, addi"
+    },
+    {
+      "title": "Hoss: Fast Oblivious Semantic Search with Heterogeneous GPU-CPU-TEE Architecture",
+      "link": "https://arxiv.org/abs/2609.04522",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-07T04:00:00+00:00",
+      "summary": "arXiv:2609.04522v1 Announce Type: new Abstract: Semantic search is widely deployed in modern AI systems, but protecting both data contents and access patterns remains challenging. The current state-of-the-art system, Com"
+    },
+    {
+      "title": "Repeat-After-Me: Black-Box Adaptive Visual Prompt Injection",
+      "link": "https://arxiv.org/abs/2609.04533",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-07T04:00:00+00:00",
+      "summary": "arXiv:2609.04533v1 Announce Type: new Abstract: Prompt injection is widely recognized as a major security threat to AI agents that interact with untrusted external data, such as websites, documents, and emails. Prior wor"
+    },
+    {
+      "title": "EXAONE Forecast for Finance",
+      "link": "https://arxiv.org/abs/2609.04239",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-07T04:00:00+00:00",
+      "summary": "arXiv:2609.04239v1 Announce Type: new Abstract: This technical report presents EXAONE Forecast for Finance (EXAONE Finance), a financial time series (TS) foundation model (TSFM) tailored to financial forecasting. Recent "
+    },
+    {
+      "title": "From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance",
+      "link": "https://arxiv.org/abs/2609.04286",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-07T04:00:00+00:00",
+      "summary": "arXiv:2609.04286v1 Announce Type: new Abstract: Artificial intelligence in recruitment has shifted the object being automated from profile pairs and ranked lists to multi-stage workflows that retrieve evidence, compare c"
+    },
+    {
+      "title": "Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation",
+      "link": "https://arxiv.org/abs/2609.04298",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-07T04:00:00+00:00",
+      "summary": "arXiv:2609.04298v1 Announce Type: new Abstract: Evaluating agents on the growing number of agentic benchmarks is challenging because they often require complex environments and agent integrations. We introduce Harbor Ada"
+    },
+    {
+      "title": "Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security",
+      "link": "https://arxiv.org/abs/2609.04300",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-07T04:00:00+00:00",
+      "summary": "arXiv:2609.04300v1 Announce Type: new Abstract: Ensuring the security of the power system is essential for stability and reliability, especially in the event of disruption. Effective classification of contingency in powe"
+    },
+    {
+      "title": "Iris: Climbing to the Search Frontier",
+      "link": "https://arxiv.org/abs/2609.04304",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-07T04:00:00+00:00",
+      "summary": "arXiv:2609.04304v1 Announce Type: new Abstract: We present Iris-mini and Iris-pro, two search agents trained at the 35B-A3B and 397B-A17B scales, together with the data pipeline and training recipe behind them. Tasks are"
+    },
+    {
+      "title": "A Removal Based Approach to Improve LLM Faithfulness at Test-Time",
+      "link": "https://arxiv.org/abs/2609.04343",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-07T04:00:00+00:00",
+      "summary": "arXiv:2609.04343v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for consequential decisions, making their explanations an important tool for auditing model behavior. Unfortunately, thes"
+    },
+    {
+      "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
+      "link": "https://arxiv.org/abs/2609.04373",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-07T04:00:00+00:00",
+      "summary": "arXiv:2609.04373v1 Announce Type: new Abstract: Large language models (LLMs) are being deployed at scale in consequential real-world systems, from financial markets to content moderation to hiring. We show that improving"
+    },
+    {
+      "title": "Corporate Language Model (CLM): Transforming Tacit and Fragmented Enterprise Knowledge into a Sovereign, Auditable, and Executable Corporate Intelligence Layer",
+      "link": "https://arxiv.org/abs/2609.04377",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-07T04:00:00+00:00",
+      "summary": "arXiv:2609.04377v1 Announce Type: new Abstract: Enterprise AI deployments fail not from model inadequacy, but because organizations lack a structured substrate encoding how they decide, negotiate, and execute. Generic LL"
+    },
+    {
+      "title": "Supporting independent journalism in Ukraine",
+      "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-07T00:00:00+00:00",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism."
+    },
     {
       "title": "Critical MikroTik Vulnerability - Patch Now, (Sun, Sep 6th)",
       "link": "https://isc.sans.edu/diary/rss/33314",
@@ -83,22 +235,6 @@
       "category": "cybersecurity",
       "published": "2026-09-05T14:17:02+00:00",
       "summary": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk. The exposed information includes customer names, email"
-    },
-    {
-      "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
-      "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-05T07:55:10+00:00",
-      "summary": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a "
-    },
-    {
-      "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-05T07:31:53+00:00",
-      "summary": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary Research Team said it observed at"
     },
     {
       "title": "numbat - AI agent observability, (Fri, Sep 4th)",
@@ -195,142 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-09-04T04:00:00+00:00",
       "summary": "Amir Yaryab is the leader of the IRGC's cyber unit and oversees hacker groups such as the CyberAv3ngers, the State Department said in posting a reward for information about him."
-    },
-    {
-      "title": "ISC Stormcast For Friday, September 4th, 2026 https://isc.sans.edu/podcastdetail/10082, (Fri, Sep 4th)",
-      "link": "https://isc.sans.edu/diary/rss/33310",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-04T02:00:02+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Large Enterprises Targeted in Fake Merger & Acquisition Scams",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-03T20:18:14+00:00",
-      "summary": "Threat actors behind the \"Phantom Deal\" campaign are studying companies in extreme detail, aiming to dupe midlevel employees into initiating large financial transfers."
-    },
-    {
-      "title": "What We Missed: Did ShinyHunters 'Breach' ReliaQuest?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-03T19:42:39+00:00",
-      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the latest antics of ShinyHunters to new research about the prevalence (or lack thereof) of AI-generated m"
-    },
-    {
-      "title": "What the AI Warning Letter Completely Missed",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-warning-letter-missed-people",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-03T17:23:14+00:00",
-      "summary": "The recent AI warning letter is right about the \"window,\" but it omits naming who is coming through it or, critically, who will close it."
-    },
-    {
-      "title": "AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-03T14:38:49+00:00",
-      "summary": "The incident demonstrates how frontier AI agents can dramatically compress an attack timeline and coordinate a large-scale breach, according to researchers."
-    },
-    {
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-03T13:15:00+00:00",
-      "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
-    },
-    {
-      "title": "The Download: rethinking child safety and fossil-fueled farming",
-      "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-03T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining f"
-    },
-    {
-      "title": "'Breeze Comet' Tears Into Brazilian & Global Financial Systems",
-      "link": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-03T12:00:00+00:00",
-      "summary": "Brazil's most sophisticated threat group is making light work of the country's financial systems, putting money directly into its own pocket."
-    },
-    {
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-03T12:00:00+00:00",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
-    },
-    {
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-03T12:00:00+00:00",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
-    },
-    {
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "link": "https://openai.com/index/gpt-6-astra",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-03T11:00:00+00:00",
-      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
-    },
-    {
-      "title": "Agriculture relies on fossil fuels. It\u2019s costing us.",
-      "link": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-03T10:00:00+00:00",
-      "summary": "If you\u2019ve had to fill up your vehicle\u2019s gas tank or buy a plane ticket lately, you\u2019ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how"
-    },
-    {
-      "title": "Scaling agentic AI pilots across the enterprise",
-      "link": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-03T09:30:32+00:00",
-      "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that r"
-    },
-    {
-      "title": "Honeypot-Omaha and batch.py [Guest Diary], (Wed, Sep 2nd)",
-      "link": "https://isc.sans.edu/diary/rss/33306",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-03T02:02:56+00:00",
-      "summary": "[This is a Guest Diary by Frank Igbokwe, an ISC intern as part of the SANS.edu BACS program]"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, September 3rd, 2026 https://isc.sans.edu/podcastdetail/10080, (Thu, Sep 3rd)",
-      "link": "https://isc.sans.edu/diary/rss/33308",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-03T02:00:03+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Safety overview: GPT-6 Astra",
-      "link": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-03T00:00:00+00:00",
-      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework."
-    },
-    {
-      "title": "Facilitating AI integration with simplicity at scale",
-      "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-02T14:00:00+00:00",
-      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silo"
     }
   ]
 }
