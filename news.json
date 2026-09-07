@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T10:52:10.022515+00:00",
+  "generated_at": "2026-09-07T16:44:11.003966+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,62 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
+      "link": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-07T15:51:56+00:00",
+      "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk "
+    },
+    {
+      "title": "\u26a1 Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-07T14:36:07+00:00",
+      "summary": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if"
+    },
+    {
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-07T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is search"
+    },
+    {
+      "title": "Berlin investigates new data leak after hackers publish stolen login credentials",
+      "link": "https://therecord.media/germany-berlin-second-data-breach-city-agencies",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-07T11:50:00+00:00",
+      "summary": "Another trove of data from Berlin's government has appeared online, authorities said. Germany's information security agency separately warned about the Rhysida cybercrime group."
+    },
+    {
+      "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
+      "link": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-07T11:45:00+00:00",
+      "summary": "If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS, "
+    },
+    {
+      "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
+      "link": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-07T11:36:39+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems. According to Huntr"
+    },
+    {
+      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE \u2014 Public Exploit Released",
+      "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-07T11:20:14+00:00",
+      "summary": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution \u2014 but only against applications in a specific non-default configuration, and Progres"
+    },
     {
       "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
       "link": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
@@ -189,52 +245,12 @@
       "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
     },
     {
-      "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
-      "link": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-06T08:34:20+00:00",
-      "summary": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself. One of th"
-    },
-    {
       "title": "Research acceleration: The view inside OpenAI",
       "link": "https://openai.com/index/research-acceleration-view-inside-openai",
       "source": "OpenAI News",
       "category": "ai",
       "published": "2026-09-06T08:00:00+00:00",
       "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
-    },
-    {
-      "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-      "link": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-05T20:14:47+00:00",
-      "summary": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec "
-    },
-    {
-      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
-      "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-05T16:52:33+00:00",
-      "summary": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to bre"
-    },
-    {
-      "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
-      "link": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-05T16:05:08+00:00",
-      "summary": "Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions. The vulnerability,"
-    },
-    {
-      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
-      "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-05T14:17:02+00:00",
-      "summary": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk. The exposed information includes customer names, email"
     },
     {
       "title": "numbat - AI agent observability, (Fri, Sep 4th)",
@@ -315,22 +331,6 @@
       "category": "ai",
       "published": "2026-09-04T12:10:00+00:00",
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace \u2014Cory Alpert, a"
-    },
-    {
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-04T09:25:19+00:00",
-      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there\u2019s a new gold mine for the defense sector. The"
-    },
-    {
-      "title": "US offers $10 million for info on Iranian allegedly behind cyberattacks on critical infrastructure",
-      "link": "https://therecord.media/us-reward-amir-yaryab-iran-irgc-cyberattacks",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-04T04:00:00+00:00",
-      "summary": "Amir Yaryab is the leader of the IRGC's cyber unit and oversees hacker groups such as the CyberAv3ngers, the State Department said in posting a reward for information about him."
     }
   ]
 }
