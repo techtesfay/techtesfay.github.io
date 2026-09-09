@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T15:25:17.919810+00:00",
+  "generated_at": "2026-09-09T20:07:08.813972+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,86 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "US disrupts Xinbi Guarantee marketplace fueling the cyber scam economy",
+      "link": "https://therecord.media/us-disrupts-xinbi-guarantee-marketplace-cybercrime",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-09T19:54:00+00:00",
+      "summary": "The U.S. government also carried out a seizure of $52.8 million from 52 wallets connected to the platform."
+    },
+    {
+      "title": "US Government Accuses Chinese AI Firms of Distilling Frontier Models",
+      "link": "https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-09T19:47:50+00:00",
+      "summary": "US agencies claim Chinese companies covertly extracted billions of tokens from OpenAI, Anthropic, Google Gemini, and SpaceX's Grok to reduce development costs."
+    },
+    {
+      "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
+      "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-09T18:26:05+00:00",
+      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run th"
+    },
+    {
+      "title": "Grindr settles privacy lawsuit tied to disclosure of users\u2019 HIV statuses for $35 million",
+      "link": "https://therecord.media/grindr-settles-privacy-lawsuit-hiv-status-35-million",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-09T18:11:00+00:00",
+      "summary": "The settlement concludes a legal fight that dates to April 2024, when UK users sued for the alleged violations of their country\u2019s privacy laws."
+    },
+    {
+      "title": "Scans for Proxmox Servers, (Wed, Sep 9th)",
+      "link": "https://isc.sans.edu/diary/rss/33324",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-09T17:46:24+00:00",
+      "summary": "About a week ago, Proxmox published an advisory revealing a vulnerability in older versions of Proxmox VE, its flagship Virtual Environment product. The vulnerability only affects version 7, which has not been supported "
+    },
+    {
+      "title": "Electronic health record company says customer data stolen in breach",
+      "link": "https://therecord.media/electronic-health-record-company-says-customer-data-stolen-in-breach",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-09T17:03:00+00:00",
+      "summary": "Veradigm said access was limited to a specific interface, and did not impact the company\u2019s broader environment such as its networks, servers or databases. The incident did not result in operational disruptions, the compa"
+    },
+    {
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-09T17:00:00+00:00",
+      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
+    },
+    {
+      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+      "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-09T16:34:05+00:00",
+      "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. "
+    },
+    {
+      "title": "Multiple Chinese hacking groups seen using identical Chrome zero-day exploit",
+      "link": "https://therecord.media/china-hackers-chrome-browser-zero-day-multiple-groups",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-09T16:30:00+00:00",
+      "summary": "A Google Chrome bug identified in August was exploited by at least four China-linked cyber-espionage groups, according to researchers."
+    },
+    {
+      "title": "FBI puts its cyber strategy on paper",
+      "link": "https://therecord.media/fbi-releases-first-public-cybersecurity-strategy",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-09T15:37:00+00:00",
+      "summary": "The first public cybersecurity strategy issued by the FBI \"directs our teams, our field offices, our global presence\" to align their efforts on countering malicious hackers and cybercrime groups, senior official Brett Le"
+    },
     {
       "title": "Identity-Based AI Attack Threatens Security of Enterprise Data",
       "link": "https://www.darkreading.com/threat-intelligence/identity-based-ai-attack-security-enterprise-data",
@@ -27,14 +107,6 @@
       "category": "cybersecurity",
       "published": "2026-09-09T14:23:55+00:00",
       "summary": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others. Inf"
-    },
-    {
-      "title": "Ukraine prosecutor general steps down amid scam call center bribery probe",
-      "link": "https://therecord.media/ukraine-prosecutor-general-scam-center",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-09T12:15:00+00:00",
-      "summary": "Ukraine\u2019s prosecutor general, Ruslan Kravchenko, resigned this week over allegations that officials in his office took bribes to shield scam call centers from law enforcement."
     },
     {
       "title": "The Download: OpenAI\u2019s turning point for math and a battery record",
@@ -93,28 +165,12 @@
       "summary": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That\u2019s enough to supply the daily electricity needs of"
     },
     {
-      "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
-      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-09T08:19:32+00:00",
-      "summary": "cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing on the server through"
-    },
-    {
       "title": "Understanding the thermal ceiling in portable power",
       "link": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
       "source": "MIT Technology Review",
       "category": "ai",
       "published": "2026-09-09T08:18:13+00:00",
       "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It\u2019s the connected device protecting itself. As temperature rises during charging, a smartphone\u2019s bat"
-    },
-    {
-      "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
-      "link": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-09T07:36:49+00:00",
-      "summary": "Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an analysis published on September 7. When Apache loads any of the th"
     },
     {
       "title": "Constructions of complete permutations over $\\mathbb{F}_q^n$",
@@ -261,14 +317,6 @@
       "summary": ""
     },
     {
-      "title": "Microsoft posts nearly 1,000 bugs for Patch Tuesday as CISA warns two being exploited",
-      "link": "https://therecord.media/microsoft-patch-tuesday-september-2026",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-08T22:40:00+00:00",
-      "summary": "The new record total for Patch Tuesday is 973 vulnerabilities."
-    },
-    {
       "title": "Microsoft Plugs Nearly 1,000 Security Holes",
       "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
       "source": "Krebs on Security",
@@ -283,54 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-09-08T21:26:02+00:00",
       "summary": "Attackers are actively exploiting two of the vulnerabilities and another 58 are more likely to be exploited, according to Microsoft."
-    },
-    {
-      "title": "Attackers Use Multi-Hop Google Redirects for Phishing Campaign",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-08T21:03:46+00:00",
-      "summary": "Threat actors are abusing multiple Google services to evade detection, ultimately harvesting credentials or installing ScreenConnect remote access."
-    },
-    {
-      "title": "Scammer behind $245 million crypto heist pleads guilty to RICO charges",
-      "link": "https://therecord.media/scammer-behind-245-million-crypto-heist-pleads-guilty-rico",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-08T20:52:00+00:00",
-      "summary": "Malone Lam was indicted on scamming charges in September 2024 after drawing law enforcement scrutiny for parlaying stolen crypto into lavish Hamptons vacations, cars and private jets."
-    },
-    {
-      "title": "OpenAI Agents Took Over Wiki Site Before Hugging Face Attack",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-08T20:36:15+00:00",
-      "summary": "Researchers and OpenAI disagree on whether the earlier incident involving DseWiki, which the company did not disclose, was a \u201chack.\""
-    },
-    {
-      "title": "CIA official touts agency\u2019s Cyber Mission Center in capture of Venezuela\u2019s Maduro",
-      "link": "https://therecord.media/cia-cyber-operations-maduro-capture-venezuela",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-08T19:46:00+00:00",
-      "summary": "A \"flawless\" performance by the CIA's Cyber Mission Center contributed to the capture of Venezuelan President Nicol\u00e1s Maduro in January, agency Deputy Director Michael Ellis says."
-    },
-    {
-      "title": "Russian suspect in bank account takeovers is extradited to US",
-      "link": "https://therecord.media/russian-cybercrime-bank-extradition",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-08T19:37:42+00:00",
-      "summary": "A Russian web developer who played a role in a multimillion-dollar bank account takeover scheme has been extradited to the U.S. to face an indictment."
-    },
-    {
-      "title": "September 2026 Microsoft Patch Tuesday, (Tue, Sep 8th)",
-      "link": "https://isc.sans.edu/diary/rss/33320",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-08T19:20:30+00:00",
-      "summary": "This month, Microsoft released patches for a record-breaking 973 vulnerabilities, including 113 rated critical. It is by far the largest Patch Tuesday to date, well ahead of the previous high of 664 set in July 2026. Two"
     }
   ]
 }
