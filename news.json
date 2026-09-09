@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T10:14:02.874921+00:00",
+  "generated_at": "2026-09-09T15:25:17.919810+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,70 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Identity-Based AI Attack Threatens Security of Enterprise Data",
+      "link": "https://www.darkreading.com/threat-intelligence/identity-based-ai-attack-security-enterprise-data",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-09T14:39:44+00:00",
+      "summary": "\"Workflow identity hijacking\" can bypass standard security controls and hijack an organization's data by sending a basic request through an unauthenticated entry point."
+    },
+    {
+      "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
+      "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-09T14:23:55+00:00",
+      "summary": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others. Inf"
+    },
+    {
+      "title": "Ukraine prosecutor general steps down amid scam call center bribery probe",
+      "link": "https://therecord.media/ukraine-prosecutor-general-scam-center",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-09T12:15:00+00:00",
+      "summary": "Ukraine\u2019s prosecutor general, Ruslan Kravchenko, resigned this week over allegations that officials in his office took bribes to shield scam call centers from law enforcement."
+    },
+    {
+      "title": "The Download: OpenAI\u2019s turning point for math and a battery record",
+      "link": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-09T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. What OpenAI\u2019s latest controversy tells us about the future of math OpenAI says its"
+    },
+    {
+      "title": "Webinar: Learn How to Answer \u201cAre We Exposed?\u201d Faster After a New CVE",
+      "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-09T11:57:36+00:00",
+      "summary": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed? For many security teams, answering that means jumping between vulnerability scanners, endpoint too"
+    },
+    {
+      "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
+      "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-09T11:17:07+00:00",
+      "summary": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command. The tool runs an agent's commands insid"
+    },
+    {
+      "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
+      "link": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-09T10:43:04+00:00",
+      "summary": "Bitcoin wallet company Alby has warned of a critical flaw in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the internet. Alby Hub"
+    },
+    {
+      "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
+      "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-09T09:32:26+00:00",
+      "summary": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier mode"
+    },
     {
       "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
       "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
@@ -51,38 +115,6 @@
       "category": "cybersecurity",
       "published": "2026-09-09T07:36:49+00:00",
       "summary": "Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an analysis published on September 7. When Apache loads any of the th"
-    },
-    {
-      "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
-      "link": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-09T06:47:27+00:00",
-      "summary": "The security researcher known as Chaotic Eclipse has dropped a proof-of-concept (PoC) for yet another zero-day in Microsoft Defender. The vulnerability, codenamed ShieldCrash, is assessed to be a patch bypass for CVE-202"
-    },
-    {
-      "title": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution",
-      "link": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-09T06:25:45+00:00",
-      "summary": "SAP has released security updates to address multiple vulnerabilities, including a maximum-severity flaw in SAP Extended Passport (EPP) Processing that could have a severe impact on the confidentiality, integrity, and av"
-    },
-    {
-      "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
-      "link": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-09T04:41:29+00:00",
-      "summary": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild. These inc"
-    },
-    {
-      "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
-      "link": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-09T04:27:51+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civili"
     },
     {
       "title": "Constructions of complete permutations over $\\mathbb{F}_q^n$",
@@ -274,7 +306,7 @@
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-09-08T20:36:15+00:00",
-      "summary": "Researchers and OpenAI disagree on whether the earlier incident involving DseWiki was a \u201chack\u201d that the company did not disclose."
+      "summary": "Researchers and OpenAI disagree on whether the earlier incident involving DseWiki, which the company did not disclose, was a \u201chack.\""
     },
     {
       "title": "CIA official touts agency\u2019s Cyber Mission Center in capture of Venezuela\u2019s Maduro",
@@ -299,38 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-09-08T19:20:30+00:00",
       "summary": "This month, Microsoft released patches for a record-breaking 973 vulnerabilities, including 113 rated critical. It is by far the largest Patch Tuesday to date, well ahead of the previous high of 664 set in July 2026. Two"
-    },
-    {
-      "title": "Italian tech collective Autistici/Inventati shuts down after US terrorist designation",
-      "link": "https://therecord.media/autistici-inventati-shuts-down-after-us-terrorist-designation",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-08T19:12:00+00:00",
-      "summary": "On August 26, the State Department labeled A/I an \u201cextremist group\u201d operating infrastructure for \u201cfar-left militants across the world\u201d and announced that anyone engaging with the group financially risked exposure to sanc"
-    },
-    {
-      "title": "ClickFix Campaigns Abuse Legitimate Services for Persistent Access",
-      "link": "https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-08T17:25:37+00:00",
-      "summary": "Two separate attacks demonstrate how threat actors are finding new ways to compromise organizations by using the popular social engineering tactic."
-    },
-    {
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "link": "https://openai.com/index/codex-quantum-computing-experiments",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-08T17:00:00+00:00",
-      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
-    },
-    {
-      "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
-      "link": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-08T16:20:23+00:00",
-      "summary": "A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026. Cybersecurity company CrowdStrike is tracking the Brazil-based"
     }
   ]
 }
