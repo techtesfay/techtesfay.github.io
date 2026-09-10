@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T01:44:30.628761+00:00",
+  "generated_at": "2026-09-10T10:08:36.354771+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,174 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "God told them to sell crypto. Their investors lost everything.",
+      "link": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-10T09:00:00+00:00",
+      "summary": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now"
+    },
+    {
+      "title": "Healthcare AI\u2019s next test is integration",
+      "link": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-10T08:58:01+00:00",
+      "summary": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinic"
+    },
+    {
+      "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+      "link": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-10T07:12:55+00:00",
+      "summary": "Nearly one in ten of the internet-facing LiteLLM servers that Wiz Research scanned in February accepted sk-1234, the example admin key in LiteLLM's own setup guide. LiteLLM is an open-source AI gateway, the software a co"
+    },
+    {
+      "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
+      "link": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-10T07:04:01+00:00",
+      "summary": "Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the se"
+    },
+    {
+      "title": "EU Cyber Resilience Act to Enforce New Reporting Requirements",
+      "link": "https://www.darkreading.com/cybersecurity-operations/eu-cyber-resilience-act-reporting-requirements",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-10T07:00:00+00:00",
+      "summary": "Starting Friday, businesses operating in the EU will have just 24 hours to notify the government any time they discover serious product security incidents."
+    },
+    {
+      "title": "AgentHijack: Visual Patch Attacks on Multimodal Computer-Use Agents",
+      "link": "https://arxiv.org/abs/2609.09212",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-10T04:00:00+00:00",
+      "summary": "arXiv:2609.09212v1 Announce Type: new Abstract: This paper presents an end-to-end evaluation framework for image-triggered command injection against computer-use agents (CUAs). The goal is to test whether a local visual "
+    },
+    {
+      "title": "Compute-Bounded Security Assurance - Coverage, Verification, and Response under Resource Constraints",
+      "link": "https://arxiv.org/abs/2609.09229",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-10T04:00:00+00:00",
+      "summary": "arXiv:2609.09229v1 Announce Type: new Abstract: Additional inference compute can increase the number of correctly resolved security-assurance tasks, but repeated success, unique coverage, accepted evidence, and operation"
+    },
+    {
+      "title": "In RAG We Trust? Measuring Robustness of Retrieval-Augmented Generation Under Document Poisoning",
+      "link": "https://arxiv.org/abs/2609.09243",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-10T04:00:00+00:00",
+      "summary": "arXiv:2609.09243v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) grounds a language model in retrieved documents, which reduces hallucination but creates a new attack surface: if retrieved text is tam"
+    },
+    {
+      "title": "Cross User/App Network Attacks - Hijacking TCP Connections and DNS Cache Poisoning via a Malicious User/App (Extended Version)",
+      "link": "https://arxiv.org/abs/2609.09345",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-10T04:00:00+00:00",
+      "summary": "arXiv:2609.09345v1 Announce Type: new Abstract: Off-path network attacks against TCP and DNS (over UDP) client-server connections are generally considered impractical nowadays, due to built-in security features in these "
+    },
+    {
+      "title": "Encrypt What Matters: When Selective Homomorphic Inference Is Efficient",
+      "link": "https://arxiv.org/abs/2609.09357",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-10T04:00:00+00:00",
+      "summary": "arXiv:2609.09357v1 Announce Type: new Abstract: Fully homomorphic encryption (FHE) enables inference on private data without revealing it to the server, but evaluating an entire input under FHE is expensive. We study \\em"
+    },
+    {
+      "title": "LLMSec-AV: A Vulnerability Taxonomy and LLM-Driven Software Weakness Discovery Framework for Autonomous Vehicles",
+      "link": "https://arxiv.org/abs/2609.09386",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-10T04:00:00+00:00",
+      "summary": "arXiv:2609.09386v1 Announce Type: new Abstract: Automated vehicles rely on millions of lines of safety-critical software, yet general-purpose analyzers do not understand which code can affect vehicle motion. This study a"
+    },
+    {
+      "title": "X-amine509: Predicting the Practical Risk Level of Enterprise X.509 Certificates",
+      "link": "https://arxiv.org/abs/2609.09402",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-10T04:00:00+00:00",
+      "summary": "arXiv:2609.09402v1 Announce Type: new Abstract: Enterprises managing large X.509 certificate inventories face a prioritization problem: deterministic analysis tools that precisely identify standards violations are indisp"
+    },
+    {
+      "title": "An Experimental Evaluation of Multimodal Prompt Injection Attacks on Agentic AI Frameworks",
+      "link": "https://arxiv.org/abs/2609.09404",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-10T04:00:00+00:00",
+      "summary": "arXiv:2609.09404v1 Announce Type: new Abstract: Agentic AI frameworks let a language model plan, keep memory, and call tools that reach real files, mail, and services. Most of these agents also read images, which gives a"
+    },
+    {
+      "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+      "link": "https://arxiv.org/abs/2609.09203",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-10T04:00:00+00:00",
+      "summary": "arXiv:2609.09203v1 Announce Type: new Abstract: Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet discard the reasoning process by which those outp"
+    },
+    {
+      "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
+      "link": "https://arxiv.org/abs/2609.09226",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-10T04:00:00+00:00",
+      "summary": "arXiv:2609.09226v1 Announce Type: new Abstract: We introduce a probability-wave framework for modeling the collective behavior of interacting adaptive agents, deriving testable eigenmodes through a generalized behavioral"
+    },
+    {
+      "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
+      "link": "https://arxiv.org/abs/2609.09233",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-10T04:00:00+00:00",
+      "summary": "arXiv:2609.09233v1 Announce Type: new Abstract: How can language model agents effectively leverage libraries of reusable knowledge to solve long-horizon tasks? Recent work has increasingly focused on agent skills: reusab"
+    },
+    {
+      "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
+      "link": "https://arxiv.org/abs/2609.09306",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-10T04:00:00+00:00",
+      "summary": "arXiv:2609.09306v1 Announce Type: new Abstract: This paper investigates the hypothesis that the first-order structure of physical interactions, i.e. gradients or Jacobians, characterizes the structure of phenomenal exper"
+    },
+    {
+      "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
+      "link": "https://arxiv.org/abs/2609.09374",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-10T04:00:00+00:00",
+      "summary": "arXiv:2609.09374v1 Announce Type: new Abstract: Arctic maritime navigation is becoming increasingly important as changing sea-ice conditions expand seasonal accessibility while simultaneously introducing substantial oper"
+    },
+    {
+      "title": "The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents",
+      "link": "https://arxiv.org/abs/2609.09395",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-10T04:00:00+00:00",
+      "summary": "arXiv:2609.09395v1 Announce Type: new Abstract: Language models act through tools, yet practical agents face libraries containing thousands of interfaces. We introduce the tool menu as the short, ordered subset of availa"
+    },
+    {
+      "title": "Decision-Focused Active Learning for Scale-Aware Critical-Materials Recovery",
+      "link": "https://arxiv.org/abs/2609.09413",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-10T04:00:00+00:00",
+      "summary": "arXiv:2609.09413v1 Announce Type: new Abstract: Choosing a recovery process for scale-up requires connecting laboratory results with product requirements, process costs, and scale effects. We analyze records from Pacific"
+    },
+    {
+      "title": "Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration",
+      "link": "https://arxiv.org/abs/2609.09418",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-10T04:00:00+00:00",
+      "summary": "arXiv:2609.09418v1 Announce Type: new Abstract: World Action Models (WAMs) couple predictive world modeling with action generation, allowing anticipated future states to guide agent behavior. Although WAMs are rapidly ad"
+    },
     {
       "title": "CISA head says agency must change quickly to prevent the 'worst that could happen'",
       "link": "https://therecord.media/cisa-hiring-nick-andersen-warning",
@@ -163,174 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-09-09T10:43:04+00:00",
       "summary": "Bitcoin wallet company Alby has warned of a critical flaw in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the internet. Alby Hub"
-    },
-    {
-      "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
-      "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-09T09:32:26+00:00",
-      "summary": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier mode"
-    },
-    {
-      "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
-      "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-09T09:11:03+00:00",
-      "summary": "Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 "
-    },
-    {
-      "title": "Batteries just broke another record in the US",
-      "link": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-09T09:00:00+00:00",
-      "summary": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That\u2019s enough to supply the daily electricity needs of"
-    },
-    {
-      "title": "Understanding the thermal ceiling in portable power",
-      "link": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-09T08:18:13+00:00",
-      "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It\u2019s the connected device protecting itself. As temperature rises during charging, a smartphone\u2019s bat"
-    },
-    {
-      "title": "Constructions of complete permutations over $\\mathbb{F}_q^n$",
-      "link": "https://arxiv.org/abs/2609.05564",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-09T04:00:00+00:00",
-      "summary": "arXiv:2609.05564v1 Announce Type: new Abstract: Complete permutation polynomials play an important role in cryptography, particularly in the design of cryptographic primitives such as the Lai--Massey scheme and S-boxes. "
-    },
-    {
-      "title": "Reaching the Cards Apple Wallet Leaves Behind: Direct NFC Acquisition of PRO100, HUMO and UZCARD Payment Cards on iOS",
-      "link": "https://arxiv.org/abs/2609.05627",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-09T04:00:00+00:00",
-      "summary": "arXiv:2609.05627v1 Announce Type: new Abstract: Contactless payment from a phone has become routine in many markets, but the convenience is unevenly distributed. Apple currently lists Kazakhstan among supported Apple Pay"
-    },
-    {
-      "title": "XAI-SDN: An Explainable Entropy-Guided Machine Learning Framework for Real-Time DDoS Detection in Software Defined Networks",
-      "link": "https://arxiv.org/abs/2609.05701",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-09T04:00:00+00:00",
-      "summary": "arXiv:2609.05701v1 Announce Type: new Abstract: One of the biggest risks faced by Software Defined Networks (SDN) is the Distributed Denial of Service (DDoS) attack in which a compromised controller can make an entire ne"
-    },
-    {
-      "title": "Bait-and-Recover: Poisoning Internal Refusal Signals to Defend LLMs against White-Box Editing Jailbreaks",
-      "link": "https://arxiv.org/abs/2609.05794",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-09T04:00:00+00:00",
-      "summary": "arXiv:2609.05794v1 Announce Type: new Abstract: Open-weight large language models face a low-cost white-box threat from representation engineering attacks. Attackers can estimate refusal directions and search for project"
-    },
-    {
-      "title": "From Review to Authorization: Key-Isolated Threshold Signing for LLM Agents",
-      "link": "https://arxiv.org/abs/2609.05901",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-09T04:00:00+00:00",
-      "summary": "arXiv:2609.05901v1 Announce Type: new Abstract: Autonomous LLM agents can turn untrusted content into effectful actions such as payments and permission changes. If the same process interprets this content and controls a "
-    },
-    {
-      "title": "EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents",
-      "link": "https://arxiv.org/abs/2609.05903",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-09T04:00:00+00:00",
-      "summary": "arXiv:2609.05903v1 Announce Type: new Abstract: Large Language Model (LLM) agents are turning language into real-world effects, making safety necessary against both indirect prompt injections and direct harmful requests."
-    },
-    {
-      "title": "Structurally Close, Temporally Distant: Measuring Security Exposure in Long-Horizon LLM Agents",
-      "link": "https://arxiv.org/abs/2609.05911",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-09T04:00:00+00:00",
-      "summary": "arXiv:2609.05911v1 Announce Type: new Abstract: Long-horizon LLM agents interact with untrusted content, persistent memory, external state, and sensitive tools. Existing analyses often characterize attacks by the number "
-    },
-    {
-      "title": "Versioned Transitive Dependency-Closure Binding and Operation-Time Effect Governance for Agent Skills: ClosureBound",
-      "link": "https://arxiv.org/abs/2609.05920",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-09T04:00:00+00:00",
-      "summary": "arXiv:2609.05920v1 Announce Type: new Abstract: Agent Skills combine instructions with files, packages, tools, models, and services, so operational identity can exceed a signed directory. Recursive or lazy dependencies m"
-    },
-    {
-      "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
-      "link": "https://arxiv.org/abs/2609.05437",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-09T04:00:00+00:00",
-      "summary": "arXiv:2609.05437v1 Announce Type: new Abstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable or unacceptable (e.g., `do not steal'). Howe"
-    },
-    {
-      "title": "CriticGen: Generation-Aware Evaluation as Actionable Feedback",
-      "link": "https://arxiv.org/abs/2609.05439",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-09T04:00:00+00:00",
-      "summary": "arXiv:2609.05439v1 Announce Type: new Abstract: Current evaluation methods for large language models are coarse-grained and decoupled from generation, producing generic explanations that fail to provide actionable feedba"
-    },
-    {
-      "title": "When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents",
-      "link": "https://arxiv.org/abs/2609.05441",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-09T04:00:00+00:00",
-      "summary": "arXiv:2609.05441v1 Announce Type: new Abstract: Long-term memory for LLM agents is evaluated today by conversational recall benchmarks (LoCoMo, LongMemEval), which measure question answering over dialogue history, not wh"
-    },
-    {
-      "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
-      "link": "https://arxiv.org/abs/2609.05446",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-09T04:00:00+00:00",
-      "summary": "arXiv:2609.05446v1 Announce Type: new Abstract: We introduce AutoFyn, an agent harness inspired by the Expert Iteration algorithm, adapting a frozen model across many rounds by updating persistent state from verified rew"
-    },
-    {
-      "title": "Damage-Aware Bandit Pruning for Vision and Language Transformers",
-      "link": "https://arxiv.org/abs/2609.05448",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-09T04:00:00+00:00",
-      "summary": "arXiv:2609.05448v1 Announce Type: new Abstract: Structured post-training pruning of transformers requires selecting complete functional units whose suppression causes limited degradation. We formulate structured-unit sel"
-    },
-    {
-      "title": "Compiling VGDL into Causal Models",
-      "link": "https://arxiv.org/abs/2609.05459",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-09T04:00:00+00:00",
-      "summary": "arXiv:2609.05459v1 Announce Type: new Abstract: Reinforcement learning and large language models often struggle to accurately capture the causal mechanics of game environments. Standard reinforcement learning agents tend"
-    },
-    {
-      "title": "ARC-Bench: Closed-Loop Replanning Masks Broken Action Ranking in Frozen JEPA World Models",
-      "link": "https://arxiv.org/abs/2609.05461",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-09T04:00:00+00:00",
-      "summary": "arXiv:2609.05461v1 Announce Type: new Abstract: Reward-free latent world models plan by scoring candidate actions with distances in a frozen latent space: an action is preferred if its predicted future embedding lands cl"
-    },
-    {
-      "title": "RAPID: Reliability-Aware Pair Importance Distillation",
-      "link": "https://arxiv.org/abs/2609.05481",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-09T04:00:00+00:00",
-      "summary": "arXiv:2609.05481v1 Announce Type: new Abstract: Inter example relational distillation transfers a teacher's representation geometry by matching relations among examples within a mini batch. Computing all pairs has quadra"
-    },
-    {
-      "title": "What OpenAI\u2019s latest controversy tells us about the future of math",
-      "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-09T03:10:08+00:00",
-      "summary": "OpenAI\u2019s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in m"
     }
   ]
 }
