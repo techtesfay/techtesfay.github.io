@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T15:20:13.822391+00:00",
+  "generated_at": "2026-09-10T20:09:23.549468+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,54 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "IDScan confirms breach after hackers offer 153 million driver\u2019s license scans for sale",
+      "link": "https://therecord.media/idscan-data-breach-notice-drivers-licenses",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-10T18:55:00+00:00",
+      "summary": "A notice dated September 4 but not widely shared shows that IDScan acknowledged a data breach but did not specify how many people were affected."
+    },
+    {
+      "title": "Cyber Command turns to veteran of intelligence agencies for top AI role",
+      "link": "https://therecord.media/cyber-command-ai-leader-ronzelle-green",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-10T18:25:00+00:00",
+      "summary": "Ronzelle Green, most recently a senior official at the National Geospatial-Intelligence Agency, will be U.S. Cyber Command's chief AI officer."
+    },
+    {
+      "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+      "link": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-10T17:47:38+00:00",
+      "summary": "A lot of this week\u2019s security news has the same awkward answer to one question: \u201cWhy was that allowed to work?\u201d An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old "
+    },
+    {
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-10T16:00:00+00:00",
+      "summary": "C\u00e9sar de la Fuente\u2019s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
+    },
+    {
+      "title": "Nightmare-Eclipse Strikes Again With 'ShieldCrash' Windows Exploit",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-10T15:29:12+00:00",
+      "summary": "The disgruntled researcher continued their vendetta against Microsoft by publishing yet another zero-day exploit for Windows Defender."
+    },
+    {
+      "title": "Now everyone can put data to work",
+      "link": "https://openai.com/index/put-data-to-work",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-10T15:00:00+00:00",
+      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
+    },
     {
       "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
       "link": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
@@ -154,7 +202,31 @@
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-09-10T07:00:00+00:00",
-      "summary": "Starting Friday, businesses operating in the EU will have just 24 hours to notify the government any time they discover serious product security incidents."
+      "summary": "Starting Friday, European organizations will have just 24 hours to notify the EU government any time they discover serious product security incidents."
+    },
+    {
+      "title": "Introducing ChatGPT for Financial Services",
+      "link": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-10T07:00:00+00:00",
+      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials."
+    },
+    {
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "link": "https://openai.com/index/expanding-ai-access-us-government",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-10T07:00:00+00:00",
+      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
+    },
+    {
+      "title": "Multiple crypto companies warn customers of phishing emails after alleged provider breach",
+      "link": "https://therecord.media/trezor-bitbox-cointracking-phishing-crypto-holders",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-10T04:00:00+00:00",
+      "summary": "Subscribers to newsletters from Trezor, CoinTracking and BitBox received corrupted messages through an email provider that all three companies use."
     },
     {
       "title": "AgentHijack: Visual Patch Attacks on Multimodal Computer-Use Agents",
@@ -259,78 +331,6 @@
       "category": "research",
       "published": "2026-09-10T04:00:00+00:00",
       "summary": "arXiv:2609.09374v1 Announce Type: new Abstract: Arctic maritime navigation is becoming increasingly important as changing sea-ice conditions expand seasonal accessibility while simultaneously introducing substantial oper"
-    },
-    {
-      "title": "The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents",
-      "link": "https://arxiv.org/abs/2609.09395",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-10T04:00:00+00:00",
-      "summary": "arXiv:2609.09395v1 Announce Type: new Abstract: Language models act through tools, yet practical agents face libraries containing thousands of interfaces. We introduce the tool menu as the short, ordered subset of availa"
-    },
-    {
-      "title": "Decision-Focused Active Learning for Scale-Aware Critical-Materials Recovery",
-      "link": "https://arxiv.org/abs/2609.09413",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-10T04:00:00+00:00",
-      "summary": "arXiv:2609.09413v1 Announce Type: new Abstract: Choosing a recovery process for scale-up requires connecting laboratory results with product requirements, process costs, and scale effects. We analyze records from Pacific"
-    },
-    {
-      "title": "Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration",
-      "link": "https://arxiv.org/abs/2609.09418",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-10T04:00:00+00:00",
-      "summary": "arXiv:2609.09418v1 Announce Type: new Abstract: World Action Models (WAMs) couple predictive world modeling with action generation, allowing anticipated future states to guide agent behavior. Although WAMs are rapidly ad"
-    },
-    {
-      "title": "CISA head says agency must change quickly to prevent the 'worst that could happen'",
-      "link": "https://therecord.media/cisa-hiring-nick-andersen-warning",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-09T21:25:00+00:00",
-      "summary": "CISA's cybersecurity, infrastructure security and emergency communications divisions are among the priorities as the agency fills vacancies created at the beginning of the Trump administration, acting director Nick Ander"
-    },
-    {
-      "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck",
-      "link": "https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-09T21:19:55+00:00",
-      "summary": "An analysis of Project Glasswing findings shows only a fraction have reached disclosure, and an even smaller number have been fixed."
-    },
-    {
-      "title": "US disrupts Xinbi Guarantee marketplace fueling the cyber scam economy",
-      "link": "https://therecord.media/us-disrupts-xinbi-guarantee-marketplace-cybercrime",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-09T19:54:00+00:00",
-      "summary": "The U.S. government also carried out a seizure of $52.8 million from 52 wallets connected to the platform."
-    },
-    {
-      "title": "US Government Accuses Chinese AI Firms of Distilling Frontier Models",
-      "link": "https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-09T19:47:50+00:00",
-      "summary": "US agencies claim Chinese companies covertly extracted billions of tokens from OpenAI, Anthropic, Google Gemini, and SpaceX's Grok to reduce development costs."
-    },
-    {
-      "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
-      "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-09T18:26:05+00:00",
-      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run th"
-    },
-    {
-      "title": "Grindr settles privacy lawsuit tied to disclosure of users\u2019 HIV statuses for $35 million",
-      "link": "https://therecord.media/grindr-settles-privacy-lawsuit-hiv-status-35-million",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-09T18:11:00+00:00",
-      "summary": "The settlement concludes a legal fight that dates to April 2024, when UK users sued for the alleged violations of their country\u2019s privacy laws."
     }
   ]
 }
