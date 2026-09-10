@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:08:36.354771+00:00",
+  "generated_at": "2026-09-10T15:20:13.822391+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,110 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
+      "link": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-10T14:36:47+00:00",
+      "summary": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content. Early Access apps are apps that haven't been released on the off"
+    },
+    {
+      "title": "Russian e-commerce giant Wildberries says DDoS attack delayed payments to sellers",
+      "link": "https://therecord.media/russian-e-commerce-giant-wildberries-says-payments-disrupted",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-10T13:31:00+00:00",
+      "summary": "Wildberries told several Russian media outlets earlier this week that payments to some sellers were delayed by security measures introduced after a distributed denial-of-service (DDoS) attack targeted systems used to tra"
+    },
+    {
+      "title": "Redtail Payload Analysis [Guest Diary], (Wed, Sep 9th)",
+      "link": "https://isc.sans.edu/diary/rss/33326",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-10T12:58:10+00:00",
+      "summary": "[This is a Guest Diary by Aaron Ng, an ISC intern as part of the SANS.edu BACS program]"
+    },
+    {
+      "title": "UK appoints new commander of National Cyber Force",
+      "link": "https://therecord.media/uk-appoints-new-commander-of-national-cyber-force",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-10T12:44:00+00:00",
+      "summary": "The individual has not yet been avowed \u2014 the formal process in Britain by which an intelligence or security figure\u2019s identity is publicly acknowledged \u2014 as routine security considerations are still being worked through."
+    },
+    {
+      "title": "The Download: a \u201cGod-driven\u201d cryptocurrency and a solar engineering roadmap",
+      "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-10T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado f"
+    },
+    {
+      "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-10T11:45:05+00:00",
+      "summary": "Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to run code, but only \"un"
+    },
+    {
+      "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
+      "link": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-10T11:41:53+00:00",
+      "summary": "A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundreds o"
+    },
+    {
+      "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
+      "link": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-10T11:33:43+00:00",
+      "summary": "The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a report published on September 9. "
+    },
+    {
+      "title": "Powering AI is an architecture problem",
+      "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-10T11:00:00+00:00",
+      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia\u2014the heart of the world\u2019s largest data center cluster\u2014knocked more than 3 gigawatts of load off the grid in seconds. And it wasn\u2019t the first time. Two years"
+    },
+    {
+      "title": "This road map could help us decide whether to deploy solar geoengineering",
+      "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-10T11:00:00+00:00",
+      "summary": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Re"
+    },
+    {
+      "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
+      "link": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-10T10:36:46+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilia"
+    },
+    {
+      "title": "ISC Stormcast For Thursday, September 10th, 2026 https://isc.sans.edu/podcastdetail/10088, (Thu, Sep 10th)",
+      "link": "https://isc.sans.edu/diary/rss/33328",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-10T10:10:11+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Can the US battery market untangle from China?",
+      "link": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-10T10:00:00+00:00",
+      "summary": "The US is hitting records for the rapid growth of its energy storage market. That\u2019ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from int"
+    },
     {
       "title": "God told them to sell crypto. Their investors lost everything.",
       "link": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
@@ -227,110 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-09-09T18:11:00+00:00",
       "summary": "The settlement concludes a legal fight that dates to April 2024, when UK users sued for the alleged violations of their country\u2019s privacy laws."
-    },
-    {
-      "title": "Scans for Proxmox Servers, (Wed, Sep 9th)",
-      "link": "https://isc.sans.edu/diary/rss/33324",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-09T17:46:24+00:00",
-      "summary": "About a week ago, Proxmox published an advisory revealing a vulnerability in older versions of Proxmox VE, its flagship Virtual Environment product. The vulnerability only affects version 7, which has not been supported "
-    },
-    {
-      "title": "Electronic health record company says customer data stolen in breach",
-      "link": "https://therecord.media/electronic-health-record-company-says-customer-data-stolen-in-breach",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-09T17:03:00+00:00",
-      "summary": "Veradigm said access was limited to a specific interface, and did not impact the company\u2019s broader environment such as its networks, servers or databases. The incident did not result in operational disruptions, the compa"
-    },
-    {
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-09T17:00:00+00:00",
-      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
-    },
-    {
-      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
-      "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-09T16:34:05+00:00",
-      "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. "
-    },
-    {
-      "title": "Multiple Chinese hacking groups seen using identical Chrome zero-day exploit",
-      "link": "https://therecord.media/china-hackers-chrome-browser-zero-day-multiple-groups",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-09T16:30:00+00:00",
-      "summary": "A Google Chrome bug identified in August was exploited by at least four China-linked cyber-espionage groups, according to researchers."
-    },
-    {
-      "title": "Identity-Based AI Attack Threatens Security of Enterprise Data",
-      "link": "https://www.darkreading.com/threat-intelligence/identity-based-ai-attack-security-enterprise-data",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-09T14:39:44+00:00",
-      "summary": "\"Workflow identity hijacking\" can bypass standard security controls and hijack an organization's data by sending a basic request through an unauthenticated entry point."
-    },
-    {
-      "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
-      "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-09T14:23:55+00:00",
-      "summary": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others. Inf"
-    },
-    {
-      "title": "The AI policy window is open. We need to act.",
-      "link": "https://openai.com/index/ai-policy-window",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-09T13:00:00+00:00",
-      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open."
-    },
-    {
-      "title": "The Download: OpenAI\u2019s turning point for math and a battery record",
-      "link": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-09T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. What OpenAI\u2019s latest controversy tells us about the future of math OpenAI says its"
-    },
-    {
-      "title": "Webinar: Learn How to Answer \u201cAre We Exposed?\u201d Faster After a New CVE",
-      "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-09T11:57:36+00:00",
-      "summary": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed? For many security teams, answering that means jumping between vulnerability scanners, endpoint too"
-    },
-    {
-      "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
-      "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-09T11:17:07+00:00",
-      "summary": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command. The tool runs an agent's commands insid"
-    },
-    {
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-09T11:00:00+00:00",
-      "summary": "Meet GPT-6 Astra, OpenAI\u2019s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
-    },
-    {
-      "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
-      "link": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-09T10:43:04+00:00",
-      "summary": "Bitcoin wallet company Alby has warned of a critical flaw in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the internet. Alby Hub"
     }
   ]
 }
