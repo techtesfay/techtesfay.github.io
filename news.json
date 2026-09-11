@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T20:09:23.549468+00:00",
+  "generated_at": "2026-09-11T01:42:59.902335+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,30 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Indonesia Hit by Android Banking App-Cloning Campaign",
+      "link": "https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-11T01:00:00+00:00",
+      "summary": "The GoldFactory threat group exploits the Android Work Profile feature to deliver the Gigabud Trojan, while Mantax Otax spreads separately."
+    },
+    {
+      "title": "Treasury urges banks to file cyber scam reports, noting nearly $13 billion in losses since 2023",
+      "link": "https://therecord.media/treasury-urges-banks-report-cyber-scams",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-10T21:15:00+00:00",
+      "summary": "As the cyber scam industry expands globally, the U.S. government wants banks to share more information about what's happening to their customers."
+    },
+    {
+      "title": "Voice Callers Exploit BYOD to Reach Microsoft 365, Corporate Data",
+      "link": "https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-10T20:36:03+00:00",
+      "summary": "Threat actors are leveraging Microsoft's Graph API to identify lucrative targets, then passing their access to extortion groups like ShinyHunters."
+    },
     {
       "title": "IDScan confirms breach after hackers offer 153 million driver\u2019s license scans for sale",
       "link": "https://therecord.media/idscan-data-breach-notice-drivers-licenses",
@@ -221,14 +245,6 @@
       "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
     },
     {
-      "title": "Multiple crypto companies warn customers of phishing emails after alleged provider breach",
-      "link": "https://therecord.media/trezor-bitbox-cointracking-phishing-crypto-holders",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-10T04:00:00+00:00",
-      "summary": "Subscribers to newsletters from Trezor, CoinTracking and BitBox received corrupted messages through an email provider that all three companies use."
-    },
-    {
       "title": "AgentHijack: Visual Patch Attacks on Multimodal Computer-Use Agents",
       "link": "https://arxiv.org/abs/2609.09212",
       "source": "arXiv cs.CR",
@@ -315,22 +331,6 @@
       "category": "research",
       "published": "2026-09-10T04:00:00+00:00",
       "summary": "arXiv:2609.09233v1 Announce Type: new Abstract: How can language model agents effectively leverage libraries of reusable knowledge to solve long-horizon tasks? Recent work has increasingly focused on agent skills: reusab"
-    },
-    {
-      "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
-      "link": "https://arxiv.org/abs/2609.09306",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-10T04:00:00+00:00",
-      "summary": "arXiv:2609.09306v1 Announce Type: new Abstract: This paper investigates the hypothesis that the first-order structure of physical interactions, i.e. gradients or Jacobians, characterizes the structure of phenomenal exper"
-    },
-    {
-      "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
-      "link": "https://arxiv.org/abs/2609.09374",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-10T04:00:00+00:00",
-      "summary": "arXiv:2609.09374v1 Announce Type: new Abstract: Arctic maritime navigation is becoming increasingly important as changing sea-ice conditions expand seasonal accessibility while simultaneously introducing substantial oper"
     }
   ]
 }
