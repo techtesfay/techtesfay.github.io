@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T01:48:54.395847+00:00",
+  "generated_at": "2026-09-12T09:40:58.760761+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -19,6 +19,70 @@
       "category": "ai",
       "published": "2026-09-14T00:00:00+00:00",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+    },
+    {
+      "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
+      "link": "https://arxiv.org/abs/2609.10584",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-12T04:00:00+00:00",
+      "summary": "arXiv:2609.10584v1 Announce Type: new Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance within FOCAL, the frontier"
+    },
+    {
+      "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
+      "link": "https://arxiv.org/abs/2609.10629",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-12T04:00:00+00:00",
+      "summary": "arXiv:2609.10629v1 Announce Type: new Abstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formulation for combinatorial optimization and has gained increasing attention due to its compatibility with"
+    },
+    {
+      "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
+      "link": "https://arxiv.org/abs/2609.10654",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-12T04:00:00+00:00",
+      "summary": "arXiv:2609.10654v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. This paper presents a m"
+    },
+    {
+      "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
+      "link": "https://arxiv.org/abs/2609.10656",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-12T04:00:00+00:00",
+      "summary": "arXiv:2609.10656v1 Announce Type: new Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net with ranks {2,4,8,16"
+    },
+    {
+      "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
+      "link": "https://arxiv.org/abs/2609.10657",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-12T04:00:00+00:00",
+      "summary": "arXiv:2609.10657v1 Announce Type: new Abstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokking. Despite theoretical progress on \\emph{w"
+    },
+    {
+      "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+      "link": "https://arxiv.org/abs/2609.10712",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-12T04:00:00+00:00",
+      "summary": "arXiv:2609.10712v1 Announce Type: new Abstract: We study how model post-training and test-time inference design affect natural-language proof generation for hard olympiad mathematics. Starting from Nemotron 3 Ultra, we t"
+    },
+    {
+      "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
+      "link": "https://arxiv.org/abs/2609.10724",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-12T04:00:00+00:00",
+      "summary": "arXiv:2609.10724v1 Announce Type: new Abstract: Sustained deployment of generative AI agents requires more than isolated task success. Agents must remain useful across repeated interactions, changing conditions, and depe"
+    },
+    {
+      "title": "Towards a Deterministic Math Solver for Clinical Language Models",
+      "link": "https://arxiv.org/abs/2609.10728",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-12T04:00:00+00:00",
+      "summary": "arXiv:2609.10728v1 Announce Type: new Abstract: Large language models are unreliable at arithmetic, which is a problem for clinical calculators where a single numerical error changes the recommendation. The standard resp"
     },
     {
       "title": "Roundtables: AI\u2019s apocalypse crisis",
@@ -77,6 +141,22 @@
       "summary": "Adversaries can manipulate AI defensive reasoning to silently compromise target networks."
     },
     {
+      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+      "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-11T16:30:18+00:00",
+      "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-202"
+    },
+    {
+      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
+      "link": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-11T16:15:29+00:00",
+      "summary": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax. Kn"
+    },
+    {
       "title": "Cognition helps Devin test its own work with GPT\u20116 Astra",
       "link": "https://openai.com/index/cognition-devin-testing-with-astra",
       "source": "OpenAI News",
@@ -99,6 +179,22 @@
       "category": "cybersecurity",
       "published": "2026-09-11T14:40:32+00:00",
       "summary": "I identified an attacker using a semi-autonomous coding agent to run an offensive operation: finding poorly secured LLM resale gateways, acquiring API access through ordinary web flaws and account farming, validating the"
+    },
+    {
+      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+      "link": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-11T14:29:47+00:00",
+      "summary": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threa"
+    },
+    {
+      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
+      "link": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-11T14:10:20+00:00",
+      "summary": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has be"
     },
     {
       "title": "Anthropic caught Russia-linked spies using Claude in hacking operations",
@@ -125,6 +221,14 @@
       "summary": "A Ukrainian national was sentenced to four years in a U.S. prison for his role in the notorious Conti ransomware operation, which targeted more than 1,000 victims worldwide before shutting down in 2022."
     },
     {
+      "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
+      "link": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-11T11:30:00+00:00",
+      "summary": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it\u2019s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compro"
+    },
+    {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
       "source": "OpenAI News",
@@ -141,132 +245,28 @@
       "summary": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch\u2014people whose research and techn"
     },
     {
-      "title": "An Empirical Measurement of Jailbreaking Evaluators",
-      "link": "https://arxiv.org/abs/2609.10594",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-11T04:00:00+00:00",
-      "summary": "arXiv:2609.10594v1 Announce Type: new Abstract: Expert evaluation of jailbreak responses is costly and difficult to scale, so the community increasingly relies on automated evaluators to determine whether an attack succe"
+      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
+      "link": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-11T07:31:05+00:00",
+      "summary": "Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company Wiz said in "
     },
     {
-      "title": "Threshold Choice, Not Sample Size, Bounds Trustless Verification of Nondeterministic Compound AI Workflows",
-      "link": "https://arxiv.org/abs/2609.10601",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-11T04:00:00+00:00",
-      "summary": "arXiv:2609.10601v1 Announce Type: new Abstract: Compound AI pipelines chain LLM calls, retrievers, and tools and are nondeterministic: sampling, model updates, and volatile tool responses make one input yield different o"
+      "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
+      "link": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-11T07:14:09+00:00",
+      "summary": "A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, security company Gen Digital s"
     },
     {
-      "title": "Adaptive Diffusion Freezing: Privacy-preserving Diffusion Models Against Membership Inference Attacks",
-      "link": "https://arxiv.org/abs/2609.10608",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-11T04:00:00+00:00",
-      "summary": "arXiv:2609.10608v1 Announce Type: new Abstract: Diffusion models have achieved remarkable success in generative tasks across various areas, however their training process raises significant privacy concerns, particularly"
-    },
-    {
-      "title": "Black-Box Membership Inference via Word-Level Probability Estimation",
-      "link": "https://arxiv.org/abs/2609.10611",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-11T04:00:00+00:00",
-      "summary": "arXiv:2609.10611v1 Announce Type: new Abstract: Membership inference attacks (MIAs) have emerged as critical tools for auditing privacy risks in large language models (LLMs), aiming to determine whether a given text was "
-    },
-    {
-      "title": "PEARL: A Task-Aware Framework for Evaluating Differentially Private Synthetic Educational Data",
-      "link": "https://arxiv.org/abs/2609.10612",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-11T04:00:00+00:00",
-      "summary": "arXiv:2609.10612v1 Announce Type: new Abstract: Personalized learning systems rely on real learner data, including performance, behavior, and demographic information, but these data are highly privacy-sensitive. Differen"
-    },
-    {
-      "title": "Understanding In-Context Multimodal Jailbreaks via Posterior Reweighting",
-      "link": "https://arxiv.org/abs/2609.10613",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-11T04:00:00+00:00",
-      "summary": "arXiv:2609.10613v1 Announce Type: new Abstract: In-context learning (ICL) jailbreaks reveal a critical vulnerability in multimodal large language models (MLLMs): harmful demonstrations in the prompt can induce unsafe out"
-    },
-    {
-      "title": "SoK: Privacy Attacks on Machine Learning via Explainable AI",
-      "link": "https://arxiv.org/abs/2609.10627",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-11T04:00:00+00:00",
-      "summary": "arXiv:2609.10627v1 Announce Type: new Abstract: Machine learning explanations reveal model behavior beyond predictions, creating attack surfaces for model confidentiality and data privacy. We systematize 25 studies that "
-    },
-    {
-      "title": "From Cycle Space to Cycle Manifold: Limits and Achievability of Blind False Data Injection Attacks",
-      "link": "https://arxiv.org/abs/2609.10631",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-11T04:00:00+00:00",
-      "summary": "arXiv:2609.10631v1 Announce Type: new Abstract: A false data injection attack (FDIA) can change the estimated grid state while evading a residual-based bad data detector (BDD). Existing blind attacks learn a low-rank mea"
-    },
-    {
-      "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
-      "link": "https://arxiv.org/abs/2609.09203",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-11T04:00:00+00:00",
-      "summary": "arXiv:2609.09203v1 Announce Type: new Abstract: Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet discard the reasoning process by which those outp"
-    },
-    {
-      "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
-      "link": "https://arxiv.org/abs/2609.09226",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-11T04:00:00+00:00",
-      "summary": "arXiv:2609.09226v1 Announce Type: new Abstract: We introduce a probability-wave framework for modeling the collective behavior of interacting adaptive agents, deriving testable eigenmodes through a generalized behavioral"
-    },
-    {
-      "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
-      "link": "https://arxiv.org/abs/2609.09233",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-11T04:00:00+00:00",
-      "summary": "arXiv:2609.09233v1 Announce Type: new Abstract: How can language model agents effectively leverage libraries of reusable knowledge to solve long-horizon tasks? Recent work has increasingly focused on agent skills: reusab"
-    },
-    {
-      "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
-      "link": "https://arxiv.org/abs/2609.09306",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-11T04:00:00+00:00",
-      "summary": "arXiv:2609.09306v1 Announce Type: new Abstract: This paper investigates the hypothesis that the first-order structure of physical interactions, i.e. gradients or Jacobians, characterizes the structure of phenomenal exper"
-    },
-    {
-      "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
-      "link": "https://arxiv.org/abs/2609.09374",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-11T04:00:00+00:00",
-      "summary": "arXiv:2609.09374v1 Announce Type: new Abstract: Arctic maritime navigation is becoming increasingly important as changing sea-ice conditions expand seasonal accessibility while simultaneously introducing substantial oper"
-    },
-    {
-      "title": "The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents",
-      "link": "https://arxiv.org/abs/2609.09395",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-11T04:00:00+00:00",
-      "summary": "arXiv:2609.09395v1 Announce Type: new Abstract: Language models act through tools, yet practical agents face libraries containing thousands of interfaces. We introduce the tool menu as the short, ordered subset of availa"
-    },
-    {
-      "title": "Decision-Focused Active Learning for Scale-Aware Critical-Materials Recovery",
-      "link": "https://arxiv.org/abs/2609.09413",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-11T04:00:00+00:00",
-      "summary": "arXiv:2609.09413v1 Announce Type: new Abstract: Choosing a recovery process for scale-up requires connecting laboratory results with product requirements, process costs, and scale effects. We analyze records from Pacific"
-    },
-    {
-      "title": "Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration",
-      "link": "https://arxiv.org/abs/2609.09418",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-11T04:00:00+00:00",
-      "summary": "arXiv:2609.09418v1 Announce Type: new Abstract: World Action Models (WAMs) couple predictive world modeling with action generation, allowing anticipated future states to guide agent behavior. Although WAMs are rapidly ad"
+      "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
+      "link": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-11T06:46:18+00:00",
+      "summary": "PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exploitation. The softw"
     },
     {
       "title": "ISC Stormcast For Friday, September 11th, 2026 https://isc.sans.edu/podcastdetail/10090, (Fri, Sep 11th)",
