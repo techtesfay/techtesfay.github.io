@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T14:29:47.234714+00:00",
+  "generated_at": "2026-09-12T19:45:20.529320+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -19,6 +19,14 @@
       "category": "ai",
       "published": "2026-09-14T00:00:00+00:00",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+    },
+    {
+      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+      "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-12T15:54:45+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) ca"
     },
     {
       "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
@@ -101,7 +109,7 @@
       "summary": "arXiv:2609.10728v1 Announce Type: new Abstract: Large language models are unreliable at arithmetic, which is a problem for clinical calculators where a single numerical error changes the recommendation. The standard resp"
     },
     {
-      "title": "Roundtables: AI\u2019s apocalypse crisis",
+      "title": "Roundtables: Could AI really kill us all?",
       "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "source": "MIT Technology Review",
       "category": "ai",
@@ -259,14 +267,6 @@
       "category": "ai",
       "published": "2026-09-11T09:00:00+00:00",
       "summary": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch\u2014people whose research and techn"
-    },
-    {
-      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
-      "link": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-11T07:31:05+00:00",
-      "summary": "Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company Wiz said in "
     },
     {
       "title": "ISC Stormcast For Friday, September 11th, 2026 https://isc.sans.edu/podcastdetail/10090, (Fri, Sep 11th)",
