@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T01:40:15.201131+00:00",
+  "generated_at": "2026-09-13T10:42:35.713749+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -19,6 +19,14 @@
       "category": "ai",
       "published": "2026-09-14T00:00:00+00:00",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+    },
+    {
+      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
+      "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-13T10:11:48+00:00",
+      "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach c"
     },
     {
       "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
@@ -43,70 +51,6 @@
       "category": "cybersecurity",
       "published": "2026-09-12T09:07:56+00:00",
       "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Ma"
-    },
-    {
-      "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
-      "link": "https://arxiv.org/abs/2609.10584",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-12T04:00:00+00:00",
-      "summary": "arXiv:2609.10584v1 Announce Type: new Abstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance within FOCAL, the frontier"
-    },
-    {
-      "title": "Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language",
-      "link": "https://arxiv.org/abs/2609.10629",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-12T04:00:00+00:00",
-      "summary": "arXiv:2609.10629v1 Announce Type: new Abstract: Quadratic Unconstrained Binary Optimization (QUBO) is a central formulation for combinatorial optimization and has gained increasing attention due to its compatibility with"
-    },
-    {
-      "title": "A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning",
-      "link": "https://arxiv.org/abs/2609.10654",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-12T04:00:00+00:00",
-      "summary": "arXiv:2609.10654v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus (ARC) benchmarks cognitive generalization, the ability to infer and apply abstract rules from limited examples. This paper presents a m"
-    },
-    {
-      "title": "Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning",
-      "link": "https://arxiv.org/abs/2609.10656",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-12T04:00:00+00:00",
-      "summary": "arXiv:2609.10656v1 Announce Type: new Abstract: Selecting LoRA rank for diffusion fine-tuning requires balancing quality and compute cost. We present a controlled study on CIFAR-10 using a DDPM U-Net with ranks {2,4,8,16"
-    },
-    {
-      "title": "Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking",
-      "link": "https://arxiv.org/abs/2609.10657",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-12T04:00:00+00:00",
-      "summary": "arXiv:2609.10657v1 Announce Type: new Abstract: Neural networks trained past memorization frequently undergo a delayed transition to generalization, a phenomenon known as grokking. Despite theoretical progress on \\emph{w"
-    },
-    {
-      "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
-      "link": "https://arxiv.org/abs/2609.10712",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-12T04:00:00+00:00",
-      "summary": "arXiv:2609.10712v1 Announce Type: new Abstract: We study how model post-training and test-time inference design affect natural-language proof generation for hard olympiad mathematics. Starting from Nemotron 3 Ultra, we t"
-    },
-    {
-      "title": "Finishing the Task Is Not Enough: Evaluating Agent Resilience and Considerate Participation under Accumulating Challenge",
-      "link": "https://arxiv.org/abs/2609.10724",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-12T04:00:00+00:00",
-      "summary": "arXiv:2609.10724v1 Announce Type: new Abstract: Sustained deployment of generative AI agents requires more than isolated task success. Agents must remain useful across repeated interactions, changing conditions, and depe"
-    },
-    {
-      "title": "Towards a Deterministic Math Solver for Clinical Language Models",
-      "link": "https://arxiv.org/abs/2609.10728",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-12T04:00:00+00:00",
-      "summary": "arXiv:2609.10728v1 Announce Type: new Abstract: Large language models are unreliable at arithmetic, which is a problem for clinical calculators where a single numerical error changes the recommendation. The standard resp"
     },
     {
       "title": "Roundtables: Could AI really kill us all?",
@@ -245,14 +189,6 @@
       "summary": "A Ukrainian national was sentenced to four years in a U.S. prison for his role in the notorious Conti ransomware operation, which targeted more than 1,000 victims worldwide before shutting down in 2022."
     },
     {
-      "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
-      "link": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-11T11:30:00+00:00",
-      "summary": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it\u2019s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compro"
-    },
-    {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
       "source": "OpenAI News",
@@ -331,6 +267,70 @@
       "category": "cybersecurity",
       "published": "2026-09-10T12:58:10+00:00",
       "summary": "[This is a Guest Diary by Aaron Ng, an ISC intern as part of the SANS.edu BACS program]"
+    },
+    {
+      "title": "The Download: a \u201cGod-driven\u201d cryptocurrency and a solar engineering roadmap",
+      "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-10T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado f"
+    },
+    {
+      "title": "Powering AI is an architecture problem",
+      "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-10T11:00:00+00:00",
+      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia\u2014the heart of the world\u2019s largest data center cluster\u2014knocked more than 3 gigawatts of load off the grid in seconds. And it wasn\u2019t the first time. Two years"
+    },
+    {
+      "title": "This road map could help us decide whether to deploy solar geoengineering",
+      "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-10T11:00:00+00:00",
+      "summary": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Re"
+    },
+    {
+      "title": "ISC Stormcast For Thursday, September 10th, 2026 https://isc.sans.edu/podcastdetail/10088, (Thu, Sep 10th)",
+      "link": "https://isc.sans.edu/diary/rss/33328",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-10T10:10:11+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Can the US battery market untangle from China?",
+      "link": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-10T10:00:00+00:00",
+      "summary": "The US is hitting records for the rapid growth of its energy storage market. That\u2019ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from int"
+    },
+    {
+      "title": "God told them to sell crypto. Their investors lost everything.",
+      "link": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-10T09:00:00+00:00",
+      "summary": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now"
+    },
+    {
+      "title": "Introducing ChatGPT for Financial Services",
+      "link": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-10T07:00:00+00:00",
+      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials."
+    },
+    {
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "link": "https://openai.com/index/expanding-ai-access-us-government",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-10T07:00:00+00:00",
+      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
     }
   ]
 }
