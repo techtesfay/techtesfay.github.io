@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T17:07:42.257060+00:00",
+  "generated_at": "2026-09-14T21:06:09.221638+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,70 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Maximum Severity GitLab Flaw Puts Supply Chains at Risk",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-14T20:19:22+00:00",
+      "summary": "CVE-2026-85706 is a path traversal vulnerability with a 10 out of 10 CVSS score, affecting both GitLab Community Edition and Enterprise Edition instances."
+    },
+    {
+      "title": "Members of \u2018Black Axe\u2019 cybercriminal group extradited from South Africa",
+      "link": "https://therecord.media/members-of-black-axe-cybercrime-group-extradited-south-africa",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-14T19:40:00+00:00",
+      "summary": "Prosecutors unsealed a 2021 indictment accusing the five men of conducting lucrative romance scams that stole thousands of dollars from more than 100 people."
+    },
+    {
+      "title": "Apple Updates Everything, (Mon, Sep 14th)",
+      "link": "https://isc.sans.edu/diary/rss/33336",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-14T18:33:44+00:00",
+      "summary": "Today, Apple released its annual update across all its operating systems. With that, Apple not only released new features but also patched 261 different vulnerabilities. This is the most vulnerabilities Apple has ever pa"
+    },
+    {
+      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+      "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-14T18:02:13+00:00",
+      "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading o"
+    },
+    {
+      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+      "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-14T18:01:49+00:00",
+      "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelli"
+    },
+    {
+      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+      "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-14T17:58:16+00:00",
+      "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a writeup published on September 12. In Telegram, the message"
+    },
+    {
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-14T17:54:22+00:00",
+      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace"
+    },
+    {
+      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+      "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-14T16:56:30+00:00",
+      "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-natio"
+    },
     {
       "title": "Anthropic CEO: Time to Shift From Improving to Controlling AI",
       "link": "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
@@ -261,76 +325,12 @@
       "summary": "The largest electronic spy agency in the world is reorganizing. And fast."
     },
     {
-      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
-      "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-13T10:11:48+00:00",
-      "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach c"
-    },
-    {
-      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
-      "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-12T15:54:45+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) ca"
-    },
-    {
-      "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
-      "link": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-12T10:24:44+00:00",
-      "summary": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks agains"
-    },
-    {
-      "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
-      "link": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-12T09:07:56+00:00",
-      "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Ma"
-    },
-    {
-      "title": "Florida says motor vehicle data breach tied to credentials stolen from officer\u2019s personal device",
-      "link": "https://therecord.media/florida-shiny-hunters-motor-vehicle",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-11T20:00:00+00:00",
-      "summary": "The Florida Department of Motor Vehicles confirmed a data breach claimed by the cybercrime group ShinyHunters, saying it originated with the theft of credentials stored on a police officer's personal device."
-    },
-    {
       "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-09-11T19:21:08+00:00",
       "summary": "Cybercriminals behind malicious email campaigns no longer have to compromise volume for credibility, or vice versa, thanks to AI."
-    },
-    {
-      "title": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate",
-      "link": "https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-11T18:44:03+00:00",
-      "summary": "A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols."
-    },
-    {
-      "title": "SpiderSilk Hunts External Threats With AI-Based Scanner",
-      "link": "https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-11T18:27:28+00:00",
-      "summary": "The Dubai-based threat detection startup uses artificial intelligence tools to scan billions of IP addresses to find exposed assets, leaked data, and zero-day vulnerabilities."
-    },
-    {
-      "title": "Why AI Is So Good at Scamming Humans",
-      "link": "https://www.darkreading.com/cyber-risk/ai-scamming-humans",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-11T18:14:06+00:00",
-      "summary": "Fred Heiding of Menlo Park Intelligence talks with the Dark Reading News Desk about his research on frontier models, and their ability to influence human behavior and create emotional dependency."
     }
   ]
 }
