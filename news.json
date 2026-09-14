@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T01:58:59.821032+00:00",
+  "generated_at": "2026-09-14T11:04:53.833090+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,150 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
+      "link": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-14T07:24:39+00:00",
+      "summary": "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service. The extension, named \"Twitch Enhanced Viewer | J"
+    },
+    {
+      "title": "ChemMat-AgentSafetyBench: Evaluating Long-Horizon Attacks and Defenses in Chemistry and Materials Agents",
+      "link": "https://arxiv.org/abs/2609.11952",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-14T04:00:00+00:00",
+      "summary": "arXiv:2609.11952v1 Announce Type: new Abstract: Chemistry and materials agents integrate literature retrieval, candidate generation, property prediction, and protocol planning into continuous discovery workflows. Consequ"
+    },
+    {
+      "title": "A Survey on Quantum-Safe Cryptographic Mechanisms: Building Blocks and Applications",
+      "link": "https://arxiv.org/abs/2609.11991",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-14T04:00:00+00:00",
+      "summary": "arXiv:2609.11991v1 Announce Type: new Abstract: The possible emergence of fault-tolerant quantum computers may enable widely used cryptographic algorithms to be broken. These algorithms for public key encryption and digi"
+    },
+    {
+      "title": "Scan the Skill, Govern the Action: Composing Registry Verdicts with Runtime Consequence Control",
+      "link": "https://arxiv.org/abs/2609.12001",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-14T04:00:00+00:00",
+      "summary": "arXiv:2609.12001v1 Announce Type: new Abstract: Agent skill registries screen what they publish. OpenClaw's security team reported that its scanners overlap on at most 10.4% of combined positives, and 81.9% of flagged sk"
+    },
+    {
+      "title": "A Dark Forest First Attack Is Rational Only If the Attacker Accepts It as Its Last",
+      "link": "https://arxiv.org/abs/2609.12003",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-14T04:00:00+00:00",
+      "summary": "arXiv:2609.12003v1 Announce Type: new Abstract: The Dark Forest argument holds that a civilization that detects another should strike it at once, so detection, and any transmission that invites it, is danger. Existing mo"
+    },
+    {
+      "title": "One Click to Leak: Characterizing the Real-World Usage and Threat Impact of MNO-based Single Sign-On Websites",
+      "link": "https://arxiv.org/abs/2609.12037",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-14T04:00:00+00:00",
+      "summary": "arXiv:2609.12037v1 Announce Type: new Abstract: Mobile Network Operator (MNO)-based Single Sign-On (MSSO) is a password-free authentication framework relying on mobile data sessions. Unlike traditional SSO, it shifts the"
+    },
+    {
+      "title": "Hardware Fingerprinting FTQC via Quantum Decoder Timing",
+      "link": "https://arxiv.org/abs/2609.12145",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-14T04:00:00+00:00",
+      "summary": "arXiv:2609.12145v1 Announce Type: new Abstract: As the quantum computing field transitions toward Fault-Tolerant Quantum Computing (FTQC), intensive efforts are focused on scaling architectures and realizing active error"
+    },
+    {
+      "title": "Evaluating Practical Enumeration and Blocking Attacks on the Snowflake Circumvention System",
+      "link": "https://arxiv.org/abs/2609.12242",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-14T04:00:00+00:00",
+      "summary": "arXiv:2609.12242v1 Announce Type: new Abstract: Proxy-based Internet censorship circumvention tools like Snowflake rely on large, dynamic pools of third-party proxies to resist IP-based blocking. We focus on two assumpti"
+    },
+    {
+      "title": "A First-Principles Evaluation of Graph-Based Network Intrusion Detection Systems",
+      "link": "https://arxiv.org/abs/2609.12263",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-14T04:00:00+00:00",
+      "summary": "arXiv:2609.12263v1 Announce Type: new Abstract: Graph-based network intrusion detection systems (GIDS) report strong benchmark detection metrics, but those metrics establish little about deployability. We approach the pr"
+    },
+    {
+      "title": "Occamy-1.0: Open Pareto-frontier 35B Intelligence for Co-work",
+      "link": "https://arxiv.org/abs/2609.11977",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-14T04:00:00+00:00",
+      "summary": "arXiv:2609.11977v1 Announce Type: new Abstract: Co-work agents execute complex workflows that combine information gathering, tool use, coding, and file manipulation across many model invocations. Because cost and latency"
+    },
+    {
+      "title": "Harness or Model? Isolating the Harness Effect in Agentic Coding with a Contamination-Controlled Private Suite",
+      "link": "https://arxiv.org/abs/2609.11987",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-14T04:00:00+00:00",
+      "summary": "arXiv:2609.11987v1 Announce Type: new Abstract: An agentic coding system couples a language model to a harness: the tools, prompts and control flow that turn a chat model into an autonomous software engineer. Vendors shi"
+    },
+    {
+      "title": "Reading the Whole Heart: Latent-Attention Masked Autoencoders for Multimodal Cardiac Representation Learning",
+      "link": "https://arxiv.org/abs/2609.12035",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-14T04:00:00+00:00",
+      "summary": "arXiv:2609.12035v1 Announce Type: new Abstract: Cardiovascular diagnosis rests on integrating complementary modalities, like ECG, echocardiography, chest radiographs, and clinical variables, each capturing distinct but c"
+    },
+    {
+      "title": "Competence-Gated Pooling of Language Models and Priors for Event Forecasting",
+      "link": "https://arxiv.org/abs/2609.12101",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-14T04:00:00+00:00",
+      "summary": "arXiv:2609.12101v1 Announce Type: new Abstract: In hybrid forecasting, a language model is often one of several available signals. A system may already have a market, crowd, or statistical forecast and must decide whethe"
+    },
+    {
+      "title": "Language Is an Insufficient Substrate for Quantitative Reasoning, and Consequential Domains Need Large Quantitative Models",
+      "link": "https://arxiv.org/abs/2609.12105",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-14T04:00:00+00:00",
+      "summary": "arXiv:2609.12105v1 Announce Type: new Abstract: The prevailing assumption in applied machine learning is that progress on consequential quantitative decisions such as pricing risk, allocating capital, triaging patients, "
+    },
+    {
+      "title": "DU-NO: A Parameter-Efficient Double U-Shaped Neural Operator for Phase-Resolving Wave Modeling",
+      "link": "https://arxiv.org/abs/2609.12115",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-14T04:00:00+00:00",
+      "summary": "arXiv:2609.12115v1 Announce Type: new Abstract: Phase-resolving wave models such as FUNWAVE-TVD are the accuracy standard for nearshore dynamics, resolving the shoaling, refraction, and breaking of individual waves, but "
+    },
+    {
+      "title": "When Successful Knowledge Graph Edits Displace Correct Answers: Rank-Level Locality beyond Parameter Support",
+      "link": "https://arxiv.org/abs/2609.12116",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-14T04:00:00+00:00",
+      "summary": "arXiv:2609.12116v1 Announce Type: new Abstract: Editing a knowledge graph embedding (KGE) model to promote a desired answer can displace correct answers from the returned list. Locality tests based only on facts that reu"
+    },
+    {
+      "title": "Mined from Scientific Literature: Process Schemas for Atomic Layer Deposition and Etching in Materials Science",
+      "link": "https://arxiv.org/abs/2609.12139",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-14T04:00:00+00:00",
+      "summary": "arXiv:2609.12139v1 Announce Type: new Abstract: Atomic layer deposition (ALD) and atomic layer etching (ALE) are reported heterogeneously across experimental and simulation literature in materials science, hindering comp"
+    },
+    {
+      "title": "ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)",
+      "link": "https://isc.sans.edu/diary/rss/33334",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-14T02:00:03+00:00",
+      "summary": ""
+    },
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
@@ -165,14 +309,6 @@
       "summary": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threa"
     },
     {
-      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-      "link": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-11T14:10:20+00:00",
-      "summary": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has be"
-    },
-    {
       "title": "Anthropic caught Russia-linked spies using Claude in hacking operations",
       "link": "https://therecord.media/anthropic-russia-hackers-claude",
       "source": "The Record",
@@ -195,142 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-09-11T12:00:00+00:00",
       "summary": "A Ukrainian national was sentenced to four years in a U.S. prison for his role in the notorious Conti ransomware operation, which targeted more than 1,000 victims worldwide before shutting down in 2022."
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-11T10:00:00+00:00",
-      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
-    },
-    {
-      "title": "Meet the under-35s shaping the future of biotech",
-      "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-11T09:00:00+00:00",
-      "summary": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch\u2014people whose research and techn"
-    },
-    {
-      "title": "ISC Stormcast For Friday, September 11th, 2026 https://isc.sans.edu/podcastdetail/10090, (Fri, Sep 11th)",
-      "link": "https://isc.sans.edu/diary/rss/33330",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-11T02:00:02+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Indonesia Hit by Android Banking App-Cloning Campaign",
-      "link": "https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-11T01:00:00+00:00",
-      "summary": "The GoldFactory threat group exploits the Android Work Profile feature to deliver the Gigabud Trojan, while Mantax Otax spreads separately."
-    },
-    {
-      "title": "Voice Callers Exploit BYOD to Reach Microsoft 365, Corporate Data",
-      "link": "https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-10T20:36:03+00:00",
-      "summary": "Threat actors are leveraging Microsoft's Graph API to identify lucrative targets, then passing their access to extortion groups like ShinyHunters."
-    },
-    {
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-10T16:00:00+00:00",
-      "summary": "C\u00e9sar de la Fuente\u2019s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
-    },
-    {
-      "title": "Nightmare-Eclipse Strikes Again With 'ShieldCrash' Windows Exploit",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-10T15:29:12+00:00",
-      "summary": "The disgruntled researcher continued their vendetta against Microsoft by publishing yet another zero-day exploit for Windows Defender."
-    },
-    {
-      "title": "Now everyone can put data to work",
-      "link": "https://openai.com/index/put-data-to-work",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-10T15:00:00+00:00",
-      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
-    },
-    {
-      "title": "Redtail Payload Analysis [Guest Diary], (Wed, Sep 9th)",
-      "link": "https://isc.sans.edu/diary/rss/33326",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-10T12:58:10+00:00",
-      "summary": "[This is a Guest Diary by Aaron Ng, an ISC intern as part of the SANS.edu BACS program]"
-    },
-    {
-      "title": "The Download: a \u201cGod-driven\u201d cryptocurrency and a solar engineering roadmap",
-      "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-10T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado f"
-    },
-    {
-      "title": "Powering AI is an architecture problem",
-      "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-10T11:00:00+00:00",
-      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia\u2014the heart of the world\u2019s largest data center cluster\u2014knocked more than 3 gigawatts of load off the grid in seconds. And it wasn\u2019t the first time. Two years"
-    },
-    {
-      "title": "This road map could help us decide whether to deploy solar geoengineering",
-      "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-10T11:00:00+00:00",
-      "summary": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Re"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, September 10th, 2026 https://isc.sans.edu/podcastdetail/10088, (Thu, Sep 10th)",
-      "link": "https://isc.sans.edu/diary/rss/33328",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-10T10:10:11+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Can the US battery market untangle from China?",
-      "link": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-10T10:00:00+00:00",
-      "summary": "The US is hitting records for the rapid growth of its energy storage market. That\u2019ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from int"
-    },
-    {
-      "title": "God told them to sell crypto. Their investors lost everything.",
-      "link": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-10T09:00:00+00:00",
-      "summary": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now"
-    },
-    {
-      "title": "Introducing ChatGPT for Financial Services",
-      "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-10T07:00:00+00:00",
-      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials."
-    },
-    {
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "link": "https://openai.com/index/expanding-ai-access-us-government",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-10T07:00:00+00:00",
-      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
     }
   ]
 }
