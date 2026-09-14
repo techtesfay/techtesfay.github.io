@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T11:04:53.833090+00:00",
+  "generated_at": "2026-09-14T17:07:42.257060+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,94 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Anthropic CEO: Time to Shift From Improving to Controlling AI",
+      "link": "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-14T16:41:10+00:00",
+      "summary": "Dario Amodei says it's time to slow the pace of frontier AI improvements so that security and risk prevention efforts can catch up. What does this mean for enterprises?"
+    },
+    {
+      "title": "Pro-Ukraine Hacking Cat group deploying new malware against Russian targets",
+      "link": "https://therecord.media/ukraine-malware-russia-ransomware",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-14T16:15:00+00:00",
+      "summary": "The pro-Ukraine hacktivist group Hacking Cat has evolved from carrying out website defacements and data leaks to more sophisticated and destructive attacks on Russian targets, researchers said."
+    },
+    {
+      "title": "Donated livers can be made biologically younger",
+      "link": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-14T16:11:42+00:00",
+      "summary": "Once an organ is removed from a donor\u2019s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice\u2014where it immediately starts to degrade. The team has a matt"
+    },
+    {
+      "title": "Hundreds of fake government websites target users in Central Asia",
+      "link": "https://therecord.media/hundreds-of-fake-gov-websites-central-asia-scam",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-14T16:02:00+00:00",
+      "summary": "The sites are designed to collect victims\u2019 contact details, which scammers then use to target them through phone or email to steal money, personal information or gain access to their devices."
+    },
+    {
+      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
+      "link": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-14T16:00:04+00:00",
+      "summary": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure "
+    },
+    {
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-14T16:00:00+00:00",
+      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions\u2014when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Go"
+    },
+    {
+      "title": "\u26a1 Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-14T14:40:34+00:00",
+      "summary": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination. The re"
+    },
+    {
+      "title": "The Download: AI\u2019s real extinction threat and age-reversal tech for eyes",
+      "link": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-14T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world\u2019s leading AI labs"
+    },
+    {
+      "title": "Revolut handed customer data to fraudsters using government email account",
+      "link": "https://therecord.media/revolut-scam-crypto-impersonation",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-14T12:00:00+00:00",
+      "summary": "British fintech company Revolut confirmed disclosing sensitive customer data to fraudsters who submitted emergency data requests from a legitimate government email account."
+    },
+    {
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "link": "https://openai.com/index/fyxer",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-14T12:00:00+00:00",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user\u2019s voice."
+    },
+    {
+      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+      "link": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-14T11:58:00+00:00",
+      "summary": "There's a lot of noise around AI and cybersecurity right now. What\u2019s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while "
+    },
     {
       "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
       "link": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
@@ -205,14 +293,6 @@
       "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Ma"
     },
     {
-      "title": "Roundtables: Could AI really kill us all?",
-      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-11T20:05:06+00:00",
-      "summary": "Employees at the world\u2019s leading AI labs are saying there\u2019s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor"
-    },
-    {
       "title": "Florida says motor vehicle data breach tied to credentials stolen from officer\u2019s personal device",
       "link": "https://therecord.media/florida-shiny-hunters-motor-vehicle",
       "source": "The Record",
@@ -237,12 +317,12 @@
       "summary": "A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols."
     },
     {
-      "title": "Microsoft sees some new wrinkles in invoice-scam emails",
-      "link": "https://therecord.media/invoice-scam-emails-new-features-microsoft-researchers",
-      "source": "The Record",
+      "title": "SpiderSilk Hunts External Threats With AI-Based Scanner",
+      "link": "https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning",
+      "source": "Dark Reading",
       "category": "cybersecurity",
-      "published": "2026-09-11T18:40:00+00:00",
-      "summary": "Researchers analyzed a flood of fraudulent business emails and found that the threat actors had doubled-up on tactics to make them appear legitimate, including help from AI."
+      "published": "2026-09-11T18:27:28+00:00",
+      "summary": "The Dubai-based threat detection startup uses artificial intelligence tools to scan billions of IP addresses to find exposed assets, leaked data, and zero-day vulnerabilities."
     },
     {
       "title": "Why AI Is So Good at Scamming Humans",
@@ -251,86 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-09-11T18:14:06+00:00",
       "summary": "Fred Heiding of Menlo Park Intelligence talks with the Dark Reading News Desk about his research on frontier models, and their ability to influence human behavior and create emotional dependency."
-    },
-    {
-      "title": "AI Governance Can't Wait",
-      "link": "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-11T17:10:56+00:00",
-      "summary": "Adversaries can manipulate AI defensive reasoning to silently compromise target networks."
-    },
-    {
-      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
-      "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-11T16:30:18+00:00",
-      "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-202"
-    },
-    {
-      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
-      "link": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-11T16:15:29+00:00",
-      "summary": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax. Kn"
-    },
-    {
-      "title": "Cognition helps Devin test its own work with GPT\u20116 Astra",
-      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-11T16:00:00+00:00",
-      "summary": "GPT\u20116 Astra improves Devin\u2019s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
-    },
-    {
-      "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-11T15:48:27+00:00",
-      "summary": "From creating lab environments for staging and testing agentic attacks to reconnaissance to lateral movement and exfiltration, the most innovative attackers are widely incorporating AI."
-    },
-    {
-      "title": "The Self-Expanding Stolen Inference Supply Chain: An AI Agent Harvesting and Re-Serving LLM Access, (Fri, Sep 11th)",
-      "link": "https://isc.sans.edu/diary/rss/33332",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-11T14:40:32+00:00",
-      "summary": "I identified an attacker using a semi-autonomous coding agent to run an offensive operation: finding poorly secured LLM resale gateways, acquiring API access through ordinary web flaws and account farming, validating the"
-    },
-    {
-      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-      "link": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-11T14:29:47+00:00",
-      "summary": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threa"
-    },
-    {
-      "title": "Anthropic caught Russia-linked spies using Claude in hacking operations",
-      "link": "https://therecord.media/anthropic-russia-hackers-claude",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-11T12:45:00+00:00",
-      "summary": "Anthropic detected and disrupted a Russia-linked cyber-espionage group that used its AI tool Claude in a hacking campaign targeting more than 20 government, intelligence, diplomatic and defense organizations."
-    },
-    {
-      "title": "The Download: biotech\u2019s future and cheaper, cleaner steel",
-      "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-11T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review"
-    },
-    {
-      "title": "Ukrainian hacker gets four years in US prison over Conti ransomware attacks",
-      "link": "https://therecord.media/conti-ransomware-ukraine-hacker",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-11T12:00:00+00:00",
-      "summary": "A Ukrainian national was sentenced to four years in a U.S. prison for his role in the notorious Conti ransomware operation, which targeted more than 1,000 victims worldwide before shutting down in 2022."
     }
   ]
 }
