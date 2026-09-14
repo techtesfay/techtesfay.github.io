@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T19:55:51.589782+00:00",
+  "generated_at": "2026-09-14T01:58:59.821032+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -19,6 +19,14 @@
       "category": "ai",
       "published": "2026-09-14T00:00:00+00:00",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+    },
+    {
+      "title": "Thorough reorganization at NSA will create five 'mission centers,' including cyber and AI",
+      "link": "https://therecord.media/nsa-reorganization-five-mission-centers",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-13T21:36:00+00:00",
+      "summary": "The largest electronic spy agency in the world is reorganizing. And fast."
     },
     {
       "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
@@ -219,14 +227,6 @@
       "category": "cybersecurity",
       "published": "2026-09-11T01:00:00+00:00",
       "summary": "The GoldFactory threat group exploits the Android Work Profile feature to deliver the Gigabud Trojan, while Mantax Otax spreads separately."
-    },
-    {
-      "title": "Treasury urges banks to file cyber scam reports, noting nearly $13 billion in losses since 2023",
-      "link": "https://therecord.media/treasury-urges-banks-report-cyber-scams",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-10T21:15:00+00:00",
-      "summary": "As the cyber scam industry expands globally, the U.S. government wants banks to share more information about what's happening to their customers."
     },
     {
       "title": "Voice Callers Exploit BYOD to Reach Microsoft 365, Corporate Data",
