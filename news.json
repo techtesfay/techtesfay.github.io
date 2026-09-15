@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T15:47:24.883738+00:00",
+  "generated_at": "2026-09-15T20:31:51.290972+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,70 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday",
+      "link": "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-15T20:16:00+00:00",
+      "summary": "You can't make an omelet without breaking a few eggs, and you can't patch nearly 1,000 CVEs without a few glitches."
+    },
+    {
+      "title": "Norway announces investigations into telecom Telenor\u2019s work with Myanmar junta",
+      "link": "https://therecord.media/norway-investigations-telenor-telecom-myanmar-regime",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-15T20:01:00+00:00",
+      "summary": "Oslo-based Telenor potentially enabled crimes against humanity and violated sanctions in its dealings with the military regime that took over Myanmar in 2021, Norwegian authorities said."
+    },
+    {
+      "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI\u2013Hugging Face Incident",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-15T19:27:19+00:00",
+      "summary": "The 'Breaking' News: The OpenAI\u2013Hugging Face Incident - A Technical Reconstruction and Its Implications for AI At this Black Hat USA 2026 talk, OpenAI security engineers and researchers will reconstruct the OpenAI-Huggin"
+    },
+    {
+      "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
+      "link": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-15T18:54:14+00:00",
+      "summary": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN. Elastic Security Labs is tracking the activity under the moniker REF9334."
+    },
+    {
+      "title": "Roundtables: Could AI really kill us all?",
+      "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-15T17:47:51+00:00",
+      "summary": "Listen to the session or watch below Employees at the world\u2019s leading AI labs are saying there\u2019s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch "
+    },
+    {
+      "title": "VectraRAT Can Hack Windows Enterprises for $250 per Month",
+      "link": "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-15T16:45:37+00:00",
+      "summary": "The full-service malware-as-a-service (MaaS) platform offers a Windows implant, command-and-control (C2) infrastructure, and an operator panel for comprehensive remote access."
+    },
+    {
+      "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
+      "link": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-15T16:29:51+00:00",
+      "summary": "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around "
+    },
+    {
+      "title": "Iranian cyber spies used fake MRI scan results to hack \u2018enemy of regime\u2019",
+      "link": "https://therecord.media/iran-cyber-spies-use-fake-mri-scans-as-lure",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-15T16:28:00+00:00",
+      "summary": "According to the United Kingdom\u2019s National Cyber Security Centre (NCSC), Iran has used this and similar cyber activity to \u201csupport the repression of individuals who are seen as a threat to the regime, such as dissidents,"
+    },
     {
       "title": "MacOS 27 - First Boot, (Tue, Sep 15th)",
       "link": "https://isc.sans.edu/diary/rss/33340",
@@ -51,14 +115,6 @@
       "category": "cybersecurity",
       "published": "2026-09-15T12:54:00+00:00",
       "summary": "China's spy chief identified Anthropic\u2019s Claude Mythos and OpenAI\u2019s GPT-5.5-Cyber as signs of what he called a \u201cdisruptive upgrade\u201d in cyber capabilities, increasing the speed and potential weaponization of vulnerability"
-    },
-    {
-      "title": "Manhattan DA takes down 12 AI deepfake porn sites",
-      "link": "https://therecord.media/manhattan-da-takes-down-12-ai-deepfake-porn-sites",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-15T12:42:00+00:00",
-      "summary": "Manhattan District Attorney Alvin Bragg held a press conference on Monday touting the takedown of the sites, which hosted AI-generated videos of more than 1,200 people. The sites allowed users to use the faces and bodies"
     },
     {
       "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
@@ -123,14 +179,6 @@
       "category": "cybersecurity",
       "published": "2026-09-15T06:11:11+00:00",
       "summary": "Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-76461, carries a CVSS sc"
-    },
-    {
-      "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
-      "link": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-15T05:31:05+00:00",
-      "summary": "A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor called GRIMWEDGE. Vo"
     },
     {
       "title": "SkillAtlas: An Attack Trace Library for Agent Skills",
@@ -283,54 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-09-14T20:19:22+00:00",
       "summary": "CVE-2026-85706 is a path traversal vulnerability with a 10 out of 10 CVSS score, affecting both GitLab Community Edition and Enterprise Edition instances."
-    },
-    {
-      "title": "Members of \u2018Black Axe\u2019 cybercriminal group extradited from South Africa",
-      "link": "https://therecord.media/members-of-black-axe-cybercrime-group-extradited-south-africa",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-14T19:40:00+00:00",
-      "summary": "Prosecutors unsealed a 2021 indictment accusing the five men of conducting lucrative romance scams that stole thousands of dollars from more than 100 people."
-    },
-    {
-      "title": "Apple Updates Everything, (Mon, Sep 14th)",
-      "link": "https://isc.sans.edu/diary/rss/33336",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-14T18:33:44+00:00",
-      "summary": "Today, Apple released its annual update across all its operating systems. With that, Apple not only released new features but also patched 261 different vulnerabilities. This is the most vulnerabilities Apple has ever pa"
-    },
-    {
-      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
-      "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-14T18:02:13+00:00",
-      "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading o"
-    },
-    {
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-14T17:54:22+00:00",
-      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace"
-    },
-    {
-      "title": "Anthropic CEO: Time to Shift From Improving to Controlling AI",
-      "link": "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-14T16:41:10+00:00",
-      "summary": "Dario Amodei says it's time to slow the pace of frontier AI improvements so that security and risk prevention efforts can catch up. What does this mean for enterprises?"
-    },
-    {
-      "title": "Donated livers can be made biologically younger",
-      "link": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-14T16:11:42+00:00",
-      "summary": "Once an organ is removed from a donor\u2019s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice\u2014where it immediately starts to degrade. The team has a matt"
     }
   ]
 }
