@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T10:33:53.250548+00:00",
+  "generated_at": "2026-09-15T15:47:24.883738+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,7 +13,95 @@
   ],
   "items": [
     {
-      "title": "What must happen for AI\u2019s trillion-dollar gamble to pay off",
+      "title": "MacOS 27 - First Boot, (Tue, Sep 15th)",
+      "link": "https://isc.sans.edu/diary/rss/33340",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-15T15:23:45+00:00",
+      "summary": "I have not done this type of diary in a while: What traffic will you see from a system on boot, before a user logs in? I just took a quick look at macOS 27 \"Golden Gate\" to see what traffic you should expect. Here are so"
+    },
+    {
+      "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
+      "link": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-15T15:23:19+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems. The emergi"
+    },
+    {
+      "title": "Zelensky appoints former police chief to lead Ukraine\u2019s cyber coordination center",
+      "link": "https://therecord.media/ukraine-cyber-coordination-center-ihor-klymenko",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-15T15:09:23+00:00",
+      "summary": "Ihor Klymenko, who has experience in law enforcement and as interior minister, will run Ukraine's National Cybersecurity Coordination Center."
+    },
+    {
+      "title": "Electric and gas utility CenterPoint Energy warns of data breach after dark web post",
+      "link": "https://therecord.media/centerpoint-energy-data-breach",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-15T14:22:00+00:00",
+      "summary": "Houston-based CenterPoint Energy notified federal regulators about an incident that exposed some customer data on the dark web."
+    },
+    {
+      "title": "China spy chief points at US AI models in cyber threat warning",
+      "link": "https://therecord.media/china-spy-chief-warns-of-us-ai-models",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-15T12:54:00+00:00",
+      "summary": "China's spy chief identified Anthropic\u2019s Claude Mythos and OpenAI\u2019s GPT-5.5-Cyber as signs of what he called a \u201cdisruptive upgrade\u201d in cyber capabilities, increasing the speed and potential weaponization of vulnerability"
+    },
+    {
+      "title": "Manhattan DA takes down 12 AI deepfake porn sites",
+      "link": "https://therecord.media/manhattan-da-takes-down-12-ai-deepfake-porn-sites",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-15T12:42:00+00:00",
+      "summary": "Manhattan District Attorney Alvin Bragg held a press conference on Monday touting the takedown of the sites, which hosted AI-generated videos of more than 1,200 people. The sites allowed users to use the faces and bodies"
+    },
+    {
+      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+      "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-15T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Alt"
+    },
+    {
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "link": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-15T12:00:00+00:00",
+      "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she prop"
+    },
+    {
+      "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
+      "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-15T11:52:28+00:00",
+      "summary": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can mov"
+    },
+    {
+      "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
+      "link": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-15T11:26:36+00:00",
+      "summary": "Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this partic"
+    },
+    {
+      "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
+      "link": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-15T11:12:32+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data. The first is an automated effort aimed at internet-exposed Vite development servers t"
+    },
+    {
+      "title": "What\u2019s at stake in AI\u2019s trillion-dollar gamble",
       "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
       "source": "MIT Technology Review",
       "category": "ai",
@@ -221,36 +309,12 @@
       "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading o"
     },
     {
-      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
-      "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-14T18:01:49+00:00",
-      "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelli"
-    },
-    {
-      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
-      "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-14T17:58:16+00:00",
-      "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a writeup published on September 12. In Telegram, the message"
-    },
-    {
       "title": "The AI industry has taken a doomer turn. What now?",
       "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
       "source": "MIT Technology Review",
       "category": "ai",
       "published": "2026-09-14T17:54:22+00:00",
       "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace"
-    },
-    {
-      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
-      "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-14T16:56:30+00:00",
-      "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-natio"
     },
     {
       "title": "Anthropic CEO: Time to Shift From Improving to Controlling AI",
@@ -261,76 +325,12 @@
       "summary": "Dario Amodei says it's time to slow the pace of frontier AI improvements so that security and risk prevention efforts can catch up. What does this mean for enterprises?"
     },
     {
-      "title": "Pro-Ukraine Hacking Cat group deploying new malware against Russian targets",
-      "link": "https://therecord.media/ukraine-malware-russia-ransomware",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-14T16:15:00+00:00",
-      "summary": "The pro-Ukraine hacktivist group Hacking Cat has evolved from carrying out website defacements and data leaks to more sophisticated and destructive attacks on Russian targets, researchers said."
-    },
-    {
       "title": "Donated livers can be made biologically younger",
       "link": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
       "source": "MIT Technology Review",
       "category": "ai",
       "published": "2026-09-14T16:11:42+00:00",
       "summary": "Once an organ is removed from a donor\u2019s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice\u2014where it immediately starts to degrade. The team has a matt"
-    },
-    {
-      "title": "Hundreds of fake government websites target users in Central Asia",
-      "link": "https://therecord.media/hundreds-of-fake-gov-websites-central-asia-scam",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-14T16:02:00+00:00",
-      "summary": "The sites are designed to collect victims\u2019 contact details, which scammers then use to target them through phone or email to steal money, personal information or gain access to their devices."
-    },
-    {
-      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
-      "link": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-14T16:00:04+00:00",
-      "summary": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure "
-    },
-    {
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-14T16:00:00+00:00",
-      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions\u2014when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Go"
-    },
-    {
-      "title": "The Download: AI\u2019s real extinction threat and age-reversal tech for eyes",
-      "link": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-14T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world\u2019s leading AI labs"
-    },
-    {
-      "title": "Revolut handed customer data to fraudsters using government email account",
-      "link": "https://therecord.media/revolut-scam-crypto-impersonation",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-14T12:00:00+00:00",
-      "summary": "British fintech company Revolut confirmed disclosing sensitive customer data to fraudsters who submitted emergency data requests from a legitimate government email account."
-    },
-    {
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "link": "https://openai.com/index/fyxer",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-14T12:00:00+00:00",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user\u2019s voice."
-    },
-    {
-      "title": "ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)",
-      "link": "https://isc.sans.edu/diary/rss/33334",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-14T02:00:03+00:00",
-      "summary": ""
     }
   ]
 }
