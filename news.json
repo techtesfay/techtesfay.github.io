@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T01:57:58.396376+00:00",
+  "generated_at": "2026-09-16T10:22:59.845971+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,158 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-16T05:48:28+00:00",
+      "summary": "Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs. \"This vulnerability can be leveraged by unauthenticated at"
+    },
+    {
+      "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
+      "link": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-16T05:18:06+00:00",
+      "summary": "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr. The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of improper"
+    },
+    {
+      "title": "Universal Defenses for Tool-Integrated LLM Agents Against Adversarial Attacks",
+      "link": "https://arxiv.org/abs/2609.16098",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-16T04:00:00+00:00",
+      "summary": "arXiv:2609.16098v1 Announce Type: new Abstract: Large Language Model (LLM) agents have demonstrated impressive capabilities across a variety of domains, particularly when integrated with external tools for multi-step tas"
+    },
+    {
+      "title": "Permutation-Based Stegomalware in Large Language Models: Threats and Countermeasures",
+      "link": "https://arxiv.org/abs/2609.16193",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-16T04:00:00+00:00",
+      "summary": "arXiv:2609.16193v1 Announce Type: new Abstract: The difficulty of training large language models (LLMs), together with their ubiquity, raises the threat of stegomalware, where malicious payloads are embedded into model w"
+    },
+    {
+      "title": "Feasibility of Homomorphic Inference for a Genomic Foundation Model",
+      "link": "https://arxiv.org/abs/2609.16211",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-16T04:00:00+00:00",
+      "summary": "arXiv:2609.16211v1 Announce Type: new Abstract: Human genomic sequences can identify individuals, cannot be replaced after disclosure, and are the inputs that genomic foundation models are designed to interpret. We asses"
+    },
+    {
+      "title": "Analyzing Multi-Factor Authentication Through Cryptographic Security Properties",
+      "link": "https://arxiv.org/abs/2609.16214",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-16T04:00:00+00:00",
+      "summary": "arXiv:2609.16214v1 Announce Type: new Abstract: Modern authentication systems use cybersecurity techniques to validate the identity of the person (or applications acting on behalf of the person) as a primary defense agai"
+    },
+    {
+      "title": "RuleAutoPilot: Synthesizing Deployable Suricata Rules from Network Traffic",
+      "link": "https://arxiv.org/abs/2609.16231",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-16T04:00:00+00:00",
+      "summary": "arXiv:2609.16231v1 Announce Type: new Abstract: Rule-based Intrusion Detection Systems (IDS) such as Suricata are central to network security, yet crafting effective detection rules demands deep expert knowledge and cann"
+    },
+    {
+      "title": "Exploiting and Securing Docker containers and Kubernetes pods from a MitM attack",
+      "link": "https://arxiv.org/abs/2609.16253",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-16T04:00:00+00:00",
+      "summary": "arXiv:2609.16253v1 Announce Type: new Abstract: PURPOSE - Workloads in containers, such as Docker containers and Kubernetes pods, are vulnerable to many of the same attacks as workloads in non-container environments, inc"
+    },
+    {
+      "title": "Understanding the Usability of Cryptographic Verification Tools",
+      "link": "https://arxiv.org/abs/2609.16323",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-16T04:00:00+00:00",
+      "summary": "arXiv:2609.16323v1 Announce Type: new Abstract: Cryptographic protocol verification tools are widely used to analyze the security of complex protocols, yet how users interact with these tools remains comparatively unders"
+    },
+    {
+      "title": "Illusion of Depth: Revealing Hidden Stereo Vision Vulnerabilities in Depth Estimation",
+      "link": "https://arxiv.org/abs/2609.16336",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-16T04:00:00+00:00",
+      "summary": "arXiv:2609.16336v1 Announce Type: new Abstract: Stereo cameras are integrated into autonomous systems such as self-driving cars, drones, and robots to offer precise depth estimation in a cost-effective manner compared to"
+    },
+    {
+      "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+      "link": "https://arxiv.org/abs/2609.13356",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-16T04:00:00+00:00",
+      "summary": "arXiv:2609.13356v1 Announce Type: new Abstract: In this work, we present ZGCM-1, a fully open 7B dense foundation model trained from scratch with extreme data, system, and algorithmic efficiency. ZGCM-1 is founded on a c"
+    },
+    {
+      "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
+      "link": "https://arxiv.org/abs/2609.13396",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-16T04:00:00+00:00",
+      "summary": "arXiv:2609.13396v1 Announce Type: new Abstract: Multi-objective Bayesian optimisation (MOBO) is a sample-efficient approach for optimising expensive black-box functions with multiple objectives. In MOBO, the goal is to a"
+    },
+    {
+      "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
+      "link": "https://arxiv.org/abs/2609.13406",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-16T04:00:00+00:00",
+      "summary": "arXiv:2609.13406v1 Announce Type: new Abstract: When we speak of recursive self-improvement (RSI), are we speaking of a phenomenon, a mechanism, or a prospect? Towards autonomous and evolving intelligence, RSI is being c"
+    },
+    {
+      "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
+      "link": "https://arxiv.org/abs/2609.13422",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-16T04:00:00+00:00",
+      "summary": "arXiv:2609.13422v1 Announce Type: new Abstract: LLM judges are increasingly used to evaluate and improve AI-generated outputs, yet their reliability for complex professional work remains unclear. We study this problem th"
+    },
+    {
+      "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
+      "link": "https://arxiv.org/abs/2609.13436",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-16T04:00:00+00:00",
+      "summary": "arXiv:2609.13436v1 Announce Type: new Abstract: Large Language Model (LLM) agents offer a promising path toward autonomously managing long-term physical tasks without human intervention. However, physical tasks require a"
+    },
+    {
+      "title": "LabAgent: Customize Any Research Hubs for Scientific Discoveries Using AI Agents",
+      "link": "https://arxiv.org/abs/2609.13437",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-16T04:00:00+00:00",
+      "summary": "arXiv:2609.13437v1 Announce Type: new Abstract: Scientific research is a continuous process that emphasizes inheritance. Methods developed by predecessors are often expanded upon by new researchers to explore more novel "
+    },
+    {
+      "title": "TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models",
+      "link": "https://arxiv.org/abs/2609.13457",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-16T04:00:00+00:00",
+      "summary": "arXiv:2609.13457v1 Announce Type: new Abstract: Timeseries multimodal large language models (TS-MLLMs) have recently begun leveraging the reasoning capabilities of large language models (LLMs) for question-answering task"
+    },
+    {
+      "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
+      "link": "https://arxiv.org/abs/2609.13463",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-16T04:00:00+00:00",
+      "summary": "arXiv:2609.13463v1 Announce Type: new Abstract: The increasing deployment of AI agents in long-horizon tasks yields massive execution logs. Diagnosing failures within these records is crucial for reliability, as it trans"
+    },
+    {
+      "title": "ISC Stormcast For Wednesday, September 16th, 2026 https://isc.sans.edu/podcastdetail/10096, (Wed, Sep 16th)",
+      "link": "https://isc.sans.edu/diary/rss/33342",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-16T02:00:02+00:00",
+      "summary": ""
+    },
     {
       "title": "Cyber Op Targets South Korean Media & Automotive Sectors",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive",
@@ -173,164 +325,12 @@
       "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania\u2019s Wharton School, wanted to assess AI\u2019s impact on the economy over the next few years, she faced a long list of business and technical uncertain"
     },
     {
-      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
-      "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-15T06:52:16+00:00",
-      "summary": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an advisory published on September 14. On such servers, man"
-    },
-    {
-      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
-      "link": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-15T06:11:11+00:00",
-      "summary": "Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-76461, carries a CVSS sc"
-    },
-    {
-      "title": "SkillAtlas: An Attack Trace Library for Agent Skills",
-      "link": "https://arxiv.org/abs/2609.13353",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-15T04:00:00+00:00",
-      "summary": "arXiv:2609.13353v1 Announce Type: new Abstract: Agent skills are reusable units for language-model agents, but their risks emerge through model decisions, user context, tool calls, and execution feedback rather than thro"
-    },
-    {
-      "title": "Principled Detection of Coordinated Manipulation from Aggregate Distortion and Account Reuse",
-      "link": "https://arxiv.org/abs/2609.13407",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-15T04:00:00+00:00",
-      "summary": "arXiv:2609.13407v1 Announce Type: new Abstract: Coordinated manipulation is collective: plausible accounts can jointly distort ratings, rankings, and engagement. Existing defenses primarily construct evidence from identi"
-    },
-    {
-      "title": "BadEngram: Backdoor Attack on Gated Memory Components in LLMs",
-      "link": "https://arxiv.org/abs/2609.13478",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-15T04:00:00+00:00",
-      "summary": "arXiv:2609.13478v1 Announce Type: new Abstract: To expand open-weight models' capacity without proportionally increasing computation, recent language models incorporate gated parametric memories that retrieve learned val"
-    },
-    {
-      "title": "Canaries in the Bank: Auditing User-Level Privacy in Private Evolution",
-      "link": "https://arxiv.org/abs/2609.13499",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-15T04:00:00+00:00",
-      "summary": "arXiv:2609.13499v1 Announce Type: new Abstract: Private Evolution (PE) generates high-fidelity synthetic data in federated settings without exposing users' raw data. It aggregates clipped user votes over a shared candida"
-    },
-    {
-      "title": "Mind the Gap: Detecting Description-Execution Mismatch Attacks in DAO Governance",
-      "link": "https://arxiv.org/abs/2609.13601",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-15T04:00:00+00:00",
-      "summary": "arXiv:2609.13601v1 Announce Type: new Abstract: Decentralized autonomous organizations (DAOs) change protocols through a proposal-based process: initiators submit a proposal, members vote on it based on its natural-langu"
-    },
-    {
-      "title": "EI-DDLGN: Efficient Encrypted Inference with Deep Differentiable Logic Gate Networks under TFHE",
-      "link": "https://arxiv.org/abs/2609.13636",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-15T04:00:00+00:00",
-      "summary": "arXiv:2609.13636v1 Announce Type: new Abstract: Privacy-preserving inference via Torus Fully Homomorphic Encryption (TFHE) provides strong protection for sensitive data in outsourced deep learning applications. However, "
-    },
-    {
-      "title": "Basis Rigidity of the AES S-box and Generic Rigidity of Inversion under Affine Transformations",
-      "link": "https://arxiv.org/abs/2609.13644",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-15T04:00:00+00:00",
-      "summary": "arXiv:2609.13644v1 Announce Type: new Abstract: The AES S-box is constructed from finite field inversion followed by a fixed affine transformation. Since inversion possesses intrinsic Frobenius symmetries among its coord"
-    },
-    {
-      "title": "PatchRisk: Forecasting Future Vulnerability Exposure in Open-Source Dependency Networks",
-      "link": "https://arxiv.org/abs/2609.13719",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-15T04:00:00+00:00",
-      "summary": "arXiv:2609.13719v1 Announce Type: new Abstract: Open-source software ecosystems are web-scale dependency networks. A downstream package can become exposed to security risk not because its own source code changes, but bec"
-    },
-    {
-      "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
-      "link": "https://arxiv.org/abs/2609.13356",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-15T04:00:00+00:00",
-      "summary": "arXiv:2609.13356v1 Announce Type: new Abstract: In this work, we present ZGCM-1, a fully open 7B dense foundation model trained from scratch with extreme data, system, and algorithmic efficiency. ZGCM-1 is founded on a c"
-    },
-    {
-      "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
-      "link": "https://arxiv.org/abs/2609.13396",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-15T04:00:00+00:00",
-      "summary": "arXiv:2609.13396v1 Announce Type: new Abstract: Multi-objective Bayesian optimisation (MOBO) is a sample-efficient approach for optimising expensive black-box functions with multiple objectives. In MOBO, the goal is to a"
-    },
-    {
-      "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
-      "link": "https://arxiv.org/abs/2609.13406",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-15T04:00:00+00:00",
-      "summary": "arXiv:2609.13406v1 Announce Type: new Abstract: When we speak of recursive self-improvement (RSI), are we speaking of a phenomenon, a mechanism, or a prospect? Towards autonomous and evolving intelligence, RSI is being c"
-    },
-    {
-      "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
-      "link": "https://arxiv.org/abs/2609.13422",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-15T04:00:00+00:00",
-      "summary": "arXiv:2609.13422v1 Announce Type: new Abstract: LLM judges are increasingly used to evaluate and improve AI-generated outputs, yet their reliability for complex professional work remains unclear. We study this problem th"
-    },
-    {
-      "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
-      "link": "https://arxiv.org/abs/2609.13436",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-15T04:00:00+00:00",
-      "summary": "arXiv:2609.13436v1 Announce Type: new Abstract: Large Language Model (LLM) agents offer a promising path toward autonomously managing long-term physical tasks without human intervention. However, physical tasks require a"
-    },
-    {
-      "title": "LabAgent: Customize Any Research Hubs for Scientific Discoveries Using AI Agents",
-      "link": "https://arxiv.org/abs/2609.13437",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-15T04:00:00+00:00",
-      "summary": "arXiv:2609.13437v1 Announce Type: new Abstract: Scientific research is a continuous process that emphasizes inheritance. Methods developed by predecessors are often expanded upon by new researchers to explore more novel "
-    },
-    {
-      "title": "TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models",
-      "link": "https://arxiv.org/abs/2609.13457",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-15T04:00:00+00:00",
-      "summary": "arXiv:2609.13457v1 Announce Type: new Abstract: Timeseries multimodal large language models (TS-MLLMs) have recently begun leveraging the reasoning capabilities of large language models (LLMs) for question-answering task"
-    },
-    {
-      "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
-      "link": "https://arxiv.org/abs/2609.13463",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-15T04:00:00+00:00",
-      "summary": "arXiv:2609.13463v1 Announce Type: new Abstract: The increasing deployment of AI agents in long-horizon tasks yields massive execution logs. Diagnosing failures within these records is crucial for reliability, as it trans"
-    },
-    {
       "title": "ISC Stormcast For Tuesday, September 15th, 2026 https://isc.sans.edu/podcastdetail/10094, (Tue, Sep 15th)",
       "link": "https://isc.sans.edu/diary/rss/33338",
       "source": "SANS Internet Storm Center",
       "category": "cybersecurity",
       "published": "2026-09-15T02:25:12+00:00",
       "summary": ""
-    },
-    {
-      "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-14T21:37:28+00:00",
-      "summary": "The notorious Russian threat group is spreading an upgraded version of the botnet malware, which the FBI disrupted in 2022."
     }
   ]
 }
