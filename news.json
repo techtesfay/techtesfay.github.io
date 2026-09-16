@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T15:39:20.967313+00:00",
+  "generated_at": "2026-09-16T20:31:51.265727+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,6 +13,54 @@
   ],
   "items": [
     {
+      "title": "Coast Guard, FBI boarded tanker after attack by \u2018foreign cyber actors\u2019",
+      "link": "https://therecord.media/oil-tanker-cyberattack-coast-guard-fbi",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-16T18:46:00+00:00",
+      "summary": "U.S. personnel boarded an oil tanker in the Gulf of Mexico to \u201censure integrity of the vessel\u2019s operational and information technology systems,\" after an apparent cyberattack, the U.S. Coast Guard said."
+    },
+    {
+      "title": "Scans Targeting Hospitality Applications, (Wed, Sep 16th)",
+      "link": "https://isc.sans.edu/diary/rss/33344",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-16T18:44:04+00:00",
+      "summary": "Earlier today, I noted an odd request showing up in our \"First Seen\" report:"
+    },
+    {
+      "title": "House passes bill to equip local law enforcement with scam-fighting tools",
+      "link": "https://therecord.media/house-passes-bill-to-equip-local-law-enforcement-scams",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-16T18:28:00+00:00",
+      "summary": "The Guarding Unprotected Aging Retirees from Deception Act (GUARD) attempts to address a common complaint from the victims of online scams like pig butchering \u2014 that such cases typically do not rise to the level of a fed"
+    },
+    {
+      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+      "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "published": "2026-09-16T18:14:22+00:00",
+      "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recent"
+    },
+    {
+      "title": "Fighting Your Dragons Through Tough Tech Times",
+      "link": "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-16T18:00:54+00:00",
+      "summary": "Cybersecurity industry veteran Hal Pomeranz gives a pep talk on career anxiety and self-doubt and shares how to build meaningful connections during historical tech industry downturns."
+    },
+    {
+      "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It",
+      "link": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-16T16:43:37+00:00",
+      "summary": "A new type of attack hijacks the AI assistant built directly into various browsers to access sensitive information, execute malicious actions, and exfiltrate data."
+    },
+    {
       "title": "Helping older adults use AI in everyday life",
       "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
       "source": "OpenAI News",
@@ -21,12 +69,44 @@
       "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
     },
     {
+      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-16T15:50:59+00:00",
+      "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation. The vulnerability in question is CVE-2026-89026 (CVSS v3.1"
+    },
+    {
+      "title": "International Meteor Organization says cyberattack dealt \u2018critical blow\u2019 to website",
+      "link": "https://therecord.media/international-meteor-organization-cyberattack",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-16T15:47:00+00:00",
+      "summary": "A website used around the world for reporting meteors faces weeks of downtime as the organization moves away from systems that were hacked recently."
+    },
+    {
+      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
+      "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-16T15:27:49+00:00",
+      "summary": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky. The cybersecurity vendor said it has id"
+    },
+    {
       "title": "Meet a mouse whose brain cortex is made up of human cells",
       "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
       "source": "MIT Technology Review",
       "category": "ai",
       "published": "2026-09-16T15:00:00+00:00",
       "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor. The reason to watch this rodent so carefully? Nearly half its brain "
+    },
+    {
+      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
+      "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-16T14:36:44+00:00",
+      "summary": "Security researchers at Forever Security have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, Microsoft "
     },
     {
       "title": "Three Ukrainians to face charges for alleged hack of 610,000 Roblox accounts",
@@ -61,14 +141,6 @@
       "summary": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week. The attack needs code already running on the machine"
     },
     {
-      "title": "EU chief wants joint response to cyberattacks, sabotage",
-      "link": "https://therecord.media/eu-chief-wants-joint-response-to-cyberattacks",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-16T13:14:00+00:00",
-      "summary": "Delivering her annual State of the Union address in Strasbourg, Ursula von der Leyen said threats were \u201cmounting on our soil,\u201d pointing to recent incidents in Denmark, Lithuania and Poland and an attempted drone attack i"
-    },
-    {
       "title": "Reimagining advertising with AI",
       "link": "https://openai.com/index/reimagining-advertising-with-ai",
       "source": "OpenAI News",
@@ -85,20 +157,20 @@
       "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data cen"
     },
     {
-      "title": "Ukraine moves to crack down on scam call centers after corruption scandal",
-      "link": "https://therecord.media/ukraine-call-center-scam-crackdown",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-16T12:45:00+00:00",
-      "summary": "Ukraine\u2019s parliament has approved tougher criminal penalties for involvement in fraudulent call centers and the theft of personal data, following a corruption scandal in which prosecutors were accused of taking bribes to"
-    },
-    {
       "title": "The Download: AI\u2019s trillion-dollar gamble and OpenAI\u2019s biology data bid",
       "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
       "source": "MIT Technology Review",
       "category": "ai",
       "published": "2026-09-16T12:10:00+00:00",
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. What\u2019s at stake in AI\u2019s trillion-dollar gamble When Jessica Wachter, a finance pro"
+    },
+    {
+      "title": "How to connect AI usage to business value",
+      "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-16T12:00:00+00:00",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
     },
     {
       "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
@@ -125,28 +197,12 @@
       "summary": "A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged the alert. Attackers a"
     },
     {
-      "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
-      "link": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-16T11:08:54+00:00",
-      "summary": "Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild. The vulnerability, tracked as CVE-2026-87886 (CVSS score: 7.8),"
-    },
-    {
-      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-16T05:48:28+00:00",
-      "summary": "Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs. \"This vulnerability can be leveraged by unauthenticated at"
-    },
-    {
-      "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
-      "link": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-16T05:18:06+00:00",
-      "summary": "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr. The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of improper"
+      "title": "How workers are unlocking new ways of working",
+      "link": "https://openai.com/index/unlocking-new-ways-of-working",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-16T09:00:00+00:00",
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
     },
     {
       "title": "Universal Defenses for Tool-Integrated LLM Agents Against Adversarial Attacks",
@@ -275,62 +331,6 @@
       "category": "research",
       "published": "2026-09-16T04:00:00+00:00",
       "summary": "arXiv:2609.13463v1 Announce Type: new Abstract: The increasing deployment of AI agents in long-horizon tasks yields massive execution logs. Diagnosing failures within these records is crucial for reliability, as it trans"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, September 16th, 2026 https://isc.sans.edu/podcastdetail/10096, (Wed, Sep 16th)",
-      "link": "https://isc.sans.edu/diary/rss/33342",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-16T02:00:02+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Cyber Op Targets South Korean Media & Automotive Sectors",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-16T01:00:00+00:00",
-      "summary": "A likely North Korean advanced persistent threat (APT) group used a previously undocumented Linux espionage toolkit to compromise load balancers, gain access to communications, and further exploit networks."
-    },
-    {
-      "title": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday",
-      "link": "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-15T20:16:00+00:00",
-      "summary": "You can't make an omelet without breaking a few eggs, and you can't patch nearly 1,000 CVEs without a few glitches."
-    },
-    {
-      "title": "Norway announces investigations into telecom Telenor\u2019s work with Myanmar junta",
-      "link": "https://therecord.media/norway-investigations-telenor-telecom-myanmar-regime",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-15T20:01:00+00:00",
-      "summary": "Oslo-based Telenor potentially enabled crimes against humanity and violated sanctions in its dealings with the military regime that took over Myanmar in 2021, Norwegian authorities said."
-    },
-    {
-      "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI\u2013Hugging Face Incident",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-15T19:27:19+00:00",
-      "summary": "The 'Breaking' News: The OpenAI\u2013Hugging Face Incident - A Technical Reconstruction and Its Implications for AI At this Black Hat USA 2026 talk, OpenAI security engineers and researchers will reconstruct the OpenAI-Huggin"
-    },
-    {
-      "title": "Roundtables: Could AI really kill us all?",
-      "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-15T17:47:51+00:00",
-      "summary": "Listen to the session or watch below Employees at the world\u2019s leading AI labs are saying there\u2019s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch "
-    },
-    {
-      "title": "VectraRAT Can Hack Windows Enterprises for $250 per Month",
-      "link": "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-15T16:45:37+00:00",
-      "summary": "The full-service malware-as-a-service (MaaS) platform offers a Windows implant, command-and-control (C2) infrastructure, and an operator panel for comprehensive remote access."
     }
   ]
 }
