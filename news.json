@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T20:31:51.265727+00:00",
+  "generated_at": "2026-09-17T02:01:54.204489+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,30 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "ISC Stormcast For Thursday, September 17th, 2026 https://isc.sans.edu/podcastdetail/10098, (Thu, Sep 17th)",
+      "link": "https://isc.sans.edu/diary/rss/33346",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-17T02:00:03+00:00",
+      "summary": ""
+    },
+    {
+      "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-16T21:26:55+00:00",
+      "summary": "CISOs are not waiting for AI to prove its cybersecurity value before investing in the technology. Is it the right move?"
+    },
+    {
+      "title": "Key lawmaker suggests action on AI safety legislation will wait until 2027",
+      "link": "https://therecord.media/frontier-act-ai-bill-house-brett-guthrie",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-16T21:07:00+00:00",
+      "summary": "\u201cIt's really complicated, and I wouldn't want to do something in a lame duck session to do it quickly and not get it right,\u201d said House Energy and Commerce Chairman Brett Guthrie about the FRONTIER Act."
+    },
     {
       "title": "Coast Guard, FBI boarded tanker after attack by \u2018foreign cyber actors\u2019",
       "link": "https://therecord.media/oil-tanker-cyberattack-coast-guard-fbi",
@@ -51,6 +75,14 @@
       "category": "cybersecurity",
       "published": "2026-09-16T18:00:54+00:00",
       "summary": "Cybersecurity industry veteran Hal Pomeranz gives a pep talk on career anxiety and self-doubt and shares how to build meaningful connections during historical tech industry downturns."
+    },
+    {
+      "title": "Our framework for reporting model misalignment",
+      "link": "https://openai.com/index/model-misalignment-reporting-framework",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-16T17:00:00+00:00",
+      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
     },
     {
       "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It",
@@ -115,14 +147,6 @@
       "category": "cybersecurity",
       "published": "2026-09-16T14:30:00+00:00",
       "summary": "Three Ukrainians are set to stand trial for allegedly stealing access to more than 610,000 Roblox accounts and selling them to buyers in Russia, authorities said."
-    },
-    {
-      "title": "Flock camera use by internal affairs unit puts DC police at odds with officers\u2019 union",
-      "link": "https://therecord.media/dc-police-union-opposes-flock-camera-use-probing-officers",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-16T13:41:00+00:00",
-      "summary": "Washington, D.C.'s police department has used information from Flock cameras for misconduct investigations, prompting a formal complaint from its officers' union."
     },
     {
       "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
@@ -307,30 +331,6 @@
       "category": "research",
       "published": "2026-09-16T04:00:00+00:00",
       "summary": "arXiv:2609.13436v1 Announce Type: new Abstract: Large Language Model (LLM) agents offer a promising path toward autonomously managing long-term physical tasks without human intervention. However, physical tasks require a"
-    },
-    {
-      "title": "LabAgent: Customize Any Research Hubs for Scientific Discoveries Using AI Agents",
-      "link": "https://arxiv.org/abs/2609.13437",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-16T04:00:00+00:00",
-      "summary": "arXiv:2609.13437v1 Announce Type: new Abstract: Scientific research is a continuous process that emphasizes inheritance. Methods developed by predecessors are often expanded upon by new researchers to explore more novel "
-    },
-    {
-      "title": "TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models",
-      "link": "https://arxiv.org/abs/2609.13457",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-16T04:00:00+00:00",
-      "summary": "arXiv:2609.13457v1 Announce Type: new Abstract: Timeseries multimodal large language models (TS-MLLMs) have recently begun leveraging the reasoning capabilities of large language models (LLMs) for question-answering task"
-    },
-    {
-      "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
-      "link": "https://arxiv.org/abs/2609.13463",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-16T04:00:00+00:00",
-      "summary": "arXiv:2609.13463v1 Announce Type: new Abstract: The increasing deployment of AI agents in long-horizon tasks yields massive execution logs. Diagnosing failures within these records is crucial for reliability, as it trans"
     }
   ]
 }
