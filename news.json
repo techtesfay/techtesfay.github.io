@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T15:45:10.092505+00:00",
+  "generated_at": "2026-09-17T20:38:25.798646+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,22 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "China's FamousSparrow APT Spies on US Politics in Latin America",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-17T19:15:38+00:00",
+      "summary": "Amid the US and China's fight for eco-colonial influence in Latin America, a stealthy backdoor has taken flight."
+    },
+    {
+      "title": "China\u2019s FamousSparrow hackers target Latin America with new backdoor",
+      "link": "https://therecord.media/china-hackers-latin-america-espionage",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-17T16:30:00+00:00",
+      "summary": "Alleged Chinese hackers are breaking into government agencies across Latin America using a new backdoor that researchers are calling \u201cSparroWocky.\u201d"
+    },
     {
       "title": "LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)",
       "link": "https://isc.sans.edu/diary/rss/33348",
@@ -261,6 +277,14 @@
       "summary": ""
     },
     {
+      "title": "Introducing Astra for Law",
+      "link": "https://openai.com/index/astra-for-law",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-17T00:00:00+00:00",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
+    },
+    {
       "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
       "source": "Dark Reading",
@@ -275,14 +299,6 @@
       "category": "cybersecurity",
       "published": "2026-09-16T21:07:00+00:00",
       "summary": "\u201cIt's really complicated, and I wouldn't want to do something in a lame duck session to do it quickly and not get it right,\u201d said House Energy and Commerce Chairman Brett Guthrie about the FRONTIER Act."
-    },
-    {
-      "title": "Coast Guard, FBI boarded tanker after attack by \u2018foreign cyber actors\u2019",
-      "link": "https://therecord.media/oil-tanker-cyberattack-coast-guard-fbi",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-16T18:46:00+00:00",
-      "summary": "U.S. personnel boarded an oil tanker in the Gulf of Mexico to \u201censure integrity of the vessel\u2019s operational and information technology systems,\" after an apparent cyberattack, the U.S. Coast Guard said."
     },
     {
       "title": "Scans Targeting Hospitality Applications, (Wed, Sep 16th)",
@@ -315,22 +331,6 @@
       "category": "ai",
       "published": "2026-09-16T17:00:00+00:00",
       "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
-    },
-    {
-      "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It",
-      "link": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-16T16:43:37+00:00",
-      "summary": "A new type of attack hijacks the AI assistant built directly into various browsers to access sensitive information, execute malicious actions, and exfiltrate data."
-    },
-    {
-      "title": "Helping older adults use AI in everyday life",
-      "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-16T16:00:00+00:00",
-      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
     }
   ]
 }
