@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T20:38:25.798646+00:00",
+  "generated_at": "2026-09-18T01:49:19.481076+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,22 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
+      "link": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-17T21:23:50+00:00",
+      "summary": "The move is consistent with the agency's advice on the need for organizations to prioritize the vulnerabilities that actually matter."
+    },
+    {
+      "title": "European Commission set to push social media restrictions, safety requirements into law",
+      "link": "https://therecord.media/european-commission-set-to-push-social-media-kids-restrictions-into-law",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-17T20:36:00+00:00",
+      "summary": "The proposal, known as the EU KIDS Act, would block social media platforms from offering accounts to children younger than 13 and establish a bloc-wide minimum age of 15 for account creation."
+    },
     {
       "title": "China's FamousSparrow APT Spies on US Politics in Latin America",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america",
@@ -75,6 +91,14 @@
       "category": "ai",
       "published": "2026-09-17T12:10:00+00:00",
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked"
+    },
+    {
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "link": "https://openai.com/index/cooley-gopublic",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-17T12:00:00+00:00",
+      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
     },
     {
       "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
@@ -293,14 +317,6 @@
       "summary": "CISOs are not waiting for AI to prove its cybersecurity value before investing in the technology. Is it the right move?"
     },
     {
-      "title": "Key lawmaker suggests action on AI safety legislation will wait until 2027",
-      "link": "https://therecord.media/frontier-act-ai-bill-house-brett-guthrie",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-16T21:07:00+00:00",
-      "summary": "\u201cIt's really complicated, and I wouldn't want to do something in a lame duck session to do it quickly and not get it right,\u201d said House Energy and Commerce Chairman Brett Guthrie about the FRONTIER Act."
-    },
-    {
       "title": "Scans Targeting Hospitality Applications, (Wed, Sep 16th)",
       "link": "https://isc.sans.edu/diary/rss/33344",
       "source": "SANS Internet Storm Center",
@@ -315,22 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-09-16T18:14:22+00:00",
       "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recent"
-    },
-    {
-      "title": "Fighting Your Dragons Through Tough Tech Times",
-      "link": "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-16T18:00:54+00:00",
-      "summary": "Cybersecurity industry veteran Hal Pomeranz gives a pep talk on career anxiety and self-doubt and shares how to build meaningful connections during historical tech industry downturns."
-    },
-    {
-      "title": "Our framework for reporting model misalignment",
-      "link": "https://openai.com/index/model-misalignment-reporting-framework",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-16T17:00:00+00:00",
-      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
     }
   ]
 }
