@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:18:03.275949+00:00",
+  "generated_at": "2026-09-18T20:03:58.222407+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,38 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-18T19:26:47+00:00",
+      "summary": "The authentication bypass flaw CVE-2026-76460 impacts Cisco's Identity Services Engine (ISE) and received a maximum 10 out of 10 CVSS score."
+    },
+    {
+      "title": "MFA Won't Save You From OAuth Consent Abuse",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-18T18:15:20+00:00",
+      "summary": "MFA is essential, but it cannot replace OAuth governance, least-privilege scopes, consent monitoring, and rapid revocation."
+    },
+    {
+      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+      "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-18T16:56:19+00:00",
+      "summary": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPress."
+    },
+    {
+      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-18T15:24:16+00:00",
+      "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan. The a"
+    },
     {
       "title": "Nations take action on North Korean IT workers after UN report",
       "link": "https://therecord.media/nations-take-action-on-north-korean-it-worker-schemes",
@@ -115,6 +147,14 @@
       "category": "cybersecurity",
       "published": "2026-09-18T06:05:26+00:00",
       "summary": "In June 2026 the IETF published RFC 10008[1], defining a new HTTP method: \"QUERY\". The HTTP protocol faced already by changes (HTTP/2, HTTP/2) but it's the first new standard HTTP verb since \"PATCH\" in 2010!"
+    },
+    {
+      "title": "North Korean hackers infect thousands of devices across 100 countries as part of \u2018WaterPlum\u2019 campaign",
+      "link": "https://therecord.media/north-korean-hackers-infect-thousands-of-devices-waterplum-scheme",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-18T04:00:00+00:00",
+      "summary": "The FBI and Defense Department partnered with Japan\u2019s National Police Agency and law enforcement agencies in Australia and Germany on a new advisory about \u201cWaterPlum\u201d \u2014 a group of cyber actors allegedly stealing cryptocu"
     },
     {
       "title": "EvoSherlock: Towards Agentic Lifelong Evolution for Unseen Long-Tailed Security-Critical Events in Videos",
@@ -277,22 +317,6 @@
       "summary": "Amid the US and China's fight for eco-colonial influence in Latin America, a stealthy backdoor has taken flight."
     },
     {
-      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
-      "link": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-17T18:08:28+00:00",
-      "summary": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is the"
-    },
-    {
-      "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
-      "link": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-17T17:32:22+00:00",
-      "summary": "Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them. This week, those keys sit in AI tools, exposed services, old bugs, weak logins, and software sold like a monthly subsc"
-    },
-    {
       "title": "China\u2019s FamousSparrow hackers target Latin America with new backdoor",
       "link": "https://therecord.media/china-hackers-latin-america-espionage",
       "source": "The Record",
@@ -307,30 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-09-17T15:06:44+00:00",
       "summary": "At the end of August, a malspam message was caught in the quarantine of a mail gateway operated by one of my customers. The message was not especially remarkable \u00e2\u20ac\u201c it asked the recipient to review some attached require"
-    },
-    {
-      "title": "Hackers claim breach of Russian election systems days before parliamentary vote",
-      "link": "https://therecord.media/russia-election-hackers-breach",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-17T13:45:00+00:00",
-      "summary": "An anonymous hacking group claimed to have broken into computer systems connected to Russia\u2019s election infrastructure just days before the country begins voting for a new parliament."
-    },
-    {
-      "title": "The Download: mice with part-human brains and climate tech innovators",
-      "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-17T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked"
-    },
-    {
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "link": "https://openai.com/index/cooley-gopublic",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-17T12:00:00+00:00",
-      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
     }
   ]
 }
