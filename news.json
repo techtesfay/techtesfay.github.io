@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T01:49:19.481076+00:00",
+  "generated_at": "2026-09-18T10:08:48.277518+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,182 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+      "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-18T09:18:03+00:00",
+      "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. \"The developer likely wrote the "
+    },
+    {
+      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-18T09:00:00+00:00",
+      "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress"
+    },
+    {
+      "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-18T07:00:00+00:00",
+      "summary": "AI-driven cyberattacks used to be exotic. Soon, it'll be odd if threat actors aren't using agents to do all of their bidding."
+    },
+    {
+      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-18T06:17:25+00:00",
+      "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control c"
+    },
+    {
+      "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
+      "link": "https://isc.sans.edu/diary/rss/33352",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-18T06:05:26+00:00",
+      "summary": "In June 2026 the IETF published RFC 10008[1], defining a new HTTP method: \"QUERY\". The HTTP protocol faced already by changes (HTTP/2, HTTP/2) but it's the first new standard HTTP verb since \"PATCH\" in 2010!"
+    },
+    {
+      "title": "EvoSherlock: Towards Agentic Lifelong Evolution for Unseen Long-Tailed Security-Critical Events in Videos",
+      "link": "https://arxiv.org/abs/2609.19201",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-18T04:00:00+00:00",
+      "summary": "arXiv:2609.19201v1 Announce Type: new Abstract: Existing Security-oriented Video Understanding (SVU) systems assume a \\emph{closed world}, \\ie static category sets, abundant labels, and the premise that all event types a"
+    },
+    {
+      "title": "PAPC: Platform Mediation for Privacy-Propagation Externalities in AI-Mediated Workflows",
+      "link": "https://arxiv.org/abs/2609.19226",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-18T04:00:00+00:00",
+      "summary": "arXiv:2609.19226v1 Announce Type: new Abstract: AI-mediated platforms coordinate work through LLM agents acting for different principals. In these workflows, privacy loss can be created before a final answer appears: a m"
+    },
+    {
+      "title": "Robust Conformal Intrusion Detection via Traffic-Aware Calibration and Attack-Orbit Invariance",
+      "link": "https://arxiv.org/abs/2609.19241",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-18T04:00:00+00:00",
+      "summary": "arXiv:2609.19241v1 Announce Type: new Abstract: Large language models fine-tuned for network intrusion detection emit single-point predictions without statistical validity guarantees. Conformal prediction supplies a fini"
+    },
+    {
+      "title": "AUDITPLAN: Commit, Then Answer for Auditable Safety Alignment",
+      "link": "https://arxiv.org/abs/2609.19325",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-18T04:00:00+00:00",
+      "summary": "arXiv:2609.19325v1 Announce Type: new Abstract: Safety tuning pipelines judge only the final answer, which makes it difficult to distinguish robust refusal from two undesirable shortcuts: blanket refusal on benign reques"
+    },
+    {
+      "title": "Scaling Zero Knowledge UNSAT Verification via Normalized Chaining",
+      "link": "https://arxiv.org/abs/2609.19353",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-18T04:00:00+00:00",
+      "summary": "arXiv:2609.19353v1 Announce Type: new Abstract: Proofs of UNSAT are a standard primitive in formal verification and software assurance. In many real-world settings, the proof itself encodes proprietary or security-sensit"
+    },
+    {
+      "title": "Beyond Private Training: The New Landscape of AI Privacy",
+      "link": "https://arxiv.org/abs/2609.19456",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-18T04:00:00+00:00",
+      "summary": "arXiv:2609.19456v1 Announce Type: new Abstract: Retrieval-augmented systems increasingly rely on vector indexes that may retain deleted items in their search graph. Existing deletion interfaces can prevent deleted identi"
+    },
+    {
+      "title": "Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents",
+      "link": "https://arxiv.org/abs/2609.19587",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-18T04:00:00+00:00",
+      "summary": "arXiv:2609.19587v1 Announce Type: new Abstract: To keep coding agents from going off the rails, production systems now review each proposed action with a blocking monitor that can reject it before it runs (Auto Mode in C"
+    },
+    {
+      "title": "SoK: Trading Agents or Market Crashers? Dissecting Robustness and Security Failures in Academic Financial LLM Trading Schemes",
+      "link": "https://arxiv.org/abs/2609.19705",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-18T04:00:00+00:00",
+      "summary": "arXiv:2609.19705v1 Announce Type: new Abstract: Autonomous large language model (LLM) agents are moving rapidly into high-stakes domains, yet existing agentic-AI security studies remain largely domain-agnostic and overlo"
+    },
+    {
+      "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
+      "link": "https://arxiv.org/abs/2609.19170",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-18T04:00:00+00:00",
+      "summary": "arXiv:2609.19170v1 Announce Type: new Abstract: Emphatic temporal-difference learning (ETD) stabilizes the expected off-policy TD update and changes its projection geometry, but neither property determines constant-steps"
+    },
+    {
+      "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
+      "link": "https://arxiv.org/abs/2609.19180",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-18T04:00:00+00:00",
+      "summary": "arXiv:2609.19180v1 Announce Type: new Abstract: Language models face unique challenges in analyzing interdisciplinary scientific research literature. In biophysics research, faithful answers require grounding observed da"
+    },
+    {
+      "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
+      "link": "https://arxiv.org/abs/2609.19182",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-18T04:00:00+00:00",
+      "summary": "arXiv:2609.19182v1 Announce Type: new Abstract: Benchmarks are central to how progress in large language models (LLMs) is assessed and communicated. Yet model rankings alone reveal little about how evaluation requirement"
+    },
+    {
+      "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
+      "link": "https://arxiv.org/abs/2609.19203",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-18T04:00:00+00:00",
+      "summary": "arXiv:2609.19203v1 Announce Type: new Abstract: AI applications have shifted from single, monolithic foundation models (FM) to compound agentic systems. Yet today's stacks remain fragmented: even as protocols (e.g., MCP,"
+    },
+    {
+      "title": "What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
+      "link": "https://arxiv.org/abs/2609.19212",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-18T04:00:00+00:00",
+      "summary": "arXiv:2609.19212v1 Announce Type: new Abstract: Systematic generalization, the ability to solve novel problems by recombining known atomic elements, is central to human intelligence but difficult to study rigorously unde"
+    },
+    {
+      "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
+      "link": "https://arxiv.org/abs/2609.19244",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-18T04:00:00+00:00",
+      "summary": "arXiv:2609.19244v1 Announce Type: new Abstract: Conversational LLM agents increasingly rely on Web search, yet the end-to-end lifecycle of agentic search remains poorly understood. We present the first study of Web searc"
+    },
+    {
+      "title": "Do AI Agents Understand Computer Architecture?",
+      "link": "https://arxiv.org/abs/2609.19387",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-18T04:00:00+00:00",
+      "summary": "arXiv:2609.19387v1 Announce Type: new Abstract: Agents are increasingly asked to design hardware, and increasingly reported to succeed. Such reports establish that a design improved; they cannot establish why. An agent t"
+    },
+    {
+      "title": "MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs",
+      "link": "https://arxiv.org/abs/2609.19391",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-18T04:00:00+00:00",
+      "summary": "arXiv:2609.19391v1 Announce Type: new Abstract: LLM coding agents now generate complex programs at a scale that makes thorough human review increasingly difficult, raising the risk of safety and security failures. Common"
+    },
+    {
+      "title": "ISC Stormcast For Friday, September 18th, 2026 https://isc.sans.edu/podcastdetail/10100, (Fri, Sep 18th)",
+      "link": "https://isc.sans.edu/diary/rss/33350",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-18T02:00:02+00:00",
+      "summary": ""
+    },
     {
       "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
       "link": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
@@ -37,6 +213,22 @@
       "summary": "Amid the US and China's fight for eco-colonial influence in Latin America, a stealthy backdoor has taken flight."
     },
     {
+      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+      "link": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-17T18:08:28+00:00",
+      "summary": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is the"
+    },
+    {
+      "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
+      "link": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-17T17:32:22+00:00",
+      "summary": "Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them. This week, those keys sit in AI tools, exposed services, old bugs, weak logins, and software sold like a monthly subsc"
+    },
+    {
       "title": "China\u2019s FamousSparrow hackers target Latin America with new backdoor",
       "link": "https://therecord.media/china-hackers-latin-america-espionage",
       "source": "The Record",
@@ -45,12 +237,28 @@
       "summary": "Alleged Chinese hackers are breaking into government agencies across Latin America using a new backdoor that researchers are calling \u201cSparroWocky.\u201d"
     },
     {
+      "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
+      "link": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-17T15:37:56+00:00",
+      "summary": "Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a security announcement on S"
+    },
+    {
       "title": "LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)",
       "link": "https://isc.sans.edu/diary/rss/33348",
       "source": "SANS Internet Storm Center",
       "category": "cybersecurity",
       "published": "2026-09-17T15:06:44+00:00",
       "summary": "At the end of August, a malspam message was caught in the quarantine of a mail gateway operated by one of my customers. The message was not especially remarkable \u00e2\u20ac\u201c it asked the recipient to review some attached require"
+    },
+    {
+      "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
+      "link": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-17T14:03:13+00:00",
+      "summary": "The Iran-linked \"hacktivist\" persona known as Handala Hack has been attributed to a Telegram-based surveillance backdoor called HEAVYGRAM and a Delphi-based utility known as CRUDEEXCLUDE. \"HEAVYGRAM offers builtin comman"
     },
     {
       "title": "Hackers claim breach of Russian election systems days before parliamentary vote",
@@ -109,22 +317,6 @@
       "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time b"
     },
     {
-      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
-      "link": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-17T10:50:53+00:00",
-      "summary": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents "
-    },
-    {
-      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
-      "link": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-17T10:05:45+00:00",
-      "summary": "The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin America since at leas"
-    },
-    {
       "title": "Meet the innovators under 35 shaping climate tech",
       "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
       "source": "MIT Technology Review",
@@ -133,204 +325,12 @@
       "summary": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35\u2014a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the"
     },
     {
-      "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads",
-      "link": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-17T09:53:38+00:00",
-      "summary": "OpenAI on Wednesday disclosed six new instances of \"unexpected or concerning model behavior\" that took place over the past six months, while sharing a new framework for reporting, tracking, investigating, and disclosing "
-    },
-    {
-      "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS",
-      "link": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-17T08:00:29+00:00",
-      "summary": "The Internet Systems Consortium (ISC) has released BIND 9.20.29 and 9.21.26 to fix fourteen security flaws it disclosed on 16 September in BIND 9, its open-source DNS server software. One of them affects any BIND server "
-    },
-    {
-      "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
-      "link": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-17T07:30:01+00:00",
-      "summary": "A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a notice published Wednesday. It also"
-    },
-    {
-      "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
-      "link": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-17T06:39:40+00:00",
-      "summary": "Cisco has warned of a fresh maximum-severity security flaw impacting Identity Services Engine (ISE) that has come under active exploitation. The vulnerability, tracked as CVE-2026-76460 (CVSS score: 10.0), could allow an"
-    },
-    {
-      "title": "State Without a Landlord: An Architecture Proposal for Peer-to-Peer Replication of Durable Workflow State",
-      "link": "https://arxiv.org/abs/2609.17645",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-17T04:00:00+00:00",
-      "summary": "arXiv:2609.17645v1 Announce Type: new Abstract: Durable-execution frameworks commonly journal execution steps of a long-running function and reconstruct state by deterministic replay; the journal is therefore the workflo"
-    },
-    {
-      "title": "Trust propagation and structural containment in Multi-agent LLM pipelines",
-      "link": "https://arxiv.org/abs/2609.17648",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-17T04:00:00+00:00",
-      "summary": "arXiv:2609.17648v1 Announce Type: new Abstract: Multi-agent LLM systems increasingly automate tasks involving agents with different levels of privilege, creating a security risk in which a compromised low-privilege agent"
-    },
-    {
-      "title": "Reflections on Trusting Trust, Revisited: Contaminating Self-Modifying AI Coding Agents with Poisoned Benchmarks",
-      "link": "https://arxiv.org/abs/2609.17817",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-17T04:00:00+00:00",
-      "summary": "arXiv:2609.17817v1 Announce Type: new Abstract: Thompson's \"Reflections on Trusting Trust\" showed that a compiler can be poisoned to reinsert its own backdoor, so that even recompiling clean source reproduces the Trojan."
-    },
-    {
-      "title": "Evaluating the Impact of Personalization in Conversational Cybersecurity Assistants",
-      "link": "https://arxiv.org/abs/2609.17839",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-17T04:00:00+00:00",
-      "summary": "arXiv:2609.17839v1 Announce Type: new Abstract: Users increasingly turn to Large Language Models to answer a variety of questions, including cybersecurity questions. We study how personalization strategies can help impro"
-    },
-    {
-      "title": "When AI Agents Meet MEV: Cross-Chain Arbitrage in the Agentic Economy",
-      "link": "https://arxiv.org/abs/2609.17897",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-17T04:00:00+00:00",
-      "summary": "arXiv:2609.17897v1 Announce Type: new Abstract: We study cross-chain arbitrage when autonomous AI agents, rather than humans or bots, are the searchers. We model agents as both arbitrage extractors and Maximal Extractabl"
-    },
-    {
-      "title": "Ghost-Filled Orders: Detecting and Testing Atomicity Violations in Non-Custodial Prediction Markets",
-      "link": "https://arxiv.org/abs/2609.17902",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-17T04:00:00+00:00",
-      "summary": "arXiv:2609.17902v1 Announce Type: new Abstract: Blockchain based prediction markets combine offchain order management with onchain settlement. This architecture supports user controlled custody, since users keep funds in"
-    },
-    {
-      "title": "PentestChain: A Cost-Aware, MCP-Orchestrated Framework for Automated Penetration Testing with Free-Tier LLMs",
-      "link": "https://arxiv.org/abs/2609.18120",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-17T04:00:00+00:00",
-      "summary": "arXiv:2609.18120v1 Announce Type: new Abstract: AI-driven penetration testing has been demonstrated with premium frontier models such as GPT-4, but the per-engagement token cost makes continuous, automated testing unaffo"
-    },
-    {
-      "title": "\"Your Robot Was Trained on a Lie\": Collision Mesh Poisoning Attacks on Robotic Manipulation",
-      "link": "https://arxiv.org/abs/2609.18122",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-17T04:00:00+00:00",
-      "summary": "arXiv:2609.18122v1 Announce Type: new Abstract: Learning-enabled robotic manipulation increasingly relies on robot simulators for policy training and evaluation before real-world deployment. Inside a simulator, a 3D asse"
-    },
-    {
-      "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
-      "link": "https://arxiv.org/abs/2609.17631",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-17T04:00:00+00:00",
-      "summary": "arXiv:2609.17631v1 Announce Type: new Abstract: AI-assisted claims can appear authoritative when evidence, analysis, human authorization, presentation, and correction history refer to different states. Provenance, attest"
-    },
-    {
-      "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
-      "link": "https://arxiv.org/abs/2609.17632",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-17T04:00:00+00:00",
-      "summary": "arXiv:2609.17632v1 Announce Type: new Abstract: Large language model (LLM) trading agents can combine market data, news, and executable analysis, but their behavior is often controlled by static hand-written tool-use pol"
-    },
-    {
-      "title": "One Color Preprocessing Improves DSATUR",
-      "link": "https://arxiv.org/abs/2609.17633",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-17T04:00:00+00:00",
-      "summary": "arXiv:2609.17633v1 Announce Type: new Abstract: The Graph Coloring Problem (GCP) is NP-hard and DSATUR stands as one of the fastest heuristics for it despite producing colorings that typically use more colors than state-"
-    },
-    {
-      "title": "Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees",
-      "link": "https://arxiv.org/abs/2609.17635",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-17T04:00:00+00:00",
-      "summary": "arXiv:2609.17635v1 Announce Type: new Abstract: City pedestrian counting systems now feed economic indicators, planning decisions and safety operations, yet the twins built on top of them treat the incoming stream as gro"
-    },
-    {
-      "title": "What You Can't See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence Masking Drives Compositional Generalization",
-      "link": "https://arxiv.org/abs/2609.17637",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-17T04:00:00+00:00",
-      "summary": "arXiv:2609.17637v1 Announce Type: new Abstract: Restricting what a module can read may improve what a system learns to compute. We test this in a preregistered confirmation with sixty four-cell systems sharing a frozen l"
-    },
-    {
-      "title": "CapMem: A Benchmark for Caption-Based Episodic Memory in Egocentric Video",
-      "link": "https://arxiv.org/abs/2609.17688",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-17T04:00:00+00:00",
-      "summary": "arXiv:2609.17688v1 Announce Type: new Abstract: Wearable assistants require episodic memory over egocentric video, yet current vision-language models face bounded frame budgets, growing visual-token costs, and long-conte"
-    },
-    {
-      "title": "GraphEcho: Structural Redundancy and Evidence Provenance in LLM Graph Agents",
-      "link": "https://arxiv.org/abs/2609.17695",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-17T04:00:00+00:00",
-      "summary": "arXiv:2609.17695v1 Announce Type: new Abstract: A large language model (LLM) agent can follow more graph paths without acquiring more independent evidence. GraphEcho tests whether agents mistake these repeated encounters"
-    },
-    {
-      "title": "GVD: Governed Versioning and Deduplication for Document Repositories",
-      "link": "https://arxiv.org/abs/2609.17696",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-17T04:00:00+00:00",
-      "summary": "arXiv:2609.17696v1 Announce Type: new Abstract: Document repositories evolve continuously. Guidelines and policies are revised, superseded, and re-uploaded, so the same content recurs in different wording and newer versi"
-    },
-    {
       "title": "ISC Stormcast For Thursday, September 17th, 2026 https://isc.sans.edu/podcastdetail/10098, (Thu, Sep 17th)",
       "link": "https://isc.sans.edu/diary/rss/33346",
       "source": "SANS Internet Storm Center",
       "category": "cybersecurity",
       "published": "2026-09-17T02:00:03+00:00",
       "summary": ""
-    },
-    {
-      "title": "Introducing Astra for Law",
-      "link": "https://openai.com/index/astra-for-law",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-17T00:00:00+00:00",
-      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
-    },
-    {
-      "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-16T21:26:55+00:00",
-      "summary": "CISOs are not waiting for AI to prove its cybersecurity value before investing in the technology. Is it the right move?"
-    },
-    {
-      "title": "Scans Targeting Hospitality Applications, (Wed, Sep 16th)",
-      "link": "https://isc.sans.edu/diary/rss/33344",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-16T18:44:04+00:00",
-      "summary": "Earlier today, I noted an odd request showing up in our \"First Seen\" report:"
-    },
-    {
-      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
-      "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
-      "source": "Krebs on Security",
-      "category": "cybersecurity",
-      "published": "2026-09-16T18:14:22+00:00",
-      "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recent"
     }
   ]
 }
