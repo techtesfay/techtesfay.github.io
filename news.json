@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T20:03:58.222407+00:00",
+  "generated_at": "2026-09-19T01:54:14.398737+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,6 +13,14 @@
   ],
   "items": [
     {
+      "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-18T20:24:51+00:00",
+      "summary": "The new program expands Vectra AI's partner strategy as increasingly complex security environments and the growing use of AI create demand for broader AI expertise, services, and security outcomes."
+    },
+    {
       "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
       "link": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
       "source": "Dark Reading",
@@ -21,12 +29,28 @@
       "summary": "The authentication bypass flaw CVE-2026-76460 impacts Cisco's Identity Services Engine (ISE) and received a maximum 10 out of 10 CVSS score."
     },
     {
+      "title": "EY Survey Finds Autonomous AI Implementation Outpaces Oversight",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-18T19:23:48+00:00",
+      "summary": "A new survey of senior AI execs shows that while organizations are rapidly deploying AI and autonomous systems, their process and controls are not keeping pace."
+    },
+    {
       "title": "MFA Won't Save You From OAuth Consent Abuse",
       "link": "https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-09-18T18:15:20+00:00",
       "summary": "MFA is essential, but it cannot replace OAuth governance, least-privilege scopes, consent monitoring, and rapid revocation."
+    },
+    {
+      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+      "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-18T18:02:24+00:00",
+      "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine. Kernel maintainers have fixed all four over the past few"
     },
     {
       "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
@@ -131,14 +155,6 @@
       "category": "cybersecurity",
       "published": "2026-09-18T07:00:00+00:00",
       "summary": "AI-driven cyberattacks used to be exotic. Soon, it'll be odd if threat actors aren't using agents to do all of their bidding."
-    },
-    {
-      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
-      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-18T06:17:25+00:00",
-      "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control c"
     },
     {
       "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
@@ -315,22 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-09-17T19:15:38+00:00",
       "summary": "Amid the US and China's fight for eco-colonial influence in Latin America, a stealthy backdoor has taken flight."
-    },
-    {
-      "title": "China\u2019s FamousSparrow hackers target Latin America with new backdoor",
-      "link": "https://therecord.media/china-hackers-latin-america-espionage",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-17T16:30:00+00:00",
-      "summary": "Alleged Chinese hackers are breaking into government agencies across Latin America using a new backdoor that researchers are calling \u201cSparroWocky.\u201d"
-    },
-    {
-      "title": "LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)",
-      "link": "https://isc.sans.edu/diary/rss/33348",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-17T15:06:44+00:00",
-      "summary": "At the end of August, a malspam message was caught in the quarantine of a mail gateway operated by one of my customers. The message was not especially remarkable \u00e2\u20ac\u201c it asked the recipient to review some attached require"
     }
   ]
 }
