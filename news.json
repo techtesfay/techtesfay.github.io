@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T19:40:50.832414+00:00",
+  "generated_at": "2026-09-20T01:57:01.261809+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-19T18:36:53+00:00",
+      "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. T"
+    },
     {
       "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
       "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
@@ -27,14 +35,6 @@
       "category": "cybersecurity",
       "published": "2026-09-19T13:28:41+00:00",
       "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Da"
-    },
-    {
-      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-19T13:28:35+00:00",
-      "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. T"
     },
     {
       "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
