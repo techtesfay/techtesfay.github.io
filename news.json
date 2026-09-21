@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T01:58:11.269171+00:00",
+  "generated_at": "2026-09-21T11:14:40.022179+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,174 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "TerminalFix: PNG Steganography, (Mon, Sep 21st)",
+      "link": "https://isc.sans.edu/diary/rss/33318",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-21T10:33:53+00:00",
+      "summary": "Microsoft Security Research published an interesting blog post \"TerminalFix campaign deploys a reverse tunnel through multistage intrusion\" about a malware campaign. The aspect that I want to take a closer look at, is th"
+    },
+    {
+      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+      "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-21T08:39:38+00:00",
+      "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including ComponentTask33, Update"
+    },
+    {
+      "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+      "link": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-21T06:06:44+00:00",
+      "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the "
+    },
+    {
+      "title": "ISC Stormcast For Monday, September 21st, 2026 https://isc.sans.edu/podcastdetail/10102, (Mon, Sep 21st)",
+      "link": "https://isc.sans.edu/diary/rss/33354",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-21T05:15:12+00:00",
+      "summary": ""
+    },
+    {
+      "title": "The Right Tool for the Job: On the Selection of Mitigations for GenAI Privacy Threats",
+      "link": "https://arxiv.org/abs/2609.20884",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-21T04:00:00+00:00",
+      "summary": "arXiv:2609.20884v1 Announce Type: new Abstract: Generative Artificial Intelligence (GenAI) has rapidly evolved from an experimental technology into a foundational component of modern software systems. However, as its ado"
+    },
+    {
+      "title": "TPM-Attest: Hardware-Rooted Integrity Attestation as a Kernel-Level Anti-Cheat Alternative for Linux",
+      "link": "https://arxiv.org/abs/2609.20909",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-21T04:00:00+00:00",
+      "summary": "arXiv:2609.20909v1 Announce Type: new Abstract: Multiplayer PC gaming on Linux faces a structural problem: the anti-cheat systems that publishers require operate as proprietary Ring 0 kernel modules that are architectura"
+    },
+    {
+      "title": "(Don't) Trust, but (Don't) Verify: Developers' Attention to Security in AI-Generated Code",
+      "link": "https://arxiv.org/abs/2609.21020",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-21T04:00:00+00:00",
+      "summary": "arXiv:2609.21020v1 Announce Type: new Abstract: AI coding assistants are rapidly transforming software development, but are known to produce insecure code. Prior work has measured whether AI-assisted developers produce s"
+    },
+    {
+      "title": "Loopjacking: Hijacking Human-in-the-Loop Approval",
+      "link": "https://arxiv.org/abs/2609.21081",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-21T04:00:00+00:00",
+      "summary": "arXiv:2609.21081v1 Announce Type: new Abstract: Human approval is often treated as the last security boundary before an agent executes a consequential operation. That boundary is only meaningful if the operation presente"
+    },
+    {
+      "title": "Origin Is All You Need: Provenance-Aware Transformers for Structural Trust-Boundary Separation",
+      "link": "https://arxiv.org/abs/2609.21088",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-21T04:00:00+00:00",
+      "summary": "arXiv:2609.21088v1 Announce Type: new Abstract: Indirect prompt injection (IPI) remains a central safety and security challenge for large language model (LLM) systems because standard transformers lack architectural noti"
+    },
+    {
+      "title": "NetInspector: Measuring and Improving LLM Capabilities for Reliable Intent-Based Networking Policy Generation",
+      "link": "https://arxiv.org/abs/2609.21103",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-21T04:00:00+00:00",
+      "summary": "arXiv:2609.21103v1 Announce Type: new Abstract: Modern networks are large in scale and heterogeneous in configuration, making manual policy management increasingly impractical. Intent-Based Networking (IBN) addresses thi"
+    },
+    {
+      "title": "Toss If Perishable: An Ethnographic Study on Building Scenario-Based Training for Non-Perishable Skills",
+      "link": "https://arxiv.org/abs/2609.21147",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-21T04:00:00+00:00",
+      "summary": "arXiv:2609.21147v1 Announce Type: new Abstract: Security Operations Centers (SOCs) often rely upon on-the-job training focusing on the specific tools and procedures a SOC utilizes. The complexity in tooling can overshado"
+    },
+    {
+      "title": "X-SPUR: Explainable Surprisal-Based Protocol-Aware Unsupervised Reasoning for Automotive Ethernet Intrusion Detection",
+      "link": "https://arxiv.org/abs/2609.21217",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-21T04:00:00+00:00",
+      "summary": "arXiv:2609.21217v1 Announce Type: new Abstract: Automotive Ethernet carries heterogeneous multi-protocol traffic in modern in-vehicle networks, where labeled attack data are rarely available and the strongest prior unsup"
+    },
+    {
+      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+      "link": "https://arxiv.org/abs/2609.20971",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-21T04:00:00+00:00",
+      "summary": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse bloc"
+    },
+    {
+      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+      "link": "https://arxiv.org/abs/2609.20974",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-21T04:00:00+00:00",
+      "summary": "arXiv:2609.20974v1 Announce Type: new Abstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We prop"
+    },
+    {
+      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+      "link": "https://arxiv.org/abs/2609.20981",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-21T04:00:00+00:00",
+      "summary": "arXiv:2609.20981v1 Announce Type: new Abstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine th"
+    },
+    {
+      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
+      "link": "https://arxiv.org/abs/2609.21061",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-21T04:00:00+00:00",
+      "summary": "arXiv:2609.21061v1 Announce Type: new Abstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, back"
+    },
+    {
+      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
+      "link": "https://arxiv.org/abs/2609.21096",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-21T04:00:00+00:00",
+      "summary": "arXiv:2609.21096v1 Announce Type: new Abstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analy"
+    },
+    {
+      "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
+      "link": "https://arxiv.org/abs/2609.21113",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-21T04:00:00+00:00",
+      "summary": "arXiv:2609.21113v1 Announce Type: new Abstract: Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechanisms remains poorly u"
+    },
+    {
+      "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
+      "link": "https://arxiv.org/abs/2609.21139",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-21T04:00:00+00:00",
+      "summary": "arXiv:2609.21139v1 Announce Type: new Abstract: Replacing attention in a pretrained language model is a compatibility problem: a plausible substitute may alter representations expected by later layers. TinyCeNN-LM introd"
+    },
+    {
+      "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
+      "link": "https://arxiv.org/abs/2609.21149",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-21T04:00:00+00:00",
+      "summary": "arXiv:2609.21149v1 Announce Type: new Abstract: Before patients can use AI-assisted psychiatric intake systems, health systems need practical ways to routinely evaluate these tools against their clinical standards for qu"
+    },
+    {
+      "title": "Russia reports thousands of cyberattacks on election infrastructure during vote",
+      "link": "https://therecord.media/russia-reports-cyberattacks-during-election",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-20T23:00:00+00:00",
+      "summary": "Claims by officials of cyberattacks against election infrastructure could not be independently verified. Russian officials provided little technical evidence about the attacks or who it claimed who was behind them."
+    },
     {
       "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
       "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
@@ -59,22 +227,6 @@
       "category": "cybersecurity",
       "published": "2026-09-19T07:51:34+00:00",
       "summary": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Stre"
-    },
-    {
-      "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
-      "link": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-19T07:14:54+00:00",
-      "summary": "An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec said on September 18. The French security company had kept his GitHub access o"
-    },
-    {
-      "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
-      "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-19T06:24:10+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitatio"
     },
     {
       "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
@@ -179,158 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-09-18T04:00:00+00:00",
       "summary": "The FBI and Defense Department partnered with Japan\u2019s National Police Agency and law enforcement agencies in Australia and Germany on a new advisory about \u201cWaterPlum\u201d \u2014 a group of cyber actors allegedly stealing cryptocu"
-    },
-    {
-      "title": "ISC Stormcast For Friday, September 18th, 2026 https://isc.sans.edu/podcastdetail/10100, (Fri, Sep 18th)",
-      "link": "https://isc.sans.edu/diary/rss/33350",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-18T02:00:02+00:00",
-      "summary": ""
-    },
-    {
-      "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
-      "link": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-17T21:23:50+00:00",
-      "summary": "The move is consistent with the agency's advice on the need for organizations to prioritize the vulnerabilities that actually matter."
-    },
-    {
-      "title": "European Commission set to push social media restrictions, safety requirements into law",
-      "link": "https://therecord.media/european-commission-set-to-push-social-media-kids-restrictions-into-law",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-17T20:36:00+00:00",
-      "summary": "The proposal, known as the EU KIDS Act, would block social media platforms from offering accounts to children younger than 13 and establish a bloc-wide minimum age of 15 for account creation."
-    },
-    {
-      "title": "China's FamousSparrow APT Spies on US Politics in Latin America",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-17T19:15:38+00:00",
-      "summary": "Amid the US and China's fight for eco-colonial influence in Latin America, a stealthy backdoor has taken flight."
-    },
-    {
-      "title": "China\u2019s FamousSparrow hackers target Latin America with new backdoor",
-      "link": "https://therecord.media/china-hackers-latin-america-espionage",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-17T16:30:00+00:00",
-      "summary": "Alleged Chinese hackers are breaking into government agencies across Latin America using a new backdoor that researchers are calling \u201cSparroWocky.\u201d"
-    },
-    {
-      "title": "LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)",
-      "link": "https://isc.sans.edu/diary/rss/33348",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-17T15:06:44+00:00",
-      "summary": "At the end of August, a malspam message was caught in the quarantine of a mail gateway operated by one of my customers. The message was not especially remarkable \u00e2\u20ac\u201c it asked the recipient to review some attached require"
-    },
-    {
-      "title": "The Download: mice with part-human brains and climate tech innovators",
-      "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-17T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked"
-    },
-    {
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "link": "https://openai.com/index/cooley-gopublic",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-17T12:00:00+00:00",
-      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
-    },
-    {
-      "title": "Meet the innovators under 35 shaping climate tech",
-      "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-17T10:00:00+00:00",
-      "summary": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35\u2014a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, September 17th, 2026 https://isc.sans.edu/podcastdetail/10098, (Thu, Sep 17th)",
-      "link": "https://isc.sans.edu/diary/rss/33346",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-17T02:00:03+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Introducing Astra for Law",
-      "link": "https://openai.com/index/astra-for-law",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-17T00:00:00+00:00",
-      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
-    },
-    {
-      "title": "Scans Targeting Hospitality Applications, (Wed, Sep 16th)",
-      "link": "https://isc.sans.edu/diary/rss/33344",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-16T18:44:04+00:00",
-      "summary": "Earlier today, I noted an odd request showing up in our \"First Seen\" report:"
-    },
-    {
-      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
-      "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
-      "source": "Krebs on Security",
-      "category": "cybersecurity",
-      "published": "2026-09-16T18:14:22+00:00",
-      "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recent"
-    },
-    {
-      "title": "Our framework for reporting model misalignment",
-      "link": "https://openai.com/index/model-misalignment-reporting-framework",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-16T17:00:00+00:00",
-      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
-    },
-    {
-      "title": "Helping older adults use AI in everyday life",
-      "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-16T16:00:00+00:00",
-      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
-    },
-    {
-      "title": "Meet a mouse whose brain cortex is made up of human cells",
-      "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-16T15:00:00+00:00",
-      "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor. The reason to watch this rodent so carefully? Nearly half its brain "
-    },
-    {
-      "title": "Reimagining advertising with AI",
-      "link": "https://openai.com/index/reimagining-advertising-with-ai",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-16T13:00:00+00:00",
-      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
-    },
-    {
-      "title": "Building the materials foundation for AI",
-      "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-16T12:47:34+00:00",
-      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data cen"
-    },
-    {
-      "title": "The Download: AI\u2019s trillion-dollar gamble and OpenAI\u2019s biology data bid",
-      "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-16T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. What\u2019s at stake in AI\u2019s trillion-dollar gamble When Jessica Wachter, a finance pro"
     }
   ]
 }
