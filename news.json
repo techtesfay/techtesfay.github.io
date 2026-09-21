@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T17:16:29.806555+00:00",
+  "generated_at": "2026-09-21T21:17:44.538324+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,54 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "ShinyHunters Hacked Clop. Now What About Clop's Victims?",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-21T20:07:56+00:00",
+      "summary": "ShinyHunters defaced Clop's Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts."
+    },
+    {
+      "title": "EU data regulator fines Google more than $460 million for location data violations",
+      "link": "https://therecord.media/google-europe-location-data-fine",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-21T19:15:00+00:00",
+      "summary": "Ireland\u2019s Data Protection Commission will fine Google more than \u20ac403 million ($462 million) over the tech giant\u2019s processing of location data, concluding an inquiry into the company that began in early 2020."
+    },
+    {
+      "title": "Cybercriminals Are Hiding New Malware in Torrents for Popular Films",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-21T19:11:26+00:00",
+      "summary": "Victims have been identified in Africa, including in Kenya and Uganda."
+    },
+    {
+      "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
+      "link": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-21T17:31:01+00:00",
+      "summary": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researcher"
+    },
+    {
+      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
+      "link": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-21T17:19:00+00:00",
+      "summary": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency"
+    },
+    {
+      "title": "Google Fined \u20ac403 Million Over GDPR Violations Tied to Location Data",
+      "link": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-21T16:57:31+00:00",
+      "summary": "Google has been fined \u20ac403 million for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020. Ireland's Data Protection Commission"
+    },
     {
       "title": "Belgian table tennis, gymnastics federations hit by cyberattacks",
       "link": "https://therecord.media/belgium-table-tennis-cyberattack",
@@ -69,14 +117,6 @@
       "summary": "The agreement between LinkedIn, ProAPIs and joint business operator Netswift also requires the firms to stop selling and transferring the data, no longer access LinkedIn through fake accounts and delete the data that was"
     },
     {
-      "title": "Google says Gemini breached three companies during security test",
-      "link": "https://therecord.media/gemini-google-cyber-breach",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-21T12:30:00+00:00",
-      "summary": "Google\u2019s artificial intelligence model Gemini accessed computer systems belonging to three real companies without authorization during a cybersecurity test in May \u2014 the latest in a string of similar incidents."
-    },
-    {
       "title": "The Download: investigating deaths at the US border\u2019s \u201cvirtual wall\u201d",
       "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
       "source": "MIT Technology Review",
@@ -117,6 +157,22 @@
       "summary": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela G\u00f3mez Hern\u00e1ndez crossed the border from the eastern edge of Tijuana into Southern C"
     },
     {
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-21T12:00:00+00:00",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
+    },
+    {
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-21T12:00:00+00:00",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
+    },
+    {
       "title": "TerminalFix: PNG Steganography, (Mon, Sep 21st)",
       "link": "https://isc.sans.edu/diary/rss/33318",
       "source": "SANS Internet Storm Center",
@@ -125,12 +181,28 @@
       "summary": "Microsoft Security Research published an interesting blog post \"TerminalFix campaign deploys a reverse tunnel through multistage intrusion\" about a malware campaign. The aspect that I want to take a closer look at, is th"
     },
     {
+      "title": "Building standards for the next phase of AI",
+      "link": "https://openai.com/index/building-standards-next-phase-ai",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-21T10:00:00+00:00",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
+    },
+    {
       "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
       "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
       "source": "The Hacker News",
       "category": "cybersecurity",
       "published": "2026-09-21T08:39:38+00:00",
       "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including ComponentTask33, Update"
+    },
+    {
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-21T07:00:00+00:00",
+      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills."
     },
     {
       "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
@@ -259,78 +331,6 @@
       "category": "research",
       "published": "2026-09-21T04:00:00+00:00",
       "summary": "arXiv:2609.21113v1 Announce Type: new Abstract: Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechanisms remains poorly u"
-    },
-    {
-      "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
-      "link": "https://arxiv.org/abs/2609.21139",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-21T04:00:00+00:00",
-      "summary": "arXiv:2609.21139v1 Announce Type: new Abstract: Replacing attention in a pretrained language model is a compatibility problem: a plausible substitute may alter representations expected by later layers. TinyCeNN-LM introd"
-    },
-    {
-      "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
-      "link": "https://arxiv.org/abs/2609.21149",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-21T04:00:00+00:00",
-      "summary": "arXiv:2609.21149v1 Announce Type: new Abstract: Before patients can use AI-assisted psychiatric intake systems, health systems need practical ways to routinely evaluate these tools against their clinical standards for qu"
-    },
-    {
-      "title": "How V7 gives AI agents institutional memory",
-      "link": "https://openai.com/index/v7",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-21T00:00:00+00:00",
-      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
-    },
-    {
-      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-19T18:36:53+00:00",
-      "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. T"
-    },
-    {
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-19T13:28:48+00:00",
-      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time b"
-    },
-    {
-      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
-      "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-19T13:28:41+00:00",
-      "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Da"
-    },
-    {
-      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-19T09:31:17+00:00",
-      "summary": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability. The vulnerabi"
-    },
-    {
-      "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
-      "link": "https://isc.sans.edu/diary/rss/33352",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-19T04:51:46+00:00",
-      "summary": "In June 2026 the IETF published RFC 10008[1], defining a new HTTP method: \"QUERY\". The HTTP protocol faced already by changes (HTTP/2, HTTP/3) but it's the first new standard HTTP verb since \"PATCH\" in 2010!"
-    },
-    {
-      "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-18T20:24:51+00:00",
-      "summary": "The new program expands Vectra AI's partner strategy as increasingly complex security environments and the growing use of AI create demand for broader AI expertise, services, and security outcomes."
     }
   ]
 }
