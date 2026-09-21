@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T11:14:40.022179+00:00",
+  "generated_at": "2026-09-21T17:16:29.806555+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,110 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Belgian table tennis, gymnastics federations hit by cyberattacks",
+      "link": "https://therecord.media/belgium-table-tennis-cyberattack",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-21T15:00:00+00:00",
+      "summary": "Belgium\u2019s national table tennis federation is investigating a cyberattack after a hacker claimed to have stolen data on tens of thousands of members."
+    },
+    {
+      "title": "Rogue Behavior: OpenAI Reveals More Model Misalignment Incidents",
+      "link": "https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-21T14:47:19+00:00",
+      "summary": "The AI giant disclosed six examples of concerning model activity and published a new framework for investigating and disclosing such incidents."
+    },
+    {
+      "title": "\u26a1 Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+      "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-21T14:24:13+00:00",
+      "summary": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week. The trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back"
+    },
+    {
+      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+      "link": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-21T14:15:40+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts. The backdoor \"automatically harvests and"
+    },
+    {
+      "title": "Cyberattack hits University of Munich, potentially exposing student financial data",
+      "link": "https://therecord.media/cyberattack-hits-university-of-munich-potentially-exposing-data",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-21T14:01:00+00:00",
+      "summary": "The university, commonly known as LMU Munich, said Saturday that an attacker accessed enrollment data stored on one of its IT systems."
+    },
+    {
+      "title": "ShinyHunters cybercrime gang takes over Cl0p ransomware site, demands extortion payment",
+      "link": "https://therecord.media/shinyhunters-clop-cyberattack-website",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-21T14:00:00+00:00",
+      "summary": "The ShinyHunters extortion group hijacked the dark web leak site of the prolific Cl0p ransomware gang, according to material posted on the site over the weekend."
+    },
+    {
+      "title": "LinkedIn wins court order blocking mass scraping of user data",
+      "link": "https://therecord.media/linkedin-wins-court-order-blocking-mass-scraping",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-21T12:55:00+00:00",
+      "summary": "The agreement between LinkedIn, ProAPIs and joint business operator Netswift also requires the firms to stop selling and transferring the data, no longer access LinkedIn through fake accounts and delete the data that was"
+    },
+    {
+      "title": "Google says Gemini breached three companies during security test",
+      "link": "https://therecord.media/gemini-google-cyber-breach",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-21T12:30:00+00:00",
+      "summary": "Google\u2019s artificial intelligence model Gemini accessed computer systems belonging to three real companies without authorization during a cybersecurity test in May \u2014 the latest in a string of similar incidents."
+    },
+    {
+      "title": "The Download: investigating deaths at the US border\u2019s \u201cvirtual wall\u201d",
+      "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-21T12:20:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. The US spent billions on border surveillance. Why can\u2019t it catch people before the"
+    },
+    {
+      "title": "How we made the first comprehensive map of deaths along the US border\u2019s \u201cvirtual wall\u201d",
+      "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-21T12:00:00+00:00",
+      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This "
+    },
+    {
+      "title": "4 ways to address the failures we found along the US border\u2019s \u201cvirtual wall\u201d",
+      "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-21T12:00:00+00:00",
+      "summary": "MIT Technology Review today published our investigation into how many people have died near the \u201cvirtual wall\u201d of surveillance towers that the US government has installed along the US-Mexico border. We found cases of peo"
+    },
+    {
+      "title": "The US spent billions on border surveillance. Why can\u2019t it catch people before they die?",
+      "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-21T12:00:00+00:00",
+      "summary": "When Jos\u00e9 Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through th"
+    },
+    {
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-21T12:00:00+00:00",
+      "summary": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela G\u00f3mez Hern\u00e1ndez crossed the border from the eastern edge of Tijuana into Southern C"
+    },
     {
       "title": "TerminalFix: PNG Steganography, (Mon, Sep 21st)",
       "link": "https://isc.sans.edu/diary/rss/33318",
@@ -173,12 +277,12 @@
       "summary": "arXiv:2609.21149v1 Announce Type: new Abstract: Before patients can use AI-assisted psychiatric intake systems, health systems need practical ways to routinely evaluate these tools against their clinical standards for qu"
     },
     {
-      "title": "Russia reports thousands of cyberattacks on election infrastructure during vote",
-      "link": "https://therecord.media/russia-reports-cyberattacks-during-election",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-20T23:00:00+00:00",
-      "summary": "Claims by officials of cyberattacks against election infrastructure could not be independently verified. Russian officials provided little technical evidence about the attacks or who it claimed who was behind them."
+      "title": "How V7 gives AI agents institutional memory",
+      "link": "https://openai.com/index/v7",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-21T00:00:00+00:00",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
     },
     {
       "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
@@ -213,22 +317,6 @@
       "summary": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability. The vulnerabi"
     },
     {
-      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
-      "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-19T08:18:54+00:00",
-      "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates "
-    },
-    {
-      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
-      "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-19T07:51:34+00:00",
-      "summary": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Stre"
-    },
-    {
       "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
       "link": "https://isc.sans.edu/diary/rss/33352",
       "source": "SANS Internet Storm Center",
@@ -243,94 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-09-18T20:24:51+00:00",
       "summary": "The new program expands Vectra AI's partner strategy as increasingly complex security environments and the growing use of AI create demand for broader AI expertise, services, and security outcomes."
-    },
-    {
-      "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-18T19:26:47+00:00",
-      "summary": "The authentication bypass flaw CVE-2026-76460 impacts Cisco's Identity Services Engine (ISE) and received a maximum 10 out of 10 CVSS score."
-    },
-    {
-      "title": "EY Survey Finds Autonomous AI Implementation Outpaces Oversight",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-18T19:23:48+00:00",
-      "summary": "A new survey of senior AI execs shows that while organizations are rapidly deploying AI and autonomous systems, their process and controls are not keeping pace."
-    },
-    {
-      "title": "MFA Won't Save You From OAuth Consent Abuse",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-18T18:15:20+00:00",
-      "summary": "MFA is essential, but it cannot replace OAuth governance, least-privilege scopes, consent monitoring, and rapid revocation."
-    },
-    {
-      "title": "Nations take action on North Korean IT workers after UN report",
-      "link": "https://therecord.media/nations-take-action-on-north-korean-it-worker-schemes",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-18T14:29:00+00:00",
-      "summary": "A report published Wednesday said that as of July, Vietnam, Laos, Pakistan and Argentina took meaningful steps to respond to allegations involving North Korea listed in an October study."
-    },
-    {
-      "title": "Hacking group \u2018NightEagle\u2019 targeting China\u2019s high-tech sector expands operations to Russia",
-      "link": "https://therecord.media/hacking-group-nighteagle-expands-russia-china",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-18T13:24:00+00:00",
-      "summary": "Over the past year, Russian cybersecurity firm Kaspersky said it investigated several incidents involving the group at Russian businesses."
-    },
-    {
-      "title": "The Download: AI\u2019s extinction risk and bioweapons threat",
-      "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-18T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology"
-    },
-    {
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "link": "https://openai.com/index/australian-youth-safety-blueprint",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-18T12:00:00+00:00",
-      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people."
-    },
-    {
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-18T11:29:22+00:00",
-      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone\u2019s asking right now: Could AI really kill us all? But attendees had so many more questions than we had t"
-    },
-    {
-      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-      "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-18T09:00:00+00:00",
-      "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress"
-    },
-    {
-      "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-18T07:00:00+00:00",
-      "summary": "AI-driven cyberattacks used to be exotic. Soon, it'll be odd if threat actors aren't using agents to do all of their bidding."
-    },
-    {
-      "title": "North Korean hackers infect thousands of devices across 100 countries as part of \u2018WaterPlum\u2019 campaign",
-      "link": "https://therecord.media/north-korean-hackers-infect-thousands-of-devices-waterplum-scheme",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-18T04:00:00+00:00",
-      "summary": "The FBI and Defense Department partnered with Japan\u2019s National Police Agency and law enforcement agencies in Australia and Germany on a new advisory about \u201cWaterPlum\u201d \u2014 a group of cyber actors allegedly stealing cryptocu"
     }
   ]
 }
