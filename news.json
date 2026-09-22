@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T21:17:44.538324+00:00",
+  "generated_at": "2026-09-22T02:05:11.964050+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "How AI Agents Can Trigger Runaway Costs for Enterprises",
+      "link": "https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-21T21:39:59+00:00",
+      "summary": "Unbounded consumption is an issue that OWASP currently ranks sixth in its Top 10 for LLM Applications, and it could be an extremely costly one."
+    },
     {
       "title": "ShinyHunters Hacked Clop. Now What About Clop's Victims?",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
@@ -323,14 +331,6 @@
       "category": "research",
       "published": "2026-09-21T04:00:00+00:00",
       "summary": "arXiv:2609.21096v1 Announce Type: new Abstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analy"
-    },
-    {
-      "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
-      "link": "https://arxiv.org/abs/2609.21113",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-21T04:00:00+00:00",
-      "summary": "arXiv:2609.21113v1 Announce Type: new Abstract: Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechanisms remains poorly u"
     }
   ]
 }
