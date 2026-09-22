@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T02:05:11.964050+00:00",
+  "generated_at": "2026-09-22T10:26:37.631012+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,174 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
+      "link": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-22T07:52:03+00:00",
+      "summary": "The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities. \"SideCopy campaign operations typicall"
+    },
+    {
+      "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
+      "link": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-22T06:33:57+00:00",
+      "summary": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a proof-of-concept released on September 21"
+    },
+    {
+      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
+      "link": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-22T06:03:14+00:00",
+      "summary": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPre"
+    },
+    {
+      "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
+      "link": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-22T05:31:59+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of"
+    },
+    {
+      "title": "Differentially Private and Fairness-Audited Score Diffusion for Irregular Longitudinal Health Records",
+      "link": "https://arxiv.org/abs/2609.22401",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-22T04:00:00+00:00",
+      "summary": "arXiv:2609.22401v1 Announce Type: new Abstract: Sharing irregular longitudinal health records can accelerate model development, yet synthetic releases may leak participation, distort temporal dependence, suppress rare ev"
+    },
+    {
+      "title": "Defusing Explosive Prompts: Understanding and Preventing Trigger-Based Prompt Injections in LLM Agents",
+      "link": "https://arxiv.org/abs/2609.22510",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-22T04:00:00+00:00",
+      "summary": "arXiv:2609.22510v1 Announce Type: new Abstract: As LLM applications integrate with external tools, they are increasingly exposed to indirect prompt injection (IPI), where adversarial instructions are embedded in retrieve"
+    },
+    {
+      "title": "Tick-Tock on the Open Fronthaul: Securing Synchronization in O-RAN",
+      "link": "https://arxiv.org/abs/2609.22525",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-22T04:00:00+00:00",
+      "summary": "arXiv:2609.22525v1 Announce Type: new Abstract: The Precision Time Protocol (PTP) provides the time and phase synchronization required by disaggregated Open Radio Access Networks (O-RAN). Yet, in current open fronthaul d"
+    },
+    {
+      "title": "Zero-Trust Authorization and Discovery for Enterprise MCP",
+      "link": "https://arxiv.org/abs/2609.22573",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-22T04:00:00+00:00",
+      "summary": "arXiv:2609.22573v1 Announce Type: new Abstract: LLM agents translate natural-language context, which may include attacker-controlled text, into privileged tool calls, so authorization must remain effective even when an a"
+    },
+    {
+      "title": "From Capability to Assurance in Autonomous Penetration-Testing Harnesses: A Framework and Reference Implementation",
+      "link": "https://arxiv.org/abs/2609.22664",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-22T04:00:00+00:00",
+      "summary": "arXiv:2609.22664v1 Announce Type: new Abstract: Research on large language model agents for penetration testing is evaluated almost entirely by capability: whether the agent captures a flag or reproduces a proof of conce"
+    },
+    {
+      "title": "UBA-ORL: Unlearning-Activated Backdoor Attacks on Offline Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2609.22711",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-22T04:00:00+00:00",
+      "summary": "arXiv:2609.22711v1 Announce Type: new Abstract: Offline reinforcement learning (offline RL) enables policy learning from pre-collected static datasets without online exploration, and is increasingly deployed not only in "
+    },
+    {
+      "title": "MATE: Policy-Aware Security Auditing for Mobile Agents via Synthesis-Driven Trajectory Learning",
+      "link": "https://arxiv.org/abs/2609.22724",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-22T04:00:00+00:00",
+      "summary": "arXiv:2609.22724v1 Announce Type: new Abstract: Mobile agents powered by foundation models now automate complex, multi-step workflows on real devices, but their trajectories can violate app-specific security policies. Ex"
+    },
+    {
+      "title": "SelfOp: An Optimization Algorithm for Self-Improving Security Agents",
+      "link": "https://arxiv.org/abs/2609.22792",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-22T04:00:00+00:00",
+      "summary": "arXiv:2609.22792v1 Announce Type: new Abstract: LLM agents are increasingly used for security tasks: vulnerability discovery, exploit reproduction, and patch generation. Improving them at the model level demands expert d"
+    },
+    {
+      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+      "link": "https://arxiv.org/abs/2609.20971",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-22T04:00:00+00:00",
+      "summary": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse bloc"
+    },
+    {
+      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+      "link": "https://arxiv.org/abs/2609.20974",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-22T04:00:00+00:00",
+      "summary": "arXiv:2609.20974v1 Announce Type: new Abstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We prop"
+    },
+    {
+      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+      "link": "https://arxiv.org/abs/2609.20981",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-22T04:00:00+00:00",
+      "summary": "arXiv:2609.20981v1 Announce Type: new Abstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine th"
+    },
+    {
+      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
+      "link": "https://arxiv.org/abs/2609.21061",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-22T04:00:00+00:00",
+      "summary": "arXiv:2609.21061v1 Announce Type: new Abstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, back"
+    },
+    {
+      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
+      "link": "https://arxiv.org/abs/2609.21096",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-22T04:00:00+00:00",
+      "summary": "arXiv:2609.21096v1 Announce Type: new Abstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analy"
+    },
+    {
+      "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
+      "link": "https://arxiv.org/abs/2609.21113",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-22T04:00:00+00:00",
+      "summary": "arXiv:2609.21113v1 Announce Type: new Abstract: Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechanisms remains poorly u"
+    },
+    {
+      "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
+      "link": "https://arxiv.org/abs/2609.21139",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-22T04:00:00+00:00",
+      "summary": "arXiv:2609.21139v1 Announce Type: new Abstract: Replacing attention in a pretrained language model is a compatibility problem: a plausible substitute may alter representations expected by later layers. TinyCeNN-LM introd"
+    },
+    {
+      "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
+      "link": "https://arxiv.org/abs/2609.21149",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-22T04:00:00+00:00",
+      "summary": "arXiv:2609.21149v1 Announce Type: new Abstract: Before patients can use AI-assisted psychiatric intake systems, health systems need practical ways to routinely evaluate these tools against their clinical standards for qu"
+    },
+    {
+      "title": "ISC Stormcast For Tuesday, September 22nd, 2026 https://isc.sans.edu/podcastdetail/10104, (Tue, Sep 22nd)",
+      "link": "https://isc.sans.edu/diary/rss/33356",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-22T03:50:10+00:00",
+      "summary": ""
+    },
     {
       "title": "How AI Agents Can Trigger Runaway Costs for Enterprises",
       "link": "https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs",
@@ -93,14 +261,6 @@
       "summary": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week. The trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back"
     },
     {
-      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
-      "link": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-21T14:15:40+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts. The backdoor \"automatically harvests and"
-    },
-    {
       "title": "Cyberattack hits University of Munich, potentially exposing student financial data",
       "link": "https://therecord.media/cyberattack-hits-university-of-munich-potentially-exposing-data",
       "source": "The Record",
@@ -171,166 +331,6 @@
       "category": "ai",
       "published": "2026-09-21T12:00:00+00:00",
       "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
-    },
-    {
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-21T12:00:00+00:00",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
-    },
-    {
-      "title": "TerminalFix: PNG Steganography, (Mon, Sep 21st)",
-      "link": "https://isc.sans.edu/diary/rss/33318",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-21T10:33:53+00:00",
-      "summary": "Microsoft Security Research published an interesting blog post \"TerminalFix campaign deploys a reverse tunnel through multistage intrusion\" about a malware campaign. The aspect that I want to take a closer look at, is th"
-    },
-    {
-      "title": "Building standards for the next phase of AI",
-      "link": "https://openai.com/index/building-standards-next-phase-ai",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-21T10:00:00+00:00",
-      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
-    },
-    {
-      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
-      "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-21T08:39:38+00:00",
-      "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including ComponentTask33, Update"
-    },
-    {
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-21T07:00:00+00:00",
-      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills."
-    },
-    {
-      "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
-      "link": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-21T06:06:44+00:00",
-      "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the "
-    },
-    {
-      "title": "ISC Stormcast For Monday, September 21st, 2026 https://isc.sans.edu/podcastdetail/10102, (Mon, Sep 21st)",
-      "link": "https://isc.sans.edu/diary/rss/33354",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-21T05:15:12+00:00",
-      "summary": ""
-    },
-    {
-      "title": "The Right Tool for the Job: On the Selection of Mitigations for GenAI Privacy Threats",
-      "link": "https://arxiv.org/abs/2609.20884",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-21T04:00:00+00:00",
-      "summary": "arXiv:2609.20884v1 Announce Type: new Abstract: Generative Artificial Intelligence (GenAI) has rapidly evolved from an experimental technology into a foundational component of modern software systems. However, as its ado"
-    },
-    {
-      "title": "TPM-Attest: Hardware-Rooted Integrity Attestation as a Kernel-Level Anti-Cheat Alternative for Linux",
-      "link": "https://arxiv.org/abs/2609.20909",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-21T04:00:00+00:00",
-      "summary": "arXiv:2609.20909v1 Announce Type: new Abstract: Multiplayer PC gaming on Linux faces a structural problem: the anti-cheat systems that publishers require operate as proprietary Ring 0 kernel modules that are architectura"
-    },
-    {
-      "title": "(Don't) Trust, but (Don't) Verify: Developers' Attention to Security in AI-Generated Code",
-      "link": "https://arxiv.org/abs/2609.21020",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-21T04:00:00+00:00",
-      "summary": "arXiv:2609.21020v1 Announce Type: new Abstract: AI coding assistants are rapidly transforming software development, but are known to produce insecure code. Prior work has measured whether AI-assisted developers produce s"
-    },
-    {
-      "title": "Loopjacking: Hijacking Human-in-the-Loop Approval",
-      "link": "https://arxiv.org/abs/2609.21081",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-21T04:00:00+00:00",
-      "summary": "arXiv:2609.21081v1 Announce Type: new Abstract: Human approval is often treated as the last security boundary before an agent executes a consequential operation. That boundary is only meaningful if the operation presente"
-    },
-    {
-      "title": "Origin Is All You Need: Provenance-Aware Transformers for Structural Trust-Boundary Separation",
-      "link": "https://arxiv.org/abs/2609.21088",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-21T04:00:00+00:00",
-      "summary": "arXiv:2609.21088v1 Announce Type: new Abstract: Indirect prompt injection (IPI) remains a central safety and security challenge for large language model (LLM) systems because standard transformers lack architectural noti"
-    },
-    {
-      "title": "NetInspector: Measuring and Improving LLM Capabilities for Reliable Intent-Based Networking Policy Generation",
-      "link": "https://arxiv.org/abs/2609.21103",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-21T04:00:00+00:00",
-      "summary": "arXiv:2609.21103v1 Announce Type: new Abstract: Modern networks are large in scale and heterogeneous in configuration, making manual policy management increasingly impractical. Intent-Based Networking (IBN) addresses thi"
-    },
-    {
-      "title": "Toss If Perishable: An Ethnographic Study on Building Scenario-Based Training for Non-Perishable Skills",
-      "link": "https://arxiv.org/abs/2609.21147",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-21T04:00:00+00:00",
-      "summary": "arXiv:2609.21147v1 Announce Type: new Abstract: Security Operations Centers (SOCs) often rely upon on-the-job training focusing on the specific tools and procedures a SOC utilizes. The complexity in tooling can overshado"
-    },
-    {
-      "title": "X-SPUR: Explainable Surprisal-Based Protocol-Aware Unsupervised Reasoning for Automotive Ethernet Intrusion Detection",
-      "link": "https://arxiv.org/abs/2609.21217",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-21T04:00:00+00:00",
-      "summary": "arXiv:2609.21217v1 Announce Type: new Abstract: Automotive Ethernet carries heterogeneous multi-protocol traffic in modern in-vehicle networks, where labeled attack data are rarely available and the strongest prior unsup"
-    },
-    {
-      "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
-      "link": "https://arxiv.org/abs/2609.20971",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-21T04:00:00+00:00",
-      "summary": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse bloc"
-    },
-    {
-      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
-      "link": "https://arxiv.org/abs/2609.20974",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-21T04:00:00+00:00",
-      "summary": "arXiv:2609.20974v1 Announce Type: new Abstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We prop"
-    },
-    {
-      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
-      "link": "https://arxiv.org/abs/2609.20981",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-21T04:00:00+00:00",
-      "summary": "arXiv:2609.20981v1 Announce Type: new Abstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine th"
-    },
-    {
-      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
-      "link": "https://arxiv.org/abs/2609.21061",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-21T04:00:00+00:00",
-      "summary": "arXiv:2609.21061v1 Announce Type: new Abstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, back"
-    },
-    {
-      "title": "Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing",
-      "link": "https://arxiv.org/abs/2609.21096",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-21T04:00:00+00:00",
-      "summary": "arXiv:2609.21096v1 Announce Type: new Abstract: In this work, we examine the topology of information flow patterns within attention graphs to effectively distinguish hallucinated from non-hallucinated responses. We analy"
     }
   ]
 }
