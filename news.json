@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T10:21:50.345343+00:00",
+  "generated_at": "2026-09-23T15:39:37.981279+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -19,6 +19,110 @@
       "category": "cybersecurity",
       "published": "2026-09-23T16:01:00+00:00",
       "summary": "The United Arab Emirates and Kingdom of Saudi Arabia together absorbed 50% of all cyberattacks recorded across the Gulf region in the first half of 2026."
+    },
+    {
+      "title": "Two years of OpenAI Academy",
+      "link": "https://openai.com/index/two-years-of-openai-academy",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-23T16:00:00+00:00",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
+    },
+    {
+      "title": "Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign",
+      "link": "https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-23T14:47:09+00:00",
+      "summary": "Threat actors are poisoning ChatGPT, Gemini, and Google AI Overview answers by seeding the Web with malicious links and data and then optimizing the content."
+    },
+    {
+      "title": "FBI investigating alleged ShinyHunters breach of its jobs site",
+      "link": "https://therecord.media/fbi-investigating-alleged-shinyhunters-job-site-breach",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-23T14:22:00+00:00",
+      "summary": "The ShinyHunters cybercriminal organization on Tuesday replaced agency images on the FBIjobs.gov site with a photo of a Pokemon that has become the group\u2019s defacto mascot."
+    },
+    {
+      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+      "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-23T14:17:58+00:00",
+      "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server, Cisco Talos said on September 22. The models can choose to steal Windows credentials, sav"
+    },
+    {
+      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+      "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-23T13:52:46+00:00",
+      "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Window"
+    },
+    {
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-23T13:00:00+00:00",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
+    },
+    {
+      "title": "Latvia arrests suspected hacker for electronics repair company breach",
+      "link": "https://therecord.media/latvia-hacker-arrest-cyberattack",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-23T12:45:00+00:00",
+      "summary": "Latvian police arrested a 23-year-old man suspected of hacking at least two companies, stealing personal information and attempting to extort money from the victims."
+    },
+    {
+      "title": "Burnham announces plan for new UK center to fight disinformation",
+      "link": "https://therecord.media/uk-disinformation-russia-center",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-23T12:30:00+00:00",
+      "summary": "The United Kingdom will create a new national center \"to detect, attribute and disrupt\u201d hostile state disinformation, Prime Minister Andy Burnham announced at the United Nations General Assembly."
+    },
+    {
+      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
+      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-23T12:16:00+00:00",
+      "summary": "A flaw in cPanel's CalDAV and CardDAV service lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A second bug in the WP Toolkit plugin, use"
+    },
+    {
+      "title": "The Download: India\u2019s smart glasses menace and AI\u2019s trillion-dollar gamble",
+      "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-23T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram vid"
+    },
+    {
+      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
+      "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-23T11:47:19+00:00",
+      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a lis"
+    },
+    {
+      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
+      "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-23T11:47:13+00:00",
+      "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior. Opus 5.5, per Anthropic, i"
+    },
+    {
+      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
+      "link": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-23T11:12:18+00:00",
+      "summary": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst said in research published September 22. The flaw, tracked as CVE-2026"
     },
     {
       "title": "Smart glasses are already causing havoc in India",
@@ -43,22 +147,6 @@
       "category": "cybersecurity",
       "published": "2026-09-23T08:29:24+00:00",
       "summary": "A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites. The attacks, detected on September 3 and 4, 2"
-    },
-    {
-      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
-      "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-23T07:04:40+00:00",
-      "summary": "A new security vulnerability in Next.js could allow attackers to run code on a server via ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said. The risk applies when an app pu"
-    },
-    {
-      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
-      "link": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-23T05:30:09+00:00",
-      "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised th"
     },
     {
       "title": "Not All 4-bit Quantizers Are Equal: Deployment-Time Mitigation of PII Leakage in Fine-Tuned Small Language Models",
@@ -205,6 +293,14 @@
       "summary": "Introduction"
     },
     {
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-23T00:00:00+00:00",
+      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia."
+    },
+    {
       "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
       "link": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
       "source": "Dark Reading",
@@ -221,116 +317,20 @@
       "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
     },
     {
+      "title": "How the CISO-CMO Alliance Builds Trust Before Crisis Strikes",
+      "link": "https://www.darkreading.com/cybersecurity-operations/how-ciso-cmo-alliance-builds-trust-before-crisis",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-22T20:55:53+00:00",
+      "summary": "Cybersecurity and brand reputation are inextricably linked. Security and marketing leaders who establish regular touchpoints, develop joint crisis communications plans, and translate security risks into their brand impac"
+    },
+    {
       "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service",
       "link": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-09-22T20:02:02+00:00",
       "summary": "Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts."
-    },
-    {
-      "title": "Canadian regulator opens probe of IDScan for allegedly violating data privacy laws",
-      "link": "https://therecord.media/canadian-regulator-opens-probe-of-idscan-following-data-breach",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-22T19:52:00+00:00",
-      "summary": "The investigation, announced Monday, will probe IDScan\u2019s security practices and whether victim notifications were adequate under Canada\u2019s federal private-sector privacy law, the regulator said in a press release."
-    },
-    {
-      "title": "The Truth about GET and HTTP Standards, (Tue, Sep 22nd)",
-      "link": "https://isc.sans.edu/diary/rss/33358",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-22T19:06:15+00:00",
-      "summary": "On Friday, Xavier talked about the newly introduced HTTP Query method. This new method was introduced to allow \"GET\" requests that include a body. The main reason for this was that GET requests typically do not contain a"
-    },
-    {
-      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
-      "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-22T18:29:39+00:00",
-      "summary": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23, the company said. The flaw, CVE-2026-93616, allows an attacker who can access the ser"
-    },
-    {
-      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
-      "link": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-22T18:03:10+00:00",
-      "summary": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders. On some servers, that can go further, allowing the attacker to ru"
-    },
-    {
-      "title": "Introducing GPT-6 Sol and Luna",
-      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-22T18:00:00+00:00",
-      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost."
-    },
-    {
-      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
-      "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-22T17:58:15+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily a"
-    },
-    {
-      "title": "Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-22T17:32:49+00:00",
-      "summary": "Threat actors stole 170 private repositories using an OAuth token stolen from a former employee's computer through the TanStack npm supply chain attack."
-    },
-    {
-      "title": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real",
-      "link": "https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-22T17:12:26+00:00",
-      "summary": "As more reports of misalignment incidents underscore AI risks, large AI labs, regular businesses, and even nations are searching for better ways to keep control and be secure."
-    },
-    {
-      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
-      "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-22T17:03:31+00:00",
-      "summary": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization fr"
-    },
-    {
-      "title": "Two arrested in UK after Microsoft takedown of \u2018Eviltokens\u2019 AI-chatbot for cybercriminals",
-      "link": "https://therecord.media/two-arrested-in-uk-after-microsoft-takedown-eviltokens",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-22T15:51:00+00:00",
-      "summary": "Available on Telegram for a $1,500 initiation fee and a recurring monthly $500 subscription, EvilTokens provided cybercriminals with artificial intelligence tools enabling them to compromise accounts, analyze breached in"
-    },
-    {
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-22T13:42:05+00:00",
-      "summary": "The US has spent billions building a \u201cvirtual wall\u201d of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreak"
-    },
-    {
-      "title": "LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)",
-      "link": "https://isc.sans.edu/diary/rss/33348",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-22T13:10:20+00:00",
-      "summary": "At the end of August, a malspam message was caught in the quarantine of a mail gateway operated by one of my customers. The message was not especially remarkable \u00e2\u20ac\u201c it asked the recipient to review some attached require"
-    },
-    {
-      "title": "AI is set to help cyber attackers much more than defenders, says UK official",
-      "link": "https://therecord.media/ai-set-to-help-attackers-more-than-defenders",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-22T13:05:00+00:00",
-      "summary": "Dave Chismon, the NCSC\u2019s chief technology officer for architecture, said in a blog post that the imbalance in AI means cyberattacks would likely grow as automated defenses struggle to keep pace."
     }
   ]
 }
