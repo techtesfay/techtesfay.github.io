@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T15:39:37.981279+00:00",
+  "generated_at": "2026-09-23T20:45:22.718853+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,62 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "UK regulator to investigate Pornhub parent company for alleged age verification failings",
+      "link": "https://therecord.media/uk-regulator-to-investigate-pornhub-parent-company-privacy",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-23T20:07:00+00:00",
+      "summary": "In May, Pornhub began using a new age assurance process to verify some users\u2019 ages, according to an Ofcom press release. The new method relies on signals from Apple that suggest under 18s in the UK \u201cmay have completed Ap"
+    },
+    {
+      "title": "No evidence of successful foreign meddling in 2024 election, spy agencies found",
+      "link": "https://therecord.media/trump-harris-election-meddling-russia",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-23T19:30:00+00:00",
+      "summary": "U.S. intelligence officials found no evidence that any foreign adversary successfully interfered in the 2024 presidential election, according to sources familiar with the findings of a classified assessment."
+    },
+    {
+      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+      "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-23T18:06:30+00:00",
+      "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a dis"
+    },
+    {
+      "title": "A congressional representative just proposed killing America\u2019s border tower program",
+      "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-23T17:10:11+00:00",
+      "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border. The announcement comes just days af"
+    },
+    {
+      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+      "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-23T16:53:10+00:00",
+      "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start C"
+    },
+    {
+      "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
+      "link": "https://isc.sans.edu/diary/rss/33360",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-23T16:14:37+00:00",
+      "summary": "Introduction"
+    },
+    {
+      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-23T16:06:41+00:00",
+      "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The chain, which CERT Polska"
+    },
     {
       "title": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks",
       "link": "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks",
@@ -27,6 +83,14 @@
       "category": "ai",
       "published": "2026-09-23T16:00:00+00:00",
       "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
+    },
+    {
+      "title": "Ryuk ransomware operator gets 2-year sentence after extorting victims for $1.2 million",
+      "link": "https://therecord.media/ransomware-ryuk-sentenced-doj",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-23T15:30:00+00:00",
+      "summary": "An Armenian national and member of the Ryuk ransomware gang was sentenced to two years in federal prison for his role in launching attacks."
     },
     {
       "title": "Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign",
@@ -77,14 +141,6 @@
       "summary": "Latvian police arrested a 23-year-old man suspected of hacking at least two companies, stealing personal information and attempting to extort money from the victims."
     },
     {
-      "title": "Burnham announces plan for new UK center to fight disinformation",
-      "link": "https://therecord.media/uk-disinformation-russia-center",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-23T12:30:00+00:00",
-      "summary": "The United Kingdom will create a new national center \"to detect, attribute and disrupt\u201d hostile state disinformation, Prime Minister Andy Burnham announced at the United Nations General Assembly."
-    },
-    {
       "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
       "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
       "source": "The Hacker News",
@@ -99,6 +155,30 @@
       "category": "ai",
       "published": "2026-09-23T12:10:00+00:00",
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram vid"
+    },
+    {
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-23T12:00:00+00:00",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
+    },
+    {
+      "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
+      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-23T12:00:00+00:00",
+      "summary": "With GPT\u20116 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day."
+    },
+    {
+      "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
+      "link": "https://openai.com/index/ringg",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-23T12:00:00+00:00",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1."
     },
     {
       "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
@@ -117,12 +197,20 @@
       "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior. Opus 5.5, per Anthropic, i"
     },
     {
-      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
-      "link": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-23T11:12:18+00:00",
-      "summary": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst said in research published September 22. The flaw, tracked as CVE-2026"
+      "title": "Introducing MentalHealthBench",
+      "link": "https://openai.com/index/introducing-mentalhealthbench",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-23T10:00:00+00:00",
+      "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations."
+    },
+    {
+      "title": "The AI Hype Index: AI loves cheating",
+      "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-23T09:00:00+00:00",
+      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI\u2019s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two t"
     },
     {
       "title": "Smart glasses are already causing havoc in India",
@@ -131,22 +219,6 @@
       "category": "ai",
       "published": "2026-09-23T09:00:00+00:00",
       "summary": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this spring against a bi"
-    },
-    {
-      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
-      "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-23T08:29:48+00:00",
-      "summary": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says. The flaw, CVE-2026-94127, affects only systems in which APM serves"
-    },
-    {
-      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
-      "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-23T08:29:24+00:00",
-      "summary": "A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites. The attacks, detected on September 3 and 4, 2"
     },
     {
       "title": "Not All 4-bit Quantizers Are Equal: Deployment-Time Mitigation of PII Leakage in Fine-Tuned Small Language Models",
@@ -259,78 +331,6 @@
       "category": "research",
       "published": "2026-09-23T04:00:00+00:00",
       "summary": "arXiv:2609.25187v1 Announce Type: new Abstract: Task planning bridges high-level instructions and executable behavior in long-horizon manipulation, yet modern Vision-Language-Action (VLA) systems often leave this interme"
-    },
-    {
-      "title": "Lean Pool: An AI-Maintained Archive of Formalized Mathematics",
-      "link": "https://arxiv.org/abs/2609.25199",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-23T04:00:00+00:00",
-      "summary": "arXiv:2609.25199v1 Announce Type: new Abstract: Lean Pool is a repository of formalized mathematics. It is grown, maintained and optimized by AI agents."
-    },
-    {
-      "title": "The AI Neuroscientist: An Interactive Agentic Interface for Neuroimaging Analysis",
-      "link": "https://arxiv.org/abs/2609.25254",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-23T04:00:00+00:00",
-      "summary": "arXiv:2609.25254v1 Announce Type: new Abstract: Analyzing neuroimaging data requires specialized coding and statistical expertise, which limits accessibility for researchers without computational backgrounds. We present "
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, September 23rd, 2026 https://isc.sans.edu/podcastdetail/10106, (Wed, Sep 23rd)",
-      "link": "https://isc.sans.edu/diary/rss/33362",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-23T02:40:13+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
-      "link": "https://isc.sans.edu/diary/rss/33360",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-23T00:55:11+00:00",
-      "summary": "Introduction"
-    },
-    {
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-23T00:00:00+00:00",
-      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia."
-    },
-    {
-      "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
-      "link": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-22T21:12:37+00:00",
-      "summary": "More than 80,000 AI relay servers are helping users in China mask their identities while they access cutting-edge large language models (LLMs), probably to clone them."
-    },
-    {
-      "title": "Better prompt caching for GPT-6",
-      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-22T21:00:00+00:00",
-      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
-    },
-    {
-      "title": "How the CISO-CMO Alliance Builds Trust Before Crisis Strikes",
-      "link": "https://www.darkreading.com/cybersecurity-operations/how-ciso-cmo-alliance-builds-trust-before-crisis",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-22T20:55:53+00:00",
-      "summary": "Cybersecurity and brand reputation are inextricably linked. Security and marketing leaders who establish regular touchpoints, develop joint crisis communications plans, and translate security risks into their brand impac"
-    },
-    {
-      "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service",
-      "link": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-22T20:02:02+00:00",
-      "summary": "Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts."
     }
   ]
 }
