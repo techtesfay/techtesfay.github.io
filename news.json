@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T20:33:44.835103+00:00",
+  "generated_at": "2026-09-23T02:03:33.412933+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,22 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
+      "link": "https://isc.sans.edu/diary/rss/33360",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-23T00:55:11+00:00",
+      "summary": "Introduction"
+    },
+    {
+      "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
+      "link": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-22T21:12:37+00:00",
+      "summary": "More than 80,000 AI relay servers are helping users in China mask their identities while they access cutting-edge large language models (LLMs), probably to clone them."
+    },
     {
       "title": "Better prompt caching for GPT-6",
       "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
@@ -189,6 +205,14 @@
       "summary": "Industrial companies are increasing cybersecurity investment as connected operations, AI adoption, and IT/OT convergence expand operational risk."
     },
     {
+      "title": "Parallel cut research time and cost in half with GPT\u20116 Astra",
+      "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-22T12:00:00+00:00",
+      "summary": "GPT\u20116 Astra allowed Parallel\u2019s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models."
+    },
+    {
       "title": "Don\u2019t be fooled by this summer of AI hype",
       "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
       "source": "MIT Technology Review",
@@ -307,30 +331,6 @@
       "category": "research",
       "published": "2026-09-22T04:00:00+00:00",
       "summary": "arXiv:2609.21113v1 Announce Type: new Abstract: Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechanisms remains poorly u"
-    },
-    {
-      "title": "TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers",
-      "link": "https://arxiv.org/abs/2609.21139",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-22T04:00:00+00:00",
-      "summary": "arXiv:2609.21139v1 Announce Type: new Abstract: Replacing attention in a pretrained language model is a compatibility problem: a plausible substitute may alter representations expected by later layers. TinyCeNN-LM introd"
-    },
-    {
-      "title": "Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake",
-      "link": "https://arxiv.org/abs/2609.21149",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-22T04:00:00+00:00",
-      "summary": "arXiv:2609.21149v1 Announce Type: new Abstract: Before patients can use AI-assisted psychiatric intake systems, health systems need practical ways to routinely evaluate these tools against their clinical standards for qu"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, September 22nd, 2026 https://isc.sans.edu/podcastdetail/10104, (Tue, Sep 22nd)",
-      "link": "https://isc.sans.edu/diary/rss/33356",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-22T03:50:10+00:00",
-      "summary": ""
     }
   ]
 }
