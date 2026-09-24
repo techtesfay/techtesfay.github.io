@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T10:37:34.005512+00:00",
+  "generated_at": "2026-09-24T15:59:58.180600+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,12 +13,108 @@
   ],
   "items": [
     {
+      "title": "3 Cyber Threats That Defined the Summer of 2026",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-24T14:44:12+00:00",
+      "summary": "This installment of the Reporters' Notebook video series discusses the impact of AI agents breaching Hugging Face, Fairlife's ransomware attack, and Iranian-linked threat actors compromising a dozen US water systems. It "
+    },
+    {
+      "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
+      "link": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-24T14:29:06+00:00",
+      "summary": "An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information ste"
+    },
+    {
+      "title": "How to Build A SASE Framework for Modern Cybersecurity",
+      "link": "https://www.darkreading.com/cloud-security/how-to-build-sase-framework",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-24T14:02:43+00:00",
+      "summary": "Keeping edge computing safe requires organizations to fundamentally rethink security governance. Here is a path forward: a step-by-step guide to building a SASE framework."
+    },
+    {
+      "title": "Ghost Service Accounts Enable M365 Data Theft in Chile",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ghost-service-accounts-m365-data-theft-chile",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-24T13:30:00+00:00",
+      "summary": "Even if the organization locks down employee accounts, forgotten and lost service accounts can still undo the organization's entire M365 environment."
+    },
+    {
+      "title": "Kyiv internet providers report major outages after Russian attacks damage data centers",
+      "link": "https://therecord.media/kyiv-internet-providers-report-outages-after-russian-strikes",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-24T13:30:00+00:00",
+      "summary": "At least four internet providers serving Kyiv and other parts of Ukraine suffered partial connectivity losses following Wednesday\u2019s drone attack, according to internet monitoring group NetBlocks."
+    },
+    {
+      "title": "Astrana latest healthcare tech firm to report data breach to SEC",
+      "link": "https://therecord.media/astrana-cyberattack-sec-ransomware",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-24T13:15:00+00:00",
+      "summary": "The healthcare firm Astrana warned regulators that hackers accessed confidential information by impersonating company personnel."
+    },
+    {
+      "title": "Prompt-Injection Bug Hits $4B Agentic AI App 'Manus'",
+      "link": "https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-24T13:00:00+00:00",
+      "summary": "AI apps that interpret external data (read: most AI apps) need exceptionally rigorous security filters, or attackers can take advantage."
+    },
+    {
+      "title": "OpenAI agent breached Australian government health website, Albanese says",
+      "link": "https://therecord.media/openai-australia-health-breach",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-24T12:30:00+00:00",
+      "summary": "An OpenAI agent gained \u201cunauthorized access\u201d to \u201cnon-public files\u201d from an Australian government health website in June, Prime Minister Anthony Albanese said."
+    },
+    {
+      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+      "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-24T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. A congressional representative just proposed killing America\u2019s border tower progra"
+    },
+    {
+      "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
+      "link": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-24T12:05:27+00:00",
+      "summary": "The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM. According to Have I Been Squatted, the campaign uses fake Google Play pages branded as "
+    },
+    {
+      "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
+      "link": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-24T11:00:00+00:00",
+      "summary": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian\u2019s 2026 State of Secrets Sprawl Report, commits identified a"
+    },
+    {
       "title": "AI is dominating the conversation at Climate Week",
       "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
       "source": "MIT Technology Review",
       "category": "ai",
       "published": "2026-09-24T10:00:00+00:00",
       "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It\u2019s also New York Climate Week\u2014investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so "
+    },
+    {
+      "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
+      "link": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-24T09:14:21+00:00",
+      "summary": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in lat"
     },
     {
       "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
@@ -189,6 +285,14 @@
       "summary": ""
     },
     {
+      "title": "SASE Converges Network & Security Into One Cloud Solution",
+      "link": "https://www.darkreading.com/cloud-security/sase-converges-network-security-one-cloud",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-23T22:29:10+00:00",
+      "summary": "Enterprise computing is moving to the edge. Keeping it secure requires tactics far beyond putting up firewalls."
+    },
+    {
       "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses",
       "link": "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
       "source": "Dark Reading",
@@ -227,110 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-09-23T18:06:30+00:00",
       "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a dis"
-    },
-    {
-      "title": "A congressional representative just proposed killing America\u2019s border tower program",
-      "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-23T17:10:11+00:00",
-      "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border. The announcement comes just days af"
-    },
-    {
-      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
-      "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-23T16:53:10+00:00",
-      "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start C"
-    },
-    {
-      "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
-      "link": "https://isc.sans.edu/diary/rss/33360",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-23T16:14:37+00:00",
-      "summary": "Introduction"
-    },
-    {
-      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
-      "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-23T16:06:41+00:00",
-      "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The chain, which CERT Polska"
-    },
-    {
-      "title": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks",
-      "link": "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-23T16:01:00+00:00",
-      "summary": "The United Arab Emirates and Kingdom of Saudi Arabia together absorbed 50% of all cyberattacks recorded across the Gulf region in the first half of 2026."
-    },
-    {
-      "title": "Two years of OpenAI Academy",
-      "link": "https://openai.com/index/two-years-of-openai-academy",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-23T16:00:00+00:00",
-      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
-    },
-    {
-      "title": "Ryuk ransomware operator gets 2-year sentence after extorting victims for $1.2 million",
-      "link": "https://therecord.media/ransomware-ryuk-sentenced-doj",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-23T15:30:00+00:00",
-      "summary": "An Armenian national and member of the Ryuk ransomware gang was sentenced to two years in federal prison for his role in launching attacks."
-    },
-    {
-      "title": "Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign",
-      "link": "https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-23T14:47:09+00:00",
-      "summary": "Threat actors are poisoning ChatGPT, Gemini, and Google AI Overview answers by seeding the Web with malicious links and data and then optimizing the content."
-    },
-    {
-      "title": "FBI investigating alleged ShinyHunters breach of its jobs site",
-      "link": "https://therecord.media/fbi-investigating-alleged-shinyhunters-job-site-breach",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-23T14:22:00+00:00",
-      "summary": "The ShinyHunters cybercriminal organization on Tuesday replaced agency images on the FBIjobs.gov site with a photo of a Pokemon that has become the group\u2019s defacto mascot."
-    },
-    {
-      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
-      "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-23T14:17:58+00:00",
-      "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server, Cisco Talos said on September 22. The models can choose to steal Windows credentials, sav"
-    },
-    {
-      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
-      "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-23T13:52:46+00:00",
-      "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Window"
-    },
-    {
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-23T13:00:00+00:00",
-      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
-    },
-    {
-      "title": "Latvia arrests suspected hacker for electronics repair company breach",
-      "link": "https://therecord.media/latvia-hacker-arrest-cyberattack",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-23T12:45:00+00:00",
-      "summary": "Latvian police arrested a 23-year-old man suspected of hacking at least two companies, stealing personal information and attempting to extort money from the victims."
     }
   ]
 }
