@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T15:59:58.180600+00:00",
+  "generated_at": "2026-09-24T20:51:07.147464+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,62 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "SectopRAT Returns, Hiding Inside a Legitimate Application",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-24T20:32:50+00:00",
+      "summary": "The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say."
+    },
+    {
+      "title": "Digital forensics firm with US federal contracts covered up ties to Russia, DOJ alleges",
+      "link": "https://therecord.media/russia-forensics-technology-doj",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-24T20:30:00+00:00",
+      "summary": "Two executives at a data extraction and digital forensics company that sold several U.S. agencies its software were arrested for allegedly lying about the fact that its technology is made in Russia."
+    },
+    {
+      "title": "Lawmakers introduce bill for voluntary telecom cyber rules after Salt Typhoon hacks",
+      "link": "https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-24T20:15:00+00:00",
+      "summary": "U.S. Sens. Mark Warner (D-VA) and Ted Cruz (R-TX) introduced the Telecommunications Cybersecurity and Resilience Act on Thursday, arguing that the new effort was necessary in light of the Salt Typhoon attacks which saw C"
+    },
+    {
+      "title": "Rydox cybercriminal marketplace operator pleads guilty following co-conspirator brothers\u2019s deportation",
+      "link": "https://therecord.media/rydox-criminal-marketplace-operator-pleads-guilty",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-24T18:57:00+00:00",
+      "summary": "Ardit Kutleshi, 28, was extradited from his home country of Kosovo last year after prosecutors accused him and his older brother of running Rydox \u2014 an illicit platform used by cybercriminals to sell stolen personal infor"
+    },
+    {
+      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
+      "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-24T18:10:18+00:00",
+      "summary": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats, chained two flaws in OnePlus's own software to gain ro"
+    },
+    {
+      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
+      "link": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-24T17:52:43+00:00",
+      "summary": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before. That is the thread running through the pi"
+    },
+    {
+      "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
+      "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-24T15:27:32+00:00",
+      "summary": "The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users. \"third-party[.]com has been a "
+    },
     {
       "title": "3 Cyber Threats That Defined the Summer of 2026",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
@@ -69,14 +125,6 @@
       "summary": "AI apps that interpret external data (read: most AI apps) need exceptionally rigorous security filters, or attackers can take advantage."
     },
     {
-      "title": "OpenAI agent breached Australian government health website, Albanese says",
-      "link": "https://therecord.media/openai-australia-health-breach",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-24T12:30:00+00:00",
-      "summary": "An OpenAI agent gained \u201cunauthorized access\u201d to \u201cnon-public files\u201d from an Australian government health website in June, Prime Minister Anthony Albanese said."
-    },
-    {
       "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
       "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
       "source": "MIT Technology Review",
@@ -125,28 +173,12 @@
       "summary": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said. The portal publishes aggregate figures, such "
     },
     {
-      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
-      "link": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-24T06:32:03+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants. According to Proofpoint, the act"
-    },
-    {
       "title": "One URL, Three Different Tricks, (Thu, Sep 24th)",
       "link": "https://isc.sans.edu/diary/rss/33366",
       "source": "SANS Internet Storm Center",
       "category": "cybersecurity",
       "published": "2026-09-24T06:25:06+00:00",
       "summary": "Yesterday, we received a phishing email with an interesting link. At first sight, it looks like garbage, but every piece of it has been carefully crafted to confuse basic security controls. Here is the defanged link:"
-    },
-    {
-      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-24T05:36:18+00:00",
-      "summary": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticate"
     },
     {
       "title": "FedCoT-VQA: A Federated Learning and Unlearning Framework for Chain-of-Thought Planners in VideoQA",
@@ -299,38 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-09-23T21:03:01+00:00",
       "summary": "A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR tools typically watch out for."
-    },
-    {
-      "title": "GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks",
-      "link": "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-23T20:53:38+00:00",
-      "summary": "Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use."
-    },
-    {
-      "title": "UK regulator to investigate Pornhub parent company for alleged age verification failings",
-      "link": "https://therecord.media/uk-regulator-to-investigate-pornhub-parent-company-privacy",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-23T20:07:00+00:00",
-      "summary": "In May, Pornhub began using a new age assurance process to verify some users\u2019 ages, according to an Ofcom press release. The new method relies on signals from Apple that suggest under 18s in the UK \u201cmay have completed Ap"
-    },
-    {
-      "title": "No evidence of successful foreign meddling in 2024 election, spy agencies found",
-      "link": "https://therecord.media/trump-harris-election-meddling-russia",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-23T19:30:00+00:00",
-      "summary": "U.S. intelligence officials found no evidence that any foreign adversary successfully interfered in the 2024 presidential election, according to sources familiar with the findings of a classified assessment."
-    },
-    {
-      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
-      "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-23T18:06:30+00:00",
-      "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a dis"
     }
   ]
 }
