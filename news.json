@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T01:51:57.775059+00:00",
+  "generated_at": "2026-09-24T10:37:34.005512+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,182 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "AI is dominating the conversation at Climate Week",
+      "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-24T10:00:00+00:00",
+      "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It\u2019s also New York Climate Week\u2014investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so "
+    },
+    {
+      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
+      "link": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-24T07:07:25+00:00",
+      "summary": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said. The portal publishes aggregate figures, such "
+    },
+    {
+      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
+      "link": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-24T06:32:03+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants. According to Proofpoint, the act"
+    },
+    {
+      "title": "One URL, Three Different Tricks, (Thu, Sep 24th)",
+      "link": "https://isc.sans.edu/diary/rss/33366",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-24T06:25:06+00:00",
+      "summary": "Yesterday, we received a phishing email with an interesting link. At first sight, it looks like garbage, but every piece of it has been carefully crafted to confuse basic security controls. Here is the defanged link:"
+    },
+    {
+      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-24T05:36:18+00:00",
+      "summary": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticate"
+    },
+    {
+      "title": "FedCoT-VQA: A Federated Learning and Unlearning Framework for Chain-of-Thought Planners in VideoQA",
+      "link": "https://arxiv.org/abs/2609.26814",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-24T04:00:00+00:00",
+      "summary": "arXiv:2609.26814v1 Announce Type: new Abstract: Chain-of-Thought (CoT) planners have emerged as an effective design for VideoQA, where a lightweight planner first generates intermediate reasoning steps to guide temporal "
+    },
+    {
+      "title": "Comparative Evaluation of Static Embedding Models for HTTP Request Anomaly Detection",
+      "link": "https://arxiv.org/abs/2609.26860",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-24T04:00:00+00:00",
+      "summary": "arXiv:2609.26860v1 Announce Type: new Abstract: Web applications are increasingly targeted by cyberattacks that exploit HTTP requests to evade security mechanisms. Traditional web application firewalls (WAFs) rely on rul"
+    },
+    {
+      "title": "ACTS: A multi-tier benchmark evaluating LLM cipher identification under controlled blind conditions",
+      "link": "https://arxiv.org/abs/2609.26893",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-24T04:00:00+00:00",
+      "summary": "arXiv:2609.26893v1 Announce Type: new Abstract: We introduce ACTS (Artifacts in Cipher Testing Suite), a reproducible benchmark that isolates cryptanalytic ability through tiered metadata deprivation (Tier-1: full metada"
+    },
+    {
+      "title": "Ajar: Measuring Open Privilege in Agent Defenses",
+      "link": "https://arxiv.org/abs/2609.26900",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-24T04:00:00+00:00",
+      "summary": "arXiv:2609.26900v1 Announce Type: new Abstract: A language model agent acts through the tools it is given. The data it reads while working on a task can redirect what it does with those tools. A growing set of techniques"
+    },
+    {
+      "title": "Topological Signatures of Cyber-Attack Classes in Natural Visibility Graph Representations of Network Traffic",
+      "link": "https://arxiv.org/abs/2609.26990",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-24T04:00:00+00:00",
+      "summary": "arXiv:2609.26990v1 Announce Type: new Abstract: Natural Visibility Graph (NVG)-based representations provide a promising approach for capturing structural patterns in sequential network traffic. However, whether differen"
+    },
+    {
+      "title": "Improving Service Availability in KubeEdge-Based Architectures Using Lightweight Intrusion Detection",
+      "link": "https://arxiv.org/abs/2609.27052",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-24T04:00:00+00:00",
+      "summary": "arXiv:2609.27052v1 Announce Type: new Abstract: The increasing adoption of the Internet of Things (IoT) and cloud computing has accelerated the evolution of edge computing paradigms [1]. Industry forecasts estimate that "
+    },
+    {
+      "title": "Divide and Doubt: Diverse Distributed Poisoning for Retrieval-Augmented Generation",
+      "link": "https://arxiv.org/abs/2609.27090",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-24T04:00:00+00:00",
+      "summary": "arXiv:2609.27090v1 Announce Type: new Abstract: Multi-passage corpus poisoning often repeats one target claim across similar documents, creating correlated lexical and semantic patterns that similarity- and conflict-awar"
+    },
+    {
+      "title": "Solidity Meets LLMs: A Transformer-Based Approach to Smart Contract Vulnerability Detection",
+      "link": "https://arxiv.org/abs/2609.27091",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-24T04:00:00+00:00",
+      "summary": "arXiv:2609.27091v1 Announce Type: new Abstract: The growing adoption of blockchain technologies, particularly the Ethereum platform, has amplified the critical role of smart contracts in decentralized applications. Howev"
+    },
+    {
+      "title": "Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats Persona-Based Copy Simulation",
+      "link": "https://arxiv.org/abs/2609.25010",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-24T04:00:00+00:00",
+      "summary": "arXiv:2609.25010v1 Announce Type: new Abstract: Marketers increasingly use large language models (LLMs) as \"synthetic personas\" to predict how an audience will react to a piece of copy before it ships, encouraged by evid"
+    },
+    {
+      "title": "Do Existing Preconditioners Improve Biomedical Tabular Foundation Learning? An Empirical Study on TabPFN Optimization",
+      "link": "https://arxiv.org/abs/2609.25013",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-24T04:00:00+00:00",
+      "summary": "arXiv:2609.25013v1 Announce Type: new Abstract: Tabular foundation models have recently shown strong potential for structured biomedical data analysis. Among them, TabPFN has emerged as an effective approach for low-data"
+    },
+    {
+      "title": "4DGS-JEPA: Temporally Compositional Joint-Embedding Prediction for Dynamic Gaussian Splatting",
+      "link": "https://arxiv.org/abs/2609.25036",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-24T04:00:00+00:00",
+      "summary": "arXiv:2609.25036v1 Announce Type: new Abstract: Dynamic Gaussian Splatting provides an explicit representation of evolving 3D scenes, but existing approaches are primarily optimized for reconstruction, future-state gener"
+    },
+    {
+      "title": "An Accurate and Interpretable Hyper Graph Neural Network for GBM Survival Prediction",
+      "link": "https://arxiv.org/abs/2609.25088",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-24T04:00:00+00:00",
+      "summary": "arXiv:2609.25088v1 Announce Type: new Abstract: Survival prediction for glioblastoma multiforme (GBM) demands models that are both accurate and interpretable, yet existing approaches treat these objectives as com- peting"
+    },
+    {
+      "title": "Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings",
+      "link": "https://arxiv.org/abs/2609.25165",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-24T04:00:00+00:00",
+      "summary": "arXiv:2609.25165v1 Announce Type: new Abstract: In this report, we introduce \\textbf{Ovis-Embedding}, a state-of-the-art omni-modal embedding family built on native integration of text, image, video, and audio. Instead o"
+    },
+    {
+      "title": "X-Planner: Event-Structured Task Planning for Embodied Intelligence",
+      "link": "https://arxiv.org/abs/2609.25187",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-24T04:00:00+00:00",
+      "summary": "arXiv:2609.25187v1 Announce Type: new Abstract: Task planning bridges high-level instructions and executable behavior in long-horizon manipulation, yet modern Vision-Language-Action (VLA) systems often leave this interme"
+    },
+    {
+      "title": "Lean Pool: An AI-Maintained Archive of Formalized Mathematics",
+      "link": "https://arxiv.org/abs/2609.25199",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-24T04:00:00+00:00",
+      "summary": "arXiv:2609.25199v1 Announce Type: new Abstract: Lean Pool is a repository of formalized mathematics. It is grown, maintained and optimized by AI agents."
+    },
+    {
+      "title": "The AI Neuroscientist: An Interactive Agentic Interface for Neuroimaging Analysis",
+      "link": "https://arxiv.org/abs/2609.25254",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-24T04:00:00+00:00",
+      "summary": "arXiv:2609.25254v1 Announce Type: new Abstract: Analyzing neuroimaging data requires specialized coding and statistical expertise, which limits accessibility for researchers without computational backgrounds. We present "
+    },
+    {
+      "title": "ISC Stormcast For Thursday, September 24th, 2026 https://isc.sans.edu/podcastdetail/10108, (Thu, Sep 24th)",
+      "link": "https://isc.sans.edu/diary/rss/33364",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-24T03:50:11+00:00",
+      "summary": ""
+    },
     {
       "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses",
       "link": "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
@@ -155,182 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-09-23T12:45:00+00:00",
       "summary": "Latvian police arrested a 23-year-old man suspected of hacking at least two companies, stealing personal information and attempting to extort money from the victims."
-    },
-    {
-      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
-      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-23T12:16:00+00:00",
-      "summary": "A flaw in cPanel's CalDAV and CardDAV service lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A second bug in the WP Toolkit plugin, use"
-    },
-    {
-      "title": "The Download: India\u2019s smart glasses menace and AI\u2019s trillion-dollar gamble",
-      "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-23T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram vid"
-    },
-    {
-      "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
-      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-23T12:00:00+00:00",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
-    },
-    {
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-23T12:00:00+00:00",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
-    },
-    {
-      "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
-      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-23T12:00:00+00:00",
-      "summary": "With GPT\u20116 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day."
-    },
-    {
-      "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
-      "link": "https://openai.com/index/ringg",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-23T12:00:00+00:00",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1."
-    },
-    {
-      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-      "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-23T11:47:19+00:00",
-      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a lis"
-    },
-    {
-      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
-      "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-23T11:47:13+00:00",
-      "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior. Opus 5.5, per Anthropic, i"
-    },
-    {
-      "title": "Introducing MentalHealthBench",
-      "link": "https://openai.com/index/introducing-mentalhealthbench",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-23T10:00:00+00:00",
-      "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations."
-    },
-    {
-      "title": "The AI Hype Index: AI loves cheating",
-      "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-23T09:00:00+00:00",
-      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI\u2019s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two t"
-    },
-    {
-      "title": "Smart glasses are already causing havoc in India",
-      "link": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-23T09:00:00+00:00",
-      "summary": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this spring against a bi"
-    },
-    {
-      "title": "Not All 4-bit Quantizers Are Equal: Deployment-Time Mitigation of PII Leakage in Fine-Tuned Small Language Models",
-      "link": "https://arxiv.org/abs/2609.25014",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-23T04:00:00+00:00",
-      "summary": "arXiv:2609.25014v1 Announce Type: new Abstract: Organizations fine-tune small language models on private data and then compress them to 4 bits for resource-efficient deployment. We show that the compression method also a"
-    },
-    {
-      "title": "CPyGraph: A Version-Aware Static Analysis Framework for Native CPython Bytecode",
-      "link": "https://arxiv.org/abs/2609.25083",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-23T04:00:00+00:00",
-      "summary": "arXiv:2609.25083v1 Announce Type: new Abstract: Static analysis of Python packages must recover both program structure and object flow across first-class functions, dynamic dispatch, implicit protocol calls, exceptions, "
-    },
-    {
-      "title": "Benchmarking Neural Defend ARCAS 1B: A Foundational Multimodal Deepfake Detection Model",
-      "link": "https://arxiv.org/abs/2609.25154",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-23T04:00:00+00:00",
-      "summary": "arXiv:2609.25154v1 Announce Type: new Abstract: AI-generated imagery evolves faster than benchmark-specific detector evaluations, making a single score an incomplete account of generalization. This paper evaluates Neural"
-    },
-    {
-      "title": "Attack Success Rate Is Not a Number: On Measurement Validity in Agentic AI Security Evaluation",
-      "link": "https://arxiv.org/abs/2609.25173",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-23T04:00:00+00:00",
-      "summary": "arXiv:2609.25173v1 Announce Type: new Abstract: Attack success rate (ASR) is the headline metric in nearly every published evaluation of attacks on, and defenses for, LLM agents. We argue that ASR as currently used is no"
-    },
-    {
-      "title": "Partition-Matched Evaluation of Community Features under Distribution Shift in Android Malware Function-Call Graphs",
-      "link": "https://arxiv.org/abs/2609.25256",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-23T04:00:00+00:00",
-      "summary": "arXiv:2609.25256v1 Announce Type: new Abstract: Graph-based Android malware classifiers can lose accuracy under malware-type or family shifts. We test whether mesoscopic organization in function-call graphs provides shif"
-    },
-    {
-      "title": "Controller-Only False Confirmation in Passive RF UAV Link Detection",
-      "link": "https://arxiv.org/abs/2609.25294",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-23T04:00:00+00:00",
-      "summary": "arXiv:2609.25294v1 Announce Type: new Abstract: Passive radio frequency (RF) sensing is widely used for counter-unmanned-aerial-vehicle (counter-UAV) detection. Existing studies commonly report high accuracy against back"
-    },
-    {
-      "title": "SSP-Bench: A Hybrid Data Generation Framework for Safety, Security, and Privacy Evaluation",
-      "link": "https://arxiv.org/abs/2609.25352",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-23T04:00:00+00:00",
-      "summary": "arXiv:2609.25352v1 Announce Type: new Abstract: Evaluation of large language models (LLMs) for safety, security, and privacy (SSP) relies heavily on static benchmarks, which suffer from score saturation, data contaminati"
-    },
-    {
-      "title": "Quantum ROP: Using Quantum Algorithms for ROP Chain Selection in Exploit Construction",
-      "link": "https://arxiv.org/abs/2609.25364",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-23T04:00:00+00:00",
-      "summary": "arXiv:2609.25364v1 Announce Type: new Abstract: The quantum computing threat to cybersecurity is nowadays predominantly framed around Shor's algorithm and its eventual capacity to break asymmetric cryptography. Beyond cr"
-    },
-    {
-      "title": "Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats Persona-Based Copy Simulation",
-      "link": "https://arxiv.org/abs/2609.25010",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-23T04:00:00+00:00",
-      "summary": "arXiv:2609.25010v1 Announce Type: new Abstract: Marketers increasingly use large language models (LLMs) as \"synthetic personas\" to predict how an audience will react to a piece of copy before it ships, encouraged by evid"
-    },
-    {
-      "title": "Do Existing Preconditioners Improve Biomedical Tabular Foundation Learning? An Empirical Study on TabPFN Optimization",
-      "link": "https://arxiv.org/abs/2609.25013",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-23T04:00:00+00:00",
-      "summary": "arXiv:2609.25013v1 Announce Type: new Abstract: Tabular foundation models have recently shown strong potential for structured biomedical data analysis. Among them, TabPFN has emerged as an effective approach for low-data"
-    },
-    {
-      "title": "4DGS-JEPA: Temporally Compositional Joint-Embedding Prediction for Dynamic Gaussian Splatting",
-      "link": "https://arxiv.org/abs/2609.25036",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-23T04:00:00+00:00",
-      "summary": "arXiv:2609.25036v1 Announce Type: new Abstract: Dynamic Gaussian Splatting provides an explicit representation of evolving 3D scenes, but existing approaches are primarily optimized for reconstruction, future-state gener"
     }
   ]
 }
