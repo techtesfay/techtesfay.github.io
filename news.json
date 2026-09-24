@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T20:45:22.718853+00:00",
+  "generated_at": "2026-09-24T01:51:57.775059+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,22 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses",
+      "link": "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-23T21:03:01+00:00",
+      "summary": "A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR tools typically watch out for."
+    },
+    {
+      "title": "GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks",
+      "link": "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-23T20:53:38+00:00",
+      "summary": "Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use."
+    },
     {
       "title": "UK regulator to investigate Pornhub parent company for alleged age verification failings",
       "link": "https://therecord.media/uk-regulator-to-investigate-pornhub-parent-company-privacy",
@@ -155,6 +171,14 @@
       "category": "ai",
       "published": "2026-09-23T12:10:00+00:00",
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram vid"
+    },
+    {
+      "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
+      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-23T12:00:00+00:00",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
     },
     {
       "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
@@ -307,30 +331,6 @@
       "category": "research",
       "published": "2026-09-23T04:00:00+00:00",
       "summary": "arXiv:2609.25036v1 Announce Type: new Abstract: Dynamic Gaussian Splatting provides an explicit representation of evolving 3D scenes, but existing approaches are primarily optimized for reconstruction, future-state gener"
-    },
-    {
-      "title": "An Accurate and Interpretable Hyper Graph Neural Network for GBM Survival Prediction",
-      "link": "https://arxiv.org/abs/2609.25088",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-23T04:00:00+00:00",
-      "summary": "arXiv:2609.25088v1 Announce Type: new Abstract: Survival prediction for glioblastoma multiforme (GBM) demands models that are both accurate and interpretable, yet existing approaches treat these objectives as com- peting"
-    },
-    {
-      "title": "Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings",
-      "link": "https://arxiv.org/abs/2609.25165",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-23T04:00:00+00:00",
-      "summary": "arXiv:2609.25165v1 Announce Type: new Abstract: In this report, we introduce \\textbf{Ovis-Embedding}, a state-of-the-art omni-modal embedding family built on native integration of text, image, video, and audio. Instead o"
-    },
-    {
-      "title": "X-Planner: Event-Structured Task Planning for Embodied Intelligence",
-      "link": "https://arxiv.org/abs/2609.25187",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-23T04:00:00+00:00",
-      "summary": "arXiv:2609.25187v1 Announce Type: new Abstract: Task planning bridges high-level instructions and executable behavior in long-horizon manipulation, yet modern Vision-Language-Action (VLA) systems often leave this interme"
     }
   ]
 }
