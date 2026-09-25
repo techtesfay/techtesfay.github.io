@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T16:00:46.287352+00:00",
+  "generated_at": "2026-09-25T20:48:28.296726+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,46 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Kiteworks urges customers to stop using platform after warning from federal intelligence agencies",
+      "link": "https://therecord.media/kiteworks-urges-customers-to-stop-using-systems-incident",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-25T20:19:00+00:00",
+      "summary": "Frank Balonis, CISO at Kiteworks, told Recorded Future News that the company \u201creceived credible threat intelligence from federal intelligence authorities indicating that a threat actor may attempt to target some Kitework"
+    },
+    {
+      "title": "Labcorp to overhaul data security practices, pay $2.3 million fine for cybersecurity failings",
+      "link": "https://therecord.media/labcorp-to-overhaul-security-practices-settlement",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-25T19:35:00+00:00",
+      "summary": "Security changes include creating an incident response plan for vendor security failings, limiting how much data Labcorp shares with vendors and building an expansive risk management team charged with tracking vendors\u2019 c"
+    },
+    {
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "link": "https://openai.com/index/proaction",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-25T19:00:00+00:00",
+      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
+    },
+    {
+      "title": "AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-25T18:39:32+00:00",
+      "summary": "When autonomous AI agents \"escape the sandbox,\" the real story isn't rogue machines \u2014 it's the same access-control failures we've seen for decades."
+    },
+    {
+      "title": "What We Missed: Google Gemini Joins the AI Escape Party",
+      "link": "https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-25T17:56:23+00:00",
+      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Google Gemini models breaking containment to ShinyHunters ratting on TeamPCP hackers."
+    },
     {
       "title": "Crypto CEO accuses North Korea of stealing $387 million from Bitget platform",
       "link": "https://therecord.media/crypto-ceo-accuses-north-korea-of-387-million-theft",
@@ -291,46 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-09-24T20:32:50+00:00",
       "summary": "The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say."
-    },
-    {
-      "title": "Digital forensics firm with US federal contracts covered up ties to Russia, DOJ alleges",
-      "link": "https://therecord.media/russia-forensics-technology-doj",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-24T20:30:00+00:00",
-      "summary": "Two executives at a data extraction and digital forensics company that sold several U.S. agencies its software were arrested for allegedly lying about the fact that its technology is made in Russia."
-    },
-    {
-      "title": "Lawmakers introduce bill for voluntary telecom cyber rules after Salt Typhoon hacks",
-      "link": "https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-24T20:15:00+00:00",
-      "summary": "U.S. Sens. Mark Warner (D-VA) and Ted Cruz (R-TX) introduced the Telecommunications Cybersecurity and Resilience Act on Thursday, arguing that the new effort was necessary in light of the Salt Typhoon attacks which saw C"
-    },
-    {
-      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
-      "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-24T18:10:18+00:00",
-      "summary": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats, chained two flaws in OnePlus's own software to gain ro"
-    },
-    {
-      "title": "3 Cyber Threats That Defined the Summer of 2026",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-24T14:44:12+00:00",
-      "summary": "This installment of the Reporters' Notebook video series discusses the impact of AI agents breaching Hugging Face, Fairlife's ransomware attack, and Iranian-linked threat actors compromising a dozen US water systems. It "
-    },
-    {
-      "title": "How to Build A SASE Framework for Modern Cybersecurity",
-      "link": "https://www.darkreading.com/cloud-security/how-to-build-sase-framework",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-24T14:02:43+00:00",
-      "summary": "Keeping edge computing safe requires organizations to fundamentally rethink security governance. Here is a path forward: a step-by-step guide to building a SASE framework."
     }
   ]
 }
