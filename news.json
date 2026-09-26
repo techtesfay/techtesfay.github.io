@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T02:14:45.368469+00:00",
+  "generated_at": "2026-09-26T10:24:13.914744+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,30 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+      "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-26T09:55:22+00:00",
+      "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of"
+    },
+    {
+      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-26T08:49:53+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing eviden"
+    },
+    {
+      "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+      "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-26T07:48:33+00:00",
+      "summary": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack. \"Kiteworks re"
+    },
     {
       "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
       "link": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
@@ -173,150 +197,6 @@
       "summary": "A storm is raging in the form of cyber sabotage, disinformation, and drone attacks on European nations, particularly those that provide material support to Ukraine."
     },
     {
-      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
-      "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-25T04:49:22+00:00",
-      "summary": "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday. The data came from disk s"
-    },
-    {
-      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
-      "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-25T04:46:34+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based o"
-    },
-    {
-      "title": "Stress-Testing Structure-Aware Calibration of Malware Graph Neural Networks under Type Shift",
-      "link": "https://arxiv.org/abs/2609.28517",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-25T04:00:00+00:00",
-      "summary": "arXiv:2609.28517v1 Announce Type: new Abstract: Post-hoc malware calibrators can condition confidence on graph structure, but their structural inputs may leave the support represented by validation data under malware-typ"
-    },
-    {
-      "title": "An Exposition of GPT Astra's Proof of Lower Bound on DP Continual Counting",
-      "link": "https://arxiv.org/abs/2609.28528",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-25T04:00:00+00:00",
-      "summary": "arXiv:2609.28528v1 Announce Type: new Abstract: The goal of this note is to give a detailed proof, to the best of our understanding, of the recent presentation by Harrison and Leeman (arXiv:2609.17650v01 and arXiv:2609.1"
-    },
-    {
-      "title": "Privacy Leakage Through AI-mediated Analysis of Smartphone Data",
-      "link": "https://arxiv.org/abs/2609.28537",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-25T04:00:00+00:00",
-      "summary": "arXiv:2609.28537v1 Announce Type: new Abstract: Over the past thirty years, the online advertising industry built a large-scale data collection ecosystem, with the goal of tracking a user's online activity to infer their"
-    },
-    {
-      "title": "Who Is Behind the Harness? Fingerprinting LLMs through Agentic Behavior",
-      "link": "https://arxiv.org/abs/2609.28559",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-25T04:00:00+00:00",
-      "summary": "arXiv:2609.28559v1 Announce Type: new Abstract: LLMs increasingly operate through coding-agent harnesses that inspect repositories, invoke tools, and modify files. Substituting the model behind such an agent can therefor"
-    },
-    {
-      "title": "Don't Read the Log: Execution Traces Contaminate Verifiers in Video-Generation Agents",
-      "link": "https://arxiv.org/abs/2609.28564",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-25T04:00:00+00:00",
-      "summary": "arXiv:2609.28564v1 Announce Type: new Abstract: Agentic video-generation systems close a loop between a generator and a verifier: an LLM plans shots, calls a text-to-video model, and a multimodal judge decides whether th"
-    },
-    {
-      "title": "Where Cyber Agents Struggle: Bottleneck Analysis of Multi-Stage LLM Agents",
-      "link": "https://arxiv.org/abs/2609.28572",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-25T04:00:00+00:00",
-      "summary": "arXiv:2609.28572v1 Announce Type: new Abstract: Multi-stage LLM-based cyber agents may complete attack workflows while remaining brittle, costly, or reliant on incorrect interpretations of execution evidence. Success rat"
-    },
-    {
-      "title": "Persistent Billable State: Denial-of-Wallet Attacks and Defenses in Tool-Calling LLM Agents",
-      "link": "https://arxiv.org/abs/2609.28585",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-25T04:00:00+00:00",
-      "summary": "arXiv:2609.28585v1 Announce Type: new Abstract: Multi-step tool-calling LLM agents rely on host runtimes to preserve state across turns. When a runtime carries an external tool return into later model inputs, providers m"
-    },
-    {
-      "title": "Agent Approval Laundering: Transitive Effects Beyond the Approved Invocation",
-      "link": "https://arxiv.org/abs/2609.28586",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-25T04:00:00+00:00",
-      "summary": "arXiv:2609.28586v1 Announce Type: new Abstract: Coding-agent approval interfaces bind a human decision to a command or tool call, while developer tools execute the transitive workflow that invocation activates. Package i"
-    },
-    {
-      "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
-      "link": "https://arxiv.org/abs/2609.28475",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-25T04:00:00+00:00",
-      "summary": "arXiv:2609.28475v1 Announce Type: new Abstract: Forecasting agents increasingly combine language-model reasoning, retrieval, ensembling, and calibration, but it remains unclear when each behavior should be trusted. We st"
-    },
-    {
-      "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
-      "link": "https://arxiv.org/abs/2609.28506",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-25T04:00:00+00:00",
-      "summary": "arXiv:2609.28506v1 Announce Type: new Abstract: TW3Cast is a time-series forecasting system that reaches position 3 of 130 entries on the GIFT-Eval benchmark by mean MASE rank, as of 2026-09-14. The two entries above it "
-    },
-    {
-      "title": "PAWS: Policy-driven Agentic World Simulation",
-      "link": "https://arxiv.org/abs/2609.28547",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-25T04:00:00+00:00",
-      "summary": "arXiv:2609.28547v1 Announce Type: new Abstract: Policy interventions propagate through public communication, institutional decisions, and stakeholder responses, yet datasets for financial multi-agent simulation rarely co"
-    },
-    {
-      "title": "Pistis Technical Report",
-      "link": "https://arxiv.org/abs/2609.28554",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-25T04:00:00+00:00",
-      "summary": "arXiv:2609.28554v1 Announce Type: new Abstract: We introduce the Pistis model family, comprising 27B- and 9B-parameter multimodal large language models built on Qwen3.6 and Qwen3.5, respectively, and developed through a "
-    },
-    {
-      "title": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
-      "link": "https://arxiv.org/abs/2609.28557",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-25T04:00:00+00:00",
-      "summary": "arXiv:2609.28557v1 Announce Type: new Abstract: DNA sequencing pipelines, spanning quality control, alignment, variant calling, and annotation, are now reliably executed by workflow management systems that orchestrate es"
-    },
-    {
-      "title": "DEEPO: Dual-Entropy Enhanced Policy Optimization for Hallucination in MLLMs",
-      "link": "https://arxiv.org/abs/2609.28570",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-25T04:00:00+00:00",
-      "summary": "arXiv:2609.28570v1 Announce Type: new Abstract: Reinforcement learning (RL) is widely used to sharpen reasoning in multimodal large language models (MLLMs), yet its effect on hallucination is uneven. We trace this to two"
-    },
-    {
-      "title": "TWIST: A Proposed Benchmark for Intervention Quality in Conversational Memory, with a Human-Validated Draft-Alignment",
-      "link": "https://arxiv.org/abs/2609.28575",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-25T04:00:00+00:00",
-      "summary": "arXiv:2609.28575v1 Announce Type: new Abstract: Long-conversation memory benchmarks increasingly test recall and prompted knowledge updates, and recent work studies evolving user beliefs and memory state. TWIST is a prop"
-    },
-    {
-      "title": "Adversarial Closed-Loop Curriculum for Evolving Role-Playing Agents",
-      "link": "https://arxiv.org/abs/2609.28609",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-25T04:00:00+00:00",
-      "summary": "arXiv:2609.28609v1 Announce Type: new Abstract: Role-playing agents based on large language models have been widely applied in areas such as personalized assistance and social simulation. Recent RL methods typically trai"
-    },
-    {
       "title": "ISC Stormcast For Friday, September 25th, 2026 https://isc.sans.edu/podcastdetail/10110, (Fri, Sep 25th)",
       "link": "https://isc.sans.edu/diary/rss/33370",
       "source": "SANS Internet Storm Center",
@@ -331,6 +211,126 @@
       "category": "cybersecurity",
       "published": "2026-09-24T21:04:03+00:00",
       "summary": "Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels."
+    },
+    {
+      "title": "SectopRAT Returns, Hiding Inside a Legitimate Application",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-24T20:32:50+00:00",
+      "summary": "The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say."
+    },
+    {
+      "title": "3 Cyber Threats That Defined the Summer of 2026",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-24T14:44:12+00:00",
+      "summary": "This installment of the Reporters' Notebook video series discusses the impact of AI agents breaching Hugging Face, Fairlife's ransomware attack, and Iranian-linked threat actors compromising a dozen US water systems. It "
+    },
+    {
+      "title": "How to Build a SASE Framework for Modern Cybersecurity",
+      "link": "https://www.darkreading.com/cloud-security/how-to-build-sase-framework",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-24T14:02:43+00:00",
+      "summary": "Securing edge computing requires organizations to fundamentally rethink security governance. This step-by-step guide to building a SASE framework provides the path forward. (Third in a three-part series.)"
+    },
+    {
+      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+      "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-24T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. A congressional representative just proposed killing America\u2019s border tower progra"
+    },
+    {
+      "title": "AI is dominating the conversation at Climate Week",
+      "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-24T10:00:00+00:00",
+      "summary": "This week, world leaders descended on Manhattan for the UN General Assembly. It\u2019s also New York Climate Week\u2014investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so "
+    },
+    {
+      "title": "One URL, Three Different Tricks, (Thu, Sep 24th)",
+      "link": "https://isc.sans.edu/diary/rss/33366",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-24T06:25:06+00:00",
+      "summary": "Yesterday, we received a phishing email with an interesting link. At first sight, it looks like garbage, but every piece of it has been carefully crafted to confuse basic security controls. Here is the defanged link:"
+    },
+    {
+      "title": "ISC Stormcast For Thursday, September 24th, 2026 https://isc.sans.edu/podcastdetail/10108, (Thu, Sep 24th)",
+      "link": "https://isc.sans.edu/diary/rss/33364",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-24T03:50:11+00:00",
+      "summary": ""
+    },
+    {
+      "title": "A congressional representative just proposed killing America\u2019s border tower program",
+      "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-23T17:10:11+00:00",
+      "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border. The announcement comes just days af"
+    },
+    {
+      "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
+      "link": "https://isc.sans.edu/diary/rss/33360",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-23T16:14:37+00:00",
+      "summary": "Introduction"
+    },
+    {
+      "title": "Two years of OpenAI Academy",
+      "link": "https://openai.com/index/two-years-of-openai-academy",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-23T16:00:00+00:00",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities."
+    },
+    {
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-23T13:00:00+00:00",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure."
+    },
+    {
+      "title": "The Download: India\u2019s smart glasses menace and AI\u2019s trillion-dollar gamble",
+      "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-23T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram vid"
+    },
+    {
+      "title": "Sam Altman\u2019s remarks at the United Nations Security Council",
+      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-23T12:00:00+00:00",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
+    },
+    {
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-23T12:00:00+00:00",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
+    },
+    {
+      "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
+      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-23T12:00:00+00:00",
+      "summary": "With GPT\u20116 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day."
     }
   ]
 }
