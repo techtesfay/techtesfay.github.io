@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T10:24:13.914744+00:00",
+  "generated_at": "2026-09-26T15:12:51.510208+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,22 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+      "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-26T11:46:40+00:00",
+      "summary": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. The ShinyHunters-linked activity involves the weaponization"
+    },
+    {
+      "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
+      "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-26T10:30:00+00:00",
+      "summary": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much producti"
+    },
     {
       "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
       "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
@@ -155,22 +171,6 @@
       "category": "cybersecurity",
       "published": "2026-09-25T11:30:00+00:00",
       "summary": "Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry. The routine version looks like th"
-    },
-    {
-      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
-      "link": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-25T10:35:55+00:00",
-      "summary": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets. \"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthorized tr"
-    },
-    {
-      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
-      "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-25T10:14:02+00:00",
-      "summary": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild. The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authe"
     },
     {
       "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
