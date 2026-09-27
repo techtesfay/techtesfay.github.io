@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T15:53:21.850065+00:00",
+  "generated_at": "2026-09-27T20:31:08.057706+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -26,7 +26,7 @@
       "source": "The Hacker News",
       "category": "cybersecurity",
       "published": "2026-09-27T07:47:57+00:00",
-      "summary": "Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26."
+      "summary": "Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six ot"
     },
     {
       "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
