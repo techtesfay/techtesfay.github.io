@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T10:55:11.224714+00:00",
+  "generated_at": "2026-09-27T15:53:21.850065+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Wireshark 4.6.9 Released, (Sun, Sep 27th)",
+      "link": "https://isc.sans.edu/diary/rss/33372",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-27T15:04:49+00:00",
+      "summary": "Wireshark release 4.6.9 fixes 19 vulnerabilities and 16 bugs."
+    },
     {
       "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
       "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
@@ -323,14 +331,6 @@
       "category": "ai",
       "published": "2026-09-23T12:00:00+00:00",
       "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
-    },
-    {
-      "title": "How invideo improves color grading 3x with GPT\u20116 Astra",
-      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-23T12:00:00+00:00",
-      "summary": "With GPT\u20116 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day."
     }
   ]
 }
