@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T20:31:08.057706+00:00",
+  "generated_at": "2026-09-28T02:12:39.266913+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "ISC Stormcast For Monday, September 28th, 2026 https://isc.sans.edu/podcastdetail/10112, (Mon, Sep 28th)",
+      "link": "https://isc.sans.edu/diary/rss/33374",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-28T02:00:02+00:00",
+      "summary": ""
+    },
     {
       "title": "Wireshark 4.6.9 Released, (Sun, Sep 27th)",
       "link": "https://isc.sans.edu/diary/rss/33372",
@@ -83,6 +91,14 @@
       "category": "cybersecurity",
       "published": "2026-09-25T21:44:40+00:00",
       "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in feder"
+    },
+    {
+      "title": "How the CISO CFO Relationship is a Key to Cybersecurity Success",
+      "link": "https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-25T20:28:10+00:00",
+      "summary": "Building a financial bridge: Organizations where CISOs and CFOs align on cybersecurity strategy to protect assets, manage risk and enable business growth are better prepared to face today's threat landscape."
     },
     {
       "title": "Kiteworks urges customers to stop using platform after warning from federal intelligence agencies",
@@ -237,14 +253,6 @@
       "summary": "This installment of the Reporters' Notebook video series discusses the impact of AI agents breaching Hugging Face, Fairlife's ransomware attack, and Iranian-linked threat actors compromising a dozen US water systems. It "
     },
     {
-      "title": "How to Build a SASE Framework for Modern Cybersecurity",
-      "link": "https://www.darkreading.com/cloud-security/how-to-build-sase-framework",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-24T14:02:43+00:00",
-      "summary": "Securing edge computing requires organizations to fundamentally rethink security governance. This step-by-step guide to building a SASE framework provides the path forward. (Third in a three-part series.)"
-    },
-    {
       "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
       "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
       "source": "MIT Technology Review",
@@ -323,14 +331,6 @@
       "category": "ai",
       "published": "2026-09-23T12:00:00+00:00",
       "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
-    },
-    {
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-23T12:00:00+00:00",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
     }
   ]
 }
