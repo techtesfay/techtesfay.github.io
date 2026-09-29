@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T22:41:02.246430+00:00",
+  "generated_at": "2026-09-29T02:58:06.907128+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "ISC Stormcast For Tuesday, September 29th, 2026 https://isc.sans.edu/podcastdetail/10114, (Tue, Sep 29th)",
+      "link": "https://isc.sans.edu/diary/rss/33378",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-29T02:00:02+00:00",
+      "summary": ""
+    },
     {
       "title": "Apple Emergency Patch for iOS 26, macOS26, macOS15 (CVE-2026-86950), (Mon, Sep 28th)",
       "link": "https://isc.sans.edu/diary/rss/33376",
@@ -59,6 +67,14 @@
       "category": "cybersecurity",
       "published": "2026-09-28T19:18:01+00:00",
       "summary": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks. The vulnerability, tracked as CVE-2026-86950, refers to"
+    },
+    {
+      "title": "How we will do better for Australia",
+      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-28T19:00:00+00:00",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences."
     },
     {
       "title": "AI Agents Are Privileged Users; Who Is Auditing Their Access?",
@@ -315,22 +331,6 @@
       "category": "research",
       "published": "2026-09-28T04:00:00+00:00",
       "summary": "arXiv:2609.30383v1 Announce Type: new Abstract: A skill is a modular package of natural-language instructions, executable scripts, and reference resources that an agent can load at runtime to extend its capabilities for "
-    },
-    {
-      "title": "A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods",
-      "link": "https://arxiv.org/abs/2609.30397",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-28T04:00:00+00:00",
-      "summary": "arXiv:2609.30397v1 Announce Type: new Abstract: Evaluating explainable Artificial Intelligence (XAI) methods is a challenging task due to the lack of reliable evaluation procedures and, in particular, the absence of grou"
-    },
-    {
-      "title": "Predicting Transmembrane Protein Topology from 3D Structure",
-      "link": "https://arxiv.org/abs/2609.30446",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-28T04:00:00+00:00",
-      "summary": "arXiv:2609.30446v1 Announce Type: new Abstract: This paper presents a novel approach to infer protein topology using the state-of-the-art graph neural network (GNN), SchNet. The model is trained on the same dataset used "
     }
   ]
 }
