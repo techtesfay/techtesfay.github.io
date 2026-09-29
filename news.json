@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T11:41:07.357334+00:00",
+  "generated_at": "2026-09-29T17:07:30.712444+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,70 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "'NeedyMantis' Provides Long-Term Access to Compromised Networks",
+      "link": "https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-29T15:12:39+00:00",
+      "summary": "Microsoft observed a China-based actor using a previously unidentified malware framework in targeted intrusions against telcos, universities, medical, and government-related organizations."
+    },
+    {
+      "title": "Dual NetScaler Zero-Days Trigger Chaos for Citrix Customers",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-29T14:19:43+00:00",
+      "summary": "The critical vulnerabilities, which impact default configurations of NetScaler products, essentially give attackers a skeleton key to customers' networks."
+    },
+    {
+      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
+      "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-29T14:13:20+00:00",
+      "summary": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown. \"During the shutdown"
+    },
+    {
+      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
+      "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-29T13:45:10+00:00",
+      "summary": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub. \"The malicious packages abuse the 'Baileys' WhatsApp o"
+    },
+    {
+      "title": "Scans for Wordfence Protected Websites, (Tue, Sep 29th)",
+      "link": "https://isc.sans.edu/diary/rss/33382",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-29T13:29:33+00:00",
+      "summary": "Starting yesterday, our sensors picked up a small number of scans for \"wordfence-waf.php\". This particular script is used by Wordfence, a solution to protect WordPress sites. During the Wordfence install, the wordpress-w"
+    },
+    {
+      "title": "Russian pizza chain with 1,500 locations confirms cyberattack following hacker claims",
+      "link": "https://therecord.media/russian-pizza-chain-dodo-confirms-data-breach",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-29T12:34:00+00:00",
+      "summary": "According to Dodo Pizza, the potentially compromised information included customers\u2019 names, addresses, email addresses, phone numbers, dates of birth and order details."
+    },
+    {
+      "title": "Arizona Supreme Court says hackers stole residents\u2019 personal data",
+      "link": "https://therecord.media/arizona-supreme-court-says-hackers-stole-data",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-29T12:27:00+00:00",
+      "summary": "A spokesperson for the court system told Recorded Future News that the incident did not involve ransomware and the hackers have not issued ransom demands for the stolen data as of Monday."
+    },
+    {
+      "title": "The Download: climate tech companies to watch and AI\u2019s discovery problem",
+      "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-29T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet near"
+    },
     {
       "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
       "link": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
@@ -213,6 +277,14 @@
       "summary": "Listen to the session or watch below The US has spent billions building a \u201cvirtual wall\u201d of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border cross"
     },
     {
+      "title": "Nvidia Launches AI Agent Safety Platform to Prevent Rogue Activities",
+      "link": "https://www.darkreading.com/cyber-risk/nvidia-launches-ai-agent-safety-platform-prevent-rogue-activities",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-28T22:02:46+00:00",
+      "summary": "The Open Agent Safety Platform relies on both hardware and software components to monitor agent activities and quarantine unruly agents before they cause harm."
+    },
+    {
       "title": "One Packet Can Crash OT Servers in Industrial Sectors",
       "link": "https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine",
       "source": "Dark Reading",
@@ -259,78 +331,6 @@
       "category": "ai",
       "published": "2026-09-28T19:00:00+00:00",
       "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
-    },
-    {
-      "title": "AI Agents Are Privileged Users; Who Is Auditing Their Access?",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-28T18:44:22+00:00",
-      "summary": "Enterprises regularly rigorously monitor human employees, while autonomous AI agents quietly operate with broad privileges that could turn them into the next generation of insider threats."
-    },
-    {
-      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
-      "link": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-28T18:35:42+00:00",
-      "summary": "Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in a technical analysis. The malware has been seen in a small number of targeted in"
-    },
-    {
-      "title": "IAM for AI agents: A Practical Enterprise Framework",
-      "link": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-28T18:20:38+00:00",
-      "summary": "What is IAM for AI agents? AI agents authenticate, invoke tools, and act across enterprise systems with delegated authority. IAM for AI Agents is the identity-control architecture that governs those actors. This guide co"
-    },
-    {
-      "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
-      "link": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-28T17:42:18+00:00",
-      "summary": "The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday. The attacker exploited t"
-    },
-    {
-      "title": "New Mexico jury finds Meta deceived consumers about data privacy practices",
-      "link": "https://therecord.media/facebook-new-mexico-privacy",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-28T17:15:00+00:00",
-      "summary": "A New Mexico jury found Facebook violated the law nearly 44 million times by lying to consumers about its data privacy practices."
-    },
-    {
-      "title": "When can we say AI made a scientific discovery?",
-      "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-28T17:03:16+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molec"
-    },
-    {
-      "title": "Chrome Store Hosts 'Poper Blocker' Spyware Downloaded by Millions",
-      "link": "https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-28T16:51:25+00:00",
-      "summary": "A purported ad-blocker exfiltrates reams of sensitive information and benefits from having Google's stamp of approval despite researcher warnings."
-    },
-    {
-      "title": "US, UK warn of exploited Citrix NetScaler zero-day bugs",
-      "link": "https://therecord.media/us-uk-warn-of-citrix-netscaler-zero-day-bug",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-28T16:19:00+00:00",
-      "summary": "Incident responders began warning of potential vulnerabilities in NetScaler Gateway products on Saturday before cybersecurity agencies in the Netherlands, U.S. and U.K. released advisories on Sunday confirming vulnerabil"
-    },
-    {
-      "title": "JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack",
-      "link": "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-28T15:33:21+00:00",
-      "summary": "The \"agentic threat actor\" may have used exposed credentials to access resources and delete cloud-based storage, applications, and databases."
     }
   ]
 }
