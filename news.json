@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T02:39:41.471778+00:00",
+  "generated_at": "2026-09-30T11:27:49.632292+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,174 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "\u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s chief research officer",
+      "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-30T10:40:30+00:00",
+      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures ab"
+    },
+    {
+      "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-30T08:24:35+00:00",
+      "summary": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe. The activity, observed by Ma"
+    },
+    {
+      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
+      "link": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-30T08:09:28+00:00",
+      "summary": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it released fixes. DTLS, the TLS variant used for UDP traffic, resends a hand"
+    },
+    {
+      "title": "South Africa Seeks Help After Cyberattack Targets Air Traffic Control",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-30T07:00:00+00:00",
+      "summary": "As aviation infrastructure suffers more cyberattacks, air traffic systems are the latest target, with a ransomware toolkit installed on at least one operational network."
+    },
+    {
+      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+      "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-30T05:30:30+00:00",
+      "summary": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild. The vulnerability, tracked "
+    },
+    {
+      "title": "Says Block, Still Acts: Why LLM Safety Judgments Fail to Govern Action in LLM Agents",
+      "link": "https://arxiv.org/abs/2609.35870",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-30T04:00:00+00:00",
+      "summary": "arXiv:2609.35870v1 Announce Type: new Abstract: Large language model agents can correctly judge that an action should be blocked while still preferring to take it. We ask why this judgment-action disconnect arises, and w"
+    },
+    {
+      "title": "SameFact: The Same Safety Facts Lead to Different Responses Across Interfaces",
+      "link": "https://arxiv.org/abs/2609.35872",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-30T04:00:00+00:00",
+      "summary": "arXiv:2609.35872v1 Announce Type: new Abstract: Safety evaluations often ask whether a model recognizes that an action is unsafe, whereas agent evaluations ask what the model chooses to do. Using safety judgments as evid"
+    },
+    {
+      "title": "GenoTrace: Inheritable Watermarks for Genome Foundation Model Distillation",
+      "link": "https://arxiv.org/abs/2609.35881",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-30T04:00:00+00:00",
+      "summary": "arXiv:2609.35881v1 Announce Type: new Abstract: Can a genome model retain a detectable record of the synthetic sequences used to train it? We study watermark inheritance through distillation with GenoTrace, a codon-aware"
+    },
+    {
+      "title": "GenomeOcean Anywhere: Private WebGPU Inference for Genome MoEs",
+      "link": "https://arxiv.org/abs/2609.35882",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-30T04:00:00+00:00",
+      "summary": "arXiv:2609.35882v1 Announce Type: new Abstract: Genome foundation models are most useful where sequences are generated, yet the largest models need datacenter accelerators and a place to send private DNA. We ask whether "
+    },
+    {
+      "title": "CipherGenome: Homomorphic Inference for Genomic Mixture-of-Experts",
+      "link": "https://arxiv.org/abs/2609.35883",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-30T04:00:00+00:00",
+      "summary": "arXiv:2609.35883v1 Announce Type: new Abstract: Genome foundation models are growing into sparse mixture-of-experts (MoE) networks whose expert weights no longer fit on the machines that hold the sequences, yet sending a"
+    },
+    {
+      "title": "Agentic Commerce Bench: Measuring Fraud Detection for Agents That Spend Money",
+      "link": "https://arxiv.org/abs/2609.35886",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-30T04:00:00+00:00",
+      "summary": "arXiv:2609.35886v1 Announce Type: new Abstract: AI agents now hold spend authority and settle payments without per-action human confirmation. The resulting loss is often not a security failure: a counterparty with the co"
+    },
+    {
+      "title": "Dual-Fit Imperative in Security Leadership: A Grounded Theory Investigation of CISO Role Enactment in Modern Organisations",
+      "link": "https://arxiv.org/abs/2609.35887",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-30T04:00:00+00:00",
+      "summary": "arXiv:2609.35887v1 Announce Type: new Abstract: The Chief Information Security Officer (CISO) has emerged as a strategically prominent executive role, confronting an adversarial environment, irreconcilable accountability"
+    },
+    {
+      "title": "SINGED: Correct Outputs Do Not Certify Safe Execution in LLM Agents",
+      "link": "https://arxiv.org/abs/2609.35889",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-09-30T04:00:00+00:00",
+      "summary": "arXiv:2609.35889v1 Announce Type: new Abstract: Tool-using language-model agents select and execute third-party artifacts. Different implementations can return the requested output while producing hidden execution effect"
+    },
+    {
+      "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+      "link": "https://arxiv.org/abs/2609.35799",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-30T04:00:00+00:00",
+      "summary": "arXiv:2609.35799v1 Announce Type: new Abstract: In July 2026, OpenAI's agents coordinated over channels outside their intended environment to breach Hugging Face's secured infrastructure. Could existing alignment testing"
+    },
+    {
+      "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
+      "link": "https://arxiv.org/abs/2609.35833",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-30T04:00:00+00:00",
+      "summary": "arXiv:2609.35833v1 Announce Type: new Abstract: Running a language model on edge hardware provides private and low-latency reasoning without a network connection, and yet the small models that fit on such devices are unr"
+    },
+    {
+      "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
+      "link": "https://arxiv.org/abs/2609.35868",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-30T04:00:00+00:00",
+      "summary": "arXiv:2609.35868v1 Announce Type: new Abstract: Is human readability necessary for effective fine-tuning of large language models? We investigate whether model-conditioned training representations can preserve or improve"
+    },
+    {
+      "title": "The Price of Token Boundaries: Compression Certificates and Prediction",
+      "link": "https://arxiv.org/abs/2609.35869",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-30T04:00:00+00:00",
+      "summary": "arXiv:2609.35869v1 Announce Type: new Abstract: Pre-tokenisation restricts which text fragments can become prediction units, but its compression cost is obscured when tokenisers are compared only under the same boundarie"
+    },
+    {
+      "title": "More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses",
+      "link": "https://arxiv.org/abs/2609.35873",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-30T04:00:00+00:00",
+      "summary": "arXiv:2609.35873v1 Announce Type: new Abstract: Automated generation of LLM harnesses promises to improve inference through task specialization. Yet additional answer coverage can arise from repeated execution of the sam"
+    },
+    {
+      "title": "Risk-Averse Online POMDP Planning via CVaR of the Immediate Cost with Performance Guarantees",
+      "link": "https://arxiv.org/abs/2609.35874",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-30T04:00:00+00:00",
+      "summary": "arXiv:2609.35874v1 Announce Type: new Abstract: Online POMDP planners optimize the expected cumulative cost, which can mask dangerous states when the belief places significant mass on high-cost states. Existing risk-aver"
+    },
+    {
+      "title": "Beyond Symmetric Agents: Cognitive Diversity and Multi-Agent Debate in Small Language Models",
+      "link": "https://arxiv.org/abs/2609.35875",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-30T04:00:00+00:00",
+      "summary": "arXiv:2609.35875v1 Announce Type: new Abstract: Multi-agent debate (MAD) reportedly improves reasoning and factuality over single-model inference, but prior work treats agents as symmetric peers, leaving open what drives"
+    },
+    {
+      "title": "Representational Simplicity and Circuit Size Dissociate in a Threshold-Dependent Way: A Controlled Test via Adversarial Training",
+      "link": "https://arxiv.org/abs/2609.35890",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-09-30T04:00:00+00:00",
+      "summary": "arXiv:2609.35890v1 Announce Type: new Abstract: Sparse-autoencoder decomposability and concentrated feature attribution are increasingly treated as evidence that a model's computation is easier to reverse-engineer. Wheth"
+    },
     {
       "title": "ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)",
       "link": "https://isc.sans.edu/diary/rss/33384",
@@ -163,174 +331,6 @@
       "category": "ai",
       "published": "2026-09-29T11:00:00+00:00",
       "summary": "Earlier this month, the UN announced the planet will tip past 1.5 \u02daC of warming, \u201clikely within the next few years,\u201d squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal "
-    },
-    {
-      "title": "Making AI an asset, not an expense",
-      "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-29T10:43:45+00:00",
-      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. Bu"
-    },
-    {
-      "title": "Introducing GPT-6.1 Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-29T10:00:00+00:00",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra\u2019s standard API input and output token prices."
-    },
-    {
-      "title": "DevDay 2026 Recap",
-      "link": "https://openai.com/index/devday-2026-recap",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-29T10:00:00+00:00",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
-    },
-    {
-      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
-      "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-29T08:35:10+00:00",
-      "summary": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group. \"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigatio"
-    },
-    {
-      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
-      "link": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-29T06:08:25+00:00",
-      "summary": "A malicious MCP server could trick an application built on the official MCP Python SDK into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advisory. Affec"
-    },
-    {
-      "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
-      "link": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-29T05:12:32+00:00",
-      "summary": "OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits. The development "
-    },
-    {
-      "title": "A Large-Scale Benchmark and Risk Assessment of Traffic Analysis Attacks on Cloud LLM Services",
-      "link": "https://arxiv.org/abs/2609.31877",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-29T04:00:00+00:00",
-      "summary": "arXiv:2609.31877v1 Announce Type: new Abstract: Cloud-based Large language model (LLM) services create a network-level traffic side channel that can expose model, prompt, and task behavior despite encryption. From packet"
-    },
-    {
-      "title": "TokenScanner: Detecting Backdoors and Discovering Triggers in Text-to-Image LoRAs via Full Vocabulary Scanning",
-      "link": "https://arxiv.org/abs/2609.31878",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-29T04:00:00+00:00",
-      "summary": "arXiv:2609.31878v1 Announce Type: new Abstract: LoRAs are widely studied for adapting base text-to-image diffusion models. However, a backdoored LoRA can hide a backdoor: it behaves normally in most cases, but produces a"
-    },
-    {
-      "title": "Hardware-Rooted PUF Fingerprinting for Device-Level Traceability in Knowledge Distillation",
-      "link": "https://arxiv.org/abs/2609.31968",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-29T04:00:00+00:00",
-      "summary": "arXiv:2609.31968v1 Announce Type: new Abstract: Knowledge distillation (KD) enables model transfer across heterogeneous platforms and deployment environments, yet it exposes proprietary models to distillation-based theft"
-    },
-    {
-      "title": "Attributing Sensor Deviations to Degradation, Weather, or Attack in Oilfield Digital Twins: A Simulation Study of Probabilistic Attribution and Cost-Based Decisions",
-      "link": "https://arxiv.org/abs/2609.31973",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-29T04:00:00+00:00",
-      "summary": "arXiv:2609.31973v1 Announce Type: new Abstract: When an oilfield digital twin disagrees with its instruments, the operator must decide whether the cause is hardware degradation, harsh-weather effects, or malicious data m"
-    },
-    {
-      "title": "Evasion Attacks on Cost-Utility-Based Adversarial Training for Online AutoML in IoT Networks",
-      "link": "https://arxiv.org/abs/2609.31981",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-29T04:00:00+00:00",
-      "summary": "arXiv:2609.31981v1 Announce Type: new Abstract: As Internet of Things (IoT) networks increasingly depend on machine learning for anomaly, malware, intrusion detection, and network monitoring, such systems have become att"
-    },
-    {
-      "title": "Something to Talk About: Social Media as a Lens on Healthcare Ransomware Events",
-      "link": "https://arxiv.org/abs/2609.31984",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-29T04:00:00+00:00",
-      "summary": "arXiv:2609.31984v1 Announce Type: new Abstract: In the modern era, ransomware attacks on critical healthcare organizations---like hospitals and insurers---are frequent, with impacts ranging from leaked private health inf"
-    },
-    {
-      "title": "Compact Shielded CSV: Post-Quantum, Private, Lightweight Client-Side Validation Blockchain",
-      "link": "https://arxiv.org/abs/2609.32015",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-29T04:00:00+00:00",
-      "summary": "arXiv:2609.32015v1 Announce Type: new Abstract: We propose Compact Shielded CSV, a private client-side validation blockchain for peer-to-peer payments designed for the postquantum era. Upgrading existing blockchains to q"
-    },
-    {
-      "title": "SilentCall: Hidden Tool-Call Backdoors in Open-Weight Agents, and How to Catch Them",
-      "link": "https://arxiv.org/abs/2609.32021",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-09-29T04:00:00+00:00",
-      "summary": "arXiv:2609.32021v1 Announce Type: new Abstract: Open-weight tool-calling agents are adopted on evidence of merit, usually benchmark scores and a record of reliable use. We show that a model publisher can train an agent t"
-    },
-    {
-      "title": "SMARtCARE: Privacy-Preserving Agentic AI Systems for Bounded-Autonomy Clinical Decision Support",
-      "link": "https://arxiv.org/abs/2609.31763",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-29T04:00:00+00:00",
-      "summary": "arXiv:2609.31763v1 Announce Type: new Abstract: Long-context clinical AI systems can miss relevant patient history when prior admissions fall outside the active reasoning context. In ICU monitoring, this can cause early "
-    },
-    {
-      "title": "Witeness Overlap: Directional Provenance Inside Open-Weight Model Families",
-      "link": "https://arxiv.org/abs/2609.31784",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-29T04:00:00+00:00",
-      "summary": "arXiv:2609.31784v1 Announce Type: new Abstract: Open-weight models are often released, fine-tuned, aligned, merged, and re-released, making provenance audits ask not only whether checkpoints are related, but also which c"
-    },
-    {
-      "title": "CP-Agent: A Harness-Engineered Agent for Crystal Plasticity Simulation Workflows",
-      "link": "https://arxiv.org/abs/2609.31790",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-29T04:00:00+00:00",
-      "summary": "arXiv:2609.31790v1 Announce Type: new Abstract: Crystal plasticity (CP) simulations predict the mechanical behavior of polycrystalline metals, yet their routine use is hindered by the manual effort of configuring heterog"
-    },
-    {
-      "title": "ConflictVLA-Bench: Benchmarking Behavioral Responses of Vision-Language-Action Models to Premise Conflicts",
-      "link": "https://arxiv.org/abs/2609.31792",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-29T04:00:00+00:00",
-      "summary": "arXiv:2609.31792v1 Announce Type: new Abstract: While Vision-Language-Action (VLA) models perform strongly on manipulation tasks, their responses to invalid task premises remain underexplored. Existing evaluations of pre"
-    },
-    {
-      "title": "Working with AI: A Design Framework for Human-AI Collaboration",
-      "link": "https://arxiv.org/abs/2609.31793",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-29T04:00:00+00:00",
-      "summary": "arXiv:2609.31793v1 Announce Type: new Abstract: Artificial Intelligence (AI), particularly GenAI, is becoming an increasingly important part of modern work. In industrial settings, AI can support decision-making, automat"
-    },
-    {
-      "title": "DriveHierarchy: A Benchmark for Diagnosing VLM Driving Capabilities from Open-Loop Understanding to Closed-Loop Execution",
-      "link": "https://arxiv.org/abs/2609.31814",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-29T04:00:00+00:00",
-      "summary": "arXiv:2609.31814v1 Announce Type: new Abstract: Evaluating VLM-based autonomous driving remains difficult because driving competence is composite, where a capable system must ground traffic participants and hazards, inte"
-    },
-    {
-      "title": "LLM Judge Validation Under Sparse Overlap: From Inference to Design",
-      "link": "https://arxiv.org/abs/2609.31857",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-29T04:00:00+00:00",
-      "summary": "arXiv:2609.31857v1 Announce Type: new Abstract: Validating an LLM-as-a-judge requires estimating its agreement with humans, yet annotation budgets rarely allow every item to be multiply labeled. We prove that this \\emph{"
     }
   ]
 }
