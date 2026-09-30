@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T17:05:31.198276+00:00",
+  "generated_at": "2026-09-30T21:35:07.905943+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,62 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-30T21:25:47+00:00",
+      "summary": "In yet another ClickFix-style campaign, threat actors abuse legitimate domains from OpenAI and Google to fool unsuspecting users."
+    },
+    {
+      "title": "Automakers routinely share personally identifiable connected-car data with third parties, report says",
+      "link": "https://therecord.media/automakers-routinely-share-connected-car-data-third-parties",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-30T20:32:00+00:00",
+      "summary": "A new study reveals fresh details about how drivers are exposed to a web of large corporations participating in the advertising ecosystem."
+    },
+    {
+      "title": "After reports on suicide deaths, Pentagon puts Cyber Command on notice",
+      "link": "https://therecord.media/cyber-command-suicide-deaths-pentagon-memo",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-30T19:35:00+00:00",
+      "summary": "An August 31 memo obtained by Recorded Future News shows that the Pentagon's assistant secretary for cyber policy made specific demands of U.S. Cyber Command leadership after reports of a cluster of suicide deaths."
+    },
+    {
+      "title": "Google: Vulnerability disclosures double to 10,000 per month as AI fuels exploitation",
+      "link": "https://therecord.media/google-vulnerabilities-cyberattacks-ai",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-09-30T19:00:00+00:00",
+      "summary": "Vulnerability disclosures continue to skyrocket, doubling over the course of the year to more than 10,000 each month, Google researchers warned."
+    },
+    {
+      "title": "As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half",
+      "link": "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-30T18:56:56+00:00",
+      "summary": "New Swimlane research underscores a paradox: While AI detection and response is essential to giving defenders an edge, one in four security pros say AI limits their skill development."
+    },
+    {
+      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-30T16:46:29+00:00",
+      "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team. The attack expl"
+    },
+    {
+      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+      "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-09-30T16:32:59+00:00",
+      "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and o"
+    },
     {
       "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
       "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
@@ -93,6 +149,14 @@
       "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures ab"
     },
     {
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-30T10:30:00+00:00",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
+    },
+    {
       "title": "Helping small businesses put AI to work",
       "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
       "source": "OpenAI News",
@@ -109,28 +173,12 @@
       "summary": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe. The activity, observed by Ma"
     },
     {
-      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
-      "link": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-30T08:09:28+00:00",
-      "summary": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it released fixes. DTLS, the TLS variant used for UDP traffic, resends a hand"
-    },
-    {
       "title": "South Africa Seeks Help After Cyberattack Targets Air Traffic Control",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-09-30T07:00:00+00:00",
       "summary": "As aviation infrastructure suffers more cyberattacks, air traffic systems are the latest target, with a ransomware toolkit installed on at least one operational network."
-    },
-    {
-      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
-      "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-30T05:30:30+00:00",
-      "summary": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild. The vulnerability, tracked "
     },
     {
       "title": "Says Block, Still Acts: Why LLM Safety Judgments Fail to Govern Action in LLM Agents",
@@ -283,54 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-09-29T21:08:42+00:00",
       "summary": "A patched Unsloth Studio vulnerability allows malicious AI models to execute arbitrary Python code during inspection, via the trust_remote_code setting."
-    },
-    {
-      "title": "US Air Force members given over 6 years in prison for cyber theft of more than $2 million",
-      "link": "https://therecord.media/us-air-force-members-given-6-year-sentence-cyber",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-29T21:01:00+00:00",
-      "summary": "According to court documents, both men pleaded guilty to wire fraud, identity theft and access device fraud charges in June."
-    },
-    {
-      "title": "Controversial spyware firm Paragon to go public by end of year",
-      "link": "https://therecord.media/controversial-spyware-firm-paragon-to-go-public",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-29T20:35:00+00:00",
-      "summary": "The company plans to close the deal around the end of the year at which point Paragon will begin trading on Nasdaq under the REDLattice umbrella."
-    },
-    {
-      "title": "OpenAI apologizes for agents breaching Australian government websites without authorization",
-      "link": "https://therecord.media/openai-apologizes-australia-medicare-breach",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-29T19:48:00+00:00",
-      "summary": "The artificial intelligence giant acknowledged it botched its response to the incidents and should have done more to promptly notify and work with the Australian government in the days after it discovered the breaches."
-    },
-    {
-      "title": "Cloudflare Announces Public Certificate Authority for the Post-Quantum Web",
-      "link": "https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-29T17:02:16+00:00",
-      "summary": "Automated certificates for everyone, built for today, and hardened for the era of quantum computing."
-    },
-    {
-      "title": "'NeedyMantis' Provides Long-Term Access to Compromised Networks",
-      "link": "https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-29T15:12:39+00:00",
-      "summary": "Microsoft observed a China-based actor using a previously unidentified malware framework in targeted intrusions against telcos, universities, medical, and government-related organizations."
-    },
-    {
-      "title": "Dual NetScaler Zero-Days Trigger Chaos for Citrix Customers",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-29T14:19:43+00:00",
-      "summary": "The critical vulnerabilities, which impact default configurations of NetScaler products, essentially give attackers a skeleton key to customers' networks."
     }
   ]
 }
