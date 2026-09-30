@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T21:34:46.990021+00:00",
+  "generated_at": "2026-09-30T02:39:41.471778+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,22 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)",
+      "link": "https://isc.sans.edu/diary/rss/33384",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-30T02:00:03+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-09-29T21:31:29+00:00",
+      "summary": "Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple."
+    },
     {
       "title": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution",
       "link": "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution",
@@ -315,22 +331,6 @@
       "category": "research",
       "published": "2026-09-29T04:00:00+00:00",
       "summary": "arXiv:2609.31857v1 Announce Type: new Abstract: Validating an LLM-as-a-judge requires estimating its agreement with humans, yet annotation budgets rarely allow every item to be multiply labeled. We prove that this \\emph{"
-    },
-    {
-      "title": "Metro-WM: Long-Horizon Latent Planning with Realisable Sub-Goals",
-      "link": "https://arxiv.org/abs/2609.31868",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-09-29T04:00:00+00:00",
-      "summary": "arXiv:2609.31868v1 Announce Type: new Abstract: Model-predictive control with Joint-Embedding Predictive Architectures (JEPAs) provides a strong zero-shot goal-reaching planner, but it is only effective over short planni"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, September 29th, 2026 https://isc.sans.edu/podcastdetail/10114, (Tue, Sep 29th)",
-      "link": "https://isc.sans.edu/diary/rss/33378",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-09-29T02:00:02+00:00",
-      "summary": ""
     }
   ]
 }
