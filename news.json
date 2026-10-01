@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T11:55:54.297395+00:00",
+  "generated_at": "2026-10-01T17:41:00.839154+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,86 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "The eternal complement",
+      "link": "https://openai.com/index/the-eternal-complement",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-01T17:00:00+00:00",
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
+    },
+    {
+      "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
+      "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-01T16:55:57+00:00",
+      "summary": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless"
+    },
+    {
+      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
+      "link": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-01T16:45:38+00:00",
+      "summary": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A "
+    },
+    {
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "link": "https://openai.com/index/albertsons-reimagining-retail",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-01T16:00:00+00:00",
+      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
+    },
+    {
+      "title": "Police disrupt KillSec ransomware, arrest suspected teenage leader",
+      "link": "https://therecord.media/killsec-ransomware-raas-arrests-europe",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-01T15:55:00+00:00",
+      "summary": "European police said raids against the KillSec ransomware-as-a-service operation included the arrest of a high-profile teen suspect."
+    },
+    {
+      "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
+      "link": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-01T14:37:35+00:00",
+      "summary": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site again."
+    },
+    {
+      "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-01T13:00:00+00:00",
+      "summary": "A year-old Chinese threat actor looks like a cybercrime gang, acts like a state-associated APT, and attacks organizations in unexpected places."
+    },
+    {
+      "title": "Cyberattack on major Polish invoicing platform exposes customer data",
+      "link": "https://therecord.media/poland-cyberattack-invoice-software",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-01T12:30:00+00:00",
+      "summary": "One of Poland\u2019s major online invoicing platforms suffered a data breach that may have exposed information belonging to its users, their customers and business partners."
+    },
+    {
+      "title": "The Download: AI \u201cmind-reading\u201d and creative uses for small batteries",
+      "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-01T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. An AI \u201cmind-reading\u201d tool can reconstruct what you\u2019re looking at based on a brain "
+    },
+    {
+      "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
+      "link": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-01T11:45:00+00:00",
+      "summary": "Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade the platform w"
+    },
     {
       "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
       "link": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
@@ -29,12 +109,12 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), following re"
     },
     {
-      "title": "An AI \u201cmind-reading\u201d tool can reconstruct what you\u2019re looking at based on a brain scan",
+      "title": "An AI \u201cmind-reading\u201d tool can reconstruct what you\u2019re looking at from a brain scan",
       "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
       "source": "MIT Technology Review",
       "category": "ai",
       "published": "2026-10-01T10:32:24+00:00",
-      "summary": "A new AI tool can guess what you\u2019re looking at just by analyzing your brain scans\u2014and recreate that image with remarkable precision. It can go the other way too, and predict a person\u2019s brain activity based on what they\u2019r"
+      "summary": "A new AI tool can guess what you\u2019re looking at just by analyzing your brain scans\u2014and re-create that image with remarkable precision. It can go the other way, too, and predict a person\u2019s brain activity based on what they"
     },
     {
       "title": "How smaller, distributed batteries could help the grid",
@@ -67,30 +147,6 @@
       "category": "cybersecurity",
       "published": "2026-10-01T05:32:13+00:00",
       "summary": "Threat Actors do not always use top-notch techniques or very complex malware to perform their attacks. Sometimes, they just abuse of existing applications..."
-    },
-    {
-      "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
-      "link": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-01T05:21:10+00:00",
-      "summary": "Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation findings from SlowMist. \"Th"
-    },
-    {
-      "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
-      "link": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-01T05:10:09+00:00",
-      "summary": "MetaMask on Thursday said it's responding to what it described as an \"ongoing security incident\" impacting part of its infrastructure. \"We are actively addressing and remediating the issue internally, in coordination wit"
-    },
-    {
-      "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
-      "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-01T04:35:34+00:00",
-      "summary": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data. LevelBlu"
     },
     {
       "title": "CATP: Design and Evaluation of Local Agent Authorization and Audit Evidence",
@@ -269,68 +325,12 @@
       "summary": "An August 31 memo obtained by Recorded Future News shows that the Pentagon's assistant secretary for cyber policy made specific demands of U.S. Cyber Command leadership after reports of a cluster of suicide deaths."
     },
     {
-      "title": "Google: Vulnerability disclosures double to 10,000 per month as AI fuels exploitation",
-      "link": "https://therecord.media/google-vulnerabilities-cyberattacks-ai",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-30T19:00:00+00:00",
-      "summary": "Vulnerability disclosures continue to skyrocket, doubling over the course of the year to more than 10,000 each month, Google researchers warned."
-    },
-    {
       "title": "As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half",
       "link": "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-09-30T18:56:56+00:00",
       "summary": "New Swimlane research underscores a paradox: While AI detection and response is essential to giving defenders an edge, one in four security pros say AI limits their skill development."
-    },
-    {
-      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-09-30T16:46:29+00:00",
-      "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team. The attack expl"
-    },
-    {
-      "title": "Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net",
-      "link": "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-30T15:02:25+00:00",
-      "summary": "The APT actor is using a new tactic, dubbed \"RedFlick,\" against Ukrainian-linked targets such as NGOs, think tanks, and journalists to deploy its CosmicPulse backdoor."
-    },
-    {
-      "title": "Mobile malware warning from Ukrainian researchers includes iPhone exploit kit",
-      "link": "https://therecord.media/ukraine-ssscip-mobile-malware-warning-ios-android",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-30T14:00:00+00:00",
-      "summary": "'Hit and run' iPhone malware known as DarkSword is part of a wave of Russian attacks on iOS and Android devices, according to Ukraine's SSSCIP."
-    },
-    {
-      "title": "The Download: OpenAI\u2019s chief research officer explains its hacking response",
-      "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-30T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. \u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s "
-    },
-    {
-      "title": "\u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s chief research officer",
-      "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-30T10:40:30+00:00",
-      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures ab"
-    },
-    {
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-30T10:30:00+00:00",
-      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
     }
   ]
 }
