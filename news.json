@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T17:41:00.839154+00:00",
+  "generated_at": "2026-10-01T22:03:56.470123+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,38 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-01T21:37:50+00:00",
+      "summary": "Law enforcement from multiple countries collaborated to disrupt a cybercrime operation that has claimed some 500 victims worldwide in the past two years."
+    },
+    {
+      "title": "Iranian accused of hacking American universities extradited from Montenegro",
+      "link": "https://therecord.media/iran-montenegro-hacker-extradition",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-01T20:15:00+00:00",
+      "summary": "An Iranian national accused by the U.S. of taking part in dozens of breaches involving the theft of academic data and intellectual property has been extradited from Montenegro."
+    },
+    {
+      "title": "OpenAI software attempted to secretly scrape data from dozens of prominent websites",
+      "link": "https://therecord.media/openai-software-attempted-to-secretly-scrape-data-from-dozens-of-websites",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-01T19:25:00+00:00",
+      "summary": "The findings, released Thursday by Asymmetric Security, are just the latest example of rogue behavior spurred by OpenAI\u2019s software."
+    },
+    {
+      "title": "Researchers find Chinese hacking campaigns targeting AI firms, Asian governments",
+      "link": "https://therecord.media/china-linked-phishing-scheme-backdoor-taiwan",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-01T18:16:00+00:00",
+      "summary": "Two separate reports by cybersecurity companies highlight China-linked hacking operations, including a phishing campaign that impersonated Western experts."
+    },
     {
       "title": "The eternal complement",
       "link": "https://openai.com/index/the-eternal-complement",
@@ -285,12 +317,12 @@
       "summary": ""
     },
     {
-      "title": "US sanctions 10 over ATM malware scheme tied to Tren de Aragua",
-      "link": "https://therecord.media/us-sanctions-10-atm-jackpotting-tren-de-aragua",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-30T22:35:00+00:00",
-      "summary": "Treasury\u2019s Office of Foreign Assets Control (OFAC) targeted multiple Venezuelan nationals and several companies they control that are part of the effort to launder the money stolen from dozens of ATMs."
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "link": "https://openai.com/index/the-den-family-social",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-01T00:00:00+00:00",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
     },
     {
       "title": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure",
@@ -299,38 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-09-30T21:25:47+00:00",
       "summary": "In yet another ClickFix-style campaign, threat actors abuse legitimate domains from OpenAI and Google to fool unsuspecting users."
-    },
-    {
-      "title": "Trump, Tech Giants Strike Voluntary AI Safety Accord",
-      "link": "https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-30T20:51:15+00:00",
-      "summary": "The new White House Accord on so-called \"Super Intelligence\" calls on companies to implement greater controls and oversight over AI safety."
-    },
-    {
-      "title": "Automakers routinely share personally identifiable connected-car data with third parties, report says",
-      "link": "https://therecord.media/automakers-routinely-share-connected-car-data-third-parties",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-30T20:32:00+00:00",
-      "summary": "A new study reveals fresh details about how drivers are exposed to a web of large corporations participating in the advertising ecosystem."
-    },
-    {
-      "title": "After reports on suicide deaths, Pentagon puts Cyber Command on notice",
-      "link": "https://therecord.media/cyber-command-suicide-deaths-pentagon-memo",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-09-30T19:35:00+00:00",
-      "summary": "An August 31 memo obtained by Recorded Future News shows that the Pentagon's assistant secretary for cyber policy made specific demands of U.S. Cyber Command leadership after reports of a cluster of suicide deaths."
-    },
-    {
-      "title": "As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half",
-      "link": "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-30T18:56:56+00:00",
-      "summary": "New Swimlane research underscores a paradox: While AI detection and response is essential to giving defenders an edge, one in four security pros say AI limits their skill development."
     }
   ]
 }
