@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T11:27:32.283229+00:00",
+  "generated_at": "2026-10-02T16:54:52.593313+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,102 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "SWIFT Banking & Government Middleware Enables RCE",
+      "link": "https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-02T16:27:54+00:00",
+      "summary": "Patch middleware vulnerabilities now to avoid hardware-based MFA exploits in ultra-sensitive environments."
+    },
+    {
+      "title": "A model guide for the GPT-6 family",
+      "link": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-02T16:15:00+00:00",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
+    },
+    {
+      "title": "Is Your Organization Ready for 2027's AI Accountability Era?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-02T16:01:22+00:00",
+      "summary": "Organizations may face an artificial intelligence (AI) reckoning over the next year. Omdia and Gartner weigh in on how to tackle the governance, security, and value challenges ahead."
+    },
+    {
+      "title": "Is It Fair to Blame 'Rogue' AI for Security Failures?",
+      "link": "https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-02T15:51:33+00:00",
+      "summary": "\"Rogue AI\" terminology anthropomorphizes LLMs and shifts risk responsibility from vendors. Defenders should treat agents as untrusted, nondeterministic software systems, not sentient beings with malicious intent."
+    },
+    {
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-02T15:49:04+00:00",
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI in"
+    },
+    {
+      "title": "Mississippi mayor says ransomware incident led city to shut down systems",
+      "link": "https://therecord.media/vicksburg-mississippi-government-ransomware-attack",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-02T14:06:00+00:00",
+      "summary": "Government services were temporarily disrupted by ransomware in Vicksburg, Mississippi. Mayor Willis Thompson said the FBI and other authorities are investigating."
+    },
+    {
+      "title": "'Warlock' ransomware used in attacks on critical infrastructure in Portuguese, Spanish-speaking countries",
+      "link": "https://therecord.media/warlock-ransomware-used-in-critical-infrastructure-attacks",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-02T14:05:00+00:00",
+      "summary": "The group is exploiting a variety of vulnerabilities impacting Microsoft SharePoint, according to a new report from Symantec Threat Hunter Team."
+    },
+    {
+      "title": "Vulnerability Backlogs Are an Ownership Problem",
+      "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-02T14:00:00+00:00",
+      "summary": "Organizations don't need better vulnerability scanners; they need to know who owns their assets and has the authority and capacity to actually fix them."
+    },
+    {
+      "title": "Malicious Linux Implants Mimic Asian Mail Security Products",
+      "link": "https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-02T13:00:00+00:00",
+      "summary": "A trio of newly discovered backdoors walk and quack like legitimate edge solutions, so it's hard to tell they're not."
+    },
+    {
+      "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
+      "link": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-02T12:23:15+00:00",
+      "summary": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported. \"We have parted ways with three individuals for viola"
+    },
+    {
+      "title": "The Download: a biological de-aging contest and why LLMs don\u2019t reason",
+      "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-02T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth \u2014J"
+    },
+    {
+      "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
+      "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-02T11:30:00+00:00",
+      "summary": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone is building a spread"
+    },
     {
       "title": "A new contest pits competitors against each other in a race to biological youth",
       "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
@@ -235,102 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-10-01T16:45:38+00:00",
       "summary": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A "
-    },
-    {
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "link": "https://openai.com/index/albertsons-reimagining-retail",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-01T16:00:00+00:00",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
-    },
-    {
-      "title": "Police disrupt KillSec ransomware, arrest suspected teenage leader",
-      "link": "https://therecord.media/killsec-ransomware-raas-arrests-europe",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-01T15:55:00+00:00",
-      "summary": "European police said raids against the KillSec ransomware-as-a-service operation included the arrest of a high-profile teen suspect."
-    },
-    {
-      "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
-      "link": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-01T14:37:35+00:00",
-      "summary": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site again."
-    },
-    {
-      "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-01T13:00:00+00:00",
-      "summary": "A year-old Chinese threat actor looks like a cybercrime gang, acts like a state-associated APT, and attacks organizations in unexpected places."
-    },
-    {
-      "title": "Cyberattack on major Polish invoicing platform exposes customer data",
-      "link": "https://therecord.media/poland-cyberattack-invoice-software",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-01T12:30:00+00:00",
-      "summary": "One of Poland\u2019s major online invoicing platforms suffered a data breach that may have exposed information belonging to its users, their customers and business partners."
-    },
-    {
-      "title": "The Download: AI \u201cmind-reading\u201d and creative uses for small batteries",
-      "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-01T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. An AI \u201cmind-reading\u201d tool can reconstruct what you\u2019re looking at based on a brain "
-    },
-    {
-      "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
-      "link": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-01T11:45:00+00:00",
-      "summary": "Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade the platform w"
-    },
-    {
-      "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
-      "link": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-01T10:42:36+00:00",
-      "summary": "OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models. A \"core cluster of the act"
-    },
-    {
-      "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
-      "link": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-01T10:33:16+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), following re"
-    },
-    {
-      "title": "An AI \u201cmind-reading\u201d tool can reconstruct what you\u2019re looking at from a brain scan",
-      "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-01T10:32:24+00:00",
-      "summary": "A new AI tool can guess what you\u2019re looking at just by analyzing your brain scans\u2014and re-create that image with remarkable precision. It can go the other way, too, and predict a person\u2019s brain activity based on what they"
-    },
-    {
-      "title": "How smaller, distributed batteries could help the grid",
-      "link": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-01T10:00:00+00:00",
-      "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That\u2019s made it difficult to get large energy storage projects on the grid. Faced with those obstac"
-    },
-    {
-      "title": "ScreenConnect Client (Ab)used by Attackers, (Thu, Oct 1st)",
-      "link": "https://isc.sans.edu/diary/rss/33388",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-01T05:32:13+00:00",
-      "summary": "Threat Actors do not always use top-notch techniques or very complex malware to perform their attacks. Sometimes, they just abuse of existing applications..."
     }
   ]
 }
