@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T02:47:48.725356+00:00",
+  "generated_at": "2026-10-02T11:27:32.283229+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,166 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "A new contest pits competitors against each other in a race to biological youth",
+      "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-02T09:00:00+00:00",
+      "summary": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don\u2019t need reminding that both time and my chronological age only tick forward. "
+    },
+    {
+      "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
+      "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-02T08:01:30+00:00",
+      "summary": "Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled. With malicious Android ap"
+    },
+    {
+      "title": "Don\u2019t be fooled\u2014LLMs don\u2019t reason",
+      "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-02T08:00:00+00:00",
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked s"
+    },
+    {
+      "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
+      "link": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-02T05:49:50+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active"
+    },
+    {
+      "title": "Safety in Self-Evolving Agents: A Survey",
+      "link": "https://arxiv.org/abs/2610.00093",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-02T04:00:00+00:00",
+      "summary": "arXiv:2610.00093v1 Announce Type: new Abstract: Large language models (LLMs) exhibit strong general capabilities, yet their parameters typically remain fixed after deployment, limiting learning from new interactions. In "
+    },
+    {
+      "title": "Characterizing and Codifying Malware Sophistication",
+      "link": "https://arxiv.org/abs/2610.00098",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-02T04:00:00+00:00",
+      "summary": "arXiv:2610.00098v1 Announce Type: new Abstract: 'Sophisticated' is widely used to describe malware, yet it lacks a consistent definition within academic literature. While existing software quality and complexity metrics "
+    },
+    {
+      "title": "A Comprehensive Review of One-Pixel Attack: Research Status, Taxonomy, Applications, Regulation Policy and Future Directions",
+      "link": "https://arxiv.org/abs/2610.00125",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-02T04:00:00+00:00",
+      "summary": "arXiv:2610.00125v1 Announce Type: new Abstract: One-Pixel Attacks (OPAs) represent one of the most extreme demonstrations of adversarial fragility in deep learning, where modifying a single pixel can reliably induce high"
+    },
+    {
+      "title": "A Verifier Can Leak the Answer: Diagnosability Before Optimization in Closed-Loop Agent Debugging",
+      "link": "https://arxiv.org/abs/2610.00126",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-02T04:00:00+00:00",
+      "summary": "arXiv:2610.00126v1 Announce Type: new Abstract: Agent developers increasingly compare prompts, tools, policies, and diagnosis algorithms through simulator-grounded verifiers. A verifier can nevertheless make a solver com"
+    },
+    {
+      "title": "The Cognitive Continuity Test: Verifying Governed State Transitions in Persistent AI Agents",
+      "link": "https://arxiv.org/abs/2610.00132",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-02T04:00:00+00:00",
+      "summary": "arXiv:2610.00132v1 Announce Type: new Abstract: Persistent AI agents revise beliefs, consolidate memory, and replace execution substrates. Similar successor states can accompany differently authorized transition claims, "
+    },
+    {
+      "title": "Evasion Attacks: How Adversarial Noise Bypasses ML Classifiers",
+      "link": "https://arxiv.org/abs/2610.00136",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-02T04:00:00+00:00",
+      "summary": "arXiv:2610.00136v1 Announce Type: new Abstract: This paper presents a reproducible, educational study of evasion attacks in image classification and text classification. A compact convolutional network trained on MNIST r"
+    },
+    {
+      "title": "Intrusion Detection for Agentic Processes: Evidence-Based Runtime Monitoring",
+      "link": "https://arxiv.org/abs/2610.00151",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-02T04:00:00+00:00",
+      "summary": "arXiv:2610.00151v1 Announce Type: new Abstract: Agent deployments increasingly combine language-model inference with retrieval, delegation, tool execution, external-system access, and human approval. Security-relevant de"
+    },
+    {
+      "title": "Tokenized Key-Gated Adapter Routing: A Secure Access Control Mechanism Against Private Data Leakage in LLMs",
+      "link": "https://arxiv.org/abs/2610.00309",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-02T04:00:00+00:00",
+      "summary": "arXiv:2610.00309v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed in privacy-critical domains (e.g., healthcare, finance, and government), but their propensity to memorize and disclos"
+    },
+    {
+      "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+      "link": "https://arxiv.org/abs/2610.00010",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-02T04:00:00+00:00",
+      "summary": "arXiv:2610.00010v1 Announce Type: new Abstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task success or token cost."
+    },
+    {
+      "title": "When Do Causal World Models Help Modular LLM Agents",
+      "link": "https://arxiv.org/abs/2610.00012",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-02T04:00:00+00:00",
+      "summary": "arXiv:2610.00012v1 Announce Type: new Abstract: LLM agents increasingly act through modular systems, such as order, payment, inventory, and shipment services, where actions in one module change which transitions are vali"
+    },
+    {
+      "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+      "link": "https://arxiv.org/abs/2610.00015",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-02T04:00:00+00:00",
+      "summary": "arXiv:2610.00015v1 Announce Type: new Abstract: Large-language-model agents can propose and execute actions, but proposal, authority, dispatch, verified external effect, and serving promotion are different claims. We pre"
+    },
+    {
+      "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
+      "link": "https://arxiv.org/abs/2610.00018",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-02T04:00:00+00:00",
+      "summary": "arXiv:2610.00018v1 Announce Type: new Abstract: Role-specialized QA pipelines increasingly pass rationales from a reasoner to a verifier, but it is unclear what this message actually buys: better answers, stronger suppor"
+    },
+    {
+      "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+      "link": "https://arxiv.org/abs/2610.00025",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-02T04:00:00+00:00",
+      "summary": "arXiv:2610.00025v1 Announce Type: new Abstract: Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large language model (LLM) planner: auto-approving shell commands,"
+    },
+    {
+      "title": "Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs",
+      "link": "https://arxiv.org/abs/2610.00047",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-02T04:00:00+00:00",
+      "summary": "arXiv:2610.00047v1 Announce Type: new Abstract: Diversity collapse in parallel chain-of-thought has motivated inference-time interventions built on a natural design: when a process reward model (PRM) prunes a chain, its "
+    },
+    {
+      "title": "Gradient-Aligned Pair Selection for Personalized Preference Optimization",
+      "link": "https://arxiv.org/abs/2610.00061",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-02T04:00:00+00:00",
+      "summary": "arXiv:2610.00061v1 Announce Type: new Abstract: Personalizing large language models (LLMs) requires aligning generation behavior with user-specific preferences rather than aggregate quality. While Direct Preference Optim"
+    },
+    {
+      "title": "K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook",
+      "link": "https://arxiv.org/abs/2610.00074",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-02T04:00:00+00:00",
+      "summary": "arXiv:2610.00074v1 Announce Type: new Abstract: K-Dense BYOK (bring your own keys) is a free, open-source AI research assistant for scientists in any field that runs on the researcher's own computer. The researcher suppl"
+    },
     {
       "title": "ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120, (Fri, Oct 2nd)",
       "link": "https://isc.sans.edu/diary/rss/33390",
@@ -165,172 +325,12 @@
       "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That\u2019s made it difficult to get large energy storage projects on the grid. Faced with those obstac"
     },
     {
-      "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
-      "link": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-01T07:49:36+00:00",
-      "summary": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program. \"It delivers fronti"
-    },
-    {
-      "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
-      "link": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-01T05:54:41+00:00",
-      "summary": "Security researchers have published the first public proof-of-concept for CVE-2026-86950, an Apple CoreGraphics flaw Apple says may have been used in attacks against specific targeted individuals. The trigger is a malici"
-    },
-    {
       "title": "ScreenConnect Client (Ab)used by Attackers, (Thu, Oct 1st)",
       "link": "https://isc.sans.edu/diary/rss/33388",
       "source": "SANS Internet Storm Center",
       "category": "cybersecurity",
       "published": "2026-10-01T05:32:13+00:00",
       "summary": "Threat Actors do not always use top-notch techniques or very complex malware to perform their attacks. Sometimes, they just abuse of existing applications..."
-    },
-    {
-      "title": "CATP: Design and Evaluation of Local Agent Authorization and Audit Evidence",
-      "link": "https://arxiv.org/abs/2609.38223",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-01T04:00:00+00:00",
-      "summary": "arXiv:2609.38223v1 Announce Type: new Abstract: A signed authorization record authenticates what a signer asserted, but does not by itself establish that the assertion agrees with the policy and action used for a runtime"
-    },
-    {
-      "title": "Separation of Duties for Privileged LLM Agents: A Governed Execution Architecture with Measured Security-Utility Trade-offs",
-      "link": "https://arxiv.org/abs/2609.38224",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-01T04:00:00+00:00",
-      "summary": "arXiv:2609.38224v1 Announce Type: new Abstract: Large language model agents are increasingly granted real privileges (executing commands, modifying files, calling APIs), so an agent that errs has already acted. Existing "
-    },
-    {
-      "title": "Inference-Layer Security: Defending Against Adversarial Inference and Infrastructure Abuse",
-      "link": "https://arxiv.org/abs/2609.38239",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-01T04:00:00+00:00",
-      "summary": "arXiv:2609.38239v1 Announce Type: new Abstract: A Technical Report: Operating a large language model (LLM) as a service requires more than inference infrastructure: the provider must also defend against adversarial inter"
-    },
-    {
-      "title": "Agent-Warden: eBPF-Based Kernel-Native Process-File Provenance Tracking for LLM Agents",
-      "link": "https://arxiv.org/abs/2609.38245",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-01T04:00:00+00:00",
-      "summary": "arXiv:2609.38245v1 Announce Type: new Abstract: LLM agents execute dynamically generated process and file operations that are often invisible to application-layer tracing. We present Agent-Warden, an extended Berkeley Pa"
-    },
-    {
-      "title": "ModalFidelity: Routing Modalities for Deepfake Detection on a Budget",
-      "link": "https://arxiv.org/abs/2609.38246",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-01T04:00:00+00:00",
-      "summary": "arXiv:2609.38246v1 Announce Type: new Abstract: Deepfakes no longer need to fake a whole video. Generators that read the transcript now alter only the few seconds in which a video's meaning turns, so a forgery hides in a"
-    },
-    {
-      "title": "ContractWarden: Kernel-Enforced Damage Boundaries for AI Agents via Human-Authorized Contracts",
-      "link": "https://arxiv.org/abs/2609.38248",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-01T04:00:00+00:00",
-      "summary": "arXiv:2609.38248v1 Announce Type: new Abstract: Large language model agents can execute commands, create subprocesses, and directly access files and networks, allowing prompt injection or planning errors to become operat"
-    },
-    {
-      "title": "SURE: Framework for Safety to Construct Trustworthy AI",
-      "link": "https://arxiv.org/abs/2609.38249",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-01T04:00:00+00:00",
-      "summary": "arXiv:2609.38249v2 Announce Type: new Abstract: Warning: This paper contains harmful and offensive text. Recently, large language models such as GPT-4, and Claude have revolutionized tasks in various domains. As the use "
-    },
-    {
-      "title": "Forensic-Aware Continual Adaptation for Image Forgery Localization",
-      "link": "https://arxiv.org/abs/2609.38251",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-01T04:00:00+00:00",
-      "summary": "arXiv:2609.38251v1 Announce Type: new Abstract: The rapid evolution of image manipulation techniques has raised growing public security concerns. Existing Image Forgery Localization (IFL) methods can accurately localize "
-    },
-    {
-      "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
-      "link": "https://arxiv.org/abs/2609.38282",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-01T04:00:00+00:00",
-      "summary": "arXiv:2609.38282v1 Announce Type: new Abstract: Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising OCR transcription faithfulness. Sequence-level task rewa"
-    },
-    {
-      "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
-      "link": "https://arxiv.org/abs/2609.38288",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-01T04:00:00+00:00",
-      "summary": "arXiv:2609.38288v1 Announce Type: new Abstract: We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability to iteratively refine a solution at test time. This abil"
-    },
-    {
-      "title": "MoFlow: Multi-Objective Agentic Workflow Generation",
-      "link": "https://arxiv.org/abs/2609.38294",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-01T04:00:00+00:00",
-      "summary": "arXiv:2609.38294v1 Announce Type: new Abstract: We study the generation of agentic workflows that jointly optimize multiple objectives, such as accuracy, cost, latency, robustness, and consistency. Existing methods for w"
-    },
-    {
-      "title": "AI Agents are Vulnerable to Radicalization",
-      "link": "https://arxiv.org/abs/2609.38296",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-01T04:00:00+00:00",
-      "summary": "arXiv:2609.38296v1 Announce Type: new Abstract: Large language models (LLMs) can influence people's beliefs, yet little is known about whether and how they can manipulate each other. To investigate this, we simulate conv"
-    },
-    {
-      "title": "CARAT: Do Materials LLMs Reason or Recite?",
-      "link": "https://arxiv.org/abs/2609.38340",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-01T04:00:00+00:00",
-      "summary": "arXiv:2609.38340v1 Announce Type: new Abstract: When a materials LLM answers a question about crystal structure, does it reason from the structure or copy an answer already printed in its input? Accuracy cannot tell: a s"
-    },
-    {
-      "title": "Examining Variation in How Guided AI Tutors Resolve Student Impasses",
-      "link": "https://arxiv.org/abs/2609.38346",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-01T04:00:00+00:00",
-      "summary": "arXiv:2609.38346v1 Announce Type: new Abstract: When a student is stuck, a tutor faces the assistance dilemma: help given too early can hinder productive struggle, while help withheld too long leaves the student in a fru"
-    },
-    {
-      "title": "Beyond Mode Collapse: Generating Diverse Synthetic Expert Conversations via Generative Flow Networks",
-      "link": "https://arxiv.org/abs/2609.38359",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-01T04:00:00+00:00",
-      "summary": "arXiv:2609.38359v1 Announce Type: new Abstract: High quality synthetic data is central to post training LLMs for adaptive AI applications that represent the diverse expert strategies and decisions in conversations. Promp"
-    },
-    {
-      "title": "Can an AI Agent Rediscover a Blaschke-Curve Invariant?",
-      "link": "https://arxiv.org/abs/2609.38369",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-01T04:00:00+00:00",
-      "summary": "arXiv:2609.38369v1 Announce Type: new Abstract: We study generalized Blaschke curves as a controlled environment for AI-assisted mathematical rediscovery. For one fixed degree-four Blaschke product, an agent receives num"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, October 1st, 2026 https://isc.sans.edu/podcastdetail/10118, (Thu, Oct 1st)",
-      "link": "https://isc.sans.edu/diary/rss/33386",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-01T02:00:02+00:00",
-      "summary": ""
-    },
-    {
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "link": "https://openai.com/index/the-den-family-social",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-01T00:00:00+00:00",
-      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
     }
   ]
 }
