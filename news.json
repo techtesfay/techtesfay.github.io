@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:03:56.470123+00:00",
+  "generated_at": "2026-10-02T02:47:48.725356+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120, (Fri, Oct 2nd)",
+      "link": "https://isc.sans.edu/diary/rss/33390",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-02T02:00:02+00:00",
+      "summary": ""
+    },
     {
       "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
@@ -234,7 +242,7 @@
       "source": "arXiv cs.CR",
       "category": "research",
       "published": "2026-10-01T04:00:00+00:00",
-      "summary": "arXiv:2609.38249v1 Announce Type: new Abstract: Warning: This paper contains harmful and offensive text. Recently, large language models such as GPT-4, and Claude have revolutionized tasks in various domains. As the use "
+      "summary": "arXiv:2609.38249v2 Announce Type: new Abstract: Warning: This paper contains harmful and offensive text. Recently, large language models such as GPT-4, and Claude have revolutionized tasks in various domains. As the use "
     },
     {
       "title": "Forensic-Aware Continual Adaptation for Image Forgery Localization",
@@ -323,14 +331,6 @@
       "category": "ai",
       "published": "2026-10-01T00:00:00+00:00",
       "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
-    },
-    {
-      "title": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-09-30T21:25:47+00:00",
-      "summary": "In yet another ClickFix-style campaign, threat actors abuse legitimate domains from OpenAI and Google to fool unsuspecting users."
     }
   ]
 }
