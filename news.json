@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T02:34:16.315671+00:00",
+  "generated_at": "2026-10-03T10:43:37.821903+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -197,139 +197,139 @@
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active"
     },
     {
-      "title": "Safety in Self-Evolving Agents: A Survey",
-      "link": "https://arxiv.org/abs/2610.00093",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-02T04:00:00+00:00",
-      "summary": "arXiv:2610.00093v1 Announce Type: new Abstract: Large language models (LLMs) exhibit strong general capabilities, yet their parameters typically remain fixed after deployment, limiting learning from new interactions. In "
-    },
-    {
-      "title": "Characterizing and Codifying Malware Sophistication",
-      "link": "https://arxiv.org/abs/2610.00098",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-02T04:00:00+00:00",
-      "summary": "arXiv:2610.00098v1 Announce Type: new Abstract: 'Sophisticated' is widely used to describe malware, yet it lacks a consistent definition within academic literature. While existing software quality and complexity metrics "
-    },
-    {
-      "title": "A Comprehensive Review of One-Pixel Attack: Research Status, Taxonomy, Applications, Regulation Policy and Future Directions",
-      "link": "https://arxiv.org/abs/2610.00125",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-02T04:00:00+00:00",
-      "summary": "arXiv:2610.00125v1 Announce Type: new Abstract: One-Pixel Attacks (OPAs) represent one of the most extreme demonstrations of adversarial fragility in deep learning, where modifying a single pixel can reliably induce high"
-    },
-    {
-      "title": "A Verifier Can Leak the Answer: Diagnosability Before Optimization in Closed-Loop Agent Debugging",
-      "link": "https://arxiv.org/abs/2610.00126",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-02T04:00:00+00:00",
-      "summary": "arXiv:2610.00126v1 Announce Type: new Abstract: Agent developers increasingly compare prompts, tools, policies, and diagnosis algorithms through simulator-grounded verifiers. A verifier can nevertheless make a solver com"
-    },
-    {
-      "title": "The Cognitive Continuity Test: Verifying Governed State Transitions in Persistent AI Agents",
-      "link": "https://arxiv.org/abs/2610.00132",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-02T04:00:00+00:00",
-      "summary": "arXiv:2610.00132v1 Announce Type: new Abstract: Persistent AI agents revise beliefs, consolidate memory, and replace execution substrates. Similar successor states can accompany differently authorized transition claims, "
-    },
-    {
-      "title": "Evasion Attacks: How Adversarial Noise Bypasses ML Classifiers",
-      "link": "https://arxiv.org/abs/2610.00136",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-02T04:00:00+00:00",
-      "summary": "arXiv:2610.00136v1 Announce Type: new Abstract: This paper presents a reproducible, educational study of evasion attacks in image classification and text classification. A compact convolutional network trained on MNIST r"
-    },
-    {
-      "title": "Intrusion Detection for Agentic Processes: Evidence-Based Runtime Monitoring",
-      "link": "https://arxiv.org/abs/2610.00151",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-02T04:00:00+00:00",
-      "summary": "arXiv:2610.00151v1 Announce Type: new Abstract: Agent deployments increasingly combine language-model inference with retrieval, delegation, tool execution, external-system access, and human approval. Security-relevant de"
-    },
-    {
-      "title": "Tokenized Key-Gated Adapter Routing: A Secure Access Control Mechanism Against Private Data Leakage in LLMs",
-      "link": "https://arxiv.org/abs/2610.00309",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-02T04:00:00+00:00",
-      "summary": "arXiv:2610.00309v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed in privacy-critical domains (e.g., healthcare, finance, and government), but their propensity to memorize and disclos"
-    },
-    {
-      "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
-      "link": "https://arxiv.org/abs/2610.00010",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-02T04:00:00+00:00",
-      "summary": "arXiv:2610.00010v1 Announce Type: new Abstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task success or token cost."
-    },
-    {
-      "title": "When Do Causal World Models Help Modular LLM Agents",
-      "link": "https://arxiv.org/abs/2610.00012",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-02T04:00:00+00:00",
-      "summary": "arXiv:2610.00012v1 Announce Type: new Abstract: LLM agents increasingly act through modular systems, such as order, payment, inventory, and shipment services, where actions in one module change which transitions are vali"
-    },
-    {
-      "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
-      "link": "https://arxiv.org/abs/2610.00015",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-02T04:00:00+00:00",
-      "summary": "arXiv:2610.00015v1 Announce Type: new Abstract: Large-language-model agents can propose and execute actions, but proposal, authority, dispatch, verified external effect, and serving promotion are different claims. We pre"
-    },
-    {
-      "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
-      "link": "https://arxiv.org/abs/2610.00018",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-02T04:00:00+00:00",
-      "summary": "arXiv:2610.00018v1 Announce Type: new Abstract: Role-specialized QA pipelines increasingly pass rationales from a reasoner to a verifier, but it is unclear what this message actually buys: better answers, stronger suppor"
-    },
-    {
-      "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
-      "link": "https://arxiv.org/abs/2610.00025",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-02T04:00:00+00:00",
-      "summary": "arXiv:2610.00025v1 Announce Type: new Abstract: Agent harnesses increasingly want to run small language models (SLMs) on the microtasks around a frontier large language model (LLM) planner: auto-approving shell commands,"
-    },
-    {
-      "title": "Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs",
-      "link": "https://arxiv.org/abs/2610.00047",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-02T04:00:00+00:00",
-      "summary": "arXiv:2610.00047v1 Announce Type: new Abstract: Diversity collapse in parallel chain-of-thought has motivated inference-time interventions built on a natural design: when a process reward model (PRM) prunes a chain, its "
-    },
-    {
-      "title": "Gradient-Aligned Pair Selection for Personalized Preference Optimization",
-      "link": "https://arxiv.org/abs/2610.00061",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-02T04:00:00+00:00",
-      "summary": "arXiv:2610.00061v1 Announce Type: new Abstract: Personalizing large language models (LLMs) requires aligning generation behavior with user-specific preferences rather than aggregate quality. While Direct Preference Optim"
-    },
-    {
-      "title": "K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook",
-      "link": "https://arxiv.org/abs/2610.00074",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-02T04:00:00+00:00",
-      "summary": "arXiv:2610.00074v1 Announce Type: new Abstract: K-Dense BYOK (bring your own keys) is a free, open-source AI research assistant for scientists in any field that runs on the researcher's own computer. The researcher suppl"
-    },
-    {
       "title": "ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120, (Fri, Oct 2nd)",
       "link": "https://isc.sans.edu/diary/rss/33390",
       "source": "SANS Internet Storm Center",
       "category": "cybersecurity",
       "published": "2026-10-02T02:00:02+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "link": "https://openai.com/index/chatham-financial",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-02T00:00:00+00:00",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
+    },
+    {
+      "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-01T21:37:50+00:00",
+      "summary": "Law enforcement from multiple countries collaborated to disrupt a cybercrime operation that has claimed some 500 victims worldwide in the past two years."
+    },
+    {
+      "title": "Iranian accused of hacking American universities extradited from Montenegro",
+      "link": "https://therecord.media/iran-montenegro-hacker-extradition",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-01T20:15:00+00:00",
+      "summary": "An Iranian national accused by the U.S. of taking part in dozens of breaches involving the theft of academic data and intellectual property has been extradited from Montenegro."
+    },
+    {
+      "title": "The eternal complement",
+      "link": "https://openai.com/index/the-eternal-complement",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-01T17:00:00+00:00",
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
+    },
+    {
+      "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
+      "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-01T16:55:57+00:00",
+      "summary": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless"
+    },
+    {
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "link": "https://openai.com/index/albertsons-reimagining-retail",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-01T16:00:00+00:00",
+      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
+    },
+    {
+      "title": "The Download: AI \u201cmind-reading\u201d and creative uses for small batteries",
+      "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-01T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. An AI \u201cmind-reading\u201d tool can reconstruct what you\u2019re looking at based on a brain "
+    },
+    {
+      "title": "An AI \u201cmind-reading\u201d tool can reconstruct what you\u2019re looking at from a brain scan",
+      "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-01T10:32:24+00:00",
+      "summary": "A new AI tool can guess what you\u2019re looking at just by analyzing your brain scans\u2014and re-create that image with remarkable precision. It can go the other way, too, and predict a person\u2019s brain activity based on what they"
+    },
+    {
+      "title": "How smaller, distributed batteries could help the grid",
+      "link": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-01T10:00:00+00:00",
+      "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That\u2019s made it difficult to get large energy storage projects on the grid. Faced with those obstac"
+    },
+    {
+      "title": "ScreenConnect Client (Ab)used by Attackers, (Thu, Oct 1st)",
+      "link": "https://isc.sans.edu/diary/rss/33388",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-01T05:32:13+00:00",
+      "summary": "Threat Actors do not always use top-notch techniques or very complex malware to perform their attacks. Sometimes, they just abuse of existing applications..."
+    },
+    {
+      "title": "ISC Stormcast For Thursday, October 1st, 2026 https://isc.sans.edu/podcastdetail/10118, (Thu, Oct 1st)",
+      "link": "https://isc.sans.edu/diary/rss/33386",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-01T02:00:02+00:00",
+      "summary": ""
+    },
+    {
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "link": "https://openai.com/index/the-den-family-social",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-01T00:00:00+00:00",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
+    },
+    {
+      "title": "The Download: OpenAI\u2019s chief research officer explains its hacking response",
+      "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-09-30T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. \u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s "
+    },
+    {
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-30T10:30:00+00:00",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
+    },
+    {
+      "title": "Helping small businesses put AI to work",
+      "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-30T10:00:00+00:00",
+      "summary": "OpenAI is partnering with America\u2019s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
+    },
+    {
+      "title": "ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)",
+      "link": "https://isc.sans.edu/diary/rss/33384",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-30T02:00:03+00:00",
       "summary": ""
     }
   ]
