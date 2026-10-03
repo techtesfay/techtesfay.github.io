@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T15:18:54.052463+00:00",
+  "generated_at": "2026-10-03T20:17:00.426717+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -45,28 +45,12 @@
       "summary": "Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and int"
     },
     {
-      "title": "Judge dismisses spyware case brought by Salvadoran journalists targeted with Pegasus",
-      "link": "https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-02T20:30:00+00:00",
-      "summary": "The plaintiffs, who all worked for the independent and Salvadoran news outlet El Faro, failed to convince the court that their case had jurisdiction in California, according to the judge\u2019s order."
-    },
-    {
       "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
       "link": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-10-02T20:18:37+00:00",
       "summary": "The offensive cyber operations startup looks to evolve red teaming beyond traditional methods to simulate attackers' increasingly advanced capabilities."
-    },
-    {
-      "title": "Bipartisan backlash to ALPRs grows as two high-profile bills are introduced",
-      "link": "https://therecord.media/alpr-legislation-hawley-sanders-merkley-aoc",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-02T19:30:00+00:00",
-      "summary": "Republican Sen. Josh Hawley has new legislation on limiting automated license plate readers (ALPRs), while Democratic Sens. Bernie Sanders and Jeff Merkley, with Rep. Alexandria Ocasio-Cortez, have teed up a broader bill"
     },
     {
       "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
@@ -139,22 +123,6 @@
       "category": "ai",
       "published": "2026-10-02T15:49:04+00:00",
       "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI in"
-    },
-    {
-      "title": "Mississippi mayor says ransomware incident led city to shut down systems",
-      "link": "https://therecord.media/vicksburg-mississippi-government-ransomware-attack",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-02T14:06:00+00:00",
-      "summary": "Government services were temporarily disrupted by ransomware in Vicksburg, Mississippi. Mayor Willis Thompson said the FBI and other authorities are investigating."
-    },
-    {
-      "title": "'Warlock' ransomware used in attacks on critical infrastructure in Portuguese, Spanish-speaking countries",
-      "link": "https://therecord.media/warlock-ransomware-used-in-critical-infrastructure-attacks",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-02T14:05:00+00:00",
-      "summary": "The group is exploiting a variety of vulnerabilities impacting Microsoft SharePoint, according to a new report from Symantec Threat Hunter Team."
     },
     {
       "title": "Vulnerability Backlogs Are an Ownership Problem",
@@ -235,14 +203,6 @@
       "category": "cybersecurity",
       "published": "2026-10-01T21:37:50+00:00",
       "summary": "Law enforcement from multiple countries collaborated to disrupt a cybercrime operation that has claimed some 500 victims worldwide in the past two years."
-    },
-    {
-      "title": "Iranian accused of hacking American universities extradited from Montenegro",
-      "link": "https://therecord.media/iran-montenegro-hacker-extradition",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-01T20:15:00+00:00",
-      "summary": "An Iranian national accused by the U.S. of taking part in dozens of breaches involving the theft of academic data and intellectual property has been extradited from Montenegro."
     },
     {
       "title": "The eternal complement",
@@ -331,6 +291,46 @@
       "category": "ai",
       "published": "2026-09-30T10:00:00+00:00",
       "summary": "OpenAI is partnering with America\u2019s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
+    },
+    {
+      "title": "ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)",
+      "link": "https://isc.sans.edu/diary/rss/33384",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-30T02:00:03+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Scans for Wordfence Protected Websites, (Tue, Sep 29th)",
+      "link": "https://isc.sans.edu/diary/rss/33382",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-29T13:29:33+00:00",
+      "summary": "Starting yesterday, our sensors picked up a small number of scans for \"wordfence-waf.php\". This particular script is used by Wordfence, a solution to protect WordPress sites. During the Wordfence install, the wordpress-w"
+    },
+    {
+      "title": "DevDay 2026 Recap",
+      "link": "https://openai.com/index/devday-2026-recap",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-09-29T10:00:00+00:00",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
+    },
+    {
+      "title": "ISC Stormcast For Tuesday, September 29th, 2026 https://isc.sans.edu/podcastdetail/10114, (Tue, Sep 29th)",
+      "link": "https://isc.sans.edu/diary/rss/33378",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-29T02:00:02+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Apple Emergency Patch for iOS 26, macOS26, macOS15 (CVE-2026-86950), (Mon, Sep 28th)",
+      "link": "https://isc.sans.edu/diary/rss/33376",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-09-28T22:35:35+00:00",
+      "summary": "Apple today released patches for all of its operating systems. However, only patches for older branches include a security fix. The vulnerability being addressed in iOS 26, macOS 26 and macOS 15 is already being exploite"
     }
   ]
 }
