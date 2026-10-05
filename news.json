@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T12:49:45.115543+00:00",
+  "generated_at": "2026-10-05T23:24:30.880494+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,6 +13,110 @@
   ],
   "items": [
     {
+      "title": "Wikimedia Foundation: OpenAI agents tried to edit pages and compromise notes tool",
+      "link": "https://therecord.media/wikimedia-foundation-openai-agents-report",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-05T21:26:00+00:00",
+      "summary": "Beyond the potential misuses of its services, Wikimedia said activity by AI agents can be a drain on web platforms that are already operating with limited resources."
+    },
+    {
+      "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes",
+      "link": "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-05T21:25:08+00:00",
+      "summary": "The Linux backdoor exploits 24 known flaws to compromise IoT devices and uses legitimate public STUN servers to obscure communications."
+    },
+    {
+      "title": "Alleged ShinyHunters member reportedly detained in Jordan, assisting law enforcement",
+      "link": "https://therecord.media/alleged-shinyhunters-member-detained-jordan-fbi",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-05T19:15:00+00:00",
+      "summary": "Saif \u200cal-Din Khader is cooperating with the FBI, reports said, as the bureau responds to a massive breach that exposed employee data."
+    },
+    {
+      "title": "US, Australia warn of latest Citrix vulnerability after NetScaler advisory",
+      "link": "https://therecord.media/us-australia-warn-of-latest-citrix-vulnerability",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-05T17:22:00+00:00",
+      "summary": "Citrix confirmed late on Friday that it was \u201ctracking a newly observed issue\u201d related to some customer-managed NetScaler deployments but claimed the problem was not connected to vulnerabilities reported last week that al"
+    },
+    {
+      "title": "Ukraine grocery chain ATB confirms cyberattack as hackers threaten to leak data",
+      "link": "https://therecord.media/atb-ukraine-cyberattack-ransomware",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-05T17:00:00+00:00",
+      "summary": "Ukraine\u2019s largest grocery store chain, ATB, confirmed that it was hit by a cyberattack after hackers posted an extortion demand on its website."
+    },
+    {
+      "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
+      "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-05T16:21:52+00:00",
+      "summary": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions. The vulnerability, tracked as"
+    },
+    {
+      "title": "Chinese Hackers Impersonate US Officials for AI Cyber Espionage",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-05T15:52:59+00:00",
+      "summary": "An emerging threat group known as TA419 established seemingly legitimate professional relationships with AI policy experts working for US think tanks, universities, and legal organizations."
+    },
+    {
+      "title": "Connecting AI agents to enterprise knowledge",
+      "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-05T15:47:52+00:00",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in "
+    },
+    {
+      "title": "University of Illinois Chicago affected by ransomware attack on medical school",
+      "link": "https://therecord.media/ransomware-university-illinois-chicago",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-05T15:30:00+00:00",
+      "summary": "A ransomware attack that affected the University of Illinois Chicago (UIC) College of Medicine resulted in the theft of some information from its servers."
+    },
+    {
+      "title": "Our approach to EU text provenance rules",
+      "link": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-05T15:00:00+00:00",
+      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
+    },
+    {
+      "title": "\u26a1 Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
+      "link": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-05T14:20:43+00:00",
+      "summary": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week\u2019s threats keep finding leverage in small things that were easy to overlook. Th"
+    },
+    {
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-05T13:29:32+00:00",
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts\u2014that argument is settled. The big question now is how to enable predictive systems to act on their own c"
+    },
+    {
+      "title": "Need for Speed: AI-Driven Attacks Are Changing Security Strategies",
+      "link": "https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-05T13:00:00+00:00",
+      "summary": "AI-powered attacks are fast, relentless, and automated. How security teams can keep up is top of mind, according to the latest Dark Reading reader poll."
+    },
+    {
       "title": "The Download: AI\u2019s popularity paradox and EmTech Future 2026",
       "link": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
       "source": "MIT Technology Review",
@@ -21,12 +125,20 @@
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. People really hate AI, so why can\u2019t they get enough? \u2014Will Douglas Heaven Over the"
     },
     {
-      "title": "Data breach at Denmark\u2019s national population register exposes 8.8 million people",
-      "link": "https://therecord.media/denmark-breach-register-cyberattack",
-      "source": "The Record",
+      "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
+      "link": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
+      "source": "The Hacker News",
       "category": "cybersecurity",
-      "published": "2026-10-05T12:00:00+00:00",
-      "summary": "Denmark is investigating a data breach affecting approximately 8.8 million people after unauthorized users gained access to its national population register."
+      "published": "2026-10-05T11:55:00+00:00",
+      "summary": "Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through three connected capa"
+    },
+    {
+      "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
+      "link": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-05T11:46:25+00:00",
+      "summary": "Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling. \"Cling is notable not becau"
     },
     {
       "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
@@ -66,7 +178,7 @@
       "source": "The Hacker News",
       "category": "cybersecurity",
       "published": "2026-10-05T06:40:19+00:00",
-      "summary": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88"
+      "summary": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, ca"
     },
     {
       "title": "Intent-Hiding Jailbreaks: An Information-Theoretic Framework for Compositional Attacks",
@@ -219,118 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-10-05T00:15:00+00:00",
       "summary": "For an experiment, I created a script [1] that parses and send the TTY logs collected from actors or bots activity that run various commands after they successfully login the DShield sensor. Those TTY logs are sent daily"
-    },
-    {
-      "title": "User Agent Strings Curiosities, (Sun, Oct 4th)",
-      "link": "https://isc.sans.edu/diary/rss/33394",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-04T07:58:51+00:00",
-      "summary": "Sometimes I have to smile, or my interest is triggered, when I review new User Agent Strings in the honeypot logs."
-    },
-    {
-      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
-      "link": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-04T07:22:05+00:00",
-      "summary": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter. Re"
-    },
-    {
-      "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
-      "link": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-04T07:20:32+00:00",
-      "summary": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal se"
-    },
-    {
-      "title": "YARA-X 1.21.0 Release, (Sat, Oct 3rd)",
-      "link": "https://isc.sans.edu/diary/rss/33392",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-03T14:40:21+00:00",
-      "summary": "YARA-X&#;x26;#;39;s 1.21.0 release brings 5 improvements and 4 bugfixes."
-    },
-    {
-      "title": "MI5 Says China\u2019s MSS Funded Research Involving 100+ U.K.-Linked Academics",
-      "link": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-03T14:38:46+00:00",
-      "summary": "The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service. In a \"Security Servic"
-    },
-    {
-      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
-      "link": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-03T14:36:33+00:00",
-      "summary": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speak"
-    },
-    {
-      "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
-      "link": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-03T11:00:00+00:00",
-      "summary": "Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and int"
-    },
-    {
-      "title": "Judge dismisses spyware case brought by Salvadoran journalists targeted with Pegasus",
-      "link": "https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-02T20:30:00+00:00",
-      "summary": "The plaintiffs, who all worked for the independent and Salvadoran news outlet El Faro, failed to convince the court that their case had jurisdiction in California, according to the judge\u2019s order."
-    },
-    {
-      "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
-      "link": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-02T20:18:37+00:00",
-      "summary": "The offensive cyber operations startup looks to evolve red teaming beyond traditional methods to simulate attackers' increasingly advanced capabilities."
-    },
-    {
-      "title": "Bipartisan backlash to ALPRs grows as two high-profile bills are introduced",
-      "link": "https://therecord.media/alpr-legislation-hawley-sanders-merkley-aoc",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-02T19:30:00+00:00",
-      "summary": "Republican Sen. Josh Hawley has new legislation on limiting automated license plate readers (ALPRs), while Democratic Sens. Bernie Sanders and Jeff Merkley, with Rep. Alexandria Ocasio-Cortez, have teed up a broader bill"
-    },
-    {
-      "title": "Kiteworks & Citrix Incidents Show Challenges of Zero-Day Response",
-      "link": "https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-02T16:56:30+00:00",
-      "summary": "One company told customers to power down its data-protection platform during a nine-hour window, while the other remained mum on reported attacks prior to releasing a patch for its product."
-    },
-    {
-      "title": "SWIFT Banking & Government Middleware Enables RCE",
-      "link": "https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-02T16:27:54+00:00",
-      "summary": "Patch middleware vulnerabilities now to avoid hardware-based MFA exploits in ultra-sensitive environments."
-    },
-    {
-      "title": "A model guide for the GPT-6 family",
-      "link": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-02T16:15:00+00:00",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
-    },
-    {
-      "title": "Is Your Organization Ready for 2027's AI Accountability Era?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-02T16:01:22+00:00",
-      "summary": "Organizations may face an artificial intelligence (AI) reckoning over the next year. Omdia and Gartner weigh in on how to tackle the governance, security, and value challenges ahead."
     }
   ]
 }
