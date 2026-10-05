@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T02:38:35.717570+00:00",
+  "generated_at": "2026-10-05T12:49:45.115543+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,198 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "The Download: AI\u2019s popularity paradox and EmTech Future 2026",
+      "link": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-05T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. People really hate AI, so why can\u2019t they get enough? \u2014Will Douglas Heaven Over the"
+    },
+    {
+      "title": "Data breach at Denmark\u2019s national population register exposes 8.8 million people",
+      "link": "https://therecord.media/denmark-breach-register-cyberattack",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-05T12:00:00+00:00",
+      "summary": "Denmark is investigating a data breach affecting approximately 8.8 million people after unauthorized users gained access to its national population register."
+    },
+    {
+      "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
+      "link": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-05T10:38:50+00:00",
+      "summary": "Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents. \"Some developers are using Full Disk"
+    },
+    {
+      "title": "Building advertising for the way people use AI",
+      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-05T10:00:00+00:00",
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
+    },
+    {
+      "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
+      "link": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-05T08:09:23+00:00",
+      "summary": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck. The vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session f"
+    },
+    {
+      "title": "People really hate AI, so why can\u2019t they get enough?",
+      "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-05T08:00:00+00:00",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that\u2019s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that\u2019"
+    },
+    {
+      "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
+      "link": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-05T06:40:19+00:00",
+      "summary": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88"
+    },
+    {
+      "title": "Intent-Hiding Jailbreaks: An Information-Theoretic Framework for Compositional Attacks",
+      "link": "https://arxiv.org/abs/2610.02302",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-05T04:00:00+00:00",
+      "summary": "arXiv:2610.02302v1 Announce Type: new Abstract: Recent work has shown that large language models (LLMs) can be vulnerable to jailbreak attacks in which harmful intent is obscured through composition with benign tasks. A "
+    },
+    {
+      "title": "MIRROR: Multipath Quorum Integrity for LLM Multi-Agent Communication",
+      "link": "https://arxiv.org/abs/2610.02349",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-05T04:00:00+00:00",
+      "summary": "arXiv:2610.02349v1 Announce Type: new Abstract: Inter-agent communication is central to Large Language Model Multi-Agent Systems (LLM-MAS), but it introduces an underexplored vulnerability: Agent-in-the-Middle (AiTM) att"
+    },
+    {
+      "title": "Hop-Decayed Influence: New Vulnerabilities of Structural Auxiliary Indexing in GraphRAG Pipelines with LLM",
+      "link": "https://arxiv.org/abs/2610.02373",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-05T04:00:00+00:00",
+      "summary": "arXiv:2610.02373v1 Announce Type: new Abstract: GraphRAG pipelines construct auxiliary structures during offline indexing--semantic summaries, hierarchical edges, and pre-computed scores--that determine how retrieval is "
+    },
+    {
+      "title": "Unifying Privacy Accounting: Information Equivalence and Information Loss",
+      "link": "https://arxiv.org/abs/2610.02414",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-05T04:00:00+00:00",
+      "summary": "arXiv:2610.02414v1 Announce Type: new Abstract: Differential privacy (DP) admits several notions, but the choice among them may affect both privacy analysis and utility. In this paper, we consider four mainstream curve-b"
+    },
+    {
+      "title": "Mitigating Private Data Leakage in LLMs with Whiteout",
+      "link": "https://arxiv.org/abs/2610.02418",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-05T04:00:00+00:00",
+      "summary": "arXiv:2610.02418v1 Announce Type: new Abstract: Modern large language models (LLMs) are trained on massive, largely unfiltered datasets, including content scraped from nearly every accessible website and user inputs. As "
+    },
+    {
+      "title": "Evaluating and Improving the Robustness of Large Language Models to Input Sequence Variations",
+      "link": "https://arxiv.org/abs/2610.02432",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-05T04:00:00+00:00",
+      "summary": "arXiv:2610.02432v1 Announce Type: new Abstract: Large language models (LLMs) in production systems face prompt injections, trojans (backdoors), and manipulation of automatic quality metrics. This thesis develops models, "
+    },
+    {
+      "title": "SoK: Stablecoins in the Quantum Era",
+      "link": "https://arxiv.org/abs/2610.02435",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-05T04:00:00+00:00",
+      "summary": "arXiv:2610.02435v1 Announce Type: new Abstract: Stablecoins support payments, trading, collateral, and cross-chain settlement across the digital-asset ecosystem. They also concentrate value behind issuer, custody, upgrad"
+    },
+    {
+      "title": "SideKernel: A Usable microVM Sandbox for AI Coding Agents on macOS",
+      "link": "https://arxiv.org/abs/2610.02456",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-05T04:00:00+00:00",
+      "summary": "arXiv:2610.02456v1 Announce Type: new Abstract: AI coding agents are untrusted system components, yet they require autonomy on the developer machines they run on. This contradiction is a security problem. Sandboxes provi"
+    },
+    {
+      "title": "MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching",
+      "link": "https://arxiv.org/abs/2610.02260",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-05T04:00:00+00:00",
+      "summary": "arXiv:2610.02260v1 Announce Type: new Abstract: Flow matching models excel at generative modeling, and many downstream applications require their samples to satisfy prescribed constraints, such as observed measurements a"
+    },
+    {
+      "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+      "link": "https://arxiv.org/abs/2610.02267",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-05T04:00:00+00:00",
+      "summary": "arXiv:2610.02267v1 Announce Type: new Abstract: Agent harnesses make many small, typed decisions per task: which model to call, which tool to use, whether retrieved text is relevant, whether an input carries an injection"
+    },
+    {
+      "title": "The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?",
+      "link": "https://arxiv.org/abs/2610.02281",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-05T04:00:00+00:00",
+      "summary": "arXiv:2610.02281v1 Announce Type: new Abstract: Societal resilience research relies on access to useful and actionable data, which motivates our main research question: Can annual reports, processed at scale with LLMs, p"
+    },
+    {
+      "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
+      "link": "https://arxiv.org/abs/2610.02300",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-05T04:00:00+00:00",
+      "summary": "arXiv:2610.02300v1 Announce Type: new Abstract: Training-free safeguards for text-to-image generation often rely on a reusable safety signal, such as an unsafe direction or global toxic subspace, applied broadly across p"
+    },
+    {
+      "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
+      "link": "https://arxiv.org/abs/2610.02330",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-05T04:00:00+00:00",
+      "summary": "arXiv:2610.02330v1 Announce Type: new Abstract: Large language models (LLMs) rely on long-horizon tool invocation sequences for complex tasks, where each invocation can alter the task state and condition subsequent decis"
+    },
+    {
+      "title": "World Editing: Intervening on Executable Worlds at Increasing Depth",
+      "link": "https://arxiv.org/abs/2610.02331",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-05T04:00:00+00:00",
+      "summary": "arXiv:2610.02331v1 Announce Type: new Abstract: Interactive world models are increasingly capable of generating environments and acting within them, yet deliberately editing an existing executable world remains underexpl"
+    },
+    {
+      "title": "A Multi Method Importance and Performance Efficiency Analysis of Topological Metrics for Natural Visibility Graph Based Cyber Attack Detection",
+      "link": "https://arxiv.org/abs/2610.02342",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-05T04:00:00+00:00",
+      "summary": "arXiv:2610.02342v1 Announce Type: new Abstract: Natural Visibility Graph (NVG) based analysis characterizes network traffic through topological descriptors reflecting different structural properties. However, not all des"
+    },
+    {
+      "title": "DeReAct: Decomposed Reasoning and Acting for Reliable AI Agents",
+      "link": "https://arxiv.org/abs/2610.02351",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-05T04:00:00+00:00",
+      "summary": "arXiv:2610.02351v1 Announce Type: new Abstract: ReAct-based agents typically rely on a single LLM policy to propose actions, interact with the environment, and decide when a task is complete. This coupling makes action a"
+    },
+    {
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-05T04:00:00+00:00",
+      "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fiel"
+    },
     {
       "title": "ISC Stormcast For Monday, October 5th, 2026 https://isc.sans.edu/podcastdetail/10122, (Mon, Oct 5th)",
       "link": "https://isc.sans.edu/diary/rss/33398",
@@ -109,30 +301,6 @@
       "summary": "Republican Sen. Josh Hawley has new legislation on limiting automated license plate readers (ALPRs), while Democratic Sens. Bernie Sanders and Jeff Merkley, with Rep. Alexandria Ocasio-Cortez, have teed up a broader bill"
     },
     {
-      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
-      "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-02T17:33:31+00:00",
-      "summary": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab said in an advisory. The gateway is the service that connects "
-    },
-    {
-      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
-      "link": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-02T17:33:16+00:00",
-      "summary": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity, which has targeted government and policy organizations in Taiwan, India, "
-    },
-    {
-      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
-      "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-02T17:02:12+00:00",
-      "summary": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems. The vulnerabilities are liste"
-    },
-    {
       "title": "Kiteworks & Citrix Incidents Show Challenges of Zero-Day Response",
       "link": "https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
       "source": "Dark Reading",
@@ -163,174 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-10-02T16:01:22+00:00",
       "summary": "Organizations may face an artificial intelligence (AI) reckoning over the next year. Omdia and Gartner weigh in on how to tackle the governance, security, and value challenges ahead."
-    },
-    {
-      "title": "Is It Fair to Blame 'Rogue' AI for Security Failures?",
-      "link": "https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-02T15:51:33+00:00",
-      "summary": "\"Rogue AI\" terminology anthropomorphizes LLMs and shifts risk responsibility from vendors. Defenders should treat agents as untrusted, nondeterministic software systems, not sentient beings with malicious intent."
-    },
-    {
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-02T15:49:04+00:00",
-      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI in"
-    },
-    {
-      "title": "Mississippi mayor says ransomware incident led city to shut down systems",
-      "link": "https://therecord.media/vicksburg-mississippi-government-ransomware-attack",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-02T14:06:00+00:00",
-      "summary": "Government services were temporarily disrupted by ransomware in Vicksburg, Mississippi. Mayor Willis Thompson said the FBI and other authorities are investigating."
-    },
-    {
-      "title": "'Warlock' ransomware used in attacks on critical infrastructure in Portuguese, Spanish-speaking countries",
-      "link": "https://therecord.media/warlock-ransomware-used-in-critical-infrastructure-attacks",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-02T14:05:00+00:00",
-      "summary": "The group is exploiting a variety of vulnerabilities impacting Microsoft SharePoint, according to a new report from Symantec Threat Hunter Team."
-    },
-    {
-      "title": "Vulnerability Backlogs Are an Ownership Problem",
-      "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-02T14:00:00+00:00",
-      "summary": "Organizations don't need better vulnerability scanners; they need to know who owns their assets and has the authority and capacity to actually fix them."
-    },
-    {
-      "title": "Malicious Linux Implants Mimic Asian Mail Security Products",
-      "link": "https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-02T13:00:00+00:00",
-      "summary": "A trio of newly discovered backdoors walk and quack like legitimate edge solutions, so it's hard to tell they're not."
-    },
-    {
-      "title": "The Download: a biological de-aging contest and why LLMs don\u2019t reason",
-      "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-02T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth \u2014J"
-    },
-    {
-      "title": "A new contest pits competitors against each other in a race to biological youth",
-      "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-02T09:00:00+00:00",
-      "summary": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don\u2019t need reminding that both time and my chronological age only tick forward. "
-    },
-    {
-      "title": "Don\u2019t be fooled\u2014LLMs don\u2019t reason",
-      "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-02T08:00:00+00:00",
-      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked s"
-    },
-    {
-      "title": "ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120, (Fri, Oct 2nd)",
-      "link": "https://isc.sans.edu/diary/rss/33390",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-02T02:00:02+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "link": "https://openai.com/index/chatham-financial",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-02T00:00:00+00:00",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
-    },
-    {
-      "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-01T21:37:50+00:00",
-      "summary": "Law enforcement from multiple countries collaborated to disrupt a cybercrime operation that has claimed some 500 victims worldwide in the past two years."
-    },
-    {
-      "title": "Iranian accused of hacking American universities extradited from Montenegro",
-      "link": "https://therecord.media/iran-montenegro-hacker-extradition",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-01T20:15:00+00:00",
-      "summary": "An Iranian national accused by the U.S. of taking part in dozens of breaches involving the theft of academic data and intellectual property has been extradited from Montenegro."
-    },
-    {
-      "title": "The eternal complement",
-      "link": "https://openai.com/index/the-eternal-complement",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-01T17:00:00+00:00",
-      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
-    },
-    {
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "link": "https://openai.com/index/albertsons-reimagining-retail",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-01T16:00:00+00:00",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
-    },
-    {
-      "title": "The Download: AI \u201cmind-reading\u201d and creative uses for small batteries",
-      "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-01T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. An AI \u201cmind-reading\u201d tool can reconstruct what you\u2019re looking at based on a brain "
-    },
-    {
-      "title": "An AI \u201cmind-reading\u201d tool can reconstruct what you\u2019re looking at from a brain scan",
-      "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-01T10:32:24+00:00",
-      "summary": "A new AI tool can guess what you\u2019re looking at just by analyzing your brain scans\u2014and re-create that image with remarkable precision. It can go the other way, too, and predict a person\u2019s brain activity based on what they"
-    },
-    {
-      "title": "How smaller, distributed batteries could help the grid",
-      "link": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-01T10:00:00+00:00",
-      "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That\u2019s made it difficult to get large energy storage projects on the grid. Faced with those obstac"
-    },
-    {
-      "title": "ScreenConnect Client (Ab)used by Attackers, (Thu, Oct 1st)",
-      "link": "https://isc.sans.edu/diary/rss/33388",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-01T05:32:13+00:00",
-      "summary": "Threat Actors do not always use top-notch techniques or very complex malware to perform their attacks. Sometimes, they just abuse of existing applications..."
-    },
-    {
-      "title": "ISC Stormcast For Thursday, October 1st, 2026 https://isc.sans.edu/podcastdetail/10118, (Thu, Oct 1st)",
-      "link": "https://isc.sans.edu/diary/rss/33386",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-01T02:00:02+00:00",
-      "summary": ""
-    },
-    {
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "link": "https://openai.com/index/the-den-family-social",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-01T00:00:00+00:00",
-      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
     }
   ]
 }
