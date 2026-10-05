@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T20:33:21.035980+00:00",
+  "generated_at": "2026-10-05T02:38:35.717570+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,22 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "ISC Stormcast For Monday, October 5th, 2026 https://isc.sans.edu/podcastdetail/10122, (Mon, Oct 5th)",
+      "link": "https://isc.sans.edu/diary/rss/33398",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-05T02:00:02+00:00",
+      "summary": ""
+    },
+    {
+      "title": "TTY Logs and the Data it Captures, (Sun, Oct 4th)",
+      "link": "https://isc.sans.edu/diary/rss/33396",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-05T00:15:00+00:00",
+      "summary": "For an experiment, I created a script [1] that parses and send the TTY logs collected from actors or bots activity that run various commands after they successfully login the DShield sensor. Those TTY logs are sent daily"
+    },
     {
       "title": "User Agent Strings Curiosities, (Sun, Oct 4th)",
       "link": "https://isc.sans.edu/diary/rss/33394",
@@ -315,22 +331,6 @@
       "category": "ai",
       "published": "2026-10-01T00:00:00+00:00",
       "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
-    },
-    {
-      "title": "The Download: OpenAI\u2019s chief research officer explains its hacking response",
-      "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-09-30T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. \u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s "
-    },
-    {
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-09-30T10:30:00+00:00",
-      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
     }
   ]
 }
