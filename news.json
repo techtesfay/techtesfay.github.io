@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T12:18:20.968887+00:00",
+  "generated_at": "2026-10-06T21:56:40.298111+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,126 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-06T20:32:58+00:00",
+      "summary": "Threat actors are now hiding payloads by using DNS TXT records and browser cache pre-fetching, making it tougher to spot early attack stages."
+    },
+    {
+      "title": "Critical Healthcare Systems Aren't Quantum-Ready",
+      "link": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-06T20:30:27+00:00",
+      "summary": "A study of 2.5 million devices across 50 healthcare organization suggests the sector has a long way to go in getting ready for the post-quantum cryptography era."
+    },
+    {
+      "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+      "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-06T18:38:55+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatG"
+    },
+    {
+      "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
+      "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-06T18:24:25+00:00",
+      "summary": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detection. Threat actors ar"
+    },
+    {
+      "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps",
+      "link": "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-06T17:56:29+00:00",
+      "summary": "The situation illustrates a trend toward using AI and deterministic validation to identify flaws and exploitability, and provide a risk assessment."
+    },
+    {
+      "title": "IANS' Kakolowski: How AI Is Reshaping CISO Budgets & Security Teams",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-06T17:15:24+00:00",
+      "summary": "In this video interview, Nick Kakolowski, senior director for CISO research at IANS, talks AI: budgets, ROI, and changes inside security teams."
+    },
+    {
+      "title": "'BigDiskBuster' Leaves Microsoft Defender Running While Blocking Updates",
+      "link": "https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-06T16:59:24+00:00",
+      "summary": "Not quite an EDR-killer, but the proof-of-concept cyber technique creates a silent virus detection gap while service runs normally, no exploit required."
+    },
+    {
+      "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+      "link": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-06T16:40:36+00:00",
+      "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from"
+    },
+    {
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "link": "https://openai.com/index/atlassian-partnership",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-06T16:00:00+00:00",
+      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
+    },
+    {
+      "title": "Alleged ATM malware creator appears in Nebraska court after arrest",
+      "link": "https://therecord.media/atm-malware-creator-appears-in-nebraska-court",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-06T15:53:00+00:00",
+      "summary": "Aguirre was added to the FBI\u2019s \u201cTop 10 Most Wanted Fugitives\u201d list in March, becoming the first cybercriminal added to the list."
+    },
+    {
+      "title": "South Korean officials believe AI agents were used to hack several banks",
+      "link": "https://therecord.media/south-korean-bank-hacks-ai-agents",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-06T15:29:22+00:00",
+      "summary": "The personal data of at least 68,000 people was reportedly exposed in breaches of at least seven financial institutions, with officials saying they believe a Chinese cybersecurity tool was used to hack the banks\u2019 systems"
+    },
+    {
+      "title": "Osaka Metropolitan University cancels classes after suspected ransomware attack",
+      "link": "https://therecord.media/osaka-university-cancels-classes-ransomware",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-06T14:52:00+00:00",
+      "summary": "Osaka Metropolitan University said on Tuesday that the outage left its internal network, email and a range of administrative and academic systems unavailable."
+    },
+    {
+      "title": "ClickFix campaign in Ukraine compromises over 100 websites to spread Lunex malware",
+      "link": "https://therecord.media/clickfix-campaign-ukraine-lunex-stealer",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-06T13:17:00+00:00",
+      "summary": "CERT-UA found fake Cloudflare verification pages that led visitors into a now-familiar ClickFix trap. This time the goal was to infect machines with an infostealer."
+    },
+    {
+      "title": "More RMM Tools In the Wild, (Tue, Oct 6th)",
+      "link": "https://isc.sans.edu/diary/rss/33400",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-06T13:16:02+00:00",
+      "summary": "It seems that a trend started&#xe2;&#x80;&#xa6; I continue my journey discovering more RMM (\"Remote Management & Monitoring\") tools abused by threat actors! A few days ago, I wrote a diary[1] about ScreenConnect used in "
+    },
+    {
+      "title": "The Download: 10 climate tech companies to watch",
+      "link": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-06T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together "
+    },
     {
       "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
       "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
@@ -93,28 +213,12 @@
       "summary": "There\u2019s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up "
     },
     {
-      "title": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
-      "link": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/",
-      "source": "MIT Technology Review",
+      "title": "Advancing computer use with Ironclad",
+      "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "source": "OpenAI News",
       "category": "ai",
-      "published": "2026-10-06T10:35:00+00:00",
-      "summary": "Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produce more critical minerals within the US. If the company can do both, with the same rocks in the same "
-    },
-    {
-      "title": "WaveSave and its portable rubber dam",
-      "link": "https://www.technologyreview.com/2026/10/06/1145208/2026-climate-tech-companies-to-watch-wavesave-portable-rubber-dam/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-06T10:35:00+00:00",
-      "summary": "As sea levels rise and flood risks worsen due to global warming, WaveSave\u2019s easy-to-erect portable dam offers a quick-response tool. People can use the dam to protect themselves and their property, and it can also store "
-    },
-    {
-      "title": "More RMM Tools In the Wild, (Tue, Oct 6th)",
-      "link": "https://isc.sans.edu/diary/rss/33400",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-06T09:34:56+00:00",
-      "summary": "It seems that a trend started&#xe2;&#x80;&#xa6; I continue my journey discovering more RMM (\"Remote Management & Monitoring\") tools abused by threat actors! A few days ago, I wrote a diary[1] about ScreenConnect used in "
+      "published": "2026-10-06T10:00:00+00:00",
+      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
     },
     {
       "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
@@ -141,20 +245,12 @@
       "summary": "The U.S. Federal Bureau of Investigation (FBI) has removed an Accenture contractor for their alleged role in a ShinyHunters-breach that led to the theft of personal details of thousands of bureau employees. That's accord"
     },
     {
-      "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
-      "link": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
-      "source": "The Hacker News",
+      "title": "Shares in British clothing company ASOS dive after hackers apparently send push notification",
+      "link": "https://therecord.media/asos-push-notification-apparently-sent-by-hackers",
+      "source": "The Record",
       "category": "cybersecurity",
-      "published": "2026-10-06T06:00:30+00:00",
-      "summary": "Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the country's digitalization m"
-    },
-    {
-      "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
-      "link": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-06T05:22:55+00:00",
-      "summary": "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache. \"Instead of downloading and executing remote payloads like the typical attack"
+      "published": "2026-10-06T04:00:00+00:00",
+      "summary": "Several mysteries surround what appeared to be an unauthorized push notification sent to customers of London-based clothing company ASOS."
     },
     {
       "title": "Control OSWorld: An AI Control Environment for GUI Computer Use Agents",
@@ -235,102 +331,6 @@
       "category": "research",
       "published": "2026-10-06T04:00:00+00:00",
       "summary": "arXiv:2610.03888v1 Announce Type: new Abstract: Reconstructing global sea surface pH from sparse observations is critical for monitoring ocean acidification and understanding marine carbon cycling. Traditional assimilati"
-    },
-    {
-      "title": "Proxy Confidence: Auditing Black-Box LLM Agents with a Surrogate's Log-Probabilities",
-      "link": "https://arxiv.org/abs/2610.03894",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-06T04:00:00+00:00",
-      "summary": "arXiv:2610.03894v1 Announce Type: new Abstract: A deployed LLM agent emits tool calls, queries, and code that can be silently wrong -- by the time the error surfaces, the action has run. Frontier chat APIs hide the model"
-    },
-    {
-      "title": "SGAnalog: An End-to-End Circuit Benchmark from Open-Source Silicon Tapeouts",
-      "link": "https://arxiv.org/abs/2610.03934",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-06T04:00:00+00:00",
-      "summary": "arXiv:2610.03934v1 Announce Type: new Abstract: Existing analog integrated circuit design benchmarks make two questions hard to answer: whether a model has learned transferable circuit skills rather than recalled familia"
-    },
-    {
-      "title": "MLLMs Fail to Refuse when Using Tools Agentically",
-      "link": "https://arxiv.org/abs/2610.03938",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-06T04:00:00+00:00",
-      "summary": "arXiv:2610.03938v1 Announce Type: new Abstract: Agentic multimodal large language models (MLLMs) have recently pushed the frontier of visual reasoning by calling tools such as zooming and tagging. Despite the recent stro"
-    },
-    {
-      "title": "Retrieval-Augmented Large Language Model Decision-Making for Autonomous Driving Guided by Chinese Philosophical Wisdom",
-      "link": "https://arxiv.org/abs/2610.03948",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-06T04:00:00+00:00",
-      "summary": "arXiv:2610.03948v1 Announce Type: new Abstract: Autonomous driving decision systems must balance safety, efficiency, and social norms in complex traffic interactions. Philosophical and ethical considerations have receive"
-    },
-    {
-      "title": "LatentQuant: Preserving the Policy-Facing Latent Contract under NVFP4 VAE Quantization",
-      "link": "https://arxiv.org/abs/2610.03959",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-06T04:00:00+00:00",
-      "summary": "arXiv:2610.03959v1 Announce Type: new Abstract: Recent world action models (WAMs) reuse pretrained video VAEs whose encoder latents directly condition downstream action policies. Quantization must therefore preserve not "
-    },
-    {
-      "title": "ROAR: Unifying Runs across Heterogeneous AI-Driven Research Systems",
-      "link": "https://arxiv.org/abs/2610.03966",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-06T04:00:00+00:00",
-      "summary": "arXiv:2610.03966v1 Announce Type: new Abstract: Each run of an AI-driven research system (ADRS) is an expensive search over a vast solution space, and dependable evaluation requires many runs, making run data both costly"
-    },
-    {
-      "title": "Wikimedia Foundation: OpenAI agents tried to edit pages and compromise notes tool",
-      "link": "https://therecord.media/wikimedia-foundation-openai-agents-report",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-05T21:26:00+00:00",
-      "summary": "Beyond the potential misuses of its services, Wikimedia said activity by AI agents can be a drain on web platforms that are already operating with limited resources."
-    },
-    {
-      "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes",
-      "link": "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-05T21:25:08+00:00",
-      "summary": "The Linux backdoor exploits 24 known flaws to compromise IoT devices and uses legitimate public STUN servers to obscure communications."
-    },
-    {
-      "title": "Alleged ShinyHunters member reportedly detained in Jordan, assisting law enforcement",
-      "link": "https://therecord.media/alleged-shinyhunters-member-detained-jordan-fbi",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-05T19:15:00+00:00",
-      "summary": "Saif \u200cal-Din Khader is cooperating with the FBI, reports said, as the bureau responds to a massive breach that exposed employee data."
-    },
-    {
-      "title": "US, Australia warn of latest Citrix vulnerability after NetScaler advisory",
-      "link": "https://therecord.media/us-australia-warn-of-latest-citrix-vulnerability",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-05T17:22:00+00:00",
-      "summary": "Citrix confirmed late on Friday that it was \u201ctracking a newly observed issue\u201d related to some customer-managed NetScaler deployments but claimed the problem was not connected to vulnerabilities reported last week that al"
-    },
-    {
-      "title": "Ukraine grocery chain ATB confirms cyberattack as hackers threaten to leak data",
-      "link": "https://therecord.media/atb-ukraine-cyberattack-ransomware",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-05T17:00:00+00:00",
-      "summary": "Ukraine\u2019s largest grocery store chain, ATB, confirmed that it was hit by a cyberattack after hackers posted an extortion demand on its website."
-    },
-    {
-      "title": "Chinese Hackers Impersonate US Officials for AI Cyber Espionage",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-05T15:52:59+00:00",
-      "summary": "An emerging threat group known as TA419 established seemingly legitimate professional relationships with AI policy experts working for US think tanks, universities, and legal organizations."
     }
   ]
 }
