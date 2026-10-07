@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:09:57.755915+00:00",
+  "generated_at": "2026-10-07T22:20:44.136772+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,20 +13,180 @@
   ],
   "items": [
     {
-      "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
-      "link": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
-      "source": "The Hacker News",
+      "title": "Australian Gov't Weighs Mandatory AI Incident Reporting",
+      "link": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
+      "source": "Dark Reading",
       "category": "cybersecurity",
-      "published": "2026-10-07T08:07:38+00:00",
-      "summary": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company "
+      "published": "2026-10-07T21:42:55+00:00",
+      "summary": "In the wake of an agentic attack against its own Medicare systems, Australia's government is feeling out what regulations might look like for frontier AI companies."
     },
     {
-      "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
-      "link": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
+      "title": "Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives",
+      "link": "https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-07T21:25:13+00:00",
+      "summary": "The Citizen Lab's Ron Deibert warns the US government is pushing for pervasive surveillance and says certain technology executives are all too happy to help."
+    },
+    {
+      "title": "Anthropic Gives Vetted Defenders Fewer Claude Guardrails",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-07T20:51:25+00:00",
+      "summary": "Anthropic has merged Project Glasswing into a tiered access program for its advanced cyber LLMs, including Opus, Sonnet, and Mythos."
+    },
+    {
+      "title": "US posts $10 million reward for accused Chinese \u2018Hafnium\u2019 hacker",
+      "link": "https://therecord.media/accused-hafnium-hacker-zhang-yu-10million-reward",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-07T19:50:00+00:00",
+      "summary": "U.S. officials say Zhang Yu was a prominent figure in the Hafnium campaign, which saw hackers breach thousands of computers and steal troves of documents."
+    },
+    {
+      "title": "OpenAI Agent Escape Causes Wikimedia Service Outage",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-07T19:34:08+00:00",
+      "summary": "Autonomous agents also tried to abuse other websites and services hosted by the foundation, using them as proxies for unauthorized activities."
+    },
+    {
+      "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
+      "link": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
       "source": "The Hacker News",
       "category": "cybersecurity",
-      "published": "2026-10-07T06:57:54+00:00",
-      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware called LunexStealer ("
+      "published": "2026-10-07T18:48:17+00:00",
+      "summary": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google said on October 6. Google's own systems were not breached, but any domai"
+    },
+    {
+      "title": "$11 million plan for psychological support at Cyber Command gets fresh boost from lawmakers",
+      "link": "https://therecord.media/cyber-command-mental-health-support-program-bipartisan-letters",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-07T18:35:00+00:00",
+      "summary": "Lawmakers who oversee military cyber policy as well as the Fort Meade, Maryland, hub for those agencies say an $11 million mental health program should be locked in to defense spending legislation."
+    },
+    {
+      "title": "Arizona courts say hackers stole info on more than 1.3 million people",
+      "link": "https://therecord.media/arizona-courts-say-hackers-stole-info-on-over-1-million",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-07T18:31:00+00:00",
+      "summary": "The investigation into the incident revealed cybercriminals were able to breach the Fines/Fees and Restitution Enforcement (FARE) Program, a statewide program that helps the court collect outstanding debts tied to traffi"
+    },
+    {
+      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
+      "link": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-07T17:43:20+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts. The campaign has been codenamed "
+    },
+    {
+      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
+      "link": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-07T16:17:44+00:00",
+      "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to "
+    },
+    {
+      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
+      "link": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-07T15:34:53+00:00",
+      "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is availabl"
+    },
+    {
+      "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
+      "link": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-07T15:33:51+00:00",
+      "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurr"
+    },
+    {
+      "title": "Oklahoma judge\u2019s Flock ruling shows the power of Supreme Court\u2019s digital evidence decision",
+      "link": "https://therecord.media/oklahoma-flock-ruing-supreme-court-chatrie-decision",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-07T15:00:00+00:00",
+      "summary": "How a recent Supreme Court decision on geofencing influenced a federal judge to toss a sheriff's Flock camera evidence in a drug trafficking case."
+    },
+    {
+      "title": "Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)",
+      "link": "https://isc.sans.edu/diary/rss/33406",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-07T14:59:33+00:00",
+      "summary": "On October 5th, Atlassian published patches&#;x26;#;xc2;&#;x26;#;xa0;for multiple products to fix an \"Arbitrary File Access\" vulnerability &#;x26;#;x5b;CVE-2026-21589&#;x26;#;x5d;. An attacker can read arbitrary files in"
+    },
+    {
+      "title": "Cyber experts call on CISA to create mandatory federal OT rules",
+      "link": "https://therecord.media/cyber-experts-call-on-cisa-require-ot-security",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-07T14:03:00+00:00",
+      "summary": "The Operational Technology Cybersecurity Coalition released a white paper urging the CISA to create a new directive centered around operational technology, which is used to monitor and control critical infrastructure."
+    },
+    {
+      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "published": "2026-10-07T13:48:45+00:00",
+      "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. Kreb"
+    },
+    {
+      "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+      "link": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-07T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular w"
+    },
+    {
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "link": "https://openai.com/index/teens-learn-and-plan",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-07T12:00:00+00:00",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
+    },
+    {
+      "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
+      "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-07T11:57:05+00:00",
+      "summary": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually h"
+    },
+    {
+      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
+      "link": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-07T11:56:56+00:00",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls"
+    },
+    {
+      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
+      "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-07T11:49:26+00:00",
+      "summary": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions. The arbitrary file access flaw, t"
+    },
+    {
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "link": "https://openai.com/index/radisson",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-07T07:00:00+00:00",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
     },
     {
       "title": "DIBench: Benchmarking Decision Integrity of GUI-based Mobile Agents Under Deceptive Injections",
@@ -165,172 +325,12 @@
       "summary": ""
     },
     {
-      "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-06T20:32:58+00:00",
-      "summary": "Threat actors are now hiding payloads by using DNS TXT records and browser cache pre-fetching, making it tougher to spot early attack stages."
-    },
-    {
-      "title": "Critical Healthcare Systems Aren't Quantum-Ready",
-      "link": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-06T20:30:27+00:00",
-      "summary": "A study of 2.5 million devices across 50 healthcare organization suggests the sector has a long way to go in getting ready for the post-quantum cryptography era."
-    },
-    {
-      "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
-      "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-06T18:38:55+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatG"
-    },
-    {
-      "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
-      "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-06T18:24:25+00:00",
-      "summary": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detection. Threat actors ar"
-    },
-    {
-      "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps",
-      "link": "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-06T17:56:29+00:00",
-      "summary": "The situation illustrates a trend toward using AI and deterministic validation to identify flaws and exploitability, and provide a risk assessment."
-    },
-    {
-      "title": "IANS' Kakolowski: How AI Is Reshaping CISO Budgets & Security Teams",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-06T17:15:24+00:00",
-      "summary": "In this video interview, Nick Kakolowski, senior director for CISO research at IANS, talks AI: budgets, ROI, and changes inside security teams."
-    },
-    {
-      "title": "'BigDiskBuster' Leaves Microsoft Defender Running While Blocking Updates",
-      "link": "https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-06T16:59:24+00:00",
-      "summary": "Not quite an EDR-killer, but the proof-of-concept cyber technique creates a silent virus detection gap while service runs normally, no exploit required."
-    },
-    {
-      "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
-      "link": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-06T16:40:36+00:00",
-      "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from"
-    },
-    {
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "link": "https://openai.com/index/atlassian-partnership",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "link": "https://openai.com/index/gpt-6-for-everyone",
       "source": "OpenAI News",
       "category": "ai",
-      "published": "2026-10-06T16:00:00+00:00",
-      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
-    },
-    {
-      "title": "Alleged ATM malware creator appears in Nebraska court after arrest",
-      "link": "https://therecord.media/atm-malware-creator-appears-in-nebraska-court",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-06T15:53:00+00:00",
-      "summary": "Aguirre was added to the FBI\u2019s \u201cTop 10 Most Wanted Fugitives\u201d list in March, becoming the first cybercriminal added to the list."
-    },
-    {
-      "title": "South Korean officials believe AI agents were used to hack several banks",
-      "link": "https://therecord.media/south-korean-bank-hacks-ai-agents",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-06T15:29:22+00:00",
-      "summary": "The personal data of at least 68,000 people was reportedly exposed in breaches of at least seven financial institutions, with officials saying they believe a Chinese cybersecurity tool was used to hack the banks\u2019 systems"
-    },
-    {
-      "title": "Osaka Metropolitan University cancels classes after suspected ransomware attack",
-      "link": "https://therecord.media/osaka-university-cancels-classes-ransomware",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-06T14:52:00+00:00",
-      "summary": "Osaka Metropolitan University said on Tuesday that the outage left its internal network, email and a range of administrative and academic systems unavailable."
-    },
-    {
-      "title": "ClickFix campaign in Ukraine compromises over 100 websites to spread Lunex malware",
-      "link": "https://therecord.media/clickfix-campaign-ukraine-lunex-stealer",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-06T13:17:00+00:00",
-      "summary": "CERT-UA found fake Cloudflare verification pages that led visitors into a now-familiar ClickFix trap. This time the goal was to infect machines with an infostealer."
-    },
-    {
-      "title": "More RMM Tools In the Wild, (Tue, Oct 6th)",
-      "link": "https://isc.sans.edu/diary/rss/33400",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-06T13:16:02+00:00",
-      "summary": "It seems that a trend started&#xe2;&#x80;&#xa6; I continue my journey discovering more RMM (\"Remote Management & Monitoring\") tools abused by threat actors! A few days ago, I wrote a diary[1] about ScreenConnect used in "
-    },
-    {
-      "title": "The Download: 10 climate tech companies to watch",
-      "link": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-06T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together "
-    },
-    {
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "link": "https://openai.com/index/jump-trading",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-06T12:00:00+00:00",
-      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
-    },
-    {
-      "title": "Sharing AI progress in mathematics",
-      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-06T12:00:00+00:00",
-      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
-    },
-    {
-      "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
-      "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-06T11:57:00+00:00",
-      "summary": "A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows before"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, October 6th, 2026 https://isc.sans.edu/podcastdetail/10124, (Tue, Oct 6th)",
-      "link": "https://isc.sans.edu/diary/rss/33402",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-06T11:45:11+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
-      "link": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-06T11:26:25+00:00",
-      "summary": "The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool, an"
-    },
-    {
-      "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
-      "link": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-06T11:02:30+00:00",
-      "summary": "In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and enterpri"
+      "published": "2026-10-07T00:00:00+00:00",
+      "summary": "GPT\u20116 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
     }
   ]
 }
