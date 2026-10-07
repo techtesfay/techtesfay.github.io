@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T02:56:50.993268+00:00",
+  "generated_at": "2026-10-07T12:09:57.755915+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,150 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
+      "link": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-07T08:07:38+00:00",
+      "summary": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company "
+    },
+    {
+      "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
+      "link": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-07T06:57:54+00:00",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware called LunexStealer ("
+    },
+    {
+      "title": "DIBench: Benchmarking Decision Integrity of GUI-based Mobile Agents Under Deceptive Injections",
+      "link": "https://arxiv.org/abs/2610.06898",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-07T04:00:00+00:00",
+      "summary": "arXiv:2610.06898v1 Announce Type: new Abstract: As GUI-based mobile agents rapidly progress, rigorous safety evaluation of their autonomous decision-making in realistic app interfaces becomes increasingly critical. Exist"
+    },
+    {
+      "title": "APEX: Active Protection at Execution Boundaries for LLM Agents",
+      "link": "https://arxiv.org/abs/2610.06966",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-07T04:00:00+00:00",
+      "summary": "arXiv:2610.06966v1 Announce Type: new Abstract: Indirect prompt injection (IPI) hides adversarial instructions in content that large language model (LLM) agents read at runtime. As agents compose heterogeneous capability"
+    },
+    {
+      "title": "TARE: Weigh a Never-Poisoned Twin Before Reading Backdoor-Defense Costs",
+      "link": "https://arxiv.org/abs/2610.06994",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-07T04:00:00+00:00",
+      "summary": "arXiv:2610.06994v1 Announce Type: new Abstract: Backdoor-defense leaderboards print a clean-accuracy drop and read it as removal cost. Measured on the poisoned victim alone, the drop cannot separate removal from what the"
+    },
+    {
+      "title": "Which Image Property Carries the Jailbreak? A Controlled Dissection of Image-to-Text Jailbreaks",
+      "link": "https://arxiv.org/abs/2610.07009",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-07T04:00:00+00:00",
+      "summary": "arXiv:2610.07009v1 Announce Type: new Abstract: Image-to-text jailbreaks place harmful intent in text, image content, or the relationship between them. We examine image-side factors across four published attack families "
+    },
+    {
+      "title": "Towards a Unified Misuse Monitoring Benchmark",
+      "link": "https://arxiv.org/abs/2610.07089",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-07T04:00:00+00:00",
+      "summary": "arXiv:2610.07089v1 Announce Type: new Abstract: LLM agents increasingly act in multi-actor environments, exposing them to misuse from multiple sources: decomposition attacks, where a harmful request is split into innocuo"
+    },
+    {
+      "title": "Jailbreaking Open-Weight LLMs via Random Embedding Perturbations",
+      "link": "https://arxiv.org/abs/2610.07125",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-07T04:00:00+00:00",
+      "summary": "arXiv:2610.07125v1 Announce Type: new Abstract: While open-weight models have enjoyed steady progress in capabilities and wide adoption across multiple domains, their safety remains an important concern. One key feature "
+    },
+    {
+      "title": "Efficient Auditing of Adversarial AI Agent Behavior from Agent Traces",
+      "link": "https://arxiv.org/abs/2610.07256",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-07T04:00:00+00:00",
+      "summary": "arXiv:2610.07256v1 Announce Type: new Abstract: AI agents powered by large language models (LLMs) can perform complex tasks but may harm the systems they operate in, either intentionally or unintentionally. Existing agen"
+    },
+    {
+      "title": "Lineage-Aware Memory Governance: A Derivation-Gated Framework for Privacy-Preserving Column-Level Access Control in Enterprise AI Agents",
+      "link": "https://arxiv.org/abs/2610.07258",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-07T04:00:00+00:00",
+      "summary": "arXiv:2610.07258v1 Announce Type: new Abstract: Enterprise AI agents that share a memory store face two unaddressed risks: sensitive data can leak through legitimately computed results the requester could not derive, and"
+    },
+    {
+      "title": "Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery",
+      "link": "https://arxiv.org/abs/2610.03872",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-07T04:00:00+00:00",
+      "summary": "arXiv:2610.03872v1 Announce Type: new Abstract: AI agents are becoming increasingly capable of generating scientific code, but generating code is not the same as improving the algorithms behind it. For numerical solvers,"
+    },
+    {
+      "title": "REACT: Physically and Chemically Consistent Reconstruction of Marine Active Tracers",
+      "link": "https://arxiv.org/abs/2610.03888",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-07T04:00:00+00:00",
+      "summary": "arXiv:2610.03888v1 Announce Type: new Abstract: Reconstructing global sea surface pH from sparse observations is critical for monitoring ocean acidification and understanding marine carbon cycling. Traditional assimilati"
+    },
+    {
+      "title": "Proxy Confidence: Auditing Black-Box LLM Agents with a Surrogate's Log-Probabilities",
+      "link": "https://arxiv.org/abs/2610.03894",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-07T04:00:00+00:00",
+      "summary": "arXiv:2610.03894v1 Announce Type: new Abstract: A deployed LLM agent emits tool calls, queries, and code that can be silently wrong -- by the time the error surfaces, the action has run. Frontier chat APIs hide the model"
+    },
+    {
+      "title": "SGAnalog: An End-to-End Circuit Benchmark from Open-Source Silicon Tapeouts",
+      "link": "https://arxiv.org/abs/2610.03934",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-07T04:00:00+00:00",
+      "summary": "arXiv:2610.03934v1 Announce Type: new Abstract: Existing analog integrated circuit design benchmarks make two questions hard to answer: whether a model has learned transferable circuit skills rather than recalled familia"
+    },
+    {
+      "title": "MLLMs Fail to Refuse when Using Tools Agentically",
+      "link": "https://arxiv.org/abs/2610.03938",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-07T04:00:00+00:00",
+      "summary": "arXiv:2610.03938v1 Announce Type: new Abstract: Agentic multimodal large language models (MLLMs) have recently pushed the frontier of visual reasoning by calling tools such as zooming and tagging. Despite the recent stro"
+    },
+    {
+      "title": "Retrieval-Augmented Large Language Model Decision-Making for Autonomous Driving Guided by Chinese Philosophical Wisdom",
+      "link": "https://arxiv.org/abs/2610.03948",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-07T04:00:00+00:00",
+      "summary": "arXiv:2610.03948v1 Announce Type: new Abstract: Autonomous driving decision systems must balance safety, efficiency, and social norms in complex traffic interactions. Philosophical and ethical considerations have receive"
+    },
+    {
+      "title": "LatentQuant: Preserving the Policy-Facing Latent Contract under NVFP4 VAE Quantization",
+      "link": "https://arxiv.org/abs/2610.03959",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-07T04:00:00+00:00",
+      "summary": "arXiv:2610.03959v1 Announce Type: new Abstract: Recent world action models (WAMs) reuse pretrained video VAEs whose encoder latents directly condition downstream action policies. Quantization must therefore preserve not "
+    },
+    {
+      "title": "ROAR: Unifying Runs across Heterogeneous AI-Driven Research Systems",
+      "link": "https://arxiv.org/abs/2610.03966",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-07T04:00:00+00:00",
+      "summary": "arXiv:2610.03966v1 Announce Type: new Abstract: Each run of an AI-driven research system (ADRS) is an expensive search over a vast solution space, and dependable evaluation requires many runs, making run data both costly"
+    },
     {
       "title": "ISC Stormcast For Wednesday, October 7th, 2026 https://isc.sans.edu/podcastdetail/10126, (Wed, Oct 7th)",
       "link": "https://isc.sans.edu/diary/rss/33404",
@@ -187,150 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-10-06T11:02:30+00:00",
       "summary": "In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and enterpri"
-    },
-    {
-      "title": "2026 Climate Tech Companies to Watch",
-      "link": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-06T10:35:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Here\u2019s how our climate team picked 10 promising companies to watch",
-      "link": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-06T10:35:00+00:00",
-      "summary": "As the team at MIT Technology Review set out to choose companies for this year\u2019s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling th"
-    },
-    {
-      "title": "WeLion New Energy and its semi-solid-state batteries",
-      "link": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-06T10:35:00+00:00",
-      "summary": "WeLion New Energy is on a quest to make safer, better batteries. The company\u2019s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and dr"
-    },
-    {
-      "title": "Form Energy and its iron batteries",
-      "link": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-06T10:35:00+00:00",
-      "summary": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce el"
-    },
-    {
-      "title": "X-energy and its helium-cooled nuclear reactors",
-      "link": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-06T10:35:00+00:00",
-      "summary": "X-energy is developing small modular reactors to satisfy some of the planet\u2019s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and c"
-    },
-    {
-      "title": "Energy Dome and its carbon dioxide batteries",
-      "link": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-06T10:35:00+00:00",
-      "summary": "There\u2019s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up "
-    },
-    {
-      "title": "Advancing computer use with Ironclad",
-      "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-06T10:00:00+00:00",
-      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
-    },
-    {
-      "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
-      "link": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-06T09:21:47+00:00",
-      "summary": "Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software. The change, in effect since October 1, means researchers can no longer submit security flaws in the "
-    },
-    {
-      "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
-      "link": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-06T06:58:56+00:00",
-      "summary": "A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product's web application root directory. The attacker must alr"
-    },
-    {
-      "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
-      "link": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-06T06:56:57+00:00",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has removed an Accenture contractor for their alleged role in a ShinyHunters-breach that led to the theft of personal details of thousands of bureau employees. That's accord"
-    },
-    {
-      "title": "Shares in British clothing company ASOS dive after hackers apparently send push notification",
-      "link": "https://therecord.media/asos-push-notification-apparently-sent-by-hackers",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-06T04:00:00+00:00",
-      "summary": "Several mysteries surround what appeared to be an unauthorized push notification sent to customers of London-based clothing company ASOS."
-    },
-    {
-      "title": "Control OSWorld: An AI Control Environment for GUI Computer Use Agents",
-      "link": "https://arxiv.org/abs/2610.03818",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-06T04:00:00+00:00",
-      "summary": "arXiv:2610.03818v1 Announce Type: new Abstract: AI agents that operate a computer through its graphical user interface (GUI) are being widely deployed. AI control studies how to prevent an AI system from causing harm eve"
-    },
-    {
-      "title": "From Requirements to Attack Trees: Grounded LLM Agents for Design-Time Security Review",
-      "link": "https://arxiv.org/abs/2610.03820",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-06T04:00:00+00:00",
-      "summary": "arXiv:2610.03820v1 Announce Type: new Abstract: Design-level security weaknesses can arise from requirements, trust assumptions, missing controls, and data flows before implementation begins. Existing security practices "
-    },
-    {
-      "title": "Beware EviLLM: Enabling Vulnerability Injection via Large Language Models",
-      "link": "https://arxiv.org/abs/2610.03857",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-06T04:00:00+00:00",
-      "summary": "arXiv:2610.03857v1 Announce Type: new Abstract: Advances in large language models (LLMs) have enabled AI-driven code generation from natural language specifications, introducing new attack surfaces for injecting vulnerab"
-    },
-    {
-      "title": "Adaptive Co-Serving LLM Watermarking on Modern Inference Engines",
-      "link": "https://arxiv.org/abs/2610.03955",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-06T04:00:00+00:00",
-      "summary": "arXiv:2610.03955v1 Announce Type: new Abstract: Large language model (LLM) watermarking is important for ownership verification and intellectual property protection. However, existing approaches focus on algorithmic desi"
-    },
-    {
-      "title": "Localize-and-Detect: Auditing Task-Level Poisoning in Instruction-Tuned Models",
-      "link": "https://arxiv.org/abs/2610.03960",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-06T04:00:00+00:00",
-      "summary": "arXiv:2610.03960v1 Announce Type: new Abstract: Instruction fine-tuning adapts a pretrained language model to follow instructions by training it on instruction--response pairs from a collection of tasks, such as summariz"
-    },
-    {
-      "title": "SCRM: An Actionable Framework for Space Cyber Risk Management",
-      "link": "https://arxiv.org/abs/2610.03970",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-06T04:00:00+00:00",
-      "summary": "arXiv:2610.03970v1 Announce Type: new Abstract: Space infrastructures play critical roles in modern society, including satellite communications (SATCOM). Like the Internet, space infrastructures are vulnerable to cyber a"
-    },
-    {
-      "title": "SERA-IDS: Structured Experience Retrieval-Augmented Intrusion Detection with Small Language Models",
-      "link": "https://arxiv.org/abs/2610.03999",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-06T04:00:00+00:00",
-      "summary": "arXiv:2610.03999v1 Announce Type: new Abstract: Large language models (LLMs) offer a flexible approach to network intrusion detection, but direct classification of numerical flow records can be unreliable without traffic"
     }
   ]
 }
