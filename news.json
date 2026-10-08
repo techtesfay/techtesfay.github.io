@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T03:14:04.591932+00:00",
+  "generated_at": "2026-10-08T12:20:30.545808+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,222 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+      "link": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-08T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. AI breakthroughs in robotics won\u2019t change your life any time soon The hype around "
+    },
+    {
+      "title": "Writing the Next Chapter",
+      "link": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-08T12:00:00+00:00",
+      "summary": "Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share."
+    },
+    {
+      "title": "Major Yandex data center in Russia hit by Ukrainian drone strike",
+      "link": "https://therecord.media/yandex-russia-drone-ukraine",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-08T12:00:00+00:00",
+      "summary": "A drone strike on a large Yandex data center caused a significant disruption to the Russian tech giant's network, with connectivity reportedly falling to around 70 percent of normal levels."
+    },
+    {
+      "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
+      "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-08T10:30:00+00:00",
+      "summary": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrast"
+    },
+    {
+      "title": "Why we\u2019re watching these climate tech companies",
+      "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-08T10:00:00+00:00",
+      "summary": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It\u2019s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting a"
+    },
+    {
+      "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
+      "link": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-08T09:46:32+00:00",
+      "summary": "Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys. \"The extensions masquerade as wallet po"
+    },
+    {
+      "title": "AI breakthroughs in robotics won\u2019t change your life any time soon",
+      "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-08T09:00:00+00:00",
+      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped li"
+    },
+    {
+      "title": "Building a safer path to autonomous industrial AI",
+      "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-08T08:17:32+00:00",
+      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex "
+    },
+    {
+      "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
+      "link": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-08T07:42:04+00:00",
+      "summary": "The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 2021 Microsoft Exchang"
+    },
+    {
+      "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
+      "link": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-08T07:41:44+00:00",
+      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the attackers to obtain decryptors while "
+    },
+    {
+      "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
+      "link": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-08T05:46:20+00:00",
+      "summary": "The npm package known as \"tensorlake,\" a TypeScript software development kit (SDK) for Tensorlake applications, sandboxes, and cloud services, was compromised as part of a ChainDrop / Shai-Hulud supply chain attack. The "
+    },
+    {
+      "title": "Adversarial RL for Port-Scan Evasion: Attacker Feature Visibility in Edge-Deployed IDS",
+      "link": "https://arxiv.org/abs/2610.08864",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-08T04:00:00+00:00",
+      "summary": "arXiv:2610.08864v1 Announce Type: new Abstract: Machine learning-based intrusion detection systems (IDS) are increasingly used in resource-constrained Internet of Things (IoT) environments, yet their robustness is often "
+    },
+    {
+      "title": "A Deployment-Aware Feasibility Framework for Machine Learning-Based IoT Intrusion Detection Across Edge, Fog, and Cloud Architectures",
+      "link": "https://arxiv.org/abs/2610.08867",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-08T04:00:00+00:00",
+      "summary": "arXiv:2610.08867v1 Announce Type: new Abstract: The rapid growth and heterogeneity of Internet of Things (IoT) environments have exposed fundamental limitations in traditional rule-based and signature-based intrusion det"
+    },
+    {
+      "title": "Visible-Spectrum Optical Covert Channels in Commodity Smart Lighting",
+      "link": "https://arxiv.org/abs/2610.08868",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-08T04:00:00+00:00",
+      "summary": "arXiv:2610.08868v1 Announce Type: new Abstract: Smart light-emitting diode (LED) bulbs are networked devices that produce information-carrying output. This study asks whether that light can carry digital data through cha"
+    },
+    {
+      "title": "CredLeakBench: Evaluating Credential Leakage and Recovery in LLM Agents",
+      "link": "https://arxiv.org/abs/2610.08871",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-08T04:00:00+00:00",
+      "summary": "arXiv:2610.08871v1 Announce Type: new Abstract: Language model agents are increasingly deployed to automate everyday digital chores from managing emails and social media to handling banking and bills allowing users to st"
+    },
+    {
+      "title": "Towards Verifying Neural Networks Against Multi-Parameter Bit-Flip Perturbations",
+      "link": "https://arxiv.org/abs/2610.08876",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-08T04:00:00+00:00",
+      "summary": "arXiv:2610.08876v1 Announce Type: new Abstract: Hardware faults can flip bits in the stored weights of a quantized neural network, potentially compromising its predictions. While such faults typically affect multiple par"
+    },
+    {
+      "title": "Contextualization of Third-Party Cloud Security Findings",
+      "link": "https://arxiv.org/abs/2610.08895",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-08T04:00:00+00:00",
+      "summary": "arXiv:2610.08895v1 Announce Type: new Abstract: Finding severity is the main driver of how security teams prioritize remediation. For third-party cloud security findings, that severity is static: the rule that raised the"
+    },
+    {
+      "title": "Multi-Aspect Runtime Verification for Simulation-Based V&V of LLM-Enabled Autonomous Agents",
+      "link": "https://arxiv.org/abs/2610.08928",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-08T04:00:00+00:00",
+      "summary": "arXiv:2610.08928v1 Announce Type: new Abstract: LLM-based agents are entering decision-support roles in defence staff work, where the obligations they must respect are already written down and binding, and where retraini"
+    },
+    {
+      "title": "ASPIRE: Agentic Safety & Prompt Injection Red-teaming Engine",
+      "link": "https://arxiv.org/abs/2610.08951",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-08T04:00:00+00:00",
+      "summary": "arXiv:2610.08951v1 Announce Type: new Abstract: LLM agents retrieve untrusted content and act through tools, creating indirect prompt-injection risks that can cause unauthorized actions or persistent state changes. Exist"
+    },
+    {
+      "title": "Adaptive Workflow Intelligence: A Cognitive Architecture for Context-Driven Enterprise Automation",
+      "link": "https://arxiv.org/abs/2610.08793",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-08T04:00:00+00:00",
+      "summary": "arXiv:2610.08793v1 Announce Type: new Abstract: Enterprise systems increasingly rely on automated workflows, yet many AI-driven solutions remain brittle under non-stationary conditions, evolving policies, and delayed ope"
+    },
+    {
+      "title": "Accelerating Floating-Point Satisfiability Solving via Gradient Normalization",
+      "link": "https://arxiv.org/abs/2610.08808",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-08T04:00:00+00:00",
+      "summary": "arXiv:2610.08808v1 Announce Type: new Abstract: Satisfiability Modulo Theories (SMT) solvers are foundational to software verification, program analysis, and compiler testing, particularly over the theory of Quantifier-F"
+    },
+    {
+      "title": "Route-Verify-Vote: Procedure-Conditioned Self-Consistency for Mixed-Domain Reasoning",
+      "link": "https://arxiv.org/abs/2610.08814",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-08T04:00:00+00:00",
+      "summary": "arXiv:2610.08814v1 Announce Type: new Abstract: Compositional generalization remains challenging when language models must combine familiar reasoning operations in unfamiliar ways. The Scenario-Based Commonsense Reasonin"
+    },
+    {
+      "title": "An Empirical Study of Agent Skills' Downstream Utility",
+      "link": "https://arxiv.org/abs/2610.08875",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-08T04:00:00+00:00",
+      "summary": "arXiv:2610.08875v1 Announce Type: new Abstract: Agent Skills package procedural guidance and resources for reuse, but a relevant Skill does not necessarily improve task performance. Existing studies characterize Skill co"
+    },
+    {
+      "title": "How Could AI Eliminate Humanity? A Failure-Mode Analysis of Civilizational Risk",
+      "link": "https://arxiv.org/abs/2610.08878",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-08T04:00:00+00:00",
+      "summary": "arXiv:2610.08878v1 Announce Type: new Abstract: This article develops a failure-mode framework for analyzing how advanced artificial intelligence could contribute to human extinction, irreversible civilizational collapse"
+    },
+    {
+      "title": "Humanize: Judgement Engineering for Agentic Coding",
+      "link": "https://arxiv.org/abs/2610.08900",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-08T04:00:00+00:00",
+      "summary": "arXiv:2610.08900v1 Announce Type: new Abstract: Agentic coding makes code generation cheap, but reliable completion remains difficult: the agent that writes the code is a weak judge of whether it is done. We present Huma"
+    },
+    {
+      "title": "Sequential Probabilistic Uncertainty Estimation for Parallel Multi-Agent Reasoning Systems",
+      "link": "https://arxiv.org/abs/2610.08901",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-08T04:00:00+00:00",
+      "summary": "arXiv:2610.08901v1 Announce Type: new Abstract: LLM-based multi-agent systems (MAS) have attracted growing attention for improving reasoning through interaction among multiple agents. In this work, we focus on parallel m"
+    },
+    {
+      "title": "Agent Plasticity: Measuring Self-Improvement Through Experience",
+      "link": "https://arxiv.org/abs/2610.08902",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-08T04:00:00+00:00",
+      "summary": "arXiv:2610.08902v1 Announce Type: new Abstract: AI agents increasingly operate in environments where they can diagnose failures and improve through experience, yet existing evaluations largely measure what an agent can d"
+    },
     {
       "title": "ISC Stormcast For Thursday, October 8th, 2026 https://isc.sans.edu/podcastdetail/10128, (Thu, Oct 8th)",
       "link": "https://isc.sans.edu/diary/rss/33408",
@@ -101,22 +317,6 @@
       "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to "
     },
     {
-      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
-      "link": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-07T15:34:53+00:00",
-      "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is availabl"
-    },
-    {
-      "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
-      "link": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-07T15:33:51+00:00",
-      "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurr"
-    },
-    {
       "title": "Oklahoma judge\u2019s Flock ruling shows the power of Supreme Court\u2019s digital evidence decision",
       "link": "https://therecord.media/oklahoma-flock-ruing-supreme-court-chatrie-decision",
       "source": "The Record",
@@ -131,206 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-10-07T14:59:33+00:00",
       "summary": "On October 5th, Atlassian published patches&#;x26;#;xc2;&#;x26;#;xa0;for multiple products to fix an \"Arbitrary File Access\" vulnerability &#;x26;#;x5b;CVE-2026-21589&#;x26;#;x5d;. An attacker can read arbitrary files in"
-    },
-    {
-      "title": "Cyber experts call on CISA to create mandatory federal OT rules",
-      "link": "https://therecord.media/cyber-experts-call-on-cisa-require-ot-security",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-07T14:03:00+00:00",
-      "summary": "The Operational Technology Cybersecurity Coalition released a white paper urging the CISA to create a new directive centered around operational technology, which is used to monitor and control critical infrastructure."
-    },
-    {
-      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-      "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-      "source": "Krebs on Security",
-      "category": "cybersecurity",
-      "published": "2026-10-07T13:48:45+00:00",
-      "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. Kreb"
-    },
-    {
-      "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
-      "link": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-07T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular w"
-    },
-    {
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "link": "https://openai.com/index/teens-learn-and-plan",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-07T12:00:00+00:00",
-      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
-    },
-    {
-      "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
-      "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-07T11:57:05+00:00",
-      "summary": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually h"
-    },
-    {
-      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
-      "link": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-07T11:56:56+00:00",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls"
-    },
-    {
-      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
-      "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-07T11:49:26+00:00",
-      "summary": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions. The arbitrary file access flaw, t"
-    },
-    {
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "link": "https://openai.com/index/radisson",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-07T07:00:00+00:00",
-      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
-    },
-    {
-      "title": "DIBench: Benchmarking Decision Integrity of GUI-based Mobile Agents Under Deceptive Injections",
-      "link": "https://arxiv.org/abs/2610.06898",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.06898v1 Announce Type: new Abstract: As GUI-based mobile agents rapidly progress, rigorous safety evaluation of their autonomous decision-making in realistic app interfaces becomes increasingly critical. Exist"
-    },
-    {
-      "title": "APEX: Active Protection at Execution Boundaries for LLM Agents",
-      "link": "https://arxiv.org/abs/2610.06966",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.06966v2 Announce Type: new Abstract: Indirect prompt injection (IPI) hides adversarial instructions in content that large language model (LLM) agents read at runtime. As agents compose heterogeneous capability"
-    },
-    {
-      "title": "TARE: Weigh a Never-Poisoned Twin Before Reading Backdoor-Defense Costs",
-      "link": "https://arxiv.org/abs/2610.06994",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.06994v1 Announce Type: new Abstract: Backdoor-defense leaderboards print a clean-accuracy drop and read it as removal cost. Measured on the poisoned victim alone, the drop cannot separate removal from what the"
-    },
-    {
-      "title": "Which Image Property Carries the Jailbreak? A Controlled Dissection of Image-to-Text Jailbreaks",
-      "link": "https://arxiv.org/abs/2610.07009",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.07009v1 Announce Type: new Abstract: Image-to-text jailbreaks place harmful intent in text, image content, or the relationship between them. We examine image-side factors across four published attack families "
-    },
-    {
-      "title": "Towards a Unified Misuse Monitoring Benchmark",
-      "link": "https://arxiv.org/abs/2610.07089",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.07089v1 Announce Type: new Abstract: LLM agents increasingly act in multi-actor environments, exposing them to misuse from multiple sources: decomposition attacks, where a harmful request is split into innocuo"
-    },
-    {
-      "title": "Jailbreaking Open-Weight LLMs via Random Embedding Perturbations",
-      "link": "https://arxiv.org/abs/2610.07125",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.07125v1 Announce Type: new Abstract: While open-weight models have enjoyed steady progress in capabilities and wide adoption across multiple domains, their safety remains an important concern. One key feature "
-    },
-    {
-      "title": "Efficient Auditing of Adversarial AI Agent Behavior from Agent Traces",
-      "link": "https://arxiv.org/abs/2610.07256",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.07256v1 Announce Type: new Abstract: AI agents powered by large language models (LLMs) can perform complex tasks but may harm the systems they operate in, either intentionally or unintentionally. Existing agen"
-    },
-    {
-      "title": "Lineage-Aware Memory Governance: A Derivation-Gated Framework for Privacy-Preserving Column-Level Access Control in Enterprise AI Agents",
-      "link": "https://arxiv.org/abs/2610.07258",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.07258v1 Announce Type: new Abstract: Enterprise AI agents that share a memory store face two unaddressed risks: sensitive data can leak through legitimately computed results the requester could not derive, and"
-    },
-    {
-      "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
-      "link": "https://arxiv.org/abs/2610.06910",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.06910v1 Announce Type: new Abstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-based game generation emerging as a parti"
-    },
-    {
-      "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
-      "link": "https://arxiv.org/abs/2610.06914",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.06914v1 Announce Type: new Abstract: Text2Dashboard is a DataBrain-specific prototype that turns natural-language analytic requests into inspectable dashboards. An installable Codex plugin and standalone Agent"
-    },
-    {
-      "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
-      "link": "https://arxiv.org/abs/2610.06917",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.06917v1 Announce Type: new Abstract: Prefill-decode disaggregation is becoming a common architecture for LLM serving because it separates two phases with distinct execution patterns and SLO objectives. Existin"
-    },
-    {
-      "title": "Anchor Divergence for Semantic Geometry in Contrastive Learning",
-      "link": "https://arxiv.org/abs/2610.06919",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.06919v1 Announce Type: new Abstract: This paper concerns how semantic context determines geometry in learned vector representations. Similarity is typically measured using cosine similarity, which provides a s"
-    },
-    {
-      "title": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
-      "link": "https://arxiv.org/abs/2610.06923",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.06923v1 Announce Type: new Abstract: Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across clinical stages, software environments and data modalitie"
-    },
-    {
-      "title": "Metonymic Circuits for Abstract Concept Grounding in Vision Transformers",
-      "link": "https://arxiv.org/abs/2610.06928",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.06928v1 Announce Type: new Abstract: We study how Vision Transformers ground abstract concepts (e.g., angry) when training data provide limited direct referential evidence. We hypothesize a metonymic grounding"
-    },
-    {
-      "title": "Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction",
-      "link": "https://arxiv.org/abs/2610.06964",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.06964v1 Announce Type: new Abstract: Large language model (LLM) agents have demonstrated strong capabilities in interactive environments, yet their ability to continually evolve from experience remains limited"
-    },
-    {
-      "title": "AegisFlow: A Multi-Agent Agentic AI Framework for Autonomous Remediation and Self-Healing in Fragile Data Ecosystems",
-      "link": "https://arxiv.org/abs/2610.06971",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.06971v1 Announce Type: new Abstract: Traditional data pipelines are notoriously brittle, often failing due to upstream schema drift, API contract changes, or website DOM modifications. Present observability to"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, October 7th, 2026 https://isc.sans.edu/podcastdetail/10126, (Wed, Oct 7th)",
-      "link": "https://isc.sans.edu/diary/rss/33404",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-07T02:00:02+00:00",
-      "summary": ""
     }
   ]
 }
