@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T22:20:44.136772+00:00",
+  "generated_at": "2026-10-08T03:14:04.591932+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "ISC Stormcast For Thursday, October 8th, 2026 https://isc.sans.edu/podcastdetail/10128, (Thu, Oct 8th)",
+      "link": "https://isc.sans.edu/diary/rss/33408",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-08T02:00:02+00:00",
+      "summary": ""
+    },
     {
       "title": "Australian Gov't Weighs Mandatory AI Incident Reporting",
       "link": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
@@ -202,7 +210,7 @@
       "source": "arXiv cs.CR",
       "category": "research",
       "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.06966v1 Announce Type: new Abstract: Indirect prompt injection (IPI) hides adversarial instructions in content that large language model (LLM) agents read at runtime. As agents compose heterogeneous capability"
+      "summary": "arXiv:2610.06966v2 Announce Type: new Abstract: Indirect prompt injection (IPI) hides adversarial instructions in content that large language model (LLM) agents read at runtime. As agents compose heterogeneous capability"
     },
     {
       "title": "TARE: Weigh a Never-Poisoned Twin Before Reading Backdoor-Defense Costs",
@@ -253,68 +261,68 @@
       "summary": "arXiv:2610.07258v1 Announce Type: new Abstract: Enterprise AI agents that share a memory store face two unaddressed risks: sensitive data can leak through legitimately computed results the requester could not derive, and"
     },
     {
-      "title": "Training Numerical Intelligence via Auto-Diagnosis and Skill Discovery",
-      "link": "https://arxiv.org/abs/2610.03872",
+      "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+      "link": "https://arxiv.org/abs/2610.06910",
       "source": "arXiv cs.AI",
       "category": "research",
       "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.03872v1 Announce Type: new Abstract: AI agents are becoming increasingly capable of generating scientific code, but generating code is not the same as improving the algorithms behind it. For numerical solvers,"
+      "summary": "arXiv:2610.06910v1 Announce Type: new Abstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-based game generation emerging as a parti"
     },
     {
-      "title": "REACT: Physically and Chemically Consistent Reconstruction of Marine Active Tracers",
-      "link": "https://arxiv.org/abs/2610.03888",
+      "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
+      "link": "https://arxiv.org/abs/2610.06914",
       "source": "arXiv cs.AI",
       "category": "research",
       "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.03888v1 Announce Type: new Abstract: Reconstructing global sea surface pH from sparse observations is critical for monitoring ocean acidification and understanding marine carbon cycling. Traditional assimilati"
+      "summary": "arXiv:2610.06914v1 Announce Type: new Abstract: Text2Dashboard is a DataBrain-specific prototype that turns natural-language analytic requests into inspectable dashboards. An installable Codex plugin and standalone Agent"
     },
     {
-      "title": "Proxy Confidence: Auditing Black-Box LLM Agents with a Surrogate's Log-Probabilities",
-      "link": "https://arxiv.org/abs/2610.03894",
+      "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
+      "link": "https://arxiv.org/abs/2610.06917",
       "source": "arXiv cs.AI",
       "category": "research",
       "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.03894v1 Announce Type: new Abstract: A deployed LLM agent emits tool calls, queries, and code that can be silently wrong -- by the time the error surfaces, the action has run. Frontier chat APIs hide the model"
+      "summary": "arXiv:2610.06917v1 Announce Type: new Abstract: Prefill-decode disaggregation is becoming a common architecture for LLM serving because it separates two phases with distinct execution patterns and SLO objectives. Existin"
     },
     {
-      "title": "SGAnalog: An End-to-End Circuit Benchmark from Open-Source Silicon Tapeouts",
-      "link": "https://arxiv.org/abs/2610.03934",
+      "title": "Anchor Divergence for Semantic Geometry in Contrastive Learning",
+      "link": "https://arxiv.org/abs/2610.06919",
       "source": "arXiv cs.AI",
       "category": "research",
       "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.03934v1 Announce Type: new Abstract: Existing analog integrated circuit design benchmarks make two questions hard to answer: whether a model has learned transferable circuit skills rather than recalled familia"
+      "summary": "arXiv:2610.06919v1 Announce Type: new Abstract: This paper concerns how semantic context determines geometry in learned vector representations. Similarity is typically measured using cosine similarity, which provides a s"
     },
     {
-      "title": "MLLMs Fail to Refuse when Using Tools Agentically",
-      "link": "https://arxiv.org/abs/2610.03938",
+      "title": "RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway",
+      "link": "https://arxiv.org/abs/2610.06923",
       "source": "arXiv cs.AI",
       "category": "research",
       "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.03938v1 Announce Type: new Abstract: Agentic multimodal large language models (MLLMs) have recently pushed the frontier of visual reasoning by calling tools such as zooming and tagging. Despite the recent stro"
+      "summary": "arXiv:2610.06923v1 Announce Type: new Abstract: Artificial intelligence has advanced individual radiotherapy tasks, yet these capabilities remain separated across clinical stages, software environments and data modalitie"
     },
     {
-      "title": "Retrieval-Augmented Large Language Model Decision-Making for Autonomous Driving Guided by Chinese Philosophical Wisdom",
-      "link": "https://arxiv.org/abs/2610.03948",
+      "title": "Metonymic Circuits for Abstract Concept Grounding in Vision Transformers",
+      "link": "https://arxiv.org/abs/2610.06928",
       "source": "arXiv cs.AI",
       "category": "research",
       "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.03948v1 Announce Type: new Abstract: Autonomous driving decision systems must balance safety, efficiency, and social norms in complex traffic interactions. Philosophical and ethical considerations have receive"
+      "summary": "arXiv:2610.06928v1 Announce Type: new Abstract: We study how Vision Transformers ground abstract concepts (e.g., angry) when training data provide limited direct referential evidence. We hypothesize a metonymic grounding"
     },
     {
-      "title": "LatentQuant: Preserving the Policy-Facing Latent Contract under NVFP4 VAE Quantization",
-      "link": "https://arxiv.org/abs/2610.03959",
+      "title": "Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction",
+      "link": "https://arxiv.org/abs/2610.06964",
       "source": "arXiv cs.AI",
       "category": "research",
       "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.03959v1 Announce Type: new Abstract: Recent world action models (WAMs) reuse pretrained video VAEs whose encoder latents directly condition downstream action policies. Quantization must therefore preserve not "
+      "summary": "arXiv:2610.06964v1 Announce Type: new Abstract: Large language model (LLM) agents have demonstrated strong capabilities in interactive environments, yet their ability to continually evolve from experience remains limited"
     },
     {
-      "title": "ROAR: Unifying Runs across Heterogeneous AI-Driven Research Systems",
-      "link": "https://arxiv.org/abs/2610.03966",
+      "title": "AegisFlow: A Multi-Agent Agentic AI Framework for Autonomous Remediation and Self-Healing in Fragile Data Ecosystems",
+      "link": "https://arxiv.org/abs/2610.06971",
       "source": "arXiv cs.AI",
       "category": "research",
       "published": "2026-10-07T04:00:00+00:00",
-      "summary": "arXiv:2610.03966v1 Announce Type: new Abstract: Each run of an AI-driven research system (ADRS) is an expensive search over a vast solution space, and dependable evaluation requires many runs, making run data both costly"
+      "summary": "arXiv:2610.06971v1 Announce Type: new Abstract: Traditional data pipelines are notoriously brittle, often failing due to upstream schema drift, API contract changes, or website DOM modifications. Present observability to"
     },
     {
       "title": "ISC Stormcast For Wednesday, October 7th, 2026 https://isc.sans.edu/podcastdetail/10126, (Wed, Oct 7th)",
@@ -323,14 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-10-07T02:00:02+00:00",
       "summary": ""
-    },
-    {
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "link": "https://openai.com/index/gpt-6-for-everyone",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-07T00:00:00+00:00",
-      "summary": "GPT\u20116 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
     }
   ]
 }
