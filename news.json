@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T12:10:38.316963+00:00",
+  "generated_at": "2026-10-09T21:55:51.374021+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,28 +13,156 @@
   ],
   "items": [
     {
-      "title": "Co-creator of Empire Market dark web marketplace given 40-year sentence",
-      "link": "https://therecord.media/co-creator-empire-dark-net-market-sentenced",
+      "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-09T20:58:32+00:00",
+      "summary": "The attack on the British retailer shows that compromising a single identity can lead to much deeper penetration of the corporate network."
+    },
+    {
+      "title": "AI Scramble Drives Cybersecurity M&A Boom",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-09T19:26:26+00:00",
+      "summary": "Welcome to another gangbuster year for strategic M&A activity in cyber, with 117 deals announced in the latest quarter. What's different: Many of the buyers are not your typical cybersecurity firms."
+    },
+    {
+      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-09T19:14:28+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories. \"Usi"
+    },
+    {
+      "title": "Japan confirms arrest of Russian Qilin operative, extradition to Germany",
+      "link": "https://therecord.media/japan-germany-ransomware-arrest",
       "source": "The Record",
       "category": "cybersecurity",
-      "published": "2026-10-10T00:55:00+00:00",
-      "summary": "Raheim Hamilton, 30, pleaded guilty earlier this year to a drug conspiracy charge and agreed to forfeit more than $100 million worth of Bitcoin and several properties in Virginia."
+      "published": "2026-10-09T18:45:00+00:00",
+      "summary": "Japan\u2019s National Police Agency confirmed the arrest and extradition to Germany of a Russian national accused of being involved in the Qilin ransomware gang."
     },
     {
-      "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
-      "link": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
+      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+      "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
       "source": "The Hacker News",
       "category": "cybersecurity",
-      "published": "2026-10-09T11:30:00+00:00",
-      "summary": "As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a different era. The \"Horizons of Identity Security\" report from SailP"
+      "published": "2026-10-09T17:45:26+00:00",
+      "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion group that said in September it had breached the FBI's jobs p"
     },
     {
-      "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
-      "link": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
+      "title": "What We Missed: FBI Strikes Back at ShinyHunters",
+      "link": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-09T17:21:00+00:00",
+      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the arrest of a suspected ShinyHunters operative to the compromise of a Pentagon-run data center."
+    },
+    {
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
       "source": "The Hacker News",
       "category": "cybersecurity",
-      "published": "2026-10-09T09:03:24+00:00",
-      "summary": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then take that address ove"
+      "published": "2026-10-09T16:29:55+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, ad"
+    },
+    {
+      "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
+      "link": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-09T16:25:05+00:00",
+      "summary": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks."
+    },
+    {
+      "title": "Hundreds of thousands impacted by data breach at biosensor firm iRhythm",
+      "link": "https://therecord.media/irhythm-data-breach-reports",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-09T16:06:00+00:00",
+      "summary": "A company known for wearable cardiac sensors, iRhythm, has begun notifying states of the impact of a data breach from the summer."
+    },
+    {
+      "title": "Leader of vast money mule operation that laundered cybercriminal proceeds pleads guilty",
+      "link": "https://therecord.media/leader-of-money-mule-operation-for-cybercriminals-pleads-guilty",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-09T16:06:00+00:00",
+      "summary": "Oleg Korniev, a 42-year-old dual citizen of Ukraine and Russia, was a principal of Your Mule Cashout, or \u201cYMCO,\u201d which from 2007 until 2014 set up a sophisticated network of mules in the U.S. and Europe."
+    },
+    {
+      "title": "FBI touts another ShinyHunters arrest in response to data breach",
+      "link": "https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-09T15:41:00+00:00",
+      "summary": "\u201cWe will continue to work closely with our partners to disrupt what\u2019s left of the ShinyHunters group and their associates, no matter where they operate,\" FBI Director Kash Patel said."
+    },
+    {
+      "title": "Belarusian hacktivists admit to 2023 breach of Russian state healthcare network",
+      "link": "https://therecord.media/belarusian-cyber-partisans-claim-2023-russia-healthcare-hack",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-09T14:40:00+00:00",
+      "summary": "The Belarusian Cyber Partisans concurred with Russian research that they indeed spent months inside the network for the Moscow Department of Health."
+    },
+    {
+      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
+      "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-09T13:22:53+00:00",
+      "summary": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California company misled buyers abou"
+    },
+    {
+      "title": "Social Engineering AI Agents: The New BEC for 2026",
+      "link": "https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-09T13:00:00+00:00",
+      "summary": "As AI agents gain authority over business systems, attackers can manipulate them like business email compromise (BEC) victims."
+    },
+    {
+      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
+      "link": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-09T12:59:22+00:00",
+      "summary": "Security researchers have published a full working exploit for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves the connection. AnyDesk patched the "
+    },
+    {
+      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+      "link": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-09T12:47:28+00:00",
+      "summary": "Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI). \"It's an opt-in service informed by our experience using Claude t"
+    },
+    {
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+      "link": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-09T12:47:26+00:00",
+      "summary": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are"
+    },
+    {
+      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
+      "link": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-09T12:21:51+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked threat actor known as F"
+    },
+    {
+      "title": "The Download: AI\u2019s refusal problem and weight-loss drug side effects",
+      "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-09T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. We\u2019re putting too much faith in AI\u2019s ability to say no Today\u2019s AI models are train"
     },
     {
       "title": "We\u2019re putting too much faith in AI\u2019s ability to say no",
@@ -61,22 +189,6 @@
       "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological"
     },
     {
-      "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
-      "link": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-09T08:26:17+00:00",
-      "summary": "Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patched. The contest pays researchers to show working exploits and"
-    },
-    {
-      "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
-      "link": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-09T08:11:33+00:00",
-      "summary": "Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain conditions. \"CVE-2026-1"
-    },
-    {
       "title": "ISC Stormcast For Friday, October 9th, 2026 https://isc.sans.edu/podcastdetail/10130, (Fri, Oct 9th)",
       "link": "https://isc.sans.edu/diary/rss/33412",
       "source": "SANS Internet Storm Center",
@@ -93,12 +205,12 @@
       "summary": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
     },
     {
-      "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
-      "link": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-09T06:39:29+00:00",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) and Department of Justice (DoJ) have announced the disruption of malicious tools used by a China-linked advanced persistent threat group known as Flax Typhoon. To that end, "
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-09T07:00:00+00:00",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
     },
     {
       "title": "Certified Corruption Budgets: Anytime-Valid Leaderboard Claims under Adaptive Rigging",
@@ -219,118 +331,6 @@
       "category": "research",
       "published": "2026-10-09T04:00:00+00:00",
       "summary": "arXiv:2610.10786v1 Announce Type: new Abstract: Planning is increasingly important for long-horizon agents, where successful execution requires coordinating subgoals, tool use, and intermediate outcomes over many steps. "
-    },
-    {
-      "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
-      "link": "https://arxiv.org/abs/2610.10805",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-09T04:00:00+00:00",
-      "summary": "arXiv:2610.10805v1 Announce Type: new Abstract: As AI systems increasingly interact with people and make decisions about them, understanding human interpretations becomes an important part of developing human-centered AI"
-    },
-    {
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-09T00:08:24+00:00",
-      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscop"
-    },
-    {
-      "title": "'AgentCorruption' Puts AWS Environments At Risk With Single Prompt",
-      "link": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-08T20:39:44+00:00",
-      "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could allow an attacker to use one AI chatbot to take over an organization's entire fleet."
-    },
-    {
-      "title": "Lawmakers warn Google could expose Spirit Airlines data in $10 million AI training deal",
-      "link": "https://therecord.media/lawmakers-warn-of-google-spirit-ai-training-deal",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-08T20:27:00+00:00",
-      "summary": "The proposed sale would include about 100 million emails, 500 million Microsoft Teams messages, employment contracts, employee and timecard records and payroll and tax information, Rep. Steven Horsford (D-NV) said in a p"
-    },
-    {
-      "title": "International coalition seizes tools used by cyber firm behind Flax Typhoon",
-      "link": "https://therecord.media/flax-typhoon-china-tools-integrity-tech-international-takedown",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-08T19:20:00+00:00",
-      "summary": "The U.S. and other nations took down digital tools and infrastructure by Beijing-based Integrity Tech that allowed \"widespread vulnerability scanning and, in some cases, intrusions\" as part of the Flax Typhoon campaign."
-    },
-    {
-      "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-08T19:08:16+00:00",
-      "summary": "The first cybercriminal to ever make the FBI's \"10 Most Wanted Fugitives\" list allegedly infused Tren de Aragua's violent criminal operations with cash."
-    },
-    {
-      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
-      "link": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-08T18:32:21+00:00",
-      "summary": "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agencies in 6 other count"
-    },
-    {
-      "title": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-08T18:01:50+00:00",
-      "summary": "Cyber-espionage actor UAC-0099 has been steadily refining its flagship dropper in campaigns targeting Ukrainian organizations."
-    },
-    {
-      "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
-      "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-08T17:58:02+00:00",
-      "summary": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, kee"
-    },
-    {
-      "title": "DOJ charges ransomware recovery CEO for secretly paying hackers",
-      "link": "https://therecord.media/ransomware-recovery-charges-doj",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-08T17:00:00+00:00",
-      "summary": "The owner of a ransomware recovery firm was hit with wire fraud charges for allegedly making secret ransom payments while overcharging the victims of attacks."
-    },
-    {
-      "title": "ASOS: Hackers tricked way into employee account before sending rogue push notification",
-      "link": "https://therecord.media/asos-says-hackers-tricked-employee-access-push-notification",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-08T16:57:00+00:00",
-      "summary": "The company said its investigation, carried out with external experts, found the attackers had accessed \u201csome personal information, including names and contact details, and certain non-personal account related informatio"
-    },
-    {
-      "title": "Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, (Thu, Oct 8th)",
-      "link": "https://isc.sans.edu/diary/rss/33410",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-08T16:52:53+00:00",
-      "summary": "We just did a major update to FOR577 and added a lot of new material on day 5 about investigating AI usage in incident response. In the new material we dicsuss 8&#;x26;#;xc2;&#;x26;#;xa0;of the most popular AI coding ass"
-    },
-    {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "link": "https://openai.com/index/oracle",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-08T16:00:00+00:00",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
-    },
-    {
-      "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
-      "link": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-08T15:45:56+00:00",
-      "summary": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said. The Tokyo-based center, whic"
     }
   ]
 }
