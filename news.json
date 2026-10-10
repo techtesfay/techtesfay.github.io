@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T02:59:49.413599+00:00",
+  "generated_at": "2026-10-10T11:28:10.911224+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,86 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+      "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-10T09:18:45+00:00",
+      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and "
+    },
+    {
+      "title": "Why TLP should not replace your internal information classification, (Sat, Oct 10th)",
+      "link": "https://isc.sans.edu/diary/rss/33414",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-10T09:11:34+00:00",
+      "summary": "The Traffic Light Protocol (TLP)[1], which is now in its second incarnation, is a wonderful standard that enables one to easily communicate whether information may be shared further (and if so, how far)."
+    },
+    {
+      "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
+      "link": "https://arxiv.org/abs/2610.10541",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-10T04:00:00+00:00",
+      "summary": "arXiv:2610.10541v1 Announce Type: new Abstract: Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular metadata used before integration. In metadata-only Semantic"
+    },
+    {
+      "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+      "link": "https://arxiv.org/abs/2610.10549",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-10T04:00:00+00:00",
+      "summary": "arXiv:2610.10549v1 Announce Type: new Abstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and legal restrictions on e"
+    },
+    {
+      "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
+      "link": "https://arxiv.org/abs/2610.10590",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-10T04:00:00+00:00",
+      "summary": "arXiv:2610.10590v1 Announce Type: new Abstract: Tool-using agents repeatedly carry observations whose useful content can be much smaller than their original payload. We study agent-controlled forgetting: the acting model"
+    },
+    {
+      "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+      "link": "https://arxiv.org/abs/2610.10611",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-10T04:00:00+00:00",
+      "summary": "arXiv:2610.10611v1 Announce Type: new Abstract: Agentic AI systems can improve by searching longer, receiving additional support, or modifying how they propose and verify outputs. A performance score does not distinguish"
+    },
+    {
+      "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
+      "link": "https://arxiv.org/abs/2610.10629",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-10T04:00:00+00:00",
+      "summary": "arXiv:2610.10629v1 Announce Type: new Abstract: Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys the artefact a supervisor reviews: a named change, a rec"
+    },
+    {
+      "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
+      "link": "https://arxiv.org/abs/2610.10635",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-10T04:00:00+00:00",
+      "summary": "arXiv:2610.10635v1 Announce Type: new Abstract: Aerial vision-and-language navigation (VLN) agents are typically trained on detail-rich, trajectory-aligned commands, whereas users issue short, intent-driven instructions;"
+    },
+    {
+      "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
+      "link": "https://arxiv.org/abs/2610.10786",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-10T04:00:00+00:00",
+      "summary": "arXiv:2610.10786v1 Announce Type: new Abstract: Planning is increasingly important for long-horizon agents, where successful execution requires coordinating subgoals, tool use, and intermediate outcomes over many steps. "
+    },
+    {
+      "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
+      "link": "https://arxiv.org/abs/2610.10805",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-10T04:00:00+00:00",
+      "summary": "arXiv:2610.10805v1 Announce Type: new Abstract: As AI systems increasingly interact with people and make decisions about them, understanding human interpretations becomes an important part of developing human-centered AI"
+    },
     {
       "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
       "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
@@ -157,14 +237,6 @@
       "summary": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are"
     },
     {
-      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
-      "link": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-09T12:21:51+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked threat actor known as F"
-    },
-    {
       "title": "The Download: AI\u2019s refusal problem and weight-loss drug side effects",
       "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
       "source": "MIT Technology Review",
@@ -221,116 +293,44 @@
       "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
     },
     {
-      "title": "Certified Corruption Budgets: Anytime-Valid Leaderboard Claims under Adaptive Rigging",
-      "link": "https://arxiv.org/abs/2610.10597",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-09T04:00:00+00:00",
-      "summary": "arXiv:2610.10597v1 Announce Type: new Abstract: Public leaderboards for AI models are read continuously, and attackers can see every published standing. Vote rigging, selective disclosure of private variants, and benchma"
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-09T00:08:24+00:00",
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscop"
     },
     {
-      "title": "From Investigation Failures to Reliable SOC Agents: Understanding and Improving LLM-Based Alert Triage",
-      "link": "https://arxiv.org/abs/2610.10608",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-09T04:00:00+00:00",
-      "summary": "arXiv:2610.10608v1 Announce Type: new Abstract: Security operations centers (SOCs) must triage large volumes of alerts, most of which are benign, while missed attacks can remain uninvestigated. Tool-using large language "
+      "title": "'AgentCorruption' Puts AWS Environments at Risk With Single Prompt",
+      "link": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-08T20:39:44+00:00",
+      "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could have allowed an attacker to use one AI chatbot to take over an organization's entire fleet."
     },
     {
-      "title": "PyCache Trap: The Inspection-Execution Gap in Agent Skill Scanners",
-      "link": "https://arxiv.org/abs/2610.10612",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-09T04:00:00+00:00",
-      "summary": "arXiv:2610.10612v1 Announce Type: new Abstract: Agent skills combine instructions with executable resources, giving third-party packages access to an agent's runtime. Existing skill scanners inspect documentation and vis"
+      "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-08T19:08:16+00:00",
+      "summary": "The first cybercriminal to ever make the FBI's \"10 Most Wanted Fugitives\" list allegedly infused Tren de Aragua's violent criminal operations with cash."
     },
     {
-      "title": "MRCert: Towards Post-deployment Patch Robustness Certification for Adversarially Patched Samples via Type-specific Masking",
-      "link": "https://arxiv.org/abs/2610.10617",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-09T04:00:00+00:00",
-      "summary": "arXiv:2610.10617v1 Announce Type: new Abstract: In post-deployment time, inputs to deep learning models may or may not be adversarially patched. Patch robustness certification on such inputs within a patch bound can veri"
+      "title": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-08T18:01:50+00:00",
+      "summary": "Cyber-espionage actor UAC-0099 has been steadily refining its flagship dropper in campaigns targeting Ukrainian organizations."
     },
     {
-      "title": "When AI Finds Hidden Messages, Does It Report?",
-      "link": "https://arxiv.org/abs/2610.10620",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-09T04:00:00+00:00",
-      "summary": "arXiv:2610.10620v1 Announce Type: new Abstract: When an assistant encounters a message for another AI, does it tell its user? Four fixed model-provider deployments perform simulated source tasks in 1,280 ordinary-note an"
-    },
-    {
-      "title": "Safe at One Loop, Risky at Another: Aligning Safety Across Recurrent Depths in Looped Language Models",
-      "link": "https://arxiv.org/abs/2610.10625",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-09T04:00:00+00:00",
-      "summary": "arXiv:2610.10625v1 Announce Type: new Abstract: Looped Language Models (LoopLMs) provide a parameter efficient approach to scaling model capabilities through repeated use of shared parameters across recurrent steps. Sinc"
-    },
-    {
-      "title": "SoK: Failure Modes in Common Criteria Product Evaluation - A Taxonomy and Design-for-Evaluability Guidance",
-      "link": "https://arxiv.org/abs/2610.10644",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-09T04:00:00+00:00",
-      "summary": "arXiv:2610.10644v1 Announce Type: new Abstract: The Common Criteria (CC; ISO/IEC 15408) is the principal international framework for evaluating the security of IT products, and its certificates gate procurement across go"
-    },
-    {
-      "title": "DITTO: A Context-aware Pickle-based Pre-Trained Model Scanner for Effective Security Audits",
-      "link": "https://arxiv.org/abs/2610.10735",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-09T04:00:00+00:00",
-      "summary": "arXiv:2610.10735v1 Announce Type: new Abstract: Pre-trained models (PTMs) are widely distributed as serialized binaries, but their reuse often exposes software supply chains to deserialization attacks. Despite the emerge"
-    },
-    {
-      "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
-      "link": "https://arxiv.org/abs/2610.10541",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-09T04:00:00+00:00",
-      "summary": "arXiv:2610.10541v1 Announce Type: new Abstract: Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular metadata used before integration. In metadata-only Semantic"
-    },
-    {
-      "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
-      "link": "https://arxiv.org/abs/2610.10549",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-09T04:00:00+00:00",
-      "summary": "arXiv:2610.10549v1 Announce Type: new Abstract: Tool-calling agents have become central to enterprise AI, yet training and evaluating them at scale remains severely constrained due to business and legal restrictions on e"
-    },
-    {
-      "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
-      "link": "https://arxiv.org/abs/2610.10590",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-09T04:00:00+00:00",
-      "summary": "arXiv:2610.10590v1 Announce Type: new Abstract: Tool-using agents repeatedly carry observations whose useful content can be much smaller than their original payload. We study agent-controlled forgetting: the acting model"
-    },
-    {
-      "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
-      "link": "https://arxiv.org/abs/2610.10611",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-09T04:00:00+00:00",
-      "summary": "arXiv:2610.10611v1 Announce Type: new Abstract: Agentic AI systems can improve by searching longer, receiving additional support, or modifying how they propose and verify outputs. A performance score does not distinguish"
-    },
-    {
-      "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
-      "link": "https://arxiv.org/abs/2610.10629",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-09T04:00:00+00:00",
-      "summary": "arXiv:2610.10629v1 Announce Type: new Abstract: Self-improving LLM agents can adapt a credit pipeline to a changed rule, but an agent that rewrites itself destroys the artefact a supervisor reviews: a named change, a rec"
-    },
-    {
-      "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
-      "link": "https://arxiv.org/abs/2610.10635",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-09T04:00:00+00:00",
-      "summary": "arXiv:2610.10635v1 Announce Type: new Abstract: Aerial vision-and-language navigation (VLN) agents are typically trained on detail-rich, trajectory-aligned commands, whereas users issue short, intent-driven instructions;"
+      "title": "Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, (Thu, Oct 8th)",
+      "link": "https://isc.sans.edu/diary/rss/33410",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-08T16:52:53+00:00",
+      "summary": "We just did a major update to FOR577 and added a lot of new material on day 5 about investigating AI usage in incident response. In the new material we dicsuss 8&#;x26;#;xc2;&#;x26;#;xa0;of the most popular AI coding ass"
     }
   ]
 }
