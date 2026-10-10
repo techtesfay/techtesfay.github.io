@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T21:55:51.374021+00:00",
+  "generated_at": "2026-10-10T02:59:49.413599+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "published": "2026-10-10T00:17:42+00:00",
+      "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved th"
+    },
     {
       "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
@@ -323,14 +331,6 @@
       "category": "research",
       "published": "2026-10-09T04:00:00+00:00",
       "summary": "arXiv:2610.10635v1 Announce Type: new Abstract: Aerial vision-and-language navigation (VLN) agents are typically trained on detail-rich, trajectory-aligned commands, whereas users issue short, intent-driven instructions;"
-    },
-    {
-      "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
-      "link": "https://arxiv.org/abs/2610.10786",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-09T04:00:00+00:00",
-      "summary": "arXiv:2610.10786v1 Announce Type: new Abstract: Planning is increasingly important for long-horizon agents, where successful execution requires coordinating subgoals, tool use, and intermediate outcomes over many steps. "
     }
   ]
 }
