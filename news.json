@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T21:08:17.715102+00:00",
+  "generated_at": "2026-10-12T02:54:06.084836+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, (Mon, Oct 12th)",
+      "link": "https://isc.sans.edu/diary/rss/33416",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-12T02:00:03+00:00",
+      "summary": ""
+    },
     {
       "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
       "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
@@ -323,14 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-10-08T02:00:02+00:00",
       "summary": ""
-    },
-    {
-      "title": "Disrupting AI-enabled \u201cfalse front\u201d operations",
-      "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-08T00:00:00+00:00",
-      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
     }
   ]
 }
