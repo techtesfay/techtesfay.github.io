@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T13:40:37.732450+00:00",
+  "generated_at": "2026-10-12T23:52:16.080507+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,38 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-12T21:42:42+00:00",
+      "summary": "Attackers are currently targeting a critical vulnerability in SMA 1000 appliances, putting SonicWall customers in a familiar yet unenviable position."
+    },
+    {
+      "title": "Prominent Ransomware Negotiator Faces Extortion Charges",
+      "link": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-12T20:00:53+00:00",
+      "summary": "Edward Dubrovsky, a longtime cybersecurity executive, was arrested and charged in Pennsylvania last week under conspiracy to extort money."
+    },
+    {
+      "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-12T18:27:25+00:00",
+      "summary": "The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink."
+    },
+    {
+      "title": "\u26a1 Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+      "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-12T15:16:26+00:00",
+      "summary": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it"
+    },
     {
       "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief",
       "link": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
@@ -229,6 +261,14 @@
       "summary": ""
     },
     {
+      "title": "Cyberattack disrupts refrigeration at hundreds of French supermarkets",
+      "link": "https://therecord.media/cyberattack-disrupts-refridgeration-in-france",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-11T23:00:00+00:00",
+      "summary": "A cyberattack overnight Sunday disrupted refrigerators at hundreds of French supermarkets, spoiling fresh food at stores run by some of the country\u2019s largest grocery chains."
+    },
+    {
       "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
       "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
       "source": "The Hacker News",
@@ -243,14 +283,6 @@
       "category": "cybersecurity",
       "published": "2026-10-10T11:00:00+00:00",
       "summary": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastructu"
-    },
-    {
-      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
-      "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-10T09:18:45+00:00",
-      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations until further notice following the discovery of new incidents in which its artificial intelligence (AI) models exhibited mis"
     },
     {
       "title": "Why TLP should not replace your internal information classification, (Sat, Oct 10th)",
@@ -299,38 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-10-09T17:21:00+00:00",
       "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the arrest of a suspected ShinyHunters operative to the compromise of a Pentagon-run data center."
-    },
-    {
-      "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
-      "link": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-09T16:25:05+00:00",
-      "summary": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks."
-    },
-    {
-      "title": "Hundreds of thousands impacted by data breach at biosensor firm iRhythm",
-      "link": "https://therecord.media/irhythm-data-breach-reports",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-09T16:06:00+00:00",
-      "summary": "A company known for wearable cardiac sensors, iRhythm, has begun notifying states of the impact of a data breach from the summer."
-    },
-    {
-      "title": "Leader of vast money mule operation that laundered cybercriminal proceeds pleads guilty",
-      "link": "https://therecord.media/leader-of-money-mule-operation-for-cybercriminals-pleads-guilty",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-09T16:06:00+00:00",
-      "summary": "Oleg Korniev, a 42-year-old dual citizen of Ukraine and Russia, was a principal of Your Mule Cashout, or \u201cYMCO,\u201d which from 2007 until 2014 set up a sophisticated network of mules in the U.S. and Europe."
-    },
-    {
-      "title": "FBI touts another ShinyHunters arrest in response to data breach",
-      "link": "https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-09T15:41:00+00:00",
-      "summary": "\u201cWe will continue to work closely with our partners to disrupt what\u2019s left of the ShinyHunters group and their associates, no matter where they operate,\" FBI Director Kash Patel said."
     }
   ]
 }
