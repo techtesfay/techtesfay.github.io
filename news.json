@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T23:52:16.080507+00:00",
+  "generated_at": "2026-10-13T04:09:42.500537+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)",
+      "link": "https://isc.sans.edu/diary/rss/33418",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-13T02:00:02+00:00",
+      "summary": ""
+    },
     {
       "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
       "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
@@ -125,134 +133,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Uk"
     },
     {
-      "title": "An Exploration of Attacks on AI Agent Systems",
-      "link": "https://arxiv.org/abs/2610.12524",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-12T04:00:00+00:00",
-      "summary": "arXiv:2610.12524v1 Announce Type: new Abstract: As autonomous AI agents become more integrated into sensitive domains, it is crucial that single and multi-agent AI systems are secured. This paper investigates how prompt "
-    },
-    {
-      "title": "SoK: Privacy-Preserving Order Matching",
-      "link": "https://arxiv.org/abs/2610.12535",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-12T04:00:00+00:00",
-      "summary": "arXiv:2610.12535v1 Announce Type: new Abstract: Privacy-preserving order matching enables traders to discover and execute compatible orders while limiting disclosure of sensitive trading information. Existing systems spa"
-    },
-    {
-      "title": "Organizational Context for the Enterprise Security Brain",
-      "link": "https://arxiv.org/abs/2610.12540",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-12T04:00:00+00:00",
-      "summary": "arXiv:2610.12540v1 Announce Type: new Abstract: Agents that investigate and decide on enterprise security reason over a machine-readable view of the environment: its assets, identities, configurations, relations, and fin"
-    },
-    {
-      "title": "HOMARD: Hammering Off-chip Memory via Aggregate power Rail Disclosure",
-      "link": "https://arxiv.org/abs/2610.12621",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-12T04:00:00+00:00",
-      "summary": "arXiv:2610.12621v1 Announce Type: new Abstract: Software-based microarchitectural attacks have mainly exploited timing differences to infer information from DRAM. However, defenses and optimizations can prevent timing-ba"
-    },
-    {
-      "title": "Cancerous Backdoor Attack: Gradual Activation via Invisible Tokens and A Stage Controller",
-      "link": "https://arxiv.org/abs/2610.12644",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-12T04:00:00+00:00",
-      "summary": "arXiv:2610.12644v1 Announce Type: new Abstract: Backdoor Attacks on Large Language Models (LLMs) typically follow a trigger-response pattern, where satisfying a trigger condition activates a single terminal behavior. How"
-    },
-    {
-      "title": "Enabling Extended SGX Enclaves inside Confidential Virtual Machines",
-      "link": "https://arxiv.org/abs/2610.12695",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-12T04:00:00+00:00",
-      "summary": "arXiv:2610.12695v1 Announce Type: new Abstract: Confidential Virtual Machines (CVMs), such as AMD SEV-SNP, and process enclaves, such as Intel SGX, provide workload protection against cloud threats. However, they strongl"
-    },
-    {
-      "title": "PVBRF-ID: Private, Verifiable and Byzantine-Robust Federated Intrusion Detection for Oilfield Enterprise Networks",
-      "link": "https://arxiv.org/abs/2610.12704",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-12T04:00:00+00:00",
-      "summary": "arXiv:2610.12704v1 Announce Type: new Abstract: Federated learning allows dispersed oilfield sites to train a shared intrusion detector without pooling network traffic, yet its aggregation step forces a choice between pr"
-    },
-    {
-      "title": "Better Batches, Better Privacy: Random Allocation for DP-BandMF",
-      "link": "https://arxiv.org/abs/2610.12712",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-12T04:00:00+00:00",
-      "summary": "arXiv:2610.12712v1 Announce Type: new Abstract: The current state of the art for batch selection and noise addition in differentially private training is a combination of DP-BandMF (informally, DP-SGD where the noise add"
-    },
-    {
-      "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
-      "link": "https://arxiv.org/abs/2610.12493",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-12T04:00:00+00:00",
-      "summary": "arXiv:2610.12493v1 Announce Type: new Abstract: Explainable Artificial Intelligence (XAI) tools have often been presented as methods to increase trust in machine learning models by making aspects of their algorithms more"
-    },
-    {
-      "title": "EliteTable: Self-Improving Program Search for Executable Control Policies",
-      "link": "https://arxiv.org/abs/2610.12536",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-12T04:00:00+00:00",
-      "summary": "arXiv:2610.12536v1 Announce Type: new Abstract: EliteTable is a self-improving program-search algorithm guided by large language models (LLMs) that uses a fixed-capacity table of high-scoring solutions to guide new propo"
-    },
-    {
-      "title": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
-      "link": "https://arxiv.org/abs/2610.12542",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-12T04:00:00+00:00",
-      "summary": "arXiv:2610.12542v1 Announce Type: new Abstract: Monte Carlo Tree Search (MCTS) is often proposed for scheduling directed-acyclic-graph (DAG) workflows, yet most studies never run the comparison that could refute it - giv"
-    },
-    {
-      "title": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
-      "link": "https://arxiv.org/abs/2610.12593",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-12T04:00:00+00:00",
-      "summary": "arXiv:2610.12593v1 Announce Type: new Abstract: The continued improvement of large language models increasingly depends on synthetic experience, yet effective data synthesis for interactive agents requires not only execu"
-    },
-    {
-      "title": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
-      "link": "https://arxiv.org/abs/2610.12596",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-12T04:00:00+00:00",
-      "summary": "arXiv:2610.12596v1 Announce Type: new Abstract: Agentic large language models now tackle complex tasks, yet strategic reasoning over long horizons is under-studied: most agentic benchmarks are short and episodic, and per"
-    },
-    {
-      "title": "Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents",
-      "link": "https://arxiv.org/abs/2610.12598",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-12T04:00:00+00:00",
-      "summary": "arXiv:2610.12598v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) provides reliable supervision for software engineering agents through executable tests, but binary rewards fail to dis"
-    },
-    {
-      "title": "CLEAT: Learning Value-Guided Clarification for Interactive Agents",
-      "link": "https://arxiv.org/abs/2610.12655",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-12T04:00:00+00:00",
-      "summary": "arXiv:2610.12655v1 Announce Type: new Abstract: LLM agents can execute increasingly complex tasks, but effective assistance also requires aligning their actions with goals and constraints that users may leave unstated. W"
-    },
-    {
-      "title": "MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis",
-      "link": "https://arxiv.org/abs/2610.12659",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-12T04:00:00+00:00",
-      "summary": "arXiv:2610.12659v1 Announce Type: new Abstract: Data-centric scaling of RLVR has focused on collecting or generating verifiable training problems. However, corpus size alone does not determine whether the dataset provide"
-    },
-    {
       "title": "ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, (Mon, Oct 12th)",
       "link": "https://isc.sans.edu/diary/rss/33416",
       "source": "SANS Internet Storm Center",
@@ -331,6 +211,126 @@
       "category": "cybersecurity",
       "published": "2026-10-09T17:21:00+00:00",
       "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the arrest of a suspected ShinyHunters operative to the compromise of a Pentagon-run data center."
+    },
+    {
+      "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
+      "link": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-09T16:25:05+00:00",
+      "summary": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks."
+    },
+    {
+      "title": "Hundreds of thousands impacted by data breach at biosensor firm iRhythm",
+      "link": "https://therecord.media/irhythm-data-breach-reports",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-09T16:06:00+00:00",
+      "summary": "A company known for wearable cardiac sensors, iRhythm, has begun notifying states of the impact of a data breach from the summer."
+    },
+    {
+      "title": "Leader of vast money mule operation that laundered cybercriminal proceeds pleads guilty",
+      "link": "https://therecord.media/leader-of-money-mule-operation-for-cybercriminals-pleads-guilty",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-09T16:06:00+00:00",
+      "summary": "Oleg Korniev, a 42-year-old dual citizen of Ukraine and Russia, was a principal of Your Mule Cashout, or \u201cYMCO,\u201d which from 2007 until 2014 set up a sophisticated network of mules in the U.S. and Europe."
+    },
+    {
+      "title": "The Download: AI\u2019s refusal problem and weight-loss drug side effects",
+      "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-09T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. We\u2019re putting too much faith in AI\u2019s ability to say no Today\u2019s AI models are train"
+    },
+    {
+      "title": "We\u2019re putting too much faith in AI\u2019s ability to say no",
+      "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-09T09:00:00+00:00",
+      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of rob"
+    },
+    {
+      "title": "Job titles of the future: Delivery drone air traffic controller",
+      "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-09T09:00:00+00:00",
+      "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. \u201cIt was super fascinating,\u201d he says. \u201cI just immediately wanted to be a part of it.\u201d Wi"
+    },
+    {
+      "title": "We\u2019re still figuring out the side effects of GLP-1 weight-loss drugs",
+      "link": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-09T09:00:00+00:00",
+      "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological"
+    },
+    {
+      "title": "ISC Stormcast For Friday, October 9th, 2026 https://isc.sans.edu/podcastdetail/10130, (Fri, Oct 9th)",
+      "link": "https://isc.sans.edu/diary/rss/33412",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-09T07:52:03+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "link": "https://openai.com/index/sophos",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-09T07:00:00+00:00",
+      "summary": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
+    },
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-09T07:00:00+00:00",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
+    },
+    {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-09T00:08:24+00:00",
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscop"
+    },
+    {
+      "title": "Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, (Thu, Oct 8th)",
+      "link": "https://isc.sans.edu/diary/rss/33410",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-08T16:52:53+00:00",
+      "summary": "We just did a major update to FOR577 and added a lot of new material on day 5 about investigating AI usage in incident response. In the new material we dicsuss 8&#;x26;#;xc2;&#;x26;#;xa0;of the most popular AI coding ass"
+    },
+    {
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "link": "https://openai.com/index/oracle",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-08T16:00:00+00:00",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
+    },
+    {
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "link": "https://openai.com/index/pollo-ai",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-08T12:00:00+00:00",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT\u2011Image\u20112.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
+    },
+    {
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "link": "https://openai.com/index/legalon-halves-codex-costs",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-08T12:00:00+00:00",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically."
     }
   ]
 }
