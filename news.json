@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T04:09:42.500537+00:00",
+  "generated_at": "2026-10-13T13:02:27.126616+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,94 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "South African clothing retailer Foschini Group investigating cyberattack on British fashion brands",
+      "link": "https://therecord.media/foschini-group-south-africa-cyber",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-13T13:00:00+00:00",
+      "summary": "The South African retail giant The Foschini Group (TFG) disclosed a cyberattack that disrupted IT systems at three of its British fashion brands, leaving some services unavailable."
+    },
+    {
+      "title": "Cyber incident hits grocery stores in US, Netherlands and Belgium",
+      "link": "https://therecord.media/cyberattack-groceru-ahold-delhaize",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-13T12:00:00+00:00",
+      "summary": "Ahold Delhaize, the Dutch multinational retailer, announced it was taking precautionary measures following a cybersecurity incident, with stores in the U.S., Netherlands and Belgium reportedly impacted."
+    },
+    {
+      "title": "The Download: open model trade-offs and geothermal power\u2019s promise",
+      "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-13T12:00:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently rel"
+    },
+    {
+      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
+      "link": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-13T11:09:10+00:00",
+      "summary": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner. LG has issued a fix, according to an advi"
+    },
+    {
+      "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
+      "link": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-13T10:30:00+00:00",
+      "summary": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed. A developer adds a coding assistant as an editor extension, and nothing shows up in the installed programs list. Someone downloads "
+    },
+    {
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-13T10:00:00+00:00",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what\u2019s coming next. You can read more from the series here. Late last month, Anthropic re"
+    },
+    {
+      "title": "AI labs are buying data from dead startups to train their models",
+      "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-13T09:00:00+00:00",
+      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn\u2019t think its data was worth much: the users were anonymous, the company just a few years old. But he\u2019s since turned the firm\u2019s digital archives "
+    },
+    {
+      "title": "Attackers Heat French Supermarket Fridges Up to 50\u00b0C by Hijacking Danfoss Controllers",
+      "link": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-13T08:48:41+00:00",
+      "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said. The attackers reached th"
+    },
+    {
+      "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
+      "link": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-13T08:44:01+00:00",
+      "summary": "Two of 31 newly disclosed flaws in Progress Software's MarkLogic Server database could let an account given only some management privileges take administrator control of the server, the company says. Progress published a"
+    },
+    {
+      "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
+      "link": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-13T08:43:37+00:00",
+      "summary": "GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution. \"GitLab has remediated an issue th"
+    },
+    {
+      "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
+      "link": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-13T06:00:11+00:00",
+      "summary": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies. The activi"
+    },
     {
       "title": "ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)",
       "link": "https://isc.sans.edu/diary/rss/33418",
@@ -85,22 +173,6 @@
       "summary": "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the horror sto"
     },
     {
-      "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
-      "link": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-12T11:21:48+00:00",
-      "summary": "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller. On Friday, the company said it was investigating"
-    },
-    {
-      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
-      "link": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-12T10:36:56+00:00",
-      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure. The vulnerability, tracked as CVE-2026-102"
-    },
-    {
       "title": "Mars may be a hellhole, but the moon is not far behind",
       "link": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
       "source": "MIT Technology Review",
@@ -109,28 +181,12 @@
       "summary": "Welcome to the second space race. You can be forgiven for experiencing d\u00e9j\u00e0 vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it\u2019s a sprint to the lunar surface b"
     },
     {
-      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-12T09:02:14+00:00",
-      "summary": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The critical vulnerability in question is CVE-2026-85097 (CVSS scor"
-    },
-    {
       "title": "The ecologist revealing the invisible networks that revive rainforests",
       "link": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
       "source": "MIT Technology Review",
       "category": "ai",
       "published": "2026-10-12T09:00:00+00:00",
       "summary": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-\u00adlike canopies of mature growth. Forest ecologist Daisy Dent, a sen"
-    },
-    {
-      "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
-      "link": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-12T07:26:12+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Uk"
     },
     {
       "title": "ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, (Mon, Oct 12th)",
@@ -147,22 +203,6 @@
       "category": "cybersecurity",
       "published": "2026-10-11T23:00:00+00:00",
       "summary": "A cyberattack overnight Sunday disrupted refrigerators at hundreds of French supermarkets, spoiling fresh food at stores run by some of the country\u2019s largest grocery chains."
-    },
-    {
-      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-11T04:24:34+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, ad"
-    },
-    {
-      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
-      "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-10T11:00:00+00:00",
-      "summary": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastructu"
     },
     {
       "title": "Why TLP should not replace your internal information classification, (Sat, Oct 10th)",
@@ -221,22 +261,6 @@
       "summary": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks."
     },
     {
-      "title": "Hundreds of thousands impacted by data breach at biosensor firm iRhythm",
-      "link": "https://therecord.media/irhythm-data-breach-reports",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-09T16:06:00+00:00",
-      "summary": "A company known for wearable cardiac sensors, iRhythm, has begun notifying states of the impact of a data breach from the summer."
-    },
-    {
-      "title": "Leader of vast money mule operation that laundered cybercriminal proceeds pleads guilty",
-      "link": "https://therecord.media/leader-of-money-mule-operation-for-cybercriminals-pleads-guilty",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-09T16:06:00+00:00",
-      "summary": "Oleg Korniev, a 42-year-old dual citizen of Ukraine and Russia, was a principal of Your Mule Cashout, or \u201cYMCO,\u201d which from 2007 until 2014 set up a sophisticated network of mules in the U.S. and Europe."
-    },
-    {
       "title": "The Download: AI\u2019s refusal problem and weight-loss drug side effects",
       "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
       "source": "MIT Technology Review",
@@ -251,22 +275,6 @@
       "category": "ai",
       "published": "2026-10-09T09:00:00+00:00",
       "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of rob"
-    },
-    {
-      "title": "Job titles of the future: Delivery drone air traffic controller",
-      "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-09T09:00:00+00:00",
-      "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. \u201cIt was super fascinating,\u201d he says. \u201cI just immediately wanted to be a part of it.\u201d Wi"
-    },
-    {
-      "title": "We\u2019re still figuring out the side effects of GLP-1 weight-loss drugs",
-      "link": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-09T09:00:00+00:00",
-      "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological"
     },
     {
       "title": "ISC Stormcast For Friday, October 9th, 2026 https://isc.sans.edu/podcastdetail/10130, (Fri, Oct 9th)",
@@ -291,14 +299,6 @@
       "category": "ai",
       "published": "2026-10-09T07:00:00+00:00",
       "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
-    },
-    {
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-09T00:08:24+00:00",
-      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscop"
     },
     {
       "title": "Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, (Thu, Oct 8th)",
