@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T13:02:27.126616+00:00",
+  "generated_at": "2026-10-13T22:01:02.918268+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,20 +13,116 @@
   ],
   "items": [
     {
-      "title": "South African clothing retailer Foschini Group investigating cyberattack on British fashion brands",
-      "link": "https://therecord.media/foschini-group-south-africa-cyber",
-      "source": "The Record",
+      "title": "North Korea Phishes Ukrainians for War Intel",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
+      "source": "Dark Reading",
       "category": "cybersecurity",
-      "published": "2026-10-13T13:00:00+00:00",
-      "summary": "The South African retail giant The Foschini Group (TFG) disclosed a cyberattack that disrupted IT systems at three of its British fashion brands, leaving some services unavailable."
+      "published": "2026-10-13T21:24:45+00:00",
+      "summary": "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks."
     },
     {
-      "title": "Cyber incident hits grocery stores in US, Netherlands and Belgium",
-      "link": "https://therecord.media/cyberattack-groceru-ahold-delhaize",
+      "title": "Two arrested as DOJ takes down laptop farms responsible for $3 million in North Korean revenue",
+      "link": "https://therecord.media/north-korea-laptop-farms-worker-scams-doj-raids-texas",
       "source": "The Record",
       "category": "cybersecurity",
-      "published": "2026-10-13T12:00:00+00:00",
-      "summary": "Ahold Delhaize, the Dutch multinational retailer, announced it was taking precautionary measures following a cybersecurity incident, with stores in the U.S., Netherlands and Belgium reportedly impacted."
+      "published": "2026-10-13T20:55:00+00:00",
+      "summary": "More than 40 residences in Texas were the target of a federal operation in September to clamp down on remote worker scams that feed money back to the North Korean regime."
+    },
+    {
+      "title": "Anthropic Finds Ingredients for Future AI Worms",
+      "link": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-13T20:35:23+00:00",
+      "summary": "Anthropic's latest study combined IoT and network tests to explore AI self-replication, which researchers said would be \"challenging\" to shut down."
+    },
+    {
+      "title": "FTC: Company netted at least $60 million charging sextortion victims for help it didn\u2019t provide",
+      "link": "https://therecord.media/sextortion-assistance-company-alleged-fraud-ftc-complaint",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-13T20:12:00+00:00",
+      "summary": "An Ohio-based company charged individuals thousands of dollars to fight sextortion scams, but the operation itself was fraudulent, according to a Federal Trade Commission complaint."
+    },
+    {
+      "title": "October 2026 Microsoft Patch Tuesday, (Tue, Oct 13th)",
+      "link": "https://isc.sans.edu/diary/rss/33422",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-13T19:25:52+00:00",
+      "summary": "Microsoft today released patches for 1,417 vulnerabilities. 76 of these vulnerabilities are rated critical, with 7 critical vulnerabiilties requiring no customer actions. One vulnerability was disclosed before today&#;x2"
+    },
+    {
+      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+      "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-13T18:20:57+00:00",
+      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The front"
+    },
+    {
+      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-13T18:03:18+00:00",
+      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that "
+    },
+    {
+      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-13T17:33:11+00:00",
+      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has released fixes for two of the flaws an"
+    },
+    {
+      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+      "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-13T17:28:50+00:00",
+      "summary": "A flaw in SAP's Cloud SDK for Python can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a security advisory on October 13. The flaw affects multi-tenant applications on SAP "
+    },
+    {
+      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
+      "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-13T16:18:18+00:00",
+      "summary": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's pack"
+    },
+    {
+      "title": "Sandbox vulnerability gives rogue AI agents a path to escape and leak data, research says",
+      "link": "https://therecord.media/sandbox-vulnerability-gives-rogue-ai-agents-path-out",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-13T16:18:00+00:00",
+      "summary": "The new research, published by AI security startup AIR, found that a network filtering flaw in Vercel Sandbox \u2014 a tool used to run code in isolated environments \u2014 could allow agents to exploit certificate validation proc"
+    },
+    {
+      "title": "West African scam compounds raided, more than 100 suspected trafficking victims \u2018rescued\u2019",
+      "link": "https://therecord.media/ghana-nigeria-scam-centers-raided-uk-us",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-13T16:05:00+00:00",
+      "summary": "More than two dozen people were arrested by police in Ghana and Nigeria as part of a U.K.-hosted operation that also included tech companies."
+    },
+    {
+      "title": "North Korean hackers target Ukrainian experts for possible intelligence on Russia's war",
+      "link": "https://therecord.media/north-korea-hackers-russia-ukraine",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-13T15:15:00+00:00",
+      "summary": "North Korean hackers have been targeting Ukrainian experts in diplomacy, security and international policy amid Pyongyang\u2019s growing military cooperation with Russia."
+    },
+    {
+      "title": "Xandr Fined a Record \u20ac8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
+      "link": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-13T13:12:32+00:00",
+      "summary": "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, \u20ac8.6 million ($9.62 million) for illegally relaying \u200bGrindr users' sensitive data to advertisers. The administrative "
     },
     {
       "title": "The Download: open model trade-offs and geothermal power\u2019s promise",
@@ -37,20 +133,28 @@
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently rel"
     },
     {
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-13T12:00:00+00:00",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
+    },
+    {
+      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
+      "link": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-13T11:57:06+00:00",
+      "summary": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege escalation, "
+    },
+    {
       "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
       "link": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
       "source": "The Hacker News",
       "category": "cybersecurity",
       "published": "2026-10-13T11:09:10+00:00",
       "summary": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner. LG has issued a fix, according to an advi"
-    },
-    {
-      "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
-      "link": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-13T10:30:00+00:00",
-      "summary": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed. A developer adds a coding assistant as an editor extension, and nothing shows up in the installed programs list. Someone downloads "
     },
     {
       "title": "Open models have real benefits. Do they outweigh the risks?",
@@ -67,38 +171,6 @@
       "category": "ai",
       "published": "2026-10-13T09:00:00+00:00",
       "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn\u2019t think its data was worth much: the users were anonymous, the company just a few years old. But he\u2019s since turned the firm\u2019s digital archives "
-    },
-    {
-      "title": "Attackers Heat French Supermarket Fridges Up to 50\u00b0C by Hijacking Danfoss Controllers",
-      "link": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-13T08:48:41+00:00",
-      "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said. The attackers reached th"
-    },
-    {
-      "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
-      "link": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-13T08:44:01+00:00",
-      "summary": "Two of 31 newly disclosed flaws in Progress Software's MarkLogic Server database could let an account given only some management privileges take administrator control of the server, the company says. Progress published a"
-    },
-    {
-      "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
-      "link": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-13T08:43:37+00:00",
-      "summary": "GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution. \"GitLab has remediated an issue th"
-    },
-    {
-      "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
-      "link": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-13T06:00:11+00:00",
-      "summary": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies. The activi"
     },
     {
       "title": "ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)",
@@ -133,14 +205,6 @@
       "summary": "The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink."
     },
     {
-      "title": "\u26a1 Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
-      "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-12T15:16:26+00:00",
-      "summary": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it"
-    },
-    {
       "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief",
       "link": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
       "source": "Dark Reading",
@@ -157,23 +221,7 @@
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing"
     },
     {
-      "title": "Ukraine strikes third Yandex data center, disrupting digital services across Russia",
-      "link": "https://therecord.media/ukraine-strikes-third-yandex-data-center",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-12T12:00:00+00:00",
-      "summary": "A third Yandex data center in Russia was hit by Ukrainian drones over the weekend, forcing it to shut down and causing further disruptions to cloud services, payments, deliveries and other online services across the coun"
-    },
-    {
-      "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
-      "link": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-12T11:55:00+00:00",
-      "summary": "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the horror sto"
-    },
-    {
-      "title": "Mars may be a hellhole, but the moon is not far behind",
+      "title": "What it would take to build a city on the moon",
       "link": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
       "source": "MIT Technology Review",
       "category": "ai",
@@ -195,14 +243,6 @@
       "category": "cybersecurity",
       "published": "2026-10-12T02:00:03+00:00",
       "summary": ""
-    },
-    {
-      "title": "Cyberattack disrupts refrigeration at hundreds of French supermarkets",
-      "link": "https://therecord.media/cyberattack-disrupts-refridgeration-in-france",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-11T23:00:00+00:00",
-      "summary": "A cyberattack overnight Sunday disrupted refrigerators at hundreds of French supermarkets, spoiling fresh food at stores run by some of the country\u2019s largest grocery chains."
     },
     {
       "title": "Why TLP should not replace your internal information classification, (Sat, Oct 10th)",
@@ -235,30 +275,6 @@
       "category": "cybersecurity",
       "published": "2026-10-09T19:26:26+00:00",
       "summary": "Welcome to another gangbuster year for strategic M&A activity in cyber, with 117 deals announced in the latest quarter. What's different: Many of the buyers are not your typical cybersecurity firms."
-    },
-    {
-      "title": "Japan confirms arrest of Russian Qilin operative, extradition to Germany",
-      "link": "https://therecord.media/japan-germany-ransomware-arrest",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-09T18:45:00+00:00",
-      "summary": "Japan\u2019s National Police Agency confirmed the arrest and extradition to Germany of a Russian national accused of being involved in the Qilin ransomware gang."
-    },
-    {
-      "title": "What We Missed: FBI Strikes Back at ShinyHunters",
-      "link": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-09T17:21:00+00:00",
-      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the arrest of a suspected ShinyHunters operative to the compromise of a Pentagon-run data center."
-    },
-    {
-      "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
-      "link": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-09T16:25:05+00:00",
-      "summary": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks."
     },
     {
       "title": "The Download: AI\u2019s refusal problem and weight-loss drug side effects",
@@ -315,22 +331,6 @@
       "category": "ai",
       "published": "2026-10-08T16:00:00+00:00",
       "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
-    },
-    {
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "link": "https://openai.com/index/pollo-ai",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-08T12:00:00+00:00",
-      "summary": "With GPT-5.6, GPT-6 Astra, and GPT\u2011Image\u20112.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
-    },
-    {
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "link": "https://openai.com/index/legalon-halves-codex-costs",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-08T12:00:00+00:00",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically."
     }
   ]
 }
