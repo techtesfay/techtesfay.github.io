@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T10:44:05.520276+00:00",
+  "generated_at": "2026-10-14T16:03:01.581536+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,110 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
+      "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "published": "2026-10-14T14:22:49+00:00",
+      "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud a"
+    },
+    {
+      "title": "Microsoft takes down 3 major phishing platforms used by Chinese cybercriminals",
+      "link": "https://therecord.media/microsoft-takes-down-3-major-chinese-phishing-platforms",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-14T13:18:00+00:00",
+      "summary": "The tech giant worked with Japan\u2019s National Police Agency and healthcare cybersecurity organization Health-ISAC to obtain a U.S. court order seizing and redirecting domains that were part of the infrastructure underlying"
+    },
+    {
+      "title": "Russian travel booking platform suspends reservations after cyberattack",
+      "link": "https://therecord.media/russia-anywayanyday-travel-website-cyberattack",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-14T13:05:00+00:00",
+      "summary": "Customers of Russian travel website Anywayanyday were unable to book tickets or hotel rooms as the company responded to a cyberattack."
+    },
+    {
+      "title": "Russian Influence Operation Widely Targeting Latin America",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-14T13:00:00+00:00",
+      "summary": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts."
+    },
+    {
+      "title": "CISA warns of new Ivanti bug being exploited as latest Patch Tuesday breaks records",
+      "link": "https://therecord.media/new-ivanti-microsoft-bugs-exploitation",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-14T12:35:00+00:00",
+      "summary": "The sixth exploited Ivanti bug this year drew attention from the feds and researchers, while a severe Microsoft vulnerability was one of more than 1,400 listed for Patch Tuesday."
+    },
+    {
+      "title": "Congressional probe faults Match Group for failing to rein in dating app scams",
+      "link": "https://therecord.media/congressional-probe-faults-match-group-for-failing-to-stop-dating-app-scams",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-14T12:32:00+00:00",
+      "summary": "The Joint Economic Committee on Tuesday released the results of a year-long investigation into Tinder, Hinge, Match, Plenty of Fish and several other dating sites owned by Match Group."
+    },
+    {
+      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
+      "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-14T12:30:42+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version follo"
+    },
+    {
+      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
+      "link": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-14T12:13:36+00:00",
+      "summary": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine. The curl pro"
+    },
+    {
+      "title": "The Download: faking blood and the future of batteries",
+      "link": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-14T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. The US military\u2019s race to make fake blood In February 2007, a US military helicopt"
+    },
+    {
+      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
+      "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-14T11:50:00+00:00",
+      "summary": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake. The "
+    },
+    {
+      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+      "link": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-14T11:19:02+00:00",
+      "summary": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the attack"
+    },
+    {
+      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+      "link": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-14T11:08:22+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from i"
+    },
+    {
+      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
+      "link": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-14T11:00:00+00:00",
+      "summary": "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication byp"
+    },
     {
       "title": "The US military\u2019s race to make fake blood",
       "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
@@ -27,6 +131,14 @@
       "category": "cybersecurity",
       "published": "2026-10-14T07:46:57+00:00",
       "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write "
+    },
+    {
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "link": "https://openai.com/index/third-moment-research",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-14T07:00:00+00:00",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
     },
     {
       "title": "Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)",
@@ -50,15 +162,7 @@
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-10-14T05:00:00+00:00",
-      "summary": "Organizations are reporting that employees face threats to their families, stalking, physical violence, and abduction. But these alarming claims are hard to verify."
-    },
-    {
-      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
-      "link": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-14T04:34:43+00:00",
-      "summary": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation. These include 1,102 flaws in Windows, 1"
+      "summary": "Organizations are reporting that employees face threats of stalking, physical violence, and abduction. But these alarming claims are hard to verify."
     },
     {
       "title": "Argos: A Multi-Tenant SaaS Architecture for Distributed Edge Security Orchestration",
@@ -197,14 +301,6 @@
       "summary": ""
     },
     {
-      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
-      "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-14T01:59:25+00:00",
-      "summary": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations"
-    },
-    {
       "title": "The EU\u2019s next chapter in AI is agentic",
       "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
       "source": "OpenAI News",
@@ -234,103 +330,7 @@
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-10-13T22:29:57+00:00",
-      "summary": "The scary surprises for the largest security update ever include security bypasses and unauthenticated RCEs."
-    },
-    {
-      "title": "North Korea Phishes Ukrainians for War Intel",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-13T21:24:45+00:00",
-      "summary": "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks."
-    },
-    {
-      "title": "Two arrested as DOJ takes down laptop farms responsible for $3 million in North Korean revenue",
-      "link": "https://therecord.media/north-korea-laptop-farms-worker-scams-doj-raids-texas",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-13T20:55:00+00:00",
-      "summary": "More than 40 residences in Texas were the target of a federal operation in September to clamp down on remote worker scams that feed money back to the North Korean regime."
-    },
-    {
-      "title": "Anthropic Finds Ingredients for Future AI Worms",
-      "link": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-13T20:35:23+00:00",
-      "summary": "Anthropic's latest study combined IoT and network tests to explore AI self-replication, which researchers said would be \"challenging\" to shut down."
-    },
-    {
-      "title": "FTC: Company netted at least $60 million charging sextortion victims for help it didn\u2019t provide",
-      "link": "https://therecord.media/sextortion-assistance-company-alleged-fraud-ftc-complaint",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-13T20:12:00+00:00",
-      "summary": "An Ohio-based company charged individuals thousands of dollars to fight sextortion scams, but the operation itself was fraudulent, according to a Federal Trade Commission complaint."
-    },
-    {
-      "title": "October 2026 Microsoft Patch Tuesday, (Tue, Oct 13th)",
-      "link": "https://isc.sans.edu/diary/rss/33422",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-13T19:25:52+00:00",
-      "summary": "Microsoft today released patches for 1,417 vulnerabilities. 76 of these vulnerabilities are rated critical, with 7 critical vulnerabiilties requiring no customer actions. One vulnerability was disclosed before today&#;x2"
-    },
-    {
-      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-      "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-13T18:20:57+00:00",
-      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The front"
-    },
-    {
-      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
-      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-13T18:03:18+00:00",
-      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that "
-    },
-    {
-      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
-      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-13T17:33:11+00:00",
-      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has released fixes for two of the flaws an"
-    },
-    {
-      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
-      "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-13T17:28:50+00:00",
-      "summary": "A flaw in SAP's Cloud SDK for Python can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a security advisory on October 13. The flaw affects multi-tenant applications on SAP "
-    },
-    {
-      "title": "Sandbox vulnerability gives rogue AI agents a path to escape and leak data, research says",
-      "link": "https://therecord.media/sandbox-vulnerability-gives-rogue-ai-agents-path-out",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-13T16:18:00+00:00",
-      "summary": "The new research, published by AI security startup AIR, found that a network filtering flaw in Vercel Sandbox \u2014 a tool used to run code in isolated environments \u2014 could allow agents to exploit certificate validation proc"
-    },
-    {
-      "title": "West African scam compounds raided, more than 100 suspected trafficking victims \u2018rescued\u2019",
-      "link": "https://therecord.media/ghana-nigeria-scam-centers-raided-uk-us",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-13T16:05:00+00:00",
-      "summary": "More than two dozen people were arrested by police in Ghana and Nigeria as part of a U.K.-hosted operation that also included tech companies."
-    },
-    {
-      "title": "The Download: open model trade-offs and geothermal power\u2019s promise",
-      "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-13T12:00:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently rel"
+      "summary": "The scary surprises in the largest security update ever include security bypasses and unauthenticated RCEs."
     }
   ]
 }
