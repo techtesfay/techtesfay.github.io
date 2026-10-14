@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T02:23:07.692241+00:00",
+  "generated_at": "2026-10-14T10:44:05.520276+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,6 +13,182 @@
   ],
   "items": [
     {
+      "title": "The US military\u2019s race to make fake blood",
+      "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-14T09:00:00+00:00",
+      "summary": "Its call sign was Morphine 1-2. In February 2007, the hulking dual-\u00adrotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, when another call came: an em"
+    },
+    {
+      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+      "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-14T07:46:57+00:00",
+      "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write "
+    },
+    {
+      "title": "Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)",
+      "link": "https://isc.sans.edu/diary/rss/33420",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-14T06:49:46+00:00",
+      "summary": "Years ago I wrote diary entries about VBA code stored inside AutoCAD drawing files (.dwg)."
+    },
+    {
+      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+      "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-14T05:52:28+00:00",
+      "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over. The protected area is a VBS enclave, an isolated slice of memo"
+    },
+    {
+      "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-14T05:00:00+00:00",
+      "summary": "Organizations are reporting that employees face threats to their families, stalking, physical violence, and abduction. But these alarming claims are hard to verify."
+    },
+    {
+      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
+      "link": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-14T04:34:43+00:00",
+      "summary": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation. These include 1,102 flaws in Windows, 1"
+    },
+    {
+      "title": "Argos: A Multi-Tenant SaaS Architecture for Distributed Edge Security Orchestration",
+      "link": "https://arxiv.org/abs/2610.14019",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-14T04:00:00+00:00",
+      "summary": "arXiv:2610.14019v1 Announce Type: new Abstract: The growing adoption of distributed edge devices for security auditing and operational monitoring exposes limitations in lightweight control mechanisms traditionally used t"
+    },
+    {
+      "title": "Symmetric Cryptography via Dirichlet Convolution",
+      "link": "https://arxiv.org/abs/2610.14040",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-14T04:00:00+00:00",
+      "summary": "arXiv:2610.14040v1 Announce Type: new Abstract: We discuss a new symmetric-key cipher for digital data encryption. Its implementation is fast, memory efficient, and resilient against classical, AI-assisted, and quantum a"
+    },
+    {
+      "title": "SAGE: Efficient Protected Vision-Language Inference on Smart Glasses",
+      "link": "https://arxiv.org/abs/2610.14089",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-14T04:00:00+00:00",
+      "summary": "arXiv:2610.14089v1 Announce Type: new Abstract: Smart glasses are a promising platform for vision-language assistants, but private split inference remains expensive: protecting visual representations before transmission "
+    },
+    {
+      "title": "An Empirical Case Study of Prompt Engineering Strategies for Bypassing Multi-Layer Agent Security Defenses",
+      "link": "https://arxiv.org/abs/2610.14116",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-14T04:00:00+00:00",
+      "summary": "arXiv:2610.14116v1 Announce Type: new Abstract: The OpenClaw Security Attack and Defense Challenge evaluates AI agent robustness through a three-stage defense pipeline: skill file scanning (Stage 1), instruction safety e"
+    },
+    {
+      "title": "TrustPaper for forged PDF with Issuer Fingerprints",
+      "link": "https://arxiv.org/abs/2610.14132",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-14T04:00:00+00:00",
+      "summary": "arXiv:2610.14132v1 Announce Type: new Abstract: Sick leave certificates are increasingly delivered as PDF files by online teleconsultation platforms, and can be altered in minutes with free editors. Generic PDF scanners "
+    },
+    {
+      "title": "Memory-Coupled Unlearning for Data-Absent Identity Forgetting",
+      "link": "https://arxiv.org/abs/2610.14148",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-14T04:00:00+00:00",
+      "summary": "arXiv:2610.14148v1 Announce Type: new Abstract: Machine unlearning aims to reduce the influence of designated training data from a trained model while preserving its utility on retained data. Identity-level unlearning is"
+    },
+    {
+      "title": "Embedding Asymmetry as Attack Signal: Detecting and Defending Active Label Inference in Vertical Federated Learning",
+      "link": "https://arxiv.org/abs/2610.14194",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-14T04:00:00+00:00",
+      "summary": "arXiv:2610.14194v1 Announce Type: new Abstract: Vertical federated learning lets organizations train a shared model over features they hold separately, while one party keeps the labels private. The active label inference"
+    },
+    {
+      "title": "Physical Side-Channel Attacks on Edge LLMs: Extracting Output Tokens and User Prompts",
+      "link": "https://arxiv.org/abs/2610.14215",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-14T04:00:00+00:00",
+      "summary": "arXiv:2610.14215v1 Announce Type: new Abstract: The deployment of large language models (LLMs) on edge devices is largely motivated by privacy concerns over sharing sensitive user data with cloud servers. In this paper, "
+    },
+    {
+      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+      "link": "https://arxiv.org/abs/2610.14005",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-14T04:00:00+00:00",
+      "summary": "arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we"
+    },
+    {
+      "title": "The Silent Failures in Agentic Data Science",
+      "link": "https://arxiv.org/abs/2610.14115",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-14T04:00:00+00:00",
+      "summary": "arXiv:2610.14115v1 Announce Type: new Abstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating"
+    },
+    {
+      "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
+      "link": "https://arxiv.org/abs/2610.14118",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-14T04:00:00+00:00",
+      "summary": "arXiv:2610.14118v1 Announce Type: new Abstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox wor"
+    },
+    {
+      "title": "Correction Training for Diffusion Models",
+      "link": "https://arxiv.org/abs/2610.14136",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-14T04:00:00+00:00",
+      "summary": "arXiv:2610.14136v1 Announce Type: new Abstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference"
+    },
+    {
+      "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
+      "link": "https://arxiv.org/abs/2610.14146",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-14T04:00:00+00:00",
+      "summary": "arXiv:2610.14146v1 Announce Type: new Abstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a bi"
+    },
+    {
+      "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
+      "link": "https://arxiv.org/abs/2610.14149",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-14T04:00:00+00:00",
+      "summary": "arXiv:2610.14149v1 Announce Type: new Abstract: VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-driven innovation in animal science and veterinary medicine th"
+    },
+    {
+      "title": "Unconstrained CTI-REALM with Open-Weights",
+      "link": "https://arxiv.org/abs/2610.14180",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-14T04:00:00+00:00",
+      "summary": "arXiv:2610.14180v1 Announce Type: new Abstract: Organisations that want language-model agents for security work face a choice between open-weight models, which they can run and audit themselves, and far more expensive cl"
+    },
+    {
+      "title": "Visualizing the World Model in an Agent's Value Function",
+      "link": "https://arxiv.org/abs/2610.14186",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-14T04:00:00+00:00",
+      "summary": "arXiv:2610.14186v1 Announce Type: new Abstract: Could model-free reinforcement learning algorithms actually be learning a model of the environment? In this work, we apply counterfactual interventions which hold everythin"
+    },
+    {
       "title": "ISC Stormcast For Wednesday, October 14th, 2026 https://isc.sans.edu/podcastdetail/10136, (Wed, Oct 14th)",
       "link": "https://isc.sans.edu/diary/rss/33424",
       "source": "SANS Internet Storm Center",
@@ -21,12 +197,36 @@
       "summary": ""
     },
     {
+      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+      "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-14T01:59:25+00:00",
+      "summary": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations"
+    },
+    {
+      "title": "The EU\u2019s next chapter in AI is agentic",
+      "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-14T00:00:00+00:00",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses\u2014and where deeper use could unlock more value."
+    },
+    {
       "title": "Microsoft Patches More Than 1,400 Security Flaws",
       "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
       "source": "Krebs on Security",
       "category": "cybersecurity",
       "published": "2026-10-13T23:24:53+00:00",
       "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was alre"
+    },
+    {
+      "title": "Saudi national charged with planting spy device in OpenAI executive conference room",
+      "link": "https://therecord.media/saudi-national-charged-with-spy-device-openai",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-13T23:00:00+00:00",
+      "summary": "Abdulrahman Alfozan, 35, a Saudi national working as an engineer for OpenAI, was charged Tuesday with secretly bugging an executive conference room at one of the company\u2019s buildings in San Francisco."
     },
     {
       "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
@@ -109,14 +309,6 @@
       "summary": "A flaw in SAP's Cloud SDK for Python can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a security advisory on October 13. The flaw affects multi-tenant applications on SAP "
     },
     {
-      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
-      "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-13T16:18:18+00:00",
-      "summary": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's pack"
-    },
-    {
       "title": "Sandbox vulnerability gives rogue AI agents a path to escape and leak data, research says",
       "link": "https://therecord.media/sandbox-vulnerability-gives-rogue-ai-agents-path-out",
       "source": "The Record",
@@ -133,204 +325,12 @@
       "summary": "More than two dozen people were arrested by police in Ghana and Nigeria as part of a U.K.-hosted operation that also included tech companies."
     },
     {
-      "title": "North Korean hackers target Ukrainian experts for possible intelligence on Russia's war",
-      "link": "https://therecord.media/north-korea-hackers-russia-ukraine",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-13T15:15:00+00:00",
-      "summary": "North Korean hackers have been targeting Ukrainian experts in diplomacy, security and international policy amid Pyongyang\u2019s growing military cooperation with Russia."
-    },
-    {
-      "title": "Xandr Fined a Record \u20ac8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
-      "link": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-13T13:12:32+00:00",
-      "summary": "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, \u20ac8.6 million ($9.62 million) for illegally relaying \u200bGrindr users' sensitive data to advertisers. The administrative "
-    },
-    {
       "title": "The Download: open model trade-offs and geothermal power\u2019s promise",
       "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
       "source": "MIT Technology Review",
       "category": "ai",
       "published": "2026-10-13T12:00:00+00:00",
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently rel"
-    },
-    {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "link": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-13T12:00:00+00:00",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
-    },
-    {
-      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
-      "link": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-13T11:57:06+00:00",
-      "summary": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege escalation, "
-    },
-    {
-      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
-      "link": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-13T11:09:10+00:00",
-      "summary": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner. LG has issued a fix, according to an advi"
-    },
-    {
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-13T10:00:00+00:00",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what\u2019s coming next. You can read more from the series here. Late last month, Anthropic re"
-    },
-    {
-      "title": "AI labs are buying data from dead startups to train their models",
-      "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-13T09:00:00+00:00",
-      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn\u2019t think its data was worth much: the users were anonymous, the company just a few years old. But he\u2019s since turned the firm\u2019s digital archives "
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)",
-      "link": "https://isc.sans.edu/diary/rss/33418",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-13T02:00:02+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-12T21:42:42+00:00",
-      "summary": "Attackers are currently targeting a critical vulnerability in SMA 1000 appliances, putting SonicWall customers in a familiar yet unenviable position."
-    },
-    {
-      "title": "Prominent Ransomware Negotiator Faces Extortion Charges",
-      "link": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-12T20:00:53+00:00",
-      "summary": "Edward Dubrovsky, a longtime cybersecurity executive, was arrested and charged in Pennsylvania last week under conspiracy to extort money."
-    },
-    {
-      "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-12T18:27:25+00:00",
-      "summary": "The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink."
-    },
-    {
-      "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief",
-      "link": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-12T12:30:58+00:00",
-      "summary": "Fahmida Y Rashid will keep the momentum going as she leads Dark Reading."
-    },
-    {
-      "title": "The Download: moon city problems and drone traffic controllers",
-      "link": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-12T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing"
-    },
-    {
-      "title": "What it would take to build a city on the moon",
-      "link": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-12T09:37:02+00:00",
-      "summary": "Welcome to the second space race. You can be forgiven for experiencing d\u00e9j\u00e0 vu. Last time, it was the Soviet Union and the United States vying to be the first to plant some flags. Now it\u2019s a sprint to the lunar surface b"
-    },
-    {
-      "title": "The ecologist revealing the invisible networks that revive rainforests",
-      "link": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-12T09:00:00+00:00",
-      "summary": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-\u00adlike canopies of mature growth. Forest ecologist Daisy Dent, a sen"
-    },
-    {
-      "title": "ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, (Mon, Oct 12th)",
-      "link": "https://isc.sans.edu/diary/rss/33416",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-12T02:00:03+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Why TLP should not replace your internal information classification, (Sat, Oct 10th)",
-      "link": "https://isc.sans.edu/diary/rss/33414",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-10T09:11:34+00:00",
-      "summary": "The Traffic Light Protocol (TLP)[1], which is now in its second incarnation, is a wonderful standard that enables one to easily communicate whether information may be shared further (and if so, how far)."
-    },
-    {
-      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
-      "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-      "source": "Krebs on Security",
-      "category": "cybersecurity",
-      "published": "2026-10-10T00:17:42+00:00",
-      "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved th"
-    },
-    {
-      "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-09T20:58:32+00:00",
-      "summary": "The attack on the British retailer shows that compromising a single identity can lead to much deeper penetration of the corporate network."
-    },
-    {
-      "title": "The Download: AI\u2019s refusal problem and weight-loss drug side effects",
-      "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-09T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. We\u2019re putting too much faith in AI\u2019s ability to say no Today\u2019s AI models are train"
-    },
-    {
-      "title": "We\u2019re putting too much faith in AI\u2019s ability to say no",
-      "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-09T09:00:00+00:00",
-      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of rob"
-    },
-    {
-      "title": "ISC Stormcast For Friday, October 9th, 2026 https://isc.sans.edu/podcastdetail/10130, (Fri, Oct 9th)",
-      "link": "https://isc.sans.edu/diary/rss/33412",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-09T07:52:03+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "link": "https://openai.com/index/sophos",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-09T07:00:00+00:00",
-      "summary": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
-    },
-    {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "link": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-09T07:00:00+00:00",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
     }
   ]
 }
