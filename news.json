@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T16:03:01.581536+00:00",
+  "generated_at": "2026-10-14T21:02:14.471306+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,62 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Brooklyn DA\u2019s office disrupts crypto scam targeting Russian community",
+      "link": "https://therecord.media/brooklyn-da-server-takedowns-crypto-scam-russian-speakers",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-14T20:33:00+00:00",
+      "summary": "Russian-speaking Brooklyn residents began tipping off local authorities to a cryptocurrency fraud scheme three years ago, leading to an operation to take down the associated servers and domains."
+    },
+    {
+      "title": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat",
+      "link": "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-14T20:09:42+00:00",
+      "summary": "A bug in Claude Code Desktop's preview pane can allow adversaries to quietly steal credentials from developers, including SSH private keys, AWS credentials, and Claude 0Auth tokens."
+    },
+    {
+      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
+      "link": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-14T18:38:56+00:00",
+      "summary": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco said in an advisory on Wednesday. The attacker sends an email"
+    },
+    {
+      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora\u2019s Built-in CODE App",
+      "link": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-14T17:38:31+00:00",
+      "summary": "Attackers exploited a flaw in an optional Nextcloud app, Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators reported the issue on GitHub, with the first logged attack "
+    },
+    {
+      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
+      "link": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-14T17:09:15+00:00",
+      "summary": "Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of t"
+    },
+    {
+      "title": "Spyware manufacturer had access to data harvested by former Polish government, current PM says",
+      "link": "https://therecord.media/spyware-manufacturer-had-access-to-data-harvested-by-previous-polish-government",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-14T16:50:00+00:00",
+      "summary": "Prime Minister Donald Tusk, who ordered the investigation, on Monday called the sprawling spyware operation spearheaded by the country\u2019s previous ruling party \u201cone of the biggest scandals in Polish history since the fall"
+    },
+    {
+      "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
+      "link": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-14T16:34:31+00:00",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indictment charges a "
+    },
     {
       "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
       "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
@@ -53,14 +109,6 @@
       "summary": "The sixth exploited Ivanti bug this year drew attention from the feds and researchers, while a severe Microsoft vulnerability was one of more than 1,400 listed for Patch Tuesday."
     },
     {
-      "title": "Congressional probe faults Match Group for failing to rein in dating app scams",
-      "link": "https://therecord.media/congressional-probe-faults-match-group-for-failing-to-stop-dating-app-scams",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-14T12:32:00+00:00",
-      "summary": "The Joint Economic Committee on Tuesday released the results of a year-long investigation into Tinder, Hinge, Match, Plenty of Fish and several other dating sites owned by Match Group."
-    },
-    {
       "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
       "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
       "source": "The Hacker News",
@@ -85,6 +133,22 @@
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. The US military\u2019s race to make fake blood In February 2007, a US military helicopt"
     },
     {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "link": "https://openai.com/index/amp-beyond-coding",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-14T12:00:00+00:00",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
+    },
+    {
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "link": "https://openai.com/index/sentinelone",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-14T12:00:00+00:00",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
+    },
+    {
       "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
       "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
       "source": "The Hacker News",
@@ -101,36 +165,12 @@
       "summary": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the attack"
     },
     {
-      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
-      "link": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-14T11:08:22+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from i"
-    },
-    {
-      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
-      "link": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-14T11:00:00+00:00",
-      "summary": "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication byp"
-    },
-    {
       "title": "The US military\u2019s race to make fake blood",
       "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
       "source": "MIT Technology Review",
       "category": "ai",
       "published": "2026-10-14T09:00:00+00:00",
       "summary": "Its call sign was Morphine 1-2. In February 2007, the hulking dual-\u00adrotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, when another call came: an em"
-    },
-    {
-      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
-      "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-14T07:46:57+00:00",
-      "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write "
     },
     {
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
@@ -147,14 +187,6 @@
       "category": "cybersecurity",
       "published": "2026-10-14T06:49:46+00:00",
       "summary": "Years ago I wrote diary entries about VBA code stored inside AutoCAD drawing files (.dwg)."
-    },
-    {
-      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
-      "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-14T05:52:28+00:00",
-      "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over. The protected area is a VBS enclave, an isolated slice of memo"
     },
     {
       "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
@@ -299,38 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-10-14T02:00:03+00:00",
       "summary": ""
-    },
-    {
-      "title": "The EU\u2019s next chapter in AI is agentic",
-      "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-14T00:00:00+00:00",
-      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses\u2014and where deeper use could unlock more value."
-    },
-    {
-      "title": "Microsoft Patches More Than 1,400 Security Flaws",
-      "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
-      "source": "Krebs on Security",
-      "category": "cybersecurity",
-      "published": "2026-10-13T23:24:53+00:00",
-      "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was alre"
-    },
-    {
-      "title": "Saudi national charged with planting spy device in OpenAI executive conference room",
-      "link": "https://therecord.media/saudi-national-charged-with-spy-device-openai",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-13T23:00:00+00:00",
-      "summary": "Abdulrahman Alfozan, 35, a Saudi national working as an engineer for OpenAI, was charged Tuesday with secretly bugging an executive conference room at one of the company\u2019s buildings in San Francisco."
-    },
-    {
-      "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-13T22:29:57+00:00",
-      "summary": "The scary surprises in the largest security update ever include security bypasses and unauthenticated RCEs."
     }
   ]
 }
