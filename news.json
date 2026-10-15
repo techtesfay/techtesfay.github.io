@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T02:03:42.056091+00:00",
+  "generated_at": "2026-10-15T10:26:53.214869+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,198 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "How much more can nuclear power plants give?",
+      "link": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-15T10:00:00+00:00",
+      "summary": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there\u2019s been big news about nuclear power plants trying to do jus"
+    },
+    {
+      "title": "Six wild ideas for perpetuating your mind",
+      "link": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-15T09:00:00+00:00",
+      "summary": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it\u2019s a lot t"
+    },
+    {
+      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
+      "link": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-15T08:45:10+00:00",
+      "summary": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations. The spike, according to GitGuardian, was observed on October 8 and 9, 2026. "
+    },
+    {
+      "title": "Pig kidneys that were \u201cfrozen\u201d for a year have been brought back to life",
+      "link": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-15T08:43:24+00:00",
+      "summary": "Pig kidneys that were cooled to -150 \u00b0C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs"
+    },
+    {
+      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
+      "link": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-15T07:07:05+00:00",
+      "summary": "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian. Langflow is an open-source platform that allows developers to build artificial intelligence (AI) applications and a"
+    },
+    {
+      "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
+      "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-15T07:00:00+00:00",
+      "summary": "Hundreds of stores lost millions of dollars because they hired third parties to manage the outdated OT firmware running their cooling systems."
+    },
+    {
+      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+      "link": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-15T06:43:08+00:00",
+      "summary": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners. The vulnerabilities in quest"
+    },
+    {
+      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+      "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-15T06:17:58+00:00",
+      "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of rem"
+    },
+    {
+      "title": "Physical Layer Anomaly Detection via Adaptive Gaussian Mixture Model",
+      "link": "https://arxiv.org/abs/2610.18946",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-15T04:00:00+00:00",
+      "summary": "arXiv:2610.18946v1 Announce Type: new Abstract: Physical-layer spoofing attacks pose a critical threat to wireless localization systems by manipulating channel state information (CSI). Detecting such attacks becomes part"
+    },
+    {
+      "title": "Limits of Statistical Assurance for Embodied and Agentic AI under Adaptive Adversaries",
+      "link": "https://arxiv.org/abs/2610.18948",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-15T04:00:00+00:00",
+      "summary": "arXiv:2610.18948v1 Announce Type: new Abstract: Finite safety assessments cannot exclude an adversary that preserves unattacked behavior until certification and activates afterward. We characterize this limitation for em"
+    },
+    {
+      "title": "CyberArena: Benchmarking AI Agents in Live Symmetric Attack-and-Defense Combat",
+      "link": "https://arxiv.org/abs/2610.19005",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-15T04:00:00+00:00",
+      "summary": "arXiv:2610.19005v1 Announce Type: new Abstract: AI agents are demonstrating increasingly strong offensive and defensive cybersecurity capabilities in the real world. Current benchmarks mostly evaluate agents in isolation"
+    },
+    {
+      "title": "Combining Post-Quantum Cryptography and Quantum Key Distribution: Taxonomy, Constructions, Proofs, Standards, Deployments and Open Problems",
+      "link": "https://arxiv.org/abs/2610.19039",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-15T04:00:00+00:00",
+      "summary": "arXiv:2610.19039v1 Announce Type: new Abstract: Post-quantum cryptography (PQC) and quantum key distribution (QKD) address the quantum threat from opposite directions: PQC replaces vulnerable public-key algorithms with s"
+    },
+    {
+      "title": "Beyond Maliciousness: Static and Runtime Attack-Surface Profiling of Agent Skills",
+      "link": "https://arxiv.org/abs/2610.19264",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-15T04:00:00+00:00",
+      "summary": "arXiv:2610.19264v1 Announce Type: new Abstract: Agent skills are Markdown documents that a tool-using agent reads as instructions and then acts on with the privileges of the session that loaded them. Installing one grant"
+    },
+    {
+      "title": "TrackShield: An Efficient Runtime Defense Against Availability Attacks on High-Performance Real-Time Multi-Object Tracking",
+      "link": "https://arxiv.org/abs/2610.19278",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-15T04:00:00+00:00",
+      "summary": "arXiv:2610.19278v1 Announce Type: new Abstract: High-performance camera-based perception pipelines must sustain per-frame real-time budgets on resource-constrained embedded GPU platforms. Availability attacks such as Slo"
+    },
+    {
+      "title": "AutoPoly-HE: Autonomous Design of Polynomial Activations for Privacy-Preserving Encrypted Inference",
+      "link": "https://arxiv.org/abs/2610.19325",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-15T04:00:00+00:00",
+      "summary": "arXiv:2610.19325v1 Announce Type: new Abstract: Privacy-preserving machine learning has become critical for deploying artificial intelligence in sensitive domains such as healthcare, finance, and infrastructure monitorin"
+    },
+    {
+      "title": "MMA-SafetyBench: A Benchmark for Multimodal Agent Safety Evaluation",
+      "link": "https://arxiv.org/abs/2610.19384",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-15T04:00:00+00:00",
+      "summary": "arXiv:2610.19384v1 Announce Type: new Abstract: Multimodal agents increasingly rely on visual interfaces to perceive state and select actions, creating an attack surface not captured by text-only safety evaluations. We s"
+    },
+    {
+      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+      "link": "https://arxiv.org/abs/2610.14005",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-15T04:00:00+00:00",
+      "summary": "arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we"
+    },
+    {
+      "title": "The Silent Failures in Agentic Data Science",
+      "link": "https://arxiv.org/abs/2610.14115",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-15T04:00:00+00:00",
+      "summary": "arXiv:2610.14115v1 Announce Type: new Abstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating"
+    },
+    {
+      "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
+      "link": "https://arxiv.org/abs/2610.14118",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-15T04:00:00+00:00",
+      "summary": "arXiv:2610.14118v1 Announce Type: new Abstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox wor"
+    },
+    {
+      "title": "Correction Training for Diffusion Models",
+      "link": "https://arxiv.org/abs/2610.14136",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-15T04:00:00+00:00",
+      "summary": "arXiv:2610.14136v2 Announce Type: new Abstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference"
+    },
+    {
+      "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
+      "link": "https://arxiv.org/abs/2610.14146",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-15T04:00:00+00:00",
+      "summary": "arXiv:2610.14146v1 Announce Type: new Abstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a bi"
+    },
+    {
+      "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
+      "link": "https://arxiv.org/abs/2610.14149",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-15T04:00:00+00:00",
+      "summary": "arXiv:2610.14149v1 Announce Type: new Abstract: VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-driven innovation in animal science and veterinary medicine th"
+    },
+    {
+      "title": "Unconstrained CTI-REALM with Open-Weights",
+      "link": "https://arxiv.org/abs/2610.14180",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-15T04:00:00+00:00",
+      "summary": "arXiv:2610.14180v1 Announce Type: new Abstract: Organisations that want language-model agents for security work face a choice between open-weight models, which they can run and audit themselves, and far more expensive cl"
+    },
+    {
+      "title": "Visualizing the World Model in an Agent's Value Function",
+      "link": "https://arxiv.org/abs/2610.14186",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-15T04:00:00+00:00",
+      "summary": "arXiv:2610.14186v1 Announce Type: new Abstract: Could model-free reinforcement learning algorithms actually be learning a model of the environment? In this work, we apply counterfactual interventions which hold everythin"
+    },
     {
       "title": "ISC Stormcast For Thursday, October 15th, 2026 https://isc.sans.edu/podcastdetail/10138, (Thu, Oct 15th)",
       "link": "https://isc.sans.edu/diary/rss/33428",
@@ -27,6 +219,14 @@
       "category": "cybersecurity",
       "published": "2026-10-15T01:10:57+00:00",
       "summary": "[This is a Guest Diary by Zachary Norwood, an ISC intern as part of the SANS.edu BACS program]"
+    },
+    {
+      "title": "Ukraine says Elon Musk's Starshield service partially restored after restrictions disrupted drone missions",
+      "link": "https://therecord.media/ukraine-says-starshield-working-again-after-disruption",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-14T23:00:00+00:00",
+      "summary": "The Ukrainian military can again use SpaceX\u2019s Starshield satellite service on the move, a Defense Ministry source told Recorded Future News on Thursday, days after sudden restrictions disrupted drone missions along the f"
     },
     {
       "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
@@ -106,7 +306,7 @@
       "source": "The Hacker News",
       "category": "cybersecurity",
       "published": "2026-10-14T16:34:31+00:00",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indictment charges a "
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers and KVM devices as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indic"
     },
     {
       "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
@@ -125,212 +325,12 @@
       "summary": "The tech giant worked with Japan\u2019s National Police Agency and healthcare cybersecurity organization Health-ISAC to obtain a U.S. court order seizing and redirecting domains that were part of the infrastructure underlying"
     },
     {
-      "title": "Russian travel booking platform suspends reservations after cyberattack",
-      "link": "https://therecord.media/russia-anywayanyday-travel-website-cyberattack",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-14T13:05:00+00:00",
-      "summary": "Customers of Russian travel website Anywayanyday were unable to book tickets or hotel rooms as the company responded to a cyberattack."
-    },
-    {
       "title": "Russian Influence Operation Widely Targeting Latin America",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-10-14T13:00:00+00:00",
       "summary": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts."
-    },
-    {
-      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
-      "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-14T12:30:42+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version follo"
-    },
-    {
-      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
-      "link": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-14T12:13:36+00:00",
-      "summary": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine. The curl pro"
-    },
-    {
-      "title": "The Download: faking blood and the future of batteries",
-      "link": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-14T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. The US military\u2019s race to make fake blood In February 2007, a US military helicopt"
-    },
-    {
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "link": "https://openai.com/index/amp-beyond-coding",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-14T12:00:00+00:00",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
-    },
-    {
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "link": "https://openai.com/index/sentinelone",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-14T12:00:00+00:00",
-      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
-    },
-    {
-      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
-      "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-14T11:50:00+00:00",
-      "summary": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake. The "
-    },
-    {
-      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
-      "link": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-14T11:19:02+00:00",
-      "summary": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the attack"
-    },
-    {
-      "title": "The US military\u2019s race to make fake blood",
-      "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-14T09:00:00+00:00",
-      "summary": "Its call sign was Morphine 1-2. In February 2007, the hulking dual-\u00adrotor casualty evacuation helicopter had just flown three wounded soldiers to a field hospital in Balad, north of Baghdad, when another call came: an em"
-    },
-    {
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "link": "https://openai.com/index/third-moment-research",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-14T07:00:00+00:00",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
-    },
-    {
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "link": "https://openai.com/index/block-ai-powered-security",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-14T07:00:00+00:00",
-      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
-    },
-    {
-      "title": "Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)",
-      "link": "https://isc.sans.edu/diary/rss/33420",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-14T06:49:46+00:00",
-      "summary": "Years ago I wrote diary entries about VBA code stored inside AutoCAD drawing files (.dwg)."
-    },
-    {
-      "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-14T05:00:00+00:00",
-      "summary": "Organizations are reporting that employees face threats of stalking, physical violence, and abduction. But these alarming claims are hard to verify."
-    },
-    {
-      "title": "Argos: A Multi-Tenant SaaS Architecture for Distributed Edge Security Orchestration",
-      "link": "https://arxiv.org/abs/2610.14019",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-14T04:00:00+00:00",
-      "summary": "arXiv:2610.14019v1 Announce Type: new Abstract: The growing adoption of distributed edge devices for security auditing and operational monitoring exposes limitations in lightweight control mechanisms traditionally used t"
-    },
-    {
-      "title": "Symmetric Cryptography via Dirichlet Convolution",
-      "link": "https://arxiv.org/abs/2610.14040",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-14T04:00:00+00:00",
-      "summary": "arXiv:2610.14040v1 Announce Type: new Abstract: We discuss a new symmetric-key cipher for digital data encryption. Its implementation is fast, memory efficient, and resilient against classical, AI-assisted, and quantum a"
-    },
-    {
-      "title": "SAGE: Efficient Protected Vision-Language Inference on Smart Glasses",
-      "link": "https://arxiv.org/abs/2610.14089",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-14T04:00:00+00:00",
-      "summary": "arXiv:2610.14089v1 Announce Type: new Abstract: Smart glasses are a promising platform for vision-language assistants, but private split inference remains expensive: protecting visual representations before transmission "
-    },
-    {
-      "title": "An Empirical Case Study of Prompt Engineering Strategies for Bypassing Multi-Layer Agent Security Defenses",
-      "link": "https://arxiv.org/abs/2610.14116",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-14T04:00:00+00:00",
-      "summary": "arXiv:2610.14116v1 Announce Type: new Abstract: The OpenClaw Security Attack and Defense Challenge evaluates AI agent robustness through a three-stage defense pipeline: skill file scanning (Stage 1), instruction safety e"
-    },
-    {
-      "title": "TrustPaper for forged PDF with Issuer Fingerprints",
-      "link": "https://arxiv.org/abs/2610.14132",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-14T04:00:00+00:00",
-      "summary": "arXiv:2610.14132v1 Announce Type: new Abstract: Sick leave certificates are increasingly delivered as PDF files by online teleconsultation platforms, and can be altered in minutes with free editors. Generic PDF scanners "
-    },
-    {
-      "title": "Memory-Coupled Unlearning for Data-Absent Identity Forgetting",
-      "link": "https://arxiv.org/abs/2610.14148",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-14T04:00:00+00:00",
-      "summary": "arXiv:2610.14148v1 Announce Type: new Abstract: Machine unlearning aims to reduce the influence of designated training data from a trained model while preserving its utility on retained data. Identity-level unlearning is"
-    },
-    {
-      "title": "Embedding Asymmetry as Attack Signal: Detecting and Defending Active Label Inference in Vertical Federated Learning",
-      "link": "https://arxiv.org/abs/2610.14194",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-14T04:00:00+00:00",
-      "summary": "arXiv:2610.14194v1 Announce Type: new Abstract: Vertical federated learning lets organizations train a shared model over features they hold separately, while one party keeps the labels private. The active label inference"
-    },
-    {
-      "title": "Physical Side-Channel Attacks on Edge LLMs: Extracting Output Tokens and User Prompts",
-      "link": "https://arxiv.org/abs/2610.14215",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-14T04:00:00+00:00",
-      "summary": "arXiv:2610.14215v1 Announce Type: new Abstract: The deployment of large language models (LLMs) on edge devices is largely motivated by privacy concerns over sharing sensitive user data with cloud servers. In this paper, "
-    },
-    {
-      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
-      "link": "https://arxiv.org/abs/2610.14005",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-14T04:00:00+00:00",
-      "summary": "arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we"
-    },
-    {
-      "title": "The Silent Failures in Agentic Data Science",
-      "link": "https://arxiv.org/abs/2610.14115",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-14T04:00:00+00:00",
-      "summary": "arXiv:2610.14115v1 Announce Type: new Abstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating"
-    },
-    {
-      "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
-      "link": "https://arxiv.org/abs/2610.14118",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-14T04:00:00+00:00",
-      "summary": "arXiv:2610.14118v1 Announce Type: new Abstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox wor"
-    },
-    {
-      "title": "Correction Training for Diffusion Models",
-      "link": "https://arxiv.org/abs/2610.14136",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-14T04:00:00+00:00",
-      "summary": "arXiv:2610.14136v1 Announce Type: new Abstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference"
     }
   ]
 }
