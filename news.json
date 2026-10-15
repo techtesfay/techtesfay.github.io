@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T15:51:20.241000+00:00",
+  "generated_at": "2026-10-15T20:36:43.486092+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,46 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+      "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-15T20:24:36+00:00",
+      "summary": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Verce"
+    },
+    {
+      "title": "Zero-click spyware infecting devices through online ads, researchers say",
+      "link": "https://therecord.media/spyware-citizen-lab-advertising",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-15T19:00:00+00:00",
+      "summary": "Powerful zero-click spyware is infected devices worldwide through targeted ads, new research shows \u2014 an alarming development in the spread of surveillance technology."
+    },
+    {
+      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
+      "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-15T18:49:33+00:00",
+      "summary": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that\u2019s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different "
+    },
+    {
+      "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
+      "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-15T16:01:57+00:00",
+      "summary": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at the Cit"
+    },
+    {
+      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
+      "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-15T16:00:26+00:00",
+      "summary": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from June 2025 through Au"
+    },
     {
       "title": "Vulnerability Management Isn't About the Score \u2014 It's About How It Applies to You",
       "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
@@ -85,38 +125,6 @@
       "summary": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19. An attacker cannot reach the "
     },
     {
-      "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
-      "link": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-15T11:46:59+00:00",
-      "summary": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October"
-    },
-    {
-      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-      "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-15T11:46:49+00:00",
-      "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of rem"
-    },
-    {
-      "title": "Why AI Confidence Is Not Validation",
-      "link": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-15T11:04:35+00:00",
-      "summary": "AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioners a"
-    },
-    {
-      "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
-      "link": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-15T10:42:16+00:00",
-      "summary": "The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November 1, 2026, in an effort to h"
-    },
-    {
       "title": "How much more can nuclear power plants give?",
       "link": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
       "source": "MIT Technology Review",
@@ -146,7 +154,7 @@
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-10-15T07:00:00+00:00",
-      "summary": "Hundreds of stores lost millions of dollars because they hired third parties to manage the outdated OT firmware running their cooling systems."
+      "summary": "Hundreds of stores lost millions of euros because they hired third parties to manage the outdated OT firmware running their cooling systems."
     },
     {
       "title": "Physical Layer Anomaly Detection via Adaptive Gaussian Mixture Model",
@@ -323,14 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-10-14T20:57:16+00:00",
       "summary": "A sprawling cybercrime marketplace supplied cloud infrastructure and phishing kits that helped fuel more than 1 billion phishing messages worldwide."
-    },
-    {
-      "title": "Brooklyn DA\u2019s office disrupts crypto scam targeting Russian community",
-      "link": "https://therecord.media/brooklyn-da-server-takedowns-crypto-scam-russian-speakers",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-14T20:33:00+00:00",
-      "summary": "Russian-speaking Brooklyn residents began tipping off local authorities to a cryptocurrency fraud scheme three years ago, leading to an operation to take down the associated servers and domains."
     }
   ]
 }
