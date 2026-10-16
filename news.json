@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T01:54:08.790305+00:00",
+  "generated_at": "2026-10-16T10:14:08.219526+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,198 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "This implant can restore sight for patients with macular degeneration",
+      "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-16T09:00:00+00:00",
+      "summary": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The Prima system, which was approved in Europe in July and is awaiting F"
+    },
+    {
+      "title": "Love is infrastructure",
+      "link": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-16T09:00:00+00:00",
+      "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren\u2019t close. They traded glimpses and occasional hellos and then went about their business. Bot"
+    },
+    {
+      "title": "Can\u2019t bear to say goodbye to your pet? Biotech\u2019s got you covered.",
+      "link": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-16T09:00:00+00:00",
+      "summary": "I don\u2019t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time s"
+    },
+    {
+      "title": "Kids are outsmarting social media bans. That\u2019s not a problem we need to solve.",
+      "link": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-16T07:56:32+00:00",
+      "summary": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media\u2014barring children under 15 from major platforms, before the ban was blocked by the country\u2019s top court "
+    },
+    {
+      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
+      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-16T06:55:55+00:00",
+      "summary": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 202"
+    },
+    {
+      "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
+      "link": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-16T06:53:09+00:00",
+      "summary": "AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In said in an advisory on October 15. The agents went beyo"
+    },
+    {
+      "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
+      "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-16T04:59:36+00:00",
+      "summary": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitatio"
+    },
+    {
+      "title": "Forensic Analysis of the HackRF One with PortaPack Mayhem Firmware",
+      "link": "https://arxiv.org/abs/2610.20647",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-16T04:00:00+00:00",
+      "summary": "arXiv:2610.20647v1 Announce Type: new Abstract: Software-defined radios (SDRs) have become an inexpensive, portable platform for replay attacks, location spoofing and jamming. The HackRF One can operate stand-alone when "
+    },
+    {
+      "title": "Unmasking the Secret Code: Using Canaries to Show How Masked Context Controls Memorization in SFT",
+      "link": "https://arxiv.org/abs/2610.20656",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-16T04:00:00+00:00",
+      "summary": "arXiv:2610.20656v1 Announce Type: new Abstract: Canaries, or synthetic training records containing known secrets, are widely used to assess whether language models reveal information from their training data. But how muc"
+    },
+    {
+      "title": "Empirical Evaluation of Machine Learning for Cloud Cryptojacking Detection: Effects of Preprocessing and Evaluation Protocols",
+      "link": "https://arxiv.org/abs/2610.20658",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-16T04:00:00+00:00",
+      "summary": "arXiv:2610.20658v1 Announce Type: new Abstract: Artificial intelligence (AI) has been widely applied to cloud cryptojacking detection. Classical machine learning models remain among the most widely used approaches for cl"
+    },
+    {
+      "title": "Hybrid DeepXAI Fusion Network for Interpretable Big Data Analytics and Secure Cloud Decision-Making Systems",
+      "link": "https://arxiv.org/abs/2610.20661",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-16T04:00:00+00:00",
+      "summary": "arXiv:2610.20661v1 Announce Type: new Abstract: Big data analytics supports modern intelligent systems, but model complexity and limited transparency can undermine interpretability, trust, and security in decision-making"
+    },
+    {
+      "title": "CascadeLedger: Counterfactual Auditing of Information and Resource Integrity in LLM Cascades",
+      "link": "https://arxiv.org/abs/2610.20668",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-16T04:00:00+00:00",
+      "summary": "arXiv:2610.20668v1 Announce Type: new Abstract: We introduce CascadeLedger, a counterfactual execution-audit framework for budgeted language-model cascades. The protocol enforces call-before-read semantics, binds success"
+    },
+    {
+      "title": "Foundations of Hardware-Software Leakage Contracts",
+      "link": "https://arxiv.org/abs/2610.20754",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-16T04:00:00+00:00",
+      "summary": "arXiv:2610.20754v1 Announce Type: new Abstract: Microarchitectural attacks such as Spectre and Meltdown undermine security by exploiting software-visible side effects of microarchitectural optimizations like caches and s"
+    },
+    {
+      "title": "INFUSE: A Unified Surface Benchmark for Indirect Prompt Injection in Agentic Systems",
+      "link": "https://arxiv.org/abs/2610.20776",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-16T04:00:00+00:00",
+      "summary": "arXiv:2610.20776v1 Announce Type: new Abstract: LLM-based agents increasingly execute long-horizon, end-to-end workflows involving shell commands, code modification, dependency installation, and interaction with remote s"
+    },
+    {
+      "title": "Privacy-Preserving Text Inference for Health-Misinformation Classification and Semantic Retrieval",
+      "link": "https://arxiv.org/abs/2610.20796",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-16T04:00:00+00:00",
+      "summary": "arXiv:2610.20796v1 Announce Type: new Abstract: Health-misinformation analysis presents a dual challenge: misleading claims can affect public well-being, while systems designed to detect them may expose sensitive user-su"
+    },
+    {
+      "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+      "link": "https://arxiv.org/abs/2610.20665",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-16T04:00:00+00:00",
+      "summary": "arXiv:2610.20665v1 Announce Type: new Abstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct a"
+    },
+    {
+      "title": "Evaluating Model Capabilities After Benchmark Saturation",
+      "link": "https://arxiv.org/abs/2610.20667",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-16T04:00:00+00:00",
+      "summary": "arXiv:2610.20667v1 Announce Type: new Abstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to differentiate between them"
+    },
+    {
+      "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
+      "link": "https://arxiv.org/abs/2610.20669",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-16T04:00:00+00:00",
+      "summary": "arXiv:2610.20669v1 Announce Type: new Abstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step is compu"
+    },
+    {
+      "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
+      "link": "https://arxiv.org/abs/2610.20675",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-16T04:00:00+00:00",
+      "summary": "arXiv:2610.20675v1 Announce Type: new Abstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in memory. Understanding agent performance"
+    },
+    {
+      "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
+      "link": "https://arxiv.org/abs/2610.20676",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-16T04:00:00+00:00",
+      "summary": "arXiv:2610.20676v1 Announce Type: new Abstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that satisfy a written contract but violate inte"
+    },
+    {
+      "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
+      "link": "https://arxiv.org/abs/2610.20679",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-16T04:00:00+00:00",
+      "summary": "arXiv:2610.20679v1 Announce Type: new Abstract: Representation-based safety defenses for vision-language models (VLMs) often learn to separate harmful from benign inputs, but separation alone does not establish what a ri"
+    },
+    {
+      "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
+      "link": "https://arxiv.org/abs/2610.20681",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-16T04:00:00+00:00",
+      "summary": "arXiv:2610.20681v1 Announce Type: new Abstract: Formal inequality proving requires mathematical reasoning and exact computation, often connected through intermediate lemmas and goal reformulations. We introduce IneqAgent"
+    },
+    {
+      "title": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
+      "link": "https://arxiv.org/abs/2610.20685",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-16T04:00:00+00:00",
+      "summary": "arXiv:2610.20685v1 Announce Type: new Abstract: Symbolic regression searches for an equation that explains observed data. Numerical error is commonly used to guide the search, but it alone can favor an accurate surrogate"
+    },
+    {
+      "title": "ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140, (Fri, Oct 16th)",
+      "link": "https://isc.sans.edu/diary/rss/33432",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-16T02:00:03+00:00",
+      "summary": ""
+    },
     {
       "title": "Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)",
       "link": "https://isc.sans.edu/diary/rss/33430",
@@ -139,198 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-10-15T13:55:00+00:00",
       "summary": "A roughly 2-year-old cyber-espionage campaign against Central Asian states appears to originate in Kazakhstan, researchers said."
-    },
-    {
-      "title": "Teaching students to think and learn through questions",
-      "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-15T13:00:00+00:00",
-      "summary": "Celebrate Teachers\u2019 Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
-    },
-    {
-      "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
-      "link": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-15T12:58:05+00:00",
-      "summary": "NGINX released versions 1.30.6 and 1.31.7 on October 14 to fix five vulnerabilities, one of them present in every release since May 2005. There are three memory bugs that F5, the company behind NGINX, says could crash a "
-    },
-    {
-      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
-      "link": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-15T12:28:13+00:00",
-      "summary": "Next.js released an out-of-band security update on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw. One code-execution flaw is in"
-    },
-    {
-      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
-      "link": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-15T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Pig kidneys that were \u201cfrozen\u201d for a year have been brought back to life Pig kidne"
-    },
-    {
-      "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
-      "link": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-15T12:07:20+00:00",
-      "summary": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19. An attacker cannot reach the "
-    },
-    {
-      "title": "How much more can nuclear power plants give?",
-      "link": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-15T10:00:00+00:00",
-      "summary": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there\u2019s been big news about nuclear power plants trying to do jus"
-    },
-    {
-      "title": "Six wild ideas for perpetuating your mind",
-      "link": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-15T09:00:00+00:00",
-      "summary": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it\u2019s a lot t"
-    },
-    {
-      "title": "Pig kidneys that were \u201cfrozen\u201d for a year have been brought back to life",
-      "link": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-15T08:43:24+00:00",
-      "summary": "Pig kidneys that were cooled to -150 \u00b0C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs"
-    },
-    {
-      "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
-      "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-15T07:00:00+00:00",
-      "summary": "Hundreds of stores lost millions of euros because they hired third parties to manage the outdated OT firmware running their cooling systems."
-    },
-    {
-      "title": "Physical Layer Anomaly Detection via Adaptive Gaussian Mixture Model",
-      "link": "https://arxiv.org/abs/2610.18946",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-15T04:00:00+00:00",
-      "summary": "arXiv:2610.18946v1 Announce Type: new Abstract: Physical-layer spoofing attacks pose a critical threat to wireless localization systems by manipulating channel state information (CSI). Detecting such attacks becomes part"
-    },
-    {
-      "title": "Limits of Statistical Assurance for Embodied and Agentic AI under Adaptive Adversaries",
-      "link": "https://arxiv.org/abs/2610.18948",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-15T04:00:00+00:00",
-      "summary": "arXiv:2610.18948v1 Announce Type: new Abstract: Finite safety assessments cannot exclude an adversary that preserves unattacked behavior until certification and activates afterward. We characterize this limitation for em"
-    },
-    {
-      "title": "CyberArena: Benchmarking AI Agents in Live Symmetric Attack-and-Defense Combat",
-      "link": "https://arxiv.org/abs/2610.19005",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-15T04:00:00+00:00",
-      "summary": "arXiv:2610.19005v1 Announce Type: new Abstract: AI agents are demonstrating increasingly strong offensive and defensive cybersecurity capabilities in the real world. Current benchmarks mostly evaluate agents in isolation"
-    },
-    {
-      "title": "Combining Post-Quantum Cryptography and Quantum Key Distribution: Taxonomy, Constructions, Proofs, Standards, Deployments and Open Problems",
-      "link": "https://arxiv.org/abs/2610.19039",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-15T04:00:00+00:00",
-      "summary": "arXiv:2610.19039v1 Announce Type: new Abstract: Post-quantum cryptography (PQC) and quantum key distribution (QKD) address the quantum threat from opposite directions: PQC replaces vulnerable public-key algorithms with s"
-    },
-    {
-      "title": "Beyond Maliciousness: Static and Runtime Attack-Surface Profiling of Agent Skills",
-      "link": "https://arxiv.org/abs/2610.19264",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-15T04:00:00+00:00",
-      "summary": "arXiv:2610.19264v1 Announce Type: new Abstract: Agent skills are Markdown documents that a tool-using agent reads as instructions and then acts on with the privileges of the session that loaded them. Installing one grant"
-    },
-    {
-      "title": "TrackShield: An Efficient Runtime Defense Against Availability Attacks on High-Performance Real-Time Multi-Object Tracking",
-      "link": "https://arxiv.org/abs/2610.19278",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-15T04:00:00+00:00",
-      "summary": "arXiv:2610.19278v1 Announce Type: new Abstract: High-performance camera-based perception pipelines must sustain per-frame real-time budgets on resource-constrained embedded GPU platforms. Availability attacks such as Slo"
-    },
-    {
-      "title": "AutoPoly-HE: Autonomous Design of Polynomial Activations for Privacy-Preserving Encrypted Inference",
-      "link": "https://arxiv.org/abs/2610.19325",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-15T04:00:00+00:00",
-      "summary": "arXiv:2610.19325v1 Announce Type: new Abstract: Privacy-preserving machine learning has become critical for deploying artificial intelligence in sensitive domains such as healthcare, finance, and infrastructure monitorin"
-    },
-    {
-      "title": "MMA-SafetyBench: A Benchmark for Multimodal Agent Safety Evaluation",
-      "link": "https://arxiv.org/abs/2610.19384",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-15T04:00:00+00:00",
-      "summary": "arXiv:2610.19384v1 Announce Type: new Abstract: Multimodal agents increasingly rely on visual interfaces to perceive state and select actions, creating an attack surface not captured by text-only safety evaluations. We s"
-    },
-    {
-      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
-      "link": "https://arxiv.org/abs/2610.14005",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-15T04:00:00+00:00",
-      "summary": "arXiv:2610.14005v1 Announce Type: new Abstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we"
-    },
-    {
-      "title": "The Silent Failures in Agentic Data Science",
-      "link": "https://arxiv.org/abs/2610.14115",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-15T04:00:00+00:00",
-      "summary": "arXiv:2610.14115v1 Announce Type: new Abstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating"
-    },
-    {
-      "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
-      "link": "https://arxiv.org/abs/2610.14118",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-15T04:00:00+00:00",
-      "summary": "arXiv:2610.14118v1 Announce Type: new Abstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox wor"
-    },
-    {
-      "title": "Correction Training for Diffusion Models",
-      "link": "https://arxiv.org/abs/2610.14136",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-15T04:00:00+00:00",
-      "summary": "arXiv:2610.14136v2 Announce Type: new Abstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference"
-    },
-    {
-      "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
-      "link": "https://arxiv.org/abs/2610.14146",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-15T04:00:00+00:00",
-      "summary": "arXiv:2610.14146v1 Announce Type: new Abstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a bi"
-    },
-    {
-      "title": "VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation",
-      "link": "https://arxiv.org/abs/2610.14149",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-15T04:00:00+00:00",
-      "summary": "arXiv:2610.14149v1 Announce Type: new Abstract: VETNET represents an ecosystem of live benchmark datasets and evaluation frameworks designed to accelerate AI-driven innovation in animal science and veterinary medicine th"
-    },
-    {
-      "title": "Unconstrained CTI-REALM with Open-Weights",
-      "link": "https://arxiv.org/abs/2610.14180",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-15T04:00:00+00:00",
-      "summary": "arXiv:2610.14180v1 Announce Type: new Abstract: Organisations that want language-model agents for security work face a choice between open-weight models, which they can run and audit themselves, and far more expensive cl"
     }
   ]
 }
