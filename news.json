@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T20:36:43.486092+00:00",
+  "generated_at": "2026-10-16T01:54:08.790305+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,54 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)",
+      "link": "https://isc.sans.edu/diary/rss/33430",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-16T00:46:35+00:00",
+      "summary": "I believe the cybersecurity industry may be approaching AI security the wrong way."
+    },
+    {
+      "title": "Panchan's Mining Island [Guest Diary], (Wed, Oct 14th)",
+      "link": "https://isc.sans.edu/diary/rss/33426",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-15T23:03:42+00:00",
+      "summary": "[This is a Guest Diary by Zachary Norwood, an ISC intern as part of the SANS.edu BACS program]"
+    },
+    {
+      "title": "SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape",
+      "link": "https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-15T22:10:08+00:00",
+      "summary": "The event closed in Toronto last week, with experts sharing critical perspectives on emerging risks, drawing record attendance and marking 22% growth."
+    },
+    {
+      "title": "F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud",
+      "link": "https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-15T21:55:07+00:00",
+      "summary": "Built from decades of threat intelligence research, the new resource explains scams from the victims' perspective and tracks emerging forms of cyber crime."
+    },
+    {
+      "title": "Federal bankruptcy courts dealing with outages after contractor cyberattack",
+      "link": "https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-15T20:46:00+00:00",
+      "summary": "The incident, which involved a government contractor, has halted all production of bankruptcy notices."
+    },
+    {
+      "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too",
+      "link": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-15T20:43:20+00:00",
+      "summary": "Don't buy the hype! AI has been dumbing down cyberattacks, and serious threat actors are barely touching it."
+    },
     {
       "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
       "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
@@ -27,6 +75,14 @@
       "category": "cybersecurity",
       "published": "2026-10-15T19:00:00+00:00",
       "summary": "Powerful zero-click spyware is infected devices worldwide through targeted ads, new research shows \u2014 an alarming development in the spread of surveillance technology."
+    },
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-15T19:00:00+00:00",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
     },
     {
       "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
@@ -275,62 +331,6 @@
       "category": "research",
       "published": "2026-10-15T04:00:00+00:00",
       "summary": "arXiv:2610.14180v1 Announce Type: new Abstract: Organisations that want language-model agents for security work face a choice between open-weight models, which they can run and audit themselves, and far more expensive cl"
-    },
-    {
-      "title": "Visualizing the World Model in an Agent's Value Function",
-      "link": "https://arxiv.org/abs/2610.14186",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-15T04:00:00+00:00",
-      "summary": "arXiv:2610.14186v1 Announce Type: new Abstract: Could model-free reinforcement learning algorithms actually be learning a model of the environment? In this work, we apply counterfactual interventions which hold everythin"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, October 15th, 2026 https://isc.sans.edu/podcastdetail/10138, (Thu, Oct 15th)",
-      "link": "https://isc.sans.edu/diary/rss/33428",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-15T02:00:03+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Panchan's Mining Island [Guest Diary], (Wed, Oct 14th)",
-      "link": "https://isc.sans.edu/diary/rss/33426",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-15T01:10:57+00:00",
-      "summary": "[This is a Guest Diary by Zachary Norwood, an ISC intern as part of the SANS.edu BACS program]"
-    },
-    {
-      "title": "Ukraine says Elon Musk's Starshield service partially restored after restrictions disrupted drone missions",
-      "link": "https://therecord.media/ukraine-says-starshield-working-again-after-disruption",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-14T23:00:00+00:00",
-      "summary": "The Ukrainian military can again use SpaceX\u2019s Starshield satellite service on the move, a Defense Ministry source told Recorded Future News on Thursday, days after sudden restrictions disrupted drone missions along the f"
-    },
-    {
-      "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-14T21:20:13+00:00",
-      "summary": "CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on."
-    },
-    {
-      "title": "North Macedonian police arrest alleged administrator behind OLVX cybercrime market",
-      "link": "https://therecord.media/olvx-cybercrime-marketplace-arrest-north-macedonia",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-14T21:10:00+00:00",
-      "summary": "A raid on a home in a North Macedonian village led to the arrest of the suspected administrator of the OLVX market, according to the Balkan country's Interior Ministry along with the FBI."
-    },
-    {
-      "title": "Yam Store: The Phishing Network Behind a Billion Messages",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-14T20:57:16+00:00",
-      "summary": "A sprawling cybercrime marketplace supplied cloud infrastructure and phishing kits that helped fuel more than 1 billion phishing messages worldwide."
     }
   ]
 }
