@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:39:41.503885+00:00",
+  "generated_at": "2026-10-16T20:09:48.055026+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,70 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
+      "link": "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-16T19:49:30+00:00",
+      "summary": "Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees."
+    },
+    {
+      "title": "Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform",
+      "link": "https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-16T19:22:12+00:00",
+      "summary": "The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year."
+    },
+    {
+      "title": "Enterprise AI Enters Risk Management Phase as Security Concerns Rise",
+      "link": "https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-16T19:13:59+00:00",
+      "summary": "Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution."
+    },
+    {
+      "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
+      "link": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-16T18:37:50+00:00",
+      "summary": "Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses."
+    },
+    {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-16T18:00:00+00:00",
+      "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints f"
+    },
+    {
+      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-16T17:48:45+00:00",
+      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its"
+    },
+    {
+      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-16T16:43:39+00:00",
+      "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup prog"
+    },
+    {
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-16T16:16:44+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversar"
+    },
     {
       "title": "Proofpoint lines up $6.3 billion deal for Varonis\u2019 data security",
       "link": "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition",
@@ -90,7 +154,7 @@
       "source": "MIT Technology Review",
       "category": "ai",
       "published": "2026-10-16T09:00:00+00:00",
-      "summary": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The Prima system, which was approved in Europe in July and is awaiting F"
+      "summary": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in"
     },
     {
       "title": "Love is infrastructure",
@@ -267,70 +331,6 @@
       "category": "research",
       "published": "2026-10-16T04:00:00+00:00",
       "summary": "arXiv:2610.20685v1 Announce Type: new Abstract: Symbolic regression searches for an equation that explains observed data. Numerical error is commonly used to guide the search, but it alone can favor an accurate surrogate"
-    },
-    {
-      "title": "ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140, (Fri, Oct 16th)",
-      "link": "https://isc.sans.edu/diary/rss/33432",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-16T02:00:03+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)",
-      "link": "https://isc.sans.edu/diary/rss/33430",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-16T00:46:35+00:00",
-      "summary": "I believe the cybersecurity industry may be approaching AI security the wrong way."
-    },
-    {
-      "title": "Panchan's Mining Island [Guest Diary], (Wed, Oct 14th)",
-      "link": "https://isc.sans.edu/diary/rss/33426",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-15T23:03:42+00:00",
-      "summary": "[This is a Guest Diary by Zachary Norwood, an ISC intern as part of the SANS.edu BACS program]"
-    },
-    {
-      "title": "SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape",
-      "link": "https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-15T22:10:08+00:00",
-      "summary": "The event closed in Toronto last week, with experts sharing critical perspectives on emerging risks, drawing record attendance and marking 22% growth."
-    },
-    {
-      "title": "F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud",
-      "link": "https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-15T21:55:07+00:00",
-      "summary": "Built from decades of threat intelligence research, the new resource explains scams from the victims' perspective and tracks emerging forms of cyber crime."
-    },
-    {
-      "title": "Federal bankruptcy courts dealing with outages after contractor cyberattack",
-      "link": "https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-15T20:46:00+00:00",
-      "summary": "The incident, which involved a government contractor, has halted all production of bankruptcy notices."
-    },
-    {
-      "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too",
-      "link": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-15T20:43:20+00:00",
-      "summary": "Don't buy the hype! AI has been dumbing down cyberattacks, and serious threat actors are barely touching it."
-    },
-    {
-      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
-      "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-15T20:24:36+00:00",
-      "summary": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Verce"
     }
   ]
 }
