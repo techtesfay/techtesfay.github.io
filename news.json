@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T10:14:08.219526+00:00",
+  "generated_at": "2026-10-16T15:39:41.503885+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,78 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Proofpoint lines up $6.3 billion deal for Varonis\u2019 data security",
+      "link": "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-16T14:45:00+00:00",
+      "summary": "Cybersecurity giant Proofpoint says it will acquire Miami-based data visibility and security company Varonis in an all-cash transaction worth $6.3 billion."
+    },
+    {
+      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+      "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-16T14:03:04+00:00",
+      "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, sp"
+    },
+    {
+      "title": "When Your Ransomware Negotiator Works for the Other Side",
+      "link": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-16T14:00:00+00:00",
+      "summary": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight."
+    },
+    {
+      "title": "Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia",
+      "link": "https://therecord.media/russia-datasuckers-hackers-arrested",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-16T13:30:00+00:00",
+      "summary": "Russian authorities have reportedly detained three suspected members of the DataSuckers hacking group following a cyberattack on a popular restaurant chain that exposed vast amounts of customer information."
+    },
+    {
+      "title": "Baltimore suburb confirms August data breach after ransomware claims",
+      "link": "https://therecord.media/anne-arundel-county-maryland-confirms-data-breach",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-16T13:05:00+00:00",
+      "summary": "Anne Arundel County, Maryland, said an intruder stole files from government systems, and investigators are working to assess how much data was exposed."
+    },
+    {
+      "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
+      "link": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-16T13:00:00+00:00",
+      "summary": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled."
+    },
+    {
+      "title": "Suspected Chinese espionage attackers abusing BeyondTrust IT support zero-day",
+      "link": "https://therecord.media/beyond-trust-cyberattack-china",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-16T13:00:00+00:00",
+      "summary": "An alleged Chinese state-backed group is using a new zero-day affecting BeyondTrust IT support software to conduct espionage attacks."
+    },
+    {
+      "title": "The Download: failed social media bans, and extending pets\u2019 lives",
+      "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-16T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Kids are outsmarting social media bans. That\u2019s not a problem we need to solve. \u2014Mi"
+    },
+    {
+      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
+      "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-16T11:30:00+00:00",
+      "summary": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI ann"
+    },
     {
       "title": "This implant can restore sight for patients with macular degeneration",
       "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
@@ -259,78 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-10-15T20:24:36+00:00",
       "summary": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Verce"
-    },
-    {
-      "title": "Zero-click spyware infecting devices through online ads, researchers say",
-      "link": "https://therecord.media/spyware-citizen-lab-advertising",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-15T19:00:00+00:00",
-      "summary": "Powerful zero-click spyware is infected devices worldwide through targeted ads, new research shows \u2014 an alarming development in the spread of surveillance technology."
-    },
-    {
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-15T19:00:00+00:00",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
-    },
-    {
-      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
-      "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-15T18:49:33+00:00",
-      "summary": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that\u2019s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different "
-    },
-    {
-      "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
-      "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-15T16:01:57+00:00",
-      "summary": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at the Cit"
-    },
-    {
-      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
-      "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-15T16:00:26+00:00",
-      "summary": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from June 2025 through Au"
-    },
-    {
-      "title": "Vulnerability Management Isn't About the Score \u2014 It's About How It Applies to You",
-      "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-15T15:17:18+00:00",
-      "summary": "Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments."
-    },
-    {
-      "title": "UK Legal Aid Agency hack worse than thought, with stolen records dating back to 1978",
-      "link": "https://therecord.media/uk-legal-aid-cyberattack-data",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-15T14:30:00+00:00",
-      "summary": "A cyberattack on Britain\u2019s Legal Aid Agency (LAA) stole far older and broader records than the government previously disclosed."
-    },
-    {
-      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
-      "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-15T14:11:36+00:00",
-      "summary": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777. Help TDS is asse"
-    },
-    {
-      "title": "Suspected Kazakhstan-linked hackers target governments across former Soviet states",
-      "link": "https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-15T13:55:00+00:00",
-      "summary": "A roughly 2-year-old cyber-espionage campaign against Central Asian states appears to originate in Kazakhstan, researchers said."
     }
   ]
 }
