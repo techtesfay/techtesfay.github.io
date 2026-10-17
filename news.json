@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:09:48.055026+00:00",
+  "generated_at": "2026-10-17T01:48:53.482366+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
+      "link": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-16T20:34:37+00:00",
+      "summary": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group."
+    },
     {
       "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
       "link": "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
@@ -35,6 +43,14 @@
       "category": "cybersecurity",
       "published": "2026-10-16T19:13:59+00:00",
       "summary": "Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution."
+    },
+    {
+      "title": "How Ita\u00fa is building generative AI for its entire customer base",
+      "link": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-16T19:00:00+00:00",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Ita\u00fa is applying its AI First strategy to customers and employees \u2014 in one of Brazil\u2019s most regulated sectors."
     },
     {
       "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
@@ -315,22 +331,6 @@
       "category": "research",
       "published": "2026-10-16T04:00:00+00:00",
       "summary": "arXiv:2610.20679v1 Announce Type: new Abstract: Representation-based safety defenses for vision-language models (VLMs) often learn to separate harmful from benign inputs, but separation alone does not establish what a ri"
-    },
-    {
-      "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
-      "link": "https://arxiv.org/abs/2610.20681",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-16T04:00:00+00:00",
-      "summary": "arXiv:2610.20681v1 Announce Type: new Abstract: Formal inequality proving requires mathematical reasoning and exact computation, often connected through intermediate lemmas and goal reformulations. We introduce IneqAgent"
-    },
-    {
-      "title": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
-      "link": "https://arxiv.org/abs/2610.20685",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-16T04:00:00+00:00",
-      "summary": "arXiv:2610.20685v1 Announce Type: new Abstract: Symbolic regression searches for an equation that explains observed data. Numerical error is commonly used to guide the search, but it alone can favor an accurate surrogate"
     }
   ]
 }
