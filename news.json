@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T11:23:42.018552+00:00",
+  "generated_at": "2026-10-19T17:50:50.543128+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,110 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "\u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world",
+      "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-19T17:45:55+00:00",
+      "summary": "\u201cI think I have good news about the nature of neural networks.\u201d With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI wor"
+    },
+    {
+      "title": "Ahold Delhaize confirms 'malicious actions' behind cyber outages affecting grocery brands",
+      "link": "https://therecord.media/ahold-delhaize-cyberattack-grocery",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-19T16:45:00+00:00",
+      "summary": "Ahold Delhaize, the Dutch multinational grocery retailer, said Monday that a cyberattack forced it to take systems offline across most of its U.S. and European brands, impacting shoppers on both sides of the Atlantic."
+    },
+    {
+      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
+      "link": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-19T16:28:47+00:00",
+      "summary": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained ma"
+    },
+    {
+      "title": "Russian social media giant VK faces disruptions after data center drone strike",
+      "link": "https://therecord.media/russian-social-media-giant-vk-faces-disruptions-drone-strike-data-center",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-19T15:55:00+00:00",
+      "summary": "The disruptions began Sunday, when users complained of difficulties loading news feeds, playing music and accessing other features of VK's platforms."
+    },
+    {
+      "title": "OnlyFans Copyright Takedowns Expose Compromised Websites",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-19T14:28:11+00:00",
+      "summary": "Copyright takedown requests tied to OnlyFans and other adult content creators are revealing how attackers exploit vulnerable university and government websites to manipulate search results. UpGuard's Greg Pollock explain"
+    },
+    {
+      "title": "\u26a1 Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
+      "link": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-19T14:14:07+00:00",
+      "summary": "The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage ma"
+    },
+    {
+      "title": "The Evolving Cybersecurity Lexicon: Vulnerability Discovery to Resilience",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-19T14:00:00+00:00",
+      "summary": "An industry-wide laser focus on vulnerabilities has left cybersecurity teams without enough room to strategize for resilience."
+    },
+    {
+      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+      "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "published": "2026-10-19T13:48:56+00:00",
+      "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually "
+    },
+    {
+      "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
+      "link": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-19T13:05:45+00:00",
+      "summary": "The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a stealer malware disguis"
+    },
+    {
+      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+      "link": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-19T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet\u2019s frozen carbon \u2014James"
+    },
+    {
+      "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
+      "link": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-19T11:50:00+00:00",
+      "summary": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to"
+    },
+    {
+      "title": "Hackers steal customer data from major Russian hosting provider FirstVDS",
+      "link": "https://therecord.media/russia-cyberattack-firstvds-cloud",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-19T11:45:00+00:00",
+      "summary": "Hackers have stolen passwords, access credentials and other sensitive data belonging to customers of Russian hosting provider FirstVDS after exploiting a vulnerability in software used to manage its servers."
+    },
+    {
+      "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
+      "link": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-19T10:06:40+00:00",
+      "summary": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for A"
+    },
     {
       "title": "Inside the quest to combat Arctic fires and save the planet\u2019s frozen carbon",
       "link": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
@@ -133,22 +237,6 @@
       "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application iden"
     },
     {
-      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
-      "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-17T11:11:56+00:00",
-      "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package regis"
-    },
-    {
-      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
-      "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-17T06:16:46+00:00",
-      "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyK"
-    },
-    {
       "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
       "link": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
       "source": "Dark Reading",
@@ -205,30 +293,6 @@
       "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints f"
     },
     {
-      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
-      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-16T17:48:45+00:00",
-      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its"
-    },
-    {
-      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
-      "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-16T16:43:39+00:00",
-      "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup prog"
-    },
-    {
-      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
-      "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-16T16:16:44+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversar"
-    },
-    {
       "title": "Proofpoint lines up $6.3 billion deal for Varonis\u2019 data security",
       "link": "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition",
       "source": "The Record",
@@ -253,30 +317,6 @@
       "summary": "Russian authorities have reportedly detained three suspected members of the DataSuckers hacking group following a cyberattack on a popular restaurant chain that exposed vast amounts of customer information."
     },
     {
-      "title": "Baltimore suburb confirms August data breach after ransomware claims",
-      "link": "https://therecord.media/anne-arundel-county-maryland-confirms-data-breach",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-16T13:05:00+00:00",
-      "summary": "Anne Arundel County, Maryland, said an intruder stole files from government systems, and investigators are working to assess how much data was exposed."
-    },
-    {
-      "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
-      "link": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-16T13:00:00+00:00",
-      "summary": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled."
-    },
-    {
-      "title": "Suspected Chinese espionage attackers abusing BeyondTrust IT support zero-day",
-      "link": "https://therecord.media/beyond-trust-cyberattack-china",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-16T13:00:00+00:00",
-      "summary": "An alleged Chinese state-backed group is using a new zero-day affecting BeyondTrust IT support software to conduct espionage attacks."
-    },
-    {
       "title": "The Download: failed social media bans, and extending pets\u2019 lives",
       "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
       "source": "MIT Technology Review",
@@ -291,46 +331,6 @@
       "category": "ai",
       "published": "2026-10-16T09:00:00+00:00",
       "summary": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatment could restore thei"
-    },
-    {
-      "title": "Love is infrastructure",
-      "link": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-16T09:00:00+00:00",
-      "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren\u2019t close. They traded glimpses and occasional hellos and then went about their business. Bot"
-    },
-    {
-      "title": "Can\u2019t bear to say goodbye to your pet? Biotech\u2019s got you covered.",
-      "link": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-16T09:00:00+00:00",
-      "summary": "I don\u2019t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time s"
-    },
-    {
-      "title": "ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140, (Fri, Oct 16th)",
-      "link": "https://isc.sans.edu/diary/rss/33432",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-16T02:00:03+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)",
-      "link": "https://isc.sans.edu/diary/rss/33430",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-16T00:46:35+00:00",
-      "summary": "I believe the cybersecurity industry may be approaching AI security the wrong way."
-    },
-    {
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "link": "https://openai.com/index/benefit-street-partners",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
     }
   ]
 }
