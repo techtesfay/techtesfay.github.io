@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:50:50.543128+00:00",
+  "generated_at": "2026-10-19T21:47:09.144195+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,12 +13,76 @@
   ],
   "items": [
     {
+      "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
+      "link": "https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-19T21:13:41+00:00",
+      "summary": "A large-scale scam operation impersonating Microsoft uses a malicious traffic distribution system (TDS) run by a Russian organization and abuses thousands of Cloudflare links."
+    },
+    {
+      "title": "'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery",
+      "link": "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-19T19:55:01+00:00",
+      "summary": "Spyware vendors are exploiting targeted ad bidding in the digital ecosystem to identify and track individuals and organizations of interest."
+    },
+    {
+      "title": "Judge denies WhatsApp\u2019s bid to hold spyware maker in contempt for allegedly targeting users",
+      "link": "https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-19T19:49:00+00:00",
+      "summary": "WhatsApp argued that NSO Group violated a 2025 injunction against using the messaging app to spread spyware. A federal judge said WhatsApp hurt its case by not revealing enough information."
+    },
+    {
+      "title": "ConnectWise suspends Cloud Backup service after supply chain attack",
+      "link": "https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-19T19:45:00+00:00",
+      "summary": "ConnectWise initially said on Friday that it was investigating \u201cattempts of unauthorized access associated with the ConnectWise Cloud Backup environment,\u201d and confirmed such access on Saturday."
+    },
+    {
+      "title": "ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs",
+      "link": "https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-19T19:19:33+00:00",
+      "summary": "Researchers say attackers authenticated into Microsoft 365 tenants using ConnectWise credentials; ConnectWise says customer impact remains unconfirmed."
+    },
+    {
+      "title": "Two more Serbian opposition figures targeted with spyware, researchers say",
+      "link": "https://therecord.media/serbia-spyware-pegasus-elections",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-19T18:45:00+00:00",
+      "summary": "A phone belonging to the rector of the University of Belgrade was discovered to have been infected with Pegasus spyware, the latest in a series of such discoveries in the lead-up to Serbia's national elections."
+    },
+    {
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-19T18:22:47+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and"
+    },
+    {
       "title": "\u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world",
       "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
       "source": "MIT Technology Review",
       "category": "ai",
       "published": "2026-10-19T17:45:55+00:00",
       "summary": "\u201cI think I have good news about the nature of neural networks.\u201d With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI wor"
+    },
+    {
+      "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
+      "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-19T17:32:13+00:00",
+      "summary": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public. According to a researcher "
     },
     {
       "title": "Ahold Delhaize confirms 'malicious actions' behind cyber outages affecting grocery brands",
@@ -99,14 +163,6 @@
       "category": "cybersecurity",
       "published": "2026-10-19T11:50:00+00:00",
       "summary": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to"
-    },
-    {
-      "title": "Hackers steal customer data from major Russian hosting provider FirstVDS",
-      "link": "https://therecord.media/russia-cyberattack-firstvds-cloud",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-19T11:45:00+00:00",
-      "summary": "Hackers have stolen passwords, access credentials and other sensitive data belonging to customers of Russian hosting provider FirstVDS after exploiting a vulnerability in software used to manage its servers."
     },
     {
       "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
@@ -229,14 +285,6 @@
       "summary": "Here is the YARA rule I used to detect \"Orphaned VBA Projects Inside DWG Files\"."
     },
     {
-      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
-      "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-18T08:23:02+00:00",
-      "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application iden"
-    },
-    {
       "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
       "link": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
       "source": "Dark Reading",
@@ -261,28 +309,12 @@
       "summary": "The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year."
     },
     {
-      "title": "Enterprise AI Enters Risk Management Phase as Security Concerns Rise",
-      "link": "https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-16T19:13:59+00:00",
-      "summary": "Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution."
-    },
-    {
       "title": "How Ita\u00fa is building generative AI for its entire customer base",
       "link": "https://openai.com/index/itau-generative-ai",
       "source": "OpenAI News",
       "category": "ai",
       "published": "2026-10-16T19:00:00+00:00",
       "summary": "With ia.i, a conversational interface, and the IARA governance platform, Ita\u00fa is applying its AI First strategy to customers and employees \u2014 in one of Brazil\u2019s most regulated sectors."
-    },
-    {
-      "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
-      "link": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-16T18:37:50+00:00",
-      "summary": "Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses."
     },
     {
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -293,44 +325,12 @@
       "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints f"
     },
     {
-      "title": "Proofpoint lines up $6.3 billion deal for Varonis\u2019 data security",
-      "link": "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-16T14:45:00+00:00",
-      "summary": "Cybersecurity giant Proofpoint says it will acquire Miami-based data visibility and security company Varonis in an all-cash transaction worth $6.3 billion."
-    },
-    {
-      "title": "When Your Ransomware Negotiator Works for the Other Side",
-      "link": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-16T14:00:00+00:00",
-      "summary": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight."
-    },
-    {
-      "title": "Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia",
-      "link": "https://therecord.media/russia-datasuckers-hackers-arrested",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-16T13:30:00+00:00",
-      "summary": "Russian authorities have reportedly detained three suspected members of the DataSuckers hacking group following a cyberattack on a popular restaurant chain that exposed vast amounts of customer information."
-    },
-    {
       "title": "The Download: failed social media bans, and extending pets\u2019 lives",
       "link": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
       "source": "MIT Technology Review",
       "category": "ai",
       "published": "2026-10-16T12:10:00+00:00",
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Kids are outsmarting social media bans. That\u2019s not a problem we need to solve. \u2014Mi"
-    },
-    {
-      "title": "This implant can restore sight for patients with macular degeneration",
-      "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-16T09:00:00+00:00",
-      "summary": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatment could restore thei"
     }
   ]
 }
