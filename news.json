@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T02:20:43.551484+00:00",
+  "generated_at": "2026-10-20T10:30:54.958408+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,198 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Defense contractors in two NATO allies hacked in recent Russia-linked campaign",
+      "link": "https://therecord.media/european-defense-contractors-fancy-bear-espionage",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-20T10:00:00+00:00",
+      "summary": "The Russian group known as APT28 and Fancy Bear used a recently documented backdoor to dwell in the networks of two defense contractors and a law enforcement agency in two NATO allies, researchers said."
+    },
+    {
+      "title": "How to study a swiftly melting climate disaster",
+      "link": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-20T10:00:00+00:00",
+      "summary": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska\u2019s Denali National Park and then unclipped the hollow barrel from the"
+    },
+    {
+      "title": "A visit to Samsung\u2019s massive new semiconductor hub",
+      "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-20T09:00:00+00:00",
+      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor"
+    },
+    {
+      "title": "These startups hope \u201cblended\u201d food will cut our appetite for red meat",
+      "link": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-20T09:00:00+00:00",
+      "summary": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he w"
+    },
+    {
+      "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
+      "link": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-20T08:21:29+00:00",
+      "summary": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a bu"
+    },
+    {
+      "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
+      "link": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-20T07:11:45+00:00",
+      "summary": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4"
+    },
+    {
+      "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
+      "link": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-20T05:53:16+00:00",
+      "summary": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly st"
+    },
+    {
+      "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
+      "link": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-20T04:05:58+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research - Vedere Labs, ROMULUS is aki"
+    },
+    {
+      "title": "Red-Teaming Multi-Agent Attacks for Loss-of-Control Risks",
+      "link": "https://arxiv.org/abs/2610.24052",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-20T04:00:00+00:00",
+      "summary": "arXiv:2610.24052v1 Announce Type: new Abstract: AI agents are growing more capable and persistent, and are being deployed in ever larger numbers. As more start collaborating, AI control measures must remain effective whe"
+    },
+    {
+      "title": "ToolRosetta: Surface-Form Invariance of Tool-Call Guards",
+      "link": "https://arxiv.org/abs/2610.24055",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-20T04:00:00+00:00",
+      "summary": "arXiv:2610.24055v1 Announce Type: new Abstract: Step-level guards for tool-using agents are evaluated on tidy JSON tool calls, but deployed coding agents act through execute_bash and execute_code tools whose payloads are"
+    },
+    {
+      "title": "Under the Skin: Backdoor Infection in Multimodal Large Language Models",
+      "link": "https://arxiv.org/abs/2610.24058",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-20T04:00:00+00:00",
+      "summary": "arXiv:2610.24058v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) have achieved impressive performance in generating text conditioned on inputs from different modalities. In this work, we introduce"
+    },
+    {
+      "title": "Recording-Aware Evaluation of Multimodal OT Intrusion Detection",
+      "link": "https://arxiv.org/abs/2610.24128",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-20T04:00:00+00:00",
+      "summary": "arXiv:2610.24128v1 Announce Type: new Abstract: Machine-learning-based intrusion detection systems (IDSs) for operational technology (OT) are commonly evaluated on benchmark datasets in which normal and attack data are c"
+    },
+    {
+      "title": "Automated Rule Mutation for Emerging Attack Variants using Infrastructure-Aware Technique Proximity",
+      "link": "https://arxiv.org/abs/2610.24162",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-20T04:00:00+00:00",
+      "summary": "arXiv:2610.24162v1 Announce Type: new Abstract: Detection rules are typically crafted based on specific observations of an attack. While these rules are effective for particular attack instances, their coverage diminishe"
+    },
+    {
+      "title": "SPIDES: Information-Flow Control for Browser Agents",
+      "link": "https://arxiv.org/abs/2610.24277",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-20T04:00:00+00:00",
+      "summary": "arXiv:2610.24277v1 Announce Type: new Abstract: Browser agents automate complex workflows by reading and acting on arbitrary page content, but this flexibility exposes them to prompt injection attacks and unintended data"
+    },
+    {
+      "title": "Empirical Analysis of TEE-Enabled Rollup Designs",
+      "link": "https://arxiv.org/abs/2610.24284",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-20T04:00:00+00:00",
+      "summary": "arXiv:2610.24284v1 Announce Type: new Abstract: Layer 2 (L2) rollups have become the dominant scaling solution in Ethereum. At the core of these systems lies the rollup sequencer, a component that orders, executes, and s"
+    },
+    {
+      "title": "Unbounded Losses, Unchecked Inputs: Measuring the Safeguards of LLM Options-Trading Agents",
+      "link": "https://arxiv.org/abs/2610.24289",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-20T04:00:00+00:00",
+      "summary": "arXiv:2610.24289v1 Announce Type: new Abstract: Large language model (LLM) agents now place options orders at retail brokers, and developers publish open-source options agents faster than anyone has examined them. Prior "
+    },
+    {
+      "title": "GardenBench: A lightweight, daily evaluation of LLM capabilities",
+      "link": "https://arxiv.org/abs/2610.23866",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-20T04:00:00+00:00",
+      "summary": "arXiv:2610.23866v1 Announce Type: new Abstract: We introduce GardenBench, a benchmark with 11 test suites that evaluate the capabilities of Large Language Models (LLMs) across a range of tasks. By systematically promptin"
+    },
+    {
+      "title": "Doing Less with More: A First-Principles Exploration of the Suitability of Agentic Computing over Alternative Architectural Choices",
+      "link": "https://arxiv.org/abs/2610.23921",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-20T04:00:00+00:00",
+      "summary": "arXiv:2610.23921v1 Announce Type: new Abstract: There is growing interest in automating business activities with Agentic Artificial Intelligence (AI) due to latter's seeming ease of use. Never has it been easier, or cost"
+    },
+    {
+      "title": "A Controlled LLM Workflow for Evidence-Grounded Diagnosis of Risk Score Differences",
+      "link": "https://arxiv.org/abs/2610.23962",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-20T04:00:00+00:00",
+      "summary": "arXiv:2610.23962v1 Announce Type: new Abstract: We propose a controlled Large Language Model (LLM) workflow for explaining risk score differences using similar historical transactions. The workflow combines reference ret"
+    },
+    {
+      "title": "What Social Media Teaches Us About Accumulative AI Risks",
+      "link": "https://arxiv.org/abs/2610.24006",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-20T04:00:00+00:00",
+      "summary": "arXiv:2610.24006v1 Announce Type: new Abstract: Prominent AI safety discussions emphasize existential threats and catastrophic events, such as AI-enabled nuclear conflict or engineered biological outbreaks. This position"
+    },
+    {
+      "title": "Beyond Explicit Intent: Discovering and Shaping Artistic Intent through Human-AI Co-Creation",
+      "link": "https://arxiv.org/abs/2610.24010",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-20T04:00:00+00:00",
+      "summary": "arXiv:2610.24010v1 Announce Type: new Abstract: Generative AI is becoming an important medium for artistic creation, yet existing interactions often assume that creators can specify intentions in advance and accurately c"
+    },
+    {
+      "title": "Unified Multiparadigm Fusion Intelligence for Rare Disease Diagnosis",
+      "link": "https://arxiv.org/abs/2610.24024",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-20T04:00:00+00:00",
+      "summary": "arXiv:2610.24024v1 Announce Type: new Abstract: Rare diseases (RDs) affect an estimated 300 million people globally, leaving patients to navigate a protracted diagnostic odyssey constrained by clinical scarcity and fragm"
+    },
+    {
+      "title": "LogicVal:A Logic-Formalized Benchmark for Constraint Satisfaction in Text-to-Image Generation",
+      "link": "https://arxiv.org/abs/2610.24051",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-20T04:00:00+00:00",
+      "summary": "arXiv:2610.24051v1 Announce Type: new Abstract: Text-to-Image (T2I) generative models have made significant progress in producing high-fidelity images from natural-language prompts. Alongside this progress, numerous benc"
+    },
+    {
+      "title": "World of SWECraft: Agent Collaboration at Scale via Simulated Software Worlds",
+      "link": "https://arxiv.org/abs/2610.24061",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-20T04:00:00+00:00",
+      "summary": "arXiv:2610.24061v1 Announce Type: new Abstract: As teams of AI agents take on larger projects and long-standing open problems, agent collaboration offers another dimension for scaling inference-time compute. To understan"
+    },
     {
       "title": "ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, (Tue, Oct 20th)",
       "link": "https://isc.sans.edu/diary/rss/33436",
@@ -109,14 +301,6 @@
       "summary": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained ma"
     },
     {
-      "title": "Russian social media giant VK faces disruptions after data center drone strike",
-      "link": "https://therecord.media/russian-social-media-giant-vk-faces-disruptions-drone-strike-data-center",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-19T15:55:00+00:00",
-      "summary": "The disruptions began Sunday, when users complained of difficulties loading news feeds, playing music and accessing other features of VK's platforms."
-    },
-    {
       "title": "OnlyFans Copyright Takedowns Expose Compromised Websites",
       "link": "https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites",
       "source": "Dark Reading",
@@ -147,190 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-10-19T13:48:56+00:00",
       "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually "
-    },
-    {
-      "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
-      "link": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-19T13:05:45+00:00",
-      "summary": "The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a stealer malware disguis"
-    },
-    {
-      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
-      "link": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-19T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet\u2019s frozen carbon \u2014James"
-    },
-    {
-      "title": "Advancing coding in low\u2011resource programming languages",
-      "link": "https://openai.com/index/low-resource-programming-languages",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-19T12:00:00+00:00",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
-    },
-    {
-      "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
-      "link": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-19T11:50:00+00:00",
-      "summary": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to"
-    },
-    {
-      "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
-      "link": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-19T10:06:40+00:00",
-      "summary": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for A"
-    },
-    {
-      "title": "Inside the quest to combat Arctic fires and save the planet\u2019s frozen carbon",
-      "link": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-19T09:22:17+00:00",
-      "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks. The blaze, possibly spar"
-    },
-    {
-      "title": "AI researchers stranded Claude on a virtual desert island. It started to \u201cplay.\u201d",
-      "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-19T09:08:05+00:00",
-      "summary": "What do AI agents do if you don\u2019t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies "
-    },
-    {
-      "title": "How far can we push computing?",
-      "link": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-19T09:00:00+00:00",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what\u2019s coming next. You can read more from the series here. On the evening of December 29"
-    },
-    {
-      "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
-      "link": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-19T06:29:44+00:00",
-      "summary": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser disclosed on "
-    },
-    {
-      "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
-      "link": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-19T06:07:08+00:00",
-      "summary": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said. Console is OpenCode's optional "
-    },
-    {
-      "title": "Recoverability-Controlled Safety Miscalibration in Large Language Models",
-      "link": "https://arxiv.org/abs/2610.22425",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-19T04:00:00+00:00",
-      "summary": "arXiv:2610.22425v1 Announce Type: new Abstract: Safety-aligned language models are expected to refuse harmful requests while remaining useful for benign ones. However, because many evaluations score only the final respon"
-    },
-    {
-      "title": "An Agentic ENF Framework for Forensic Video Authentication Against Generative AI",
-      "link": "https://arxiv.org/abs/2610.22440",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-19T04:00:00+00:00",
-      "summary": "arXiv:2610.22440v1 Announce Type: new Abstract: Generative models now synthesise video that is hard to distinguish from genuine footage, and learned detectors that key on a generator's artefacts degrade sharply on unseen"
-    },
-    {
-      "title": "Capital Costs Protect the Network: Mining Gap Dynamics in Proof-of-Work Blockchains Under a Stochastic Mempool",
-      "link": "https://arxiv.org/abs/2610.22451",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-19T04:00:00+00:00",
-      "summary": "arXiv:2610.22451v1 Announce Type: new Abstract: Proof-of-Work blockchains increasingly rely on transaction fees to keep miners engaged as block subsidies decline. An immediate outcome of this is that miners may sit idle "
-    },
-    {
-      "title": "Erase the Mark, Preserve the Motion: Temporally Consistent Removal of Video Watermarks",
-      "link": "https://arxiv.org/abs/2610.22457",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-19T04:00:00+00:00",
-      "summary": "arXiv:2610.22457v1 Announce Type: new Abstract: Recent advances in video generation have increased the demand for reliable watermarking for copyright protection, yet the robustness of video watermarks against removal att"
-    },
-    {
-      "title": "Everyone's a little bit racist: a novel ML backdoor attack in black-box mode",
-      "link": "https://arxiv.org/abs/2610.22459",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-19T04:00:00+00:00",
-      "summary": "arXiv:2610.22459v1 Announce Type: new Abstract: Backdoors are among the most impactful attacks against Machine Learning (ML), yet most existing methods assume some form of training-time poisoning or direct model manipula"
-    },
-    {
-      "title": "Model-as-a-Trojan: Self-Activating Covert DNS Exfiltration Baked Into the Weights of an LLM Agent",
-      "link": "https://arxiv.org/abs/2610.22578",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-19T04:00:00+00:00",
-      "summary": "arXiv:2610.22578v1 Announce Type: new Abstract: Open-weight models are downloaded from public hubs and run inside agent harnesses that grant them tools, most powerfully, a shell, under the assumption that a sandbox conta"
-    },
-    {
-      "title": "Can SOLARBURST go silicon? A systematic analysis on software supply chain attacks for VLSI design flows",
-      "link": "https://arxiv.org/abs/2610.22580",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-19T04:00:00+00:00",
-      "summary": "arXiv:2610.22580v1 Announce Type: new Abstract: An attacker targeting the software supply chain (SWSC) of VLSI tools can fully subvert the VLSI design pipeline through purely software level compromises. However, cur- ren"
-    },
-    {
-      "title": "StratFL: Countering Covert Model Poisoning Attacks with Strategic Federated Learning",
-      "link": "https://arxiv.org/abs/2610.22626",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-19T04:00:00+00:00",
-      "summary": "arXiv:2610.22626v1 Announce Type: new Abstract: Advanced persistent threats (APTs) are a major concern in federated learning (FL) deployments in critical sectors such as healthcare, and finance. Traditional defense mecha"
-    },
-    {
-      "title": "Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)",
-      "link": "https://isc.sans.edu/diary/rss/33434",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-18T12:59:30+00:00",
-      "summary": "Here is the YARA rule I used to detect \"Orphaned VBA Projects Inside DWG Files\"."
-    },
-    {
-      "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
-      "link": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-16T20:34:37+00:00",
-      "summary": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group."
-    },
-    {
-      "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
-      "link": "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-16T19:49:30+00:00",
-      "summary": "Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees."
-    },
-    {
-      "title": "Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform",
-      "link": "https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-16T19:22:12+00:00",
-      "summary": "The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year."
-    },
-    {
-      "title": "How Ita\u00fa is building generative AI for its entire customer base",
-      "link": "https://openai.com/index/itau-generative-ai",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-16T19:00:00+00:00",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Ita\u00fa is applying its AI First strategy to customers and employees \u2014 in one of Brazil\u2019s most regulated sectors."
     }
   ]
 }
