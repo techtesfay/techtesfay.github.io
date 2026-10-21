@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:11:47.000562+00:00",
+  "generated_at": "2026-10-21T20:57:24.370099+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,110 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) [infocon yellow], (Wed, Oct 21st)",
+      "link": "https://isc.sans.edu/diary/rss/33440",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-21T20:49:40+00:00",
+      "summary": "PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC"
+    },
+    {
+      "title": "Meta on the spot for $25 billion under New Mexico privacy ruling",
+      "link": "https://therecord.media/meta-new-mexico-penalty-cambridge-analytica-privacy-case",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-21T20:25:00+00:00",
+      "summary": "The Cambridge Analytica data privacy scandal from a decade ago is still weighing on Meta's finances."
+    },
+    {
+      "title": "Marvell, Microsoft & Oracle Work to Standardize Data Center Hardware Security",
+      "link": "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-21T20:14:42+00:00",
+      "summary": "The effort is aimed at standardizing a NIST FIPS 140-3 Level 3 integrated HSM for cloud and hyperscale data center infrastructure."
+    },
+    {
+      "title": "Cloud Security Alliance Survey Finds Data Loss Prevention Often Detects Data Loss Only After It Happens",
+      "link": "https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-21T20:03:14+00:00",
+      "summary": "Research finds that, among respondents experiencing data loss, only 16% said DLP blocked their most significant incidents before data left the organization."
+    },
+    {
+      "title": "Tech trio launches $10 million initiative to help under-resourced utilities bolster cybersecurity",
+      "link": "https://therecord.media/utilities-cybersecurity-initiative-accenture",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-21T19:45:00+00:00",
+      "summary": "Up to 500 under-resourced utilities will receive support in order to bolster their cybersecurity through a private sector initiative launched this week."
+    },
+    {
+      "title": "'PHP2Shell' Bugs Signal Red Alert for Security Industry",
+      "link": "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-21T19:19:17+00:00",
+      "summary": "Security teams are scrambling to remediate two critical PHP vulnerabilities following leaked details and reports of exploitation attempts."
+    },
+    {
+      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+      "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-21T18:57:34+00:00",
+      "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters"
+    },
+    {
+      "title": "Democrat lawmakers say Russia is aiming to undermine party ahead of midterms",
+      "link": "https://therecord.media/democrat-lawmakers-say-russia-is-aiming-to-undermine-party",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-21T18:28:00+00:00",
+      "summary": "The pair stressed the latest update showed no country is pursuing the technically challenging effort to interfere with or hack into the country\u2019s election infrastructure or tamper directly with votes."
+    },
+    {
+      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+      "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-21T18:01:57+00:00",
+      "summary": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. T"
+    },
+    {
+      "title": "PHP says AI review of critical bugs first sparked alarm in August, but signs surfaced in 2024",
+      "link": "https://therecord.media/php-foundation-statement-critical-vulnerabilities",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-21T17:30:00+00:00",
+      "summary": "In a lengthy statement about two critical vulnerabilities, the PHP Foundation explained how one dated to 2024, how a recent third-party review by AI companies heightened attention on both, why it scrambled to post inform"
+    },
+    {
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "link": "https://openai.com/index/att-legal",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-21T17:00:00+00:00",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
+    },
+    {
+      "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-21T16:50:15+00:00",
+      "summary": "A developer's GitHub account that was compromised several months earlier was used to push malicious code to unsuspecting users."
+    },
+    {
+      "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
+      "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-21T16:33:47+00:00",
+      "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The A"
+    },
     {
       "title": "Optiv Launches CyberBOT Cybersecurity Awareness Training Program",
       "link": "https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program",
@@ -35,14 +139,6 @@
       "category": "cybersecurity",
       "published": "2026-10-21T15:26:07+00:00",
       "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full co"
-    },
-    {
-      "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) [infocon yellow], (Wed, Oct 21st)",
-      "link": "https://isc.sans.edu/diary/rss/33440",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-21T15:12:02+00:00",
-      "summary": "PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC"
     },
     {
       "title": "Hundreds of websites taken offline as concern grows over two PHP vulnerabilities",
@@ -74,7 +170,7 @@
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-10-21T13:00:00+00:00",
-      "summary": "The attack uses malicious Google search results related to Amazon and leverages the 'finger' utility to launch a CAPTCHA that installs malware, including the Lumma stealer."
+      "summary": "The attack uses malicious Google search results related to Amazon and leverages the \"finger\" utility to launch a CAPTCHA that installs malware, including the Lumma stealer."
     },
     {
       "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
@@ -123,30 +219,6 @@
       "category": "cybersecurity",
       "published": "2026-10-21T10:36:53+00:00",
       "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. PHP w"
-    },
-    {
-      "title": "The Harness Is the Hard Part of Agentic Pentesting",
-      "link": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-21T10:32:40+00:00",
-      "summary": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production an"
-    },
-    {
-      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
-      "link": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-21T10:30:27+00:00",
-      "summary": "Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found. Exit relays are the last hop in a Tor circuit,"
-    },
-    {
-      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-      "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-21T09:05:17+00:00",
-      "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out"
     },
     {
       "title": "We can do impossible things",
@@ -259,78 +331,6 @@
       "category": "research",
       "published": "2026-10-21T04:00:00+00:00",
       "summary": "arXiv:2610.27021v1 Announce Type: new Abstract: Statistical privacy audits are essential for verifying the theoretical privacy guarantees of differentially private (DP) mechanisms. Auditors typically use Membership Infer"
-    },
-    {
-      "title": "BR-MoE: Budgeted Semantic Release for Privacy-Preserving Traffic Analytics",
-      "link": "https://arxiv.org/abs/2610.27026",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-21T04:00:00+00:00",
-      "summary": "arXiv:2610.27026v1 Announce Type: new Abstract: Traffic cameras support useful analysis, but their outputs can reveal private information. Replacing images with text reduces direct visual exposure. It does not place a fo"
-    },
-    {
-      "title": "ECHO: Revealing Review-to-Submission Linkage in Anonymous Peer Review",
-      "link": "https://arxiv.org/abs/2610.27044",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-21T04:00:00+00:00",
-      "summary": "arXiv:2610.27044v1 Announce Type: new Abstract: Anonymous peer review protects reviewers from retaliation, yet reviewer anonymity may also be weakened by artifacts released through the review process itself. This risk is"
-    },
-    {
-      "title": "Energy Consumption of Post-Quantum Cryptography on Constrained and General-Purpose Architectures",
-      "link": "https://arxiv.org/abs/2610.27111",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-21T04:00:00+00:00",
-      "summary": "arXiv:2610.27111v1 Announce Type: new Abstract: With Q-day approaching, the transition to post-quantum cryptography (PQC) has begun, with governments across the US, UK and EU mandating migration to quantum-resistant stan"
-    },
-    {
-      "title": "Mind Your Boundaries: Boundary-Aware Model Obfuscation against Cross-node Attack",
-      "link": "https://arxiv.org/abs/2610.27135",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-21T04:00:00+00:00",
-      "summary": "arXiv:2610.27135v1 Announce Type: new Abstract: With the advancement of powerful AI chips, on-device machine learning is gaining traction for its low latency and privacy protection. However, when edge devices are comprom"
-    },
-    {
-      "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
-      "link": "https://arxiv.org/abs/2610.26887",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-21T04:00:00+00:00",
-      "summary": "arXiv:2610.26887v1 Announce Type: new Abstract: Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonomous planning, tool use, and complex task execution. Finan"
-    },
-    {
-      "title": "Large language model and reinforcement learning based autonomous construction and progress updates",
-      "link": "https://arxiv.org/abs/2610.26899",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-21T04:00:00+00:00",
-      "summary": "arXiv:2610.26899v1 Announce Type: new Abstract: Due to the rapid growth of the global population, traditional construction methods are gradually unable to meet the current housing demand. The advancement of machine learn"
-    },
-    {
-      "title": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
-      "link": "https://arxiv.org/abs/2610.26904",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-21T04:00:00+00:00",
-      "summary": "arXiv:2610.26904v1 Announce Type: new Abstract: Recent studies have proposed reinforcement learning with verifiable rewards (RLVR) methods that enable LLMs to generate high-quality RTL circuits from natural-language spec"
-    },
-    {
-      "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
-      "link": "https://arxiv.org/abs/2610.26913",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-21T04:00:00+00:00",
-      "summary": "arXiv:2610.26913v1 Announce Type: new Abstract: The adoption of Large Language Models for radiology report structuring has been largely dominated by either proprietary cloud-based models or large open models requiring hi"
-    },
-    {
-      "title": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
-      "link": "https://arxiv.org/abs/2610.26924",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-21T04:00:00+00:00",
-      "summary": "arXiv:2610.26924v1 Announce Type: new Abstract: General-purpose agents are increasingly expected to perform professional analytics work, which requires sustained reasoning, iterative investigation, and reliable evidence."
     }
   ]
 }
