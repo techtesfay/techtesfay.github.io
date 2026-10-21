@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T02:13:50.749921+00:00",
+  "generated_at": "2026-10-21T10:43:06.122335+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,238 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+      "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-21T09:05:17+00:00",
+      "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out"
+    },
+    {
+      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
+      "link": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-21T09:01:12+00:00",
+      "summary": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to backdoor WordPress sites. Te"
+    },
+    {
+      "title": "We can do impossible things",
+      "link": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-21T09:00:00+00:00",
+      "summary": "I\u2019d wager everyone has a rehearsed response to what\u2019s absolutely one of the world\u2019s worst interview questions: \u201cWhat\u2019s your biggest weakness?\u201d Whenever I\u2019ve gotten it, I take a slow\u2014even pensive\u2014breath and rattle off my "
+    },
+    {
+      "title": "Nuclear-powered spaceships",
+      "link": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-21T09:00:00+00:00",
+      "summary": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-\u00adpowered interplanetary spacecraft"
+    },
+    {
+      "title": "Exercise in a pill",
+      "link": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-21T09:00:00+00:00",
+      "summary": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some o"
+    },
+    {
+      "title": "Interspecies communication",
+      "link": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-21T09:00:00+00:00",
+      "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner li"
+    },
+    {
+      "title": "Cleaning up PFAS",
+      "link": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-21T09:00:00+00:00",
+      "summary": "Scrubbing Earth of per- and polyfluoroalkyl substances\u2014a.k.a. PFAS or forever chemicals\u2014could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firefighting foams, PFAS "
+    },
+    {
+      "title": "Solid-state batteries",
+      "link": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-21T09:00:00+00:00",
+      "summary": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who\u2019s boarded a plane in th"
+    },
+    {
+      "title": "Eliminating traffic deaths",
+      "link": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-21T09:00:00+00:00",
+      "summary": "Every year, traffic crashes kill more than one million people, and they\u2019re the leading cause of death for children and young adults. In the US, 100 people a day lose their lives this way, in many cases not on highways bu"
+    },
+    {
+      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
+      "link": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-21T08:04:17+00:00",
+      "summary": "U.S. federal civilian agencies must remove DeepSeek products from their information technology systems, along with any third-party products or services \"developed using DeepSeek implementations,\" under a Department of Ho"
+    },
+    {
+      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
+      "link": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-21T07:44:22+00:00",
+      "summary": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from. The state-owned ba"
+    },
+    {
+      "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+      "link": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-21T07:26:49+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server that"
+    },
+    {
+      "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
+      "link": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-21T06:05:15+00:00",
+      "summary": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to "
+    },
+    {
+      "title": "InterType: Breaking the Single-Function Barrier in Neural Binary Type Inference",
+      "link": "https://arxiv.org/abs/2610.26906",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-21T04:00:00+00:00",
+      "summary": "arXiv:2610.26906v1 Announce Type: new Abstract: Variable type recovery is a critical task in binary reverse engineering, enabling downstream applications such as vulnerability discovery, malware analysis, and security en"
+    },
+    {
+      "title": "How Intervention History Changes AI Agent Sabotage on Subsequent Tasks",
+      "link": "https://arxiv.org/abs/2610.26935",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-21T04:00:00+00:00",
+      "summary": "arXiv:2610.26935v1 Announce Type: new Abstract: AI control evaluations often reset agents' memory between tasks, although deployed agents may retain records of prior interventions. We ask whether learning that an earlier"
+    },
+    {
+      "title": "Evidence-Grounded LLM-Assisted Android Mobile Forensic Reporting",
+      "link": "https://arxiv.org/abs/2610.26946",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-21T04:00:00+00:00",
+      "summary": "arXiv:2610.26946v1 Announce Type: new Abstract: Large language models can assist forensic report drafting, but fluent output does not ensure evidentiary reliability. This study presents an evidence-grounded framework for"
+    },
+    {
+      "title": "Reliable Estimation of Differential Privacy under Selection Bias",
+      "link": "https://arxiv.org/abs/2610.27021",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-21T04:00:00+00:00",
+      "summary": "arXiv:2610.27021v1 Announce Type: new Abstract: Statistical privacy audits are essential for verifying the theoretical privacy guarantees of differentially private (DP) mechanisms. Auditors typically use Membership Infer"
+    },
+    {
+      "title": "BR-MoE: Budgeted Semantic Release for Privacy-Preserving Traffic Analytics",
+      "link": "https://arxiv.org/abs/2610.27026",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-21T04:00:00+00:00",
+      "summary": "arXiv:2610.27026v1 Announce Type: new Abstract: Traffic cameras support useful analysis, but their outputs can reveal private information. Replacing images with text reduces direct visual exposure. It does not place a fo"
+    },
+    {
+      "title": "ECHO: Revealing Review-to-Submission Linkage in Anonymous Peer Review",
+      "link": "https://arxiv.org/abs/2610.27044",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-21T04:00:00+00:00",
+      "summary": "arXiv:2610.27044v1 Announce Type: new Abstract: Anonymous peer review protects reviewers from retaliation, yet reviewer anonymity may also be weakened by artifacts released through the review process itself. This risk is"
+    },
+    {
+      "title": "Energy Consumption of Post-Quantum Cryptography on Constrained and General-Purpose Architectures",
+      "link": "https://arxiv.org/abs/2610.27111",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-21T04:00:00+00:00",
+      "summary": "arXiv:2610.27111v1 Announce Type: new Abstract: With Q-day approaching, the transition to post-quantum cryptography (PQC) has begun, with governments across the US, UK and EU mandating migration to quantum-resistant stan"
+    },
+    {
+      "title": "Mind Your Boundaries: Boundary-Aware Model Obfuscation against Cross-node Attack",
+      "link": "https://arxiv.org/abs/2610.27135",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-21T04:00:00+00:00",
+      "summary": "arXiv:2610.27135v1 Announce Type: new Abstract: With the advancement of powerful AI chips, on-device machine learning is gaining traction for its low latency and privacy protection. However, when edge devices are comprom"
+    },
+    {
+      "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+      "link": "https://arxiv.org/abs/2610.26887",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-21T04:00:00+00:00",
+      "summary": "arXiv:2610.26887v1 Announce Type: new Abstract: Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonomous planning, tool use, and complex task execution. Finan"
+    },
+    {
+      "title": "Large language model and reinforcement learning based autonomous construction and progress updates",
+      "link": "https://arxiv.org/abs/2610.26899",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-21T04:00:00+00:00",
+      "summary": "arXiv:2610.26899v1 Announce Type: new Abstract: Due to the rapid growth of the global population, traditional construction methods are gradually unable to meet the current housing demand. The advancement of machine learn"
+    },
+    {
+      "title": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
+      "link": "https://arxiv.org/abs/2610.26904",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-21T04:00:00+00:00",
+      "summary": "arXiv:2610.26904v1 Announce Type: new Abstract: Recent studies have proposed reinforcement learning with verifiable rewards (RLVR) methods that enable LLMs to generate high-quality RTL circuits from natural-language spec"
+    },
+    {
+      "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+      "link": "https://arxiv.org/abs/2610.26913",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-21T04:00:00+00:00",
+      "summary": "arXiv:2610.26913v1 Announce Type: new Abstract: The adoption of Large Language Models for radiology report structuring has been largely dominated by either proprietary cloud-based models or large open models requiring hi"
+    },
+    {
+      "title": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
+      "link": "https://arxiv.org/abs/2610.26924",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-21T04:00:00+00:00",
+      "summary": "arXiv:2610.26924v1 Announce Type: new Abstract: General-purpose agents are increasingly expected to perform professional analytics work, which requires sustained reasoning, iterative investigation, and reliable evidence."
+    },
+    {
+      "title": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
+      "link": "https://arxiv.org/abs/2610.26941",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-21T04:00:00+00:00",
+      "summary": "arXiv:2610.26941v1 Announce Type: new Abstract: Large language models (LLMs) are enabling agents to move beyond predefined workflows toward autonomous planning and execution, creating new opportunities for smart manufact"
+    },
+    {
+      "title": "Fix, Not Just Resample: Bounded Compiler-Guided Repair in Lean 4",
+      "link": "https://arxiv.org/abs/2610.26942",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-21T04:00:00+00:00",
+      "summary": "arXiv:2610.26942v1 Announce Type: new Abstract: Automated theorem provers often rely on sampling language models, but proof assistants like Lean reject each failed step with a precise error message --- information that p"
+    },
+    {
+      "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
+      "link": "https://arxiv.org/abs/2610.26943",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-21T04:00:00+00:00",
+      "summary": "arXiv:2610.26943v1 Announce Type: new Abstract: Mathematical reasoning is a fundamental capability for educational applications of Large Language Models (LLMs), where reliable problem solving requires not only correct an"
+    },
     {
       "title": "ISC Stormcast For Wednesday, October 21st, 2026 https://isc.sans.edu/podcastdetail/10144, (Wed, Oct 21st)",
       "link": "https://isc.sans.edu/diary/rss/33438",
@@ -35,62 +267,6 @@
       "category": "ai",
       "published": "2026-10-20T21:00:00+00:00",
       "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics\u2014or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and l"
-    },
-    {
-      "title": "Here\u2019s the tea",
-      "link": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-20T21:00:00+00:00",
-      "summary": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thoma"
-    },
-    {
-      "title": "Melt it, spin it, use it again",
-      "link": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-20T21:00:00+00:00",
-      "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn. The thermoplastic yarn mim"
-    },
-    {
-      "title": "A reason to eat carbs",
-      "link": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-20T21:00:00+00:00",
-      "summary": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also increase the risk of "
-    },
-    {
-      "title": "Robotic therapy for stroke patients",
-      "link": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-20T21:00:00+00:00",
-      "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining"
-    },
-    {
-      "title": "Taking a swing at a pickleball startup",
-      "link": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-20T21:00:00+00:00",
-      "summary": "In corporate America, Stanley Anderson \u201979 says, executives often assume that their peers grew up in privileged circumstances. He did not. \u201cI spent my early years trying not to get recruited into gangs, getting shot at, "
-    },
-    {
-      "title": "A good TA: priceless",
-      "link": "https://www.technologyreview.com/2026/10/20/1145291/a-good-ta-priceless/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-20T21:00:00+00:00",
-      "summary": "These are images of quizzes I took in 3.091, Introduction to Solid-State Chemistry, in the fall of 1980. One is my very first exam at MIT, and getting 49 out of 100 was a soul-crushing experience. I can still picture the"
-    },
-    {
-      "title": "Nebraska native explores galaxies far, far away",
-      "link": "https://www.technologyreview.com/2026/10/20/1145294/nebraska-native-explores-galaxies-far-far-away/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-20T21:00:00+00:00",
-      "summary": "Growing up on a small farm in Nebraska, Megan Donahue \u201985 discovered the wider world by reading her way through her local library. Today, she is learning how the wider universe works by studying galaxy clusters. Donahue "
     },
     {
       "title": "FBI says SafePay ransomware gang \u2018among most active\u2019 with more than 600 victims since 2024",
@@ -155,182 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-10-20T15:35:45+00:00",
       "summary": "Artificial Intelligence is complicating security in the software development lifecycle, but a Dark Reading roundtable found collaboration, better identity visibility, and reduced testing costs offer CISOs a way ahead."
-    },
-    {
-      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-      "link": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-20T15:32:27+00:00",
-      "summary": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score: 7.8"
-    },
-    {
-      "title": "EU cyber law won\u2019t force fixes for fridge controllers hit in French attack",
-      "link": "https://therecord.media/eu-cyber-law-wont-force-fixes-for-fridges-in-french-attack",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-20T14:55:00+00:00",
-      "summary": "The EU\u2019s Cyber Resilience Act that took effect last month only requires companies to fix vulnerabilities and issue free updates during a product's support period, which manufacturers define."
-    },
-    {
-      "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-20T14:36:05+00:00",
-      "summary": "A Chinese-speaking attacker has compromised hundreds of websites across the globe, looting from big fish like John Deere, SharkNinja, and engine manufacturer Cummins."
-    },
-    {
-      "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
-      "link": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-20T14:07:17+00:00",
-      "summary": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on "
-    },
-    {
-      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
-      "link": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-20T12:59:44+00:00",
-      "summary": "The iPhone of Vladan \u0110oki\u0107, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the Citizen Lab said on October 19. "
-    },
-    {
-      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
-      "link": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-20T11:41:06+00:00",
-      "summary": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's "
-    },
-    {
-      "title": "What Security Teams Can Do To Tame Wild Code",
-      "link": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-20T11:33:04+00:00",
-      "summary": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon b"
-    },
-    {
-      "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
-      "link": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-20T11:32:59+00:00",
-      "summary": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of eight intermediate certificate authority keys. Programs built on the new release wi"
-    },
-    {
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "link": "https://openai.com/index/ted-taylor-restaurant",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-20T10:00:00+00:00",
-      "summary": "An independent Schlotzsky\u2019s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
-    },
-    {
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "link": "https://openai.com/index/terminal-x",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-20T07:00:00+00:00",
-      "summary": "Terminal X\u2019s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund\u2019s mandate with GPT-6.1 Sol."
-    },
-    {
-      "title": "Red-Teaming Multi-Agent Attacks for Loss-of-Control Risks",
-      "link": "https://arxiv.org/abs/2610.24052",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-20T04:00:00+00:00",
-      "summary": "arXiv:2610.24052v1 Announce Type: new Abstract: AI agents are growing more capable and persistent, and are being deployed in ever larger numbers. As more start collaborating, AI control measures must remain effective whe"
-    },
-    {
-      "title": "ToolRosetta: Surface-Form Invariance of Tool-Call Guards",
-      "link": "https://arxiv.org/abs/2610.24055",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-20T04:00:00+00:00",
-      "summary": "arXiv:2610.24055v1 Announce Type: new Abstract: Step-level guards for tool-using agents are evaluated on tidy JSON tool calls, but deployed coding agents act through execute_bash and execute_code tools whose payloads are"
-    },
-    {
-      "title": "Under the Skin: Backdoor Infection in Multimodal Large Language Models",
-      "link": "https://arxiv.org/abs/2610.24058",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-20T04:00:00+00:00",
-      "summary": "arXiv:2610.24058v1 Announce Type: new Abstract: Multimodal Large Language Models (MLLMs) have achieved impressive performance in generating text conditioned on inputs from different modalities. In this work, we introduce"
-    },
-    {
-      "title": "Recording-Aware Evaluation of Multimodal OT Intrusion Detection",
-      "link": "https://arxiv.org/abs/2610.24128",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-20T04:00:00+00:00",
-      "summary": "arXiv:2610.24128v1 Announce Type: new Abstract: Machine-learning-based intrusion detection systems (IDSs) for operational technology (OT) are commonly evaluated on benchmark datasets in which normal and attack data are c"
-    },
-    {
-      "title": "Automated Rule Mutation for Emerging Attack Variants using Infrastructure-Aware Technique Proximity",
-      "link": "https://arxiv.org/abs/2610.24162",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-20T04:00:00+00:00",
-      "summary": "arXiv:2610.24162v1 Announce Type: new Abstract: Detection rules are typically crafted based on specific observations of an attack. While these rules are effective for particular attack instances, their coverage diminishe"
-    },
-    {
-      "title": "SPIDES: Information-Flow Control for Browser Agents",
-      "link": "https://arxiv.org/abs/2610.24277",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-20T04:00:00+00:00",
-      "summary": "arXiv:2610.24277v1 Announce Type: new Abstract: Browser agents automate complex workflows by reading and acting on arbitrary page content, but this flexibility exposes them to prompt injection attacks and unintended data"
-    },
-    {
-      "title": "Empirical Analysis of TEE-Enabled Rollup Designs",
-      "link": "https://arxiv.org/abs/2610.24284",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-20T04:00:00+00:00",
-      "summary": "arXiv:2610.24284v1 Announce Type: new Abstract: Layer 2 (L2) rollups have become the dominant scaling solution in Ethereum. At the core of these systems lies the rollup sequencer, a component that orders, executes, and s"
-    },
-    {
-      "title": "Unbounded Losses, Unchecked Inputs: Measuring the Safeguards of LLM Options-Trading Agents",
-      "link": "https://arxiv.org/abs/2610.24289",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-20T04:00:00+00:00",
-      "summary": "arXiv:2610.24289v1 Announce Type: new Abstract: Large language model (LLM) agents now place options orders at retail brokers, and developers publish open-source options agents faster than anyone has examined them. Prior "
-    },
-    {
-      "title": "GardenBench: A lightweight, daily evaluation of LLM capabilities",
-      "link": "https://arxiv.org/abs/2610.23866",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-20T04:00:00+00:00",
-      "summary": "arXiv:2610.23866v1 Announce Type: new Abstract: We introduce GardenBench, a benchmark with 11 test suites that evaluate the capabilities of Large Language Models (LLMs) across a range of tasks. By systematically promptin"
-    },
-    {
-      "title": "Doing Less with More: A First-Principles Exploration of the Suitability of Agentic Computing over Alternative Architectural Choices",
-      "link": "https://arxiv.org/abs/2610.23921",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-20T04:00:00+00:00",
-      "summary": "arXiv:2610.23921v1 Announce Type: new Abstract: There is growing interest in automating business activities with Agentic Artificial Intelligence (AI) due to latter's seeming ease of use. Never has it been easier, or cost"
-    },
-    {
-      "title": "A Controlled LLM Workflow for Evidence-Grounded Diagnosis of Risk Score Differences",
-      "link": "https://arxiv.org/abs/2610.23962",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-20T04:00:00+00:00",
-      "summary": "arXiv:2610.23962v1 Announce Type: new Abstract: We propose a controlled Large Language Model (LLM) workflow for explaining risk score differences using similar historical transactions. The workflow combines reference ret"
-    },
-    {
-      "title": "What Social Media Teaches Us About Accumulative AI Risks",
-      "link": "https://arxiv.org/abs/2610.24006",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-20T04:00:00+00:00",
-      "summary": "arXiv:2610.24006v1 Announce Type: new Abstract: Prominent AI safety discussions emphasize existential threats and catastrophic events, such as AI-enabled nuclear conflict or engineered biological outbreaks. This position"
     }
   ]
 }
