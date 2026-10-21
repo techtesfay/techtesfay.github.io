@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T20:57:08.148859+00:00",
+  "generated_at": "2026-10-21T02:13:50.749921+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,20 +13,92 @@
   ],
   "items": [
     {
+      "title": "ISC Stormcast For Wednesday, October 21st, 2026 https://isc.sans.edu/podcastdetail/10144, (Wed, Oct 21st)",
+      "link": "https://isc.sans.edu/diary/rss/33438",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-21T02:00:03+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
+      "link": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-20T21:45:47+00:00",
+      "summary": "Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised."
+    },
+    {
+      "title": "It\u2019s a bird, it\u2019s a plane \u2026 it\u2019s a robo-puffin?",
+      "link": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-20T21:00:00+00:00",
+      "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics\u2014or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and l"
+    },
+    {
+      "title": "Here\u2019s the tea",
+      "link": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-20T21:00:00+00:00",
+      "summary": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thoma"
+    },
+    {
+      "title": "Melt it, spin it, use it again",
+      "link": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-20T21:00:00+00:00",
+      "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn. The thermoplastic yarn mim"
+    },
+    {
+      "title": "A reason to eat carbs",
+      "link": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-20T21:00:00+00:00",
+      "summary": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also increase the risk of "
+    },
+    {
+      "title": "Robotic therapy for stroke patients",
+      "link": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-20T21:00:00+00:00",
+      "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining"
+    },
+    {
+      "title": "Taking a swing at a pickleball startup",
+      "link": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-20T21:00:00+00:00",
+      "summary": "In corporate America, Stanley Anderson \u201979 says, executives often assume that their peers grew up in privileged circumstances. He did not. \u201cI spent my early years trying not to get recruited into gangs, getting shot at, "
+    },
+    {
+      "title": "A good TA: priceless",
+      "link": "https://www.technologyreview.com/2026/10/20/1145291/a-good-ta-priceless/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-20T21:00:00+00:00",
+      "summary": "These are images of quizzes I took in 3.091, Introduction to Solid-State Chemistry, in the fall of 1980. One is my very first exam at MIT, and getting 49 out of 100 was a soul-crushing experience. I can still picture the"
+    },
+    {
+      "title": "Nebraska native explores galaxies far, far away",
+      "link": "https://www.technologyreview.com/2026/10/20/1145294/nebraska-native-explores-galaxies-far-far-away/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-20T21:00:00+00:00",
+      "summary": "Growing up on a small farm in Nebraska, Megan Donahue \u201985 discovered the wider world by reading her way through her local library. Today, she is learning how the wider universe works by studying galaxy clusters. Donahue "
+    },
+    {
       "title": "FBI says SafePay ransomware gang \u2018among most active\u2019 with more than 600 victims since 2024",
       "link": "https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims",
       "source": "The Record",
       "category": "cybersecurity",
       "published": "2026-10-20T20:27:00+00:00",
       "summary": "The FBI and cyber agencies in the UK and Germany said SafePay is targeting businesses and critical infrastructure by guessing passwords, exploiting vulnerabilities and using phishing attacks."
-    },
-    {
-      "title": "Astrolab\u2019s upcoming rover will run the first LLMs on the moon",
-      "link": "https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-20T20:07:21+00:00",
-      "summary": "Large language models are set to go lunar. A computer capable of running AI software is one of the payloads aboard Astrolab\u2019s FLIP lunar rover, which is slated to head to Earth\u2019s celestial companion as early as November "
     },
     {
       "title": "California warns all public school students of data stolen in contractor breach",
@@ -93,14 +165,6 @@
       "summary": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score: 7.8"
     },
     {
-      "title": "The new economics of enterprise AI",
-      "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-20T15:20:25+00:00",
-      "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency \u2014 consumption is low and the value is obvious. But once electricity becomes infrastructure, ev"
-    },
-    {
       "title": "EU cyber law won\u2019t force fixes for fridge controllers hit in French attack",
       "link": "https://therecord.media/eu-cyber-law-wont-force-fixes-for-fridges-in-french-attack",
       "source": "The Record",
@@ -133,22 +197,6 @@
       "summary": "The iPhone of Vladan \u0110oki\u0107, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the Citizen Lab said on October 19. "
     },
     {
-      "title": "The Download: the claim shaking up AI and the internet\u2019s agent problem",
-      "link": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-20T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. \u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world \u201cI "
-    },
-    {
-      "title": "AI adoption by industry shows what other sectors can learn",
-      "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-20T12:00:00+00:00",
-      "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption\u2013tech is just the first "
-    },
-    {
       "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
       "link": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
       "source": "The Hacker News",
@@ -173,14 +221,6 @@
       "summary": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of eight intermediate certificate authority keys. Programs built on the new release wi"
     },
     {
-      "title": "How to study a swiftly melting climate disaster",
-      "link": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-20T10:00:00+00:00",
-      "summary": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska\u2019s Denali National Park and then unclipped the hollow barrel from the"
-    },
-    {
       "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
       "link": "https://openai.com/index/ted-taylor-restaurant",
       "source": "OpenAI News",
@@ -189,20 +229,12 @@
       "summary": "An independent Schlotzsky\u2019s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
     },
     {
-      "title": "A visit to Samsung\u2019s massive new semiconductor hub",
-      "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-      "source": "MIT Technology Review",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "link": "https://openai.com/index/terminal-x",
+      "source": "OpenAI News",
       "category": "ai",
-      "published": "2026-10-20T09:00:00+00:00",
-      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor"
-    },
-    {
-      "title": "These startups hope \u201cblended\u201d food will cut our appetite for red meat",
-      "link": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-20T09:00:00+00:00",
-      "summary": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he w"
+      "published": "2026-10-20T07:00:00+00:00",
+      "summary": "Terminal X\u2019s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund\u2019s mandate with GPT-6.1 Sol."
     },
     {
       "title": "Red-Teaming Multi-Agent Attacks for Loss-of-Control Risks",
@@ -299,38 +331,6 @@
       "category": "research",
       "published": "2026-10-20T04:00:00+00:00",
       "summary": "arXiv:2610.24006v1 Announce Type: new Abstract: Prominent AI safety discussions emphasize existential threats and catastrophic events, such as AI-enabled nuclear conflict or engineered biological outbreaks. This position"
-    },
-    {
-      "title": "Beyond Explicit Intent: Discovering and Shaping Artistic Intent through Human-AI Co-Creation",
-      "link": "https://arxiv.org/abs/2610.24010",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-20T04:00:00+00:00",
-      "summary": "arXiv:2610.24010v1 Announce Type: new Abstract: Generative AI is becoming an important medium for artistic creation, yet existing interactions often assume that creators can specify intentions in advance and accurately c"
-    },
-    {
-      "title": "Unified Multiparadigm Fusion Intelligence for Rare Disease Diagnosis",
-      "link": "https://arxiv.org/abs/2610.24024",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-20T04:00:00+00:00",
-      "summary": "arXiv:2610.24024v1 Announce Type: new Abstract: Rare diseases (RDs) affect an estimated 300 million people globally, leaving patients to navigate a protracted diagnostic odyssey constrained by clinical scarcity and fragm"
-    },
-    {
-      "title": "LogicVal:A Logic-Formalized Benchmark for Constraint Satisfaction in Text-to-Image Generation",
-      "link": "https://arxiv.org/abs/2610.24051",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-20T04:00:00+00:00",
-      "summary": "arXiv:2610.24051v1 Announce Type: new Abstract: Text-to-Image (T2I) generative models have made significant progress in producing high-fidelity images from natural-language prompts. Alongside this progress, numerous benc"
-    },
-    {
-      "title": "World of SWECraft: Agent Collaboration at Scale via Simulated Software Worlds",
-      "link": "https://arxiv.org/abs/2610.24061",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-20T04:00:00+00:00",
-      "summary": "arXiv:2610.24061v1 Announce Type: new Abstract: As teams of AI agents take on larger projects and long-standing open problems, agent collaboration offers another dimension for scaling inference-time compute. To understan"
     }
   ]
 }
