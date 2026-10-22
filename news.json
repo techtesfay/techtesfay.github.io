@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T02:08:13.364749+00:00",
+  "generated_at": "2026-10-22T10:44:51.091087+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,206 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Making the case for context-aware AI",
+      "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-22T10:00:00+00:00",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints an"
+    },
+    {
+      "title": "Three things you should know about permafrost",
+      "link": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-22T10:00:00+00:00",
+      "summary": "How much do you know about permafrost? Maybe, like me, you\u2019ve been aware that this layer of frozen soil is thawing, that it\u2019s important in the global puzzle of climate change \u2026 and that\u2019s about the extent of it. The grea"
+    },
+    {
+      "title": "AI\u2019s hidden storage bill: What inference leaves behind",
+      "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-22T08:41:18+00:00",
+      "summary": "Ask most executives to picture the cost of AI and they\u2019ll likely see GPUs\u2014racks of accelerators with gigawatts of power\u2014and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens "
+    },
+    {
+      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+      "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-22T08:28:48+00:00",
+      "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026"
+    },
+    {
+      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+      "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-22T07:47:22+00:00",
+      "summary": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the proj"
+    },
+    {
+      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+      "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-22T06:38:31+00:00",
+      "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code. By sending a small batch of compressed HTTP head"
+    },
+    {
+      "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
+      "link": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-22T06:34:10+00:00",
+      "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad "
+    },
+    {
+      "title": "UAE Transitions 50% of Gov't Services to Agentic AI",
+      "link": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-22T05:00:00+00:00",
+      "summary": "The United Arab Emirates says it's creating a foundation of security and safety as it transforms its public service footprint."
+    },
+    {
+      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-22T04:21:26+00:00",
+      "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a"
+    },
+    {
+      "title": "Sign Here: Attributing a Source for a More Trustworthy Software Supply Chain",
+      "link": "https://arxiv.org/abs/2610.28794",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-22T04:00:00+00:00",
+      "summary": "arXiv:2610.28794v1 Announce Type: new Abstract: Software supply chain attacks continue to be on the rise, exploiting the trust that helps open source ecosystems thrive. Recent incidents like the Shai-Hulud worm and the A"
+    },
+    {
+      "title": "How Much Does the Harness Matter, and for Whom? A Multi-Model Study of Context in LLM-Driven Vulnerability Discovery",
+      "link": "https://arxiv.org/abs/2610.28802",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-22T04:00:00+00:00",
+      "summary": "arXiv:2610.28802v1 Announce Type: new Abstract: How much does an agent harness affect vulnerability discovery, and does its value depend on the model? We study 24 model-runner configurations using an open-source harness "
+    },
+    {
+      "title": "Combining Long-Term Memory and LLMs Comes at a High Cost: From Prompt Injection to Persistent Compromise",
+      "link": "https://arxiv.org/abs/2610.28810",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-22T04:00:00+00:00",
+      "summary": "arXiv:2610.28810v1 Announce Type: new Abstract: The widespread adoption of generative artificial intelligence in recent years has brought a parallel rise in prompt injection and jailbreak attacks. By embedding malicious "
+    },
+    {
+      "title": "AI Security Literacy: Ecosystem-based Competency Framework and K-12 Learning Platform",
+      "link": "https://arxiv.org/abs/2610.28859",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-22T04:00:00+00:00",
+      "summary": "arXiv:2610.28859v1 Announce Type: new Abstract: Adoption of artificial intelligence in K-12 schools has outpaced guidance for students, teachers, and administrators. Existing AI-literacy frameworks emphasize understandin"
+    },
+    {
+      "title": "Black-Box Red-Teaming of Multi-Agent Systems via Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2610.28966",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-22T04:00:00+00:00",
+      "summary": "arXiv:2610.28966v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly deployed in multi-agent systems (MAS) to accomplish complex tasks. Prior black-box red-teaming attacks mainly focus on si"
+    },
+    {
+      "title": "Beyond Tokens: NumAnchor for Address-Grounded Numeric Operand Representation in Assembly Language Models",
+      "link": "https://arxiv.org/abs/2610.29027",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-22T04:00:00+00:00",
+      "summary": "arXiv:2610.29027v1 Announce Type: new Abstract: Assembly language models (ALMs) are becoming important for automated binary analysis, yet their token-level interfaces often obscure numeric-like operands. In two corpora, "
+    },
+    {
+      "title": "Regular Syndrome Decoding Is Easier Than Previously Estimated",
+      "link": "https://arxiv.org/abs/2610.29175",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-22T04:00:00+00:00",
+      "summary": "arXiv:2610.29175v1 Announce Type: new Abstract: The Regular Syndrome Decoding (RSD) problem is a structured variant of classical Syndrome Decoding and underlies a growing number of efficient cryptographic constructions, "
+    },
+    {
+      "title": "Correlated Failures of AI Approval Monitors",
+      "link": "https://arxiv.org/abs/2610.29178",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-22T04:00:00+00:00",
+      "summary": "arXiv:2610.29178v1 Announce Type: new Abstract: Before an AI agent takes a consequential action, such as paying, messaging or changing code, several monitors check it. Their verdicts are combined by aggregating scores or"
+    },
+    {
+      "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
+      "link": "https://arxiv.org/abs/2610.28686",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-22T04:00:00+00:00",
+      "summary": "arXiv:2610.28686v1 Announce Type: new Abstract: Query clarification is essential for retrieval-augmented generation (RAG) systems that face ambiguous user queries. We consider multi-turn grounded conversational scenarios"
+    },
+    {
+      "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
+      "link": "https://arxiv.org/abs/2610.28698",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-22T04:00:00+00:00",
+      "summary": "arXiv:2610.28698v1 Announce Type: new Abstract: Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse experiences remain grounded in shared physical laws. Wheth"
+    },
+    {
+      "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
+      "link": "https://arxiv.org/abs/2610.28706",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-22T04:00:00+00:00",
+      "summary": "arXiv:2610.28706v1 Announce Type: new Abstract: LLM-driven evolutionary search is a promising paradigm for scientific discovery, but existing methods remain costly and slow, often applying expensive reasoning uniformly w"
+    },
+    {
+      "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
+      "link": "https://arxiv.org/abs/2610.28763",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-22T04:00:00+00:00",
+      "summary": "arXiv:2610.28763v1 Announce Type: new Abstract: Frontier coding agents are increasingly framed as end-to-end automated researchers, and ML for science offers a demanding test of that promise: improving a scientific model"
+    },
+    {
+      "title": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing",
+      "link": "https://arxiv.org/abs/2610.28815",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-22T04:00:00+00:00",
+      "summary": "arXiv:2610.28815v1 Announce Type: new Abstract: Agentic harness evolution optimizes an agent's instructions, tools, and control flow by using its task execution experiences as evolving evidence. While more evolution task"
+    },
+    {
+      "title": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
+      "link": "https://arxiv.org/abs/2610.28826",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-22T04:00:00+00:00",
+      "summary": "arXiv:2610.28826v1 Announce Type: new Abstract: Automated judges of clinical artificial intelligence (AI) outputs are necessary, but large language model (LLM) judges are costly and slow at scale. We compared Jev, a deci"
+    },
+    {
+      "title": "Sketch2Sim: an end-to-end modular framework for hand-drawn circuit analysis",
+      "link": "https://arxiv.org/abs/2610.28836",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-22T04:00:00+00:00",
+      "summary": "arXiv:2610.28836v1 Announce Type: new Abstract: This study proposes a sketch-to-simulation system to solve handwritten circuit diagrams. The system converts raw images into a Simulation Program with Integrated Circuit Em"
+    },
+    {
+      "title": "Speedrunning Relational Foundation Model Pretraining",
+      "link": "https://arxiv.org/abs/2610.28855",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-22T04:00:00+00:00",
+      "summary": "arXiv:2610.28855v1 Announce Type: new Abstract: Progress on foundation model pretraining is gated by who can afford a trial, and relational pretraining is no exception. Recipes are developed inside individual labs, repor"
+    },
     {
       "title": "ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, (Thu, Oct 22nd)",
       "link": "https://isc.sans.edu/diary/rss/33446",
@@ -131,206 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-10-21T16:50:15+00:00",
       "summary": "A developer's GitHub account that was compromised several months earlier was used to push malicious code to unsuspecting users."
-    },
-    {
-      "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
-      "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-21T16:33:47+00:00",
-      "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The A"
-    },
-    {
-      "title": "Optiv Launches CyberBOT Cybersecurity Awareness Training Program",
-      "link": "https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-21T15:44:48+00:00",
-      "summary": "Hands-on sessions provide educators, nonprofits, and community leaders with an accessible resource to foster year-round cyber awareness and build more resilient communities."
-    },
-    {
-      "title": "Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk",
-      "link": "https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-21T15:29:09+00:00",
-      "summary": "360 Privacy finds more than 8 in 10 security and wealth professionals say cybersecurity and physical security can no longer be separated."
-    },
-    {
-      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
-      "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
-      "source": "Krebs on Security",
-      "category": "cybersecurity",
-      "published": "2026-10-21T15:26:07+00:00",
-      "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full co"
-    },
-    {
-      "title": "Hundreds of websites taken offline as concern grows over two PHP vulnerabilities",
-      "link": "https://therecord.media/php-script-vulnerabilities-warnings",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-21T14:17:00+00:00",
-      "summary": "The maintainers of the globally used PHP scripting language released patches for two vulnerabilities after alerting users that the bugs were severe."
-    },
-    {
-      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
-      "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-21T14:00:00+00:00",
-      "summary": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP "
-    },
-    {
-      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
-      "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-21T13:15:09+00:00",
-      "summary": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled. ClickFix is a popular social engineering technique in which "
-    },
-    {
-      "title": "Decades-Old Windows Utility Powers Modern ClickFix Attack",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-21T13:00:00+00:00",
-      "summary": "The attack uses malicious Google search results related to Amazon and leverages the \"finger\" utility to launch a CAPTCHA that installs malware, including the Lumma stealer."
-    },
-    {
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-21T13:00:00+00:00",
-      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
-    },
-    {
-      "title": "The Download: introducing the Impossible issue",
-      "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-21T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to incl"
-    },
-    {
-      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
-      "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-21T12:05:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025. \"The"
-    },
-    {
-      "title": "OpenAI models are coming to Google Cloud",
-      "link": "https://openai.com/index/openai-models-google-cloud",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-21T12:00:00+00:00",
-      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini\u2019s Model Garden, available through Google Cloud Marketplace."
-    },
-    {
-      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-      "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-21T11:53:34+00:00",
-      "summary": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each reci"
-    },
-    {
-      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-      "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-21T10:36:53+00:00",
-      "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. PHP w"
-    },
-    {
-      "title": "We can do impossible things",
-      "link": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-21T09:00:00+00:00",
-      "summary": "I\u2019d wager everyone has a rehearsed response to what\u2019s absolutely one of the world\u2019s worst interview questions: \u201cWhat\u2019s your biggest weakness?\u201d Whenever I\u2019ve gotten it, I take a slow\u2014even pensive\u2014breath and rattle off my "
-    },
-    {
-      "title": "Nuclear-powered spaceships",
-      "link": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-21T09:00:00+00:00",
-      "summary": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-\u00adpowered interplanetary spacecraft"
-    },
-    {
-      "title": "Exercise in a pill",
-      "link": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-21T09:00:00+00:00",
-      "summary": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some o"
-    },
-    {
-      "title": "Interspecies communication",
-      "link": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-21T09:00:00+00:00",
-      "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner li"
-    },
-    {
-      "title": "Cleaning up PFAS",
-      "link": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-21T09:00:00+00:00",
-      "summary": "Scrubbing Earth of per- and polyfluoroalkyl substances\u2014a.k.a. PFAS or forever chemicals\u2014could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firefighting foams, PFAS "
-    },
-    {
-      "title": "Solid-state batteries",
-      "link": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-21T09:00:00+00:00",
-      "summary": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who\u2019s boarded a plane in th"
-    },
-    {
-      "title": "Eliminating traffic deaths",
-      "link": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-21T09:00:00+00:00",
-      "summary": "Every year, traffic crashes kill more than one million people, and they\u2019re the leading cause of death for children and young adults. In the US, 100 people a day lose their lives this way, in many cases not on highways bu"
-    },
-    {
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-21T07:00:00+00:00",
-      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
-    },
-    {
-      "title": "How we built ChatGPT\u2019s novel ad stack for user trust and relevance",
-      "link": "https://openai.com/index/building-chatgpt-ad-stack",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-21T07:00:00+00:00",
-      "summary": "Learn how OpenAI built ChatGPT\u2019s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
-    },
-    {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-21T04:50:00+00:00",
-      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
-    },
-    {
-      "title": "InterType: Breaking the Single-Function Barrier in Neural Binary Type Inference",
-      "link": "https://arxiv.org/abs/2610.26906",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-21T04:00:00+00:00",
-      "summary": "arXiv:2610.26906v1 Announce Type: new Abstract: Variable type recovery is a critical task in binary reverse engineering, enabling downstream applications such as vulnerability discovery, malware analysis, and security en"
     }
   ]
 }
