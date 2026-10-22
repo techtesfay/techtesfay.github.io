@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T10:44:51.091087+00:00",
+  "generated_at": "2026-10-22T16:09:55.231338+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,62 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+      "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-22T13:38:22+00:00",
+      "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law enforcement agencies f"
+    },
+    {
+      "title": "Cybercrime crackdown across Africa leads to 1,462 arrests, $105 million seized",
+      "link": "https://therecord.media/africa-cybercrime-interpol-arrests",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-22T13:30:00+00:00",
+      "summary": "More than 1,400 suspected cybercriminals were arrested across Africa this summer as part of a crackdown on the gangs perpetrating online fraud, ransomware and business email compromise attacks, Interpol said."
+    },
+    {
+      "title": "South Carolina officials offer assistance after state capital hit with cyberattack",
+      "link": "https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-22T12:14:00+00:00",
+      "summary": "The systems impacted by the attack include the MyColaSC platform that citizens use to pay utility bills, report non-emergency issues and access other city services."
+    },
+    {
+      "title": "The Download: computing\u2019s next leap and permafrost\u2019s climate threat",
+      "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-22T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richar"
+    },
+    {
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-22T11:45:00+00:00",
+      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its "
+    },
+    {
+      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+      "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-22T11:15:42+00:00",
+      "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized t"
+    },
+    {
+      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+      "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-22T10:44:05+00:00",
+      "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) server"
+    },
     {
       "title": "Making the case for context-aware AI",
       "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
@@ -69,20 +125,20 @@
       "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad "
     },
     {
+      "title": "What FDE means at OpenAI",
+      "link": "https://openai.com/index/forward-deployed-engineering-means",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-22T06:00:00+00:00",
+      "summary": "What forward deployed engineering means at OpenAI"
+    },
+    {
       "title": "UAE Transitions 50% of Gov't Services to Agentic AI",
       "link": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-10-22T05:00:00+00:00",
       "summary": "The United Arab Emirates says it's creating a foundation of security and safety as it transforms its public service footprint."
-    },
-    {
-      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-22T04:21:26+00:00",
-      "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a"
     },
     {
       "title": "Sign Here: Attributing a Source for a More Trustworthy Software Supply Chain",
@@ -275,62 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-10-21T19:45:00+00:00",
       "summary": "Up to 500 under-resourced utilities will receive support in order to bolster their cybersecurity through a private sector initiative launched this week."
-    },
-    {
-      "title": "'PHP2Shell' Bugs Signal Red Alert for Security Industry",
-      "link": "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-21T19:19:17+00:00",
-      "summary": "Security teams are scrambling to remediate two critical PHP vulnerabilities following leaked details and reports of exploitation attempts."
-    },
-    {
-      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
-      "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-21T18:57:34+00:00",
-      "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters"
-    },
-    {
-      "title": "Democrat lawmakers say Russia is aiming to undermine party ahead of midterms",
-      "link": "https://therecord.media/democrat-lawmakers-say-russia-is-aiming-to-undermine-party",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-21T18:28:00+00:00",
-      "summary": "The pair stressed the latest update showed no country is pursuing the technically challenging effort to interfere with or hack into the country\u2019s election infrastructure or tamper directly with votes."
-    },
-    {
-      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
-      "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-21T18:01:57+00:00",
-      "summary": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. T"
-    },
-    {
-      "title": "PHP says AI review of critical bugs first sparked alarm in August, but signs surfaced in 2024",
-      "link": "https://therecord.media/php-foundation-statement-critical-vulnerabilities",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-21T17:30:00+00:00",
-      "summary": "In a lengthy statement about two critical vulnerabilities, the PHP Foundation explained how one dated to 2024, how a recent third-party review by AI companies heightened attention on both, why it scrambled to post inform"
-    },
-    {
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "link": "https://openai.com/index/att-legal",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-21T17:00:00+00:00",
-      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
-    },
-    {
-      "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-21T16:50:15+00:00",
-      "summary": "A developer's GitHub account that was compromised several months earlier was used to push malicious code to unsuspecting users."
     }
   ]
 }
