@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T20:54:57.964575+00:00",
+  "generated_at": "2026-10-23T02:13:37.392476+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,38 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Designing an AI serving harness built to last",
+      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-22T21:17:29+00:00",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That\u2019s an important shift. For the past several years, much of the AI conversation has center"
+    },
+    {
+      "title": "Toronto crime tips org freezes operations after details of data breach come to light",
+      "link": "https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-22T20:52:00+00:00",
+      "summary": "Late Wednesday night the Toronto chapter of Crime Stoppers broke ranks with the national association, revealing a timeline showing what it knew and when along with an announcement that it will pause operations."
+    },
+    {
+      "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-22T20:42:17+00:00",
+      "summary": "The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants."
+    },
+    {
+      "title": "What We Missed: Feds Lasso Texas Laptop Farms",
+      "link": "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-22T20:33:10+00:00",
+      "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from busting up North Korea's stateside infrastructure in \"Operation Lonestar Justice\" to Staples' gift card bonanza."
+    },
     {
       "title": "Les supermarch\u00e9s de l'UE paient d'un firmware de r\u00e9frig\u00e9rateur non mis \u00e0 jour",
       "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
@@ -299,38 +331,6 @@
       "category": "research",
       "published": "2026-10-22T04:00:00+00:00",
       "summary": "arXiv:2610.28836v1 Announce Type: new Abstract: This study proposes a sketch-to-simulation system to solve handwritten circuit diagrams. The system converts raw images into a Simulation Program with Integrated Circuit Em"
-    },
-    {
-      "title": "Speedrunning Relational Foundation Model Pretraining",
-      "link": "https://arxiv.org/abs/2610.28855",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-22T04:00:00+00:00",
-      "summary": "arXiv:2610.28855v1 Announce Type: new Abstract: Progress on foundation model pretraining is gated by who can afford a trial, and relational pretraining is no exception. Recipes are developed inside individual labs, repor"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, (Thu, Oct 22nd)",
-      "link": "https://isc.sans.edu/diary/rss/33446",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-22T02:00:02+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "link": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-22T00:00:00+00:00",
-      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
-    },
-    {
-      "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
-      "link": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-21T21:15:39+00:00",
-      "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the data comes home to roost."
     }
   ]
 }
