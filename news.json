@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T20:42:53.864310+00:00",
+  "generated_at": "2026-10-24T02:11:55.872721+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Trust Is Not What It Seems \u2014 And Fraudsters Are Counting on It",
+      "link": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-23T20:57:56+00:00",
+      "summary": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial intelligence."
+    },
     {
       "title": "(Reliable)? php2shell exploitability, (Fri, Oct 23rd)",
       "link": "https://isc.sans.edu/diary/rss/33452",
@@ -323,14 +331,6 @@
       "category": "research",
       "published": "2026-10-23T04:00:00+00:00",
       "summary": "arXiv:2610.30277v1 Announce Type: new Abstract: While artificial intelligence has made rapid progress in mathematical reasoning, many open problems depend on structure that is revealed only through large-scale computatio"
-    },
-    {
-      "title": "Route-and-Generate: KL-Regularized Router Improvement for Reasoning Routing in LLMs",
-      "link": "https://arxiv.org/abs/2610.30351",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-23T04:00:00+00:00",
-      "summary": "arXiv:2610.30351v1 Announce Type: new Abstract: Large language models often apply complex reasoning indiscriminately, leading to overthinking on simple tasks and underthinking on harder ones. We present Route-and-Generat"
     }
   ]
 }
