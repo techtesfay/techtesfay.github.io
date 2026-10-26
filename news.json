@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T17:44:59.709753+00:00",
+  "generated_at": "2026-10-26T21:58:51.936644+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,62 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Risks & Rewards: How AI Is Redefining the CISO's Role",
+      "link": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-26T21:44:33+00:00",
+      "summary": "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks."
+    },
+    {
+      "title": "Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines",
+      "link": "https://therecord.media/texas-sues-openai-deceiving-customers",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-26T21:03:00+00:00",
+      "summary": "In an unusual move, the suit \u2014 brought under the state\u2019s deceptive trade practices laws \u2014 seeks to hold founder and CEO Sam Altman personally liable for the alleged deception."
+    },
+    {
+      "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown",
+      "link": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-26T20:59:26+00:00",
+      "summary": "A new AI agent prompt injection technique exploits how coding assistants consume local instruction files, blurring the line between text documents and executable actions."
+    },
+    {
+      "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+      "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-26T18:12:22+00:00",
+      "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec, the activity is desi"
+    },
+    {
+      "title": "'Gheist' Weaponizes GitHub Tokens to Steal Cloud Secrets",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-26T18:01:40+00:00",
+      "summary": "An ongoing supply chain attack is harvesting credentials and sensitive data from thousands of developer repositories."
+    },
+    {
+      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+      "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-26T17:45:57+00:00",
+      "summary": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentiall"
+    },
+    {
+      "title": "Will the real Anthropic please stand up",
+      "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-26T17:45:43+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 3"
+    },
     {
       "title": "Serbian autocrat loses election following widespread reports of digital repression",
       "link": "https://therecord.media/serbia-election-spyware-vucic",
@@ -35,6 +91,14 @@
       "category": "cybersecurity",
       "published": "2026-10-26T16:37:00+00:00",
       "summary": "44-year-old Zheng Zhao was allegedly a key money-launderer working with a group of scammers who called U.S.-based victims and urged them to invest in fictitious businesses."
+    },
+    {
+      "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+      "link": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-26T15:52:40+00:00",
+      "summary": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct "
     },
     {
       "title": "Ukraine warns hackers are exploiting Chinese-made Dahua surveillance cameras",
@@ -61,20 +125,20 @@
       "summary": "This Cybersecurity Awareness Month's theme, \"Securing the Next 250,\" asks us to look beyond vulnerabilities and consider what will make our digital systems resilient for generations."
     },
     {
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-26T13:45:00+00:00",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
+    },
+    {
       "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
       "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
       "source": "MIT Technology Review",
       "category": "ai",
       "published": "2026-10-26T12:40:00+00:00",
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms \u2014Sam Hiner, cofou"
-    },
-    {
-      "title": "Popular AI tool LiteLLM says unrevoked key allowed hackers to target users",
-      "link": "https://therecord.media/litellm-hackers-ai-malware",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-26T12:00:00+00:00",
-      "summary": "LiteLLM, an open-source tool widely used by artificial intelligence developers, said a key accidentally exposed in May was behind a supply-chain attack that is believed to have hit tens of thousands of users last week."
     },
     {
       "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
@@ -91,6 +155,14 @@
       "category": "cybersecurity",
       "published": "2026-10-26T11:23:56+00:00",
       "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual al"
+    },
+    {
+      "title": "ChatGPT\u2019s expanding world of work",
+      "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-26T10:00:00+00:00",
+      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
     },
     {
       "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
@@ -125,14 +197,6 @@
       "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into emai"
     },
     {
-      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
-      "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-26T07:49:46+00:00",
-      "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeede"
-    },
-    {
       "title": "How Fanatics and OpenAI streamline the fan experience",
       "link": "https://openai.com/index/fanatics-streamline-fan-experience",
       "source": "OpenAI News",
@@ -141,12 +205,12 @@
       "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
     },
     {
-      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
-      "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-26T06:03:48+00:00",
-      "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week. The c"
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "link": "https://openai.com/index/openai-cut-incident-investigation",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-26T07:00:00+00:00",
+      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
     },
     {
       "title": "Fooling LLM Safety Guards into Judging the Wrong Text",
@@ -267,70 +331,6 @@
       "category": "research",
       "published": "2026-10-26T04:00:00+00:00",
       "summary": "arXiv:2610.31916v1 Announce Type: new Abstract: A durable agent can resume a consequential action while its authority changes and the action's external outcome remains uncertain. We study execution-time reliability of to"
-    },
-    {
-      "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
-      "link": "https://arxiv.org/abs/2610.31918",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-26T04:00:00+00:00",
-      "summary": "arXiv:2610.31918v1 Announce Type: new Abstract: Distilling interactive LLM agents requires choosing between teacher-generated demonstrations and student-generated experience, corresponding broadly to off-policy and on-po"
-    },
-    {
-      "title": "ISC Stormcast For Monday, October 26th, 2026 https://isc.sans.edu/podcastdetail/10150, (Mon, Oct 26th)",
-      "link": "https://isc.sans.edu/diary/rss/33456",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-26T03:30:12+00:00",
-      "summary": ""
-    },
-    {
-      "title": "YARA-X 1.22.0 Release, (Sun, Oct 25th)",
-      "link": "https://isc.sans.edu/diary/rss/33454",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-25T19:57:53+00:00",
-      "summary": "YARA-X&#;x26;#;39;s 1.22.0 release brings 11 improvements and 9 bugfixes."
-    },
-    {
-      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-      "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-25T17:44:09+00:00",
-      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailsc"
-    },
-    {
-      "title": "Trust Is Not What It Seems \u2014 and Fraudsters Are Counting on It",
-      "link": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-23T20:57:56+00:00",
-      "summary": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial intelligence."
-    },
-    {
-      "title": "(Reliable)? php2shell exploitability, (Fri, Oct 23rd)",
-      "link": "https://isc.sans.edu/diary/rss/33452",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-23T20:04:47+00:00",
-      "summary": "Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability."
-    },
-    {
-      "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
-      "link": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-23T19:41:23+00:00",
-      "summary": "Fixing the critical PHP flaws is not as simple as clicking \"Update.\" Here's how to assess your risk, and what you can do to protect yourself."
-    },
-    {
-      "title": "AI Tools Are Generating Massive Attacks for Little Cost",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-23T17:26:59+00:00",
-      "summary": "One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change."
     }
   ]
 }
