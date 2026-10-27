@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T16:56:02.994181+00:00",
+  "generated_at": "2026-10-27T21:31:21.514177+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,46 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
+      "link": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-27T20:42:40+00:00",
+      "summary": "Main bombing sis getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang."
+    },
+    {
+      "title": "Nefilim, Hive ransomware operator given five-year-plus sentence after guilty plea",
+      "link": "https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-27T20:40:00+00:00",
+      "summary": "Ukrainian national Artem Stryzhak, 36, had pleaded guilty last year to charges related to participating in at least two well-known ransomware groups."
+    },
+    {
+      "title": "US indicts Malaysian national after Madagascar scam operation uncovered",
+      "link": "https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-27T19:30:00+00:00",
+      "summary": "DOJ action against five foreign nationals \u2014 plus a sting in Madagascar \u2014 highlight the expanding global reach of the scam center industry."
+    },
+    {
+      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+      "link": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-27T18:26:46+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. "
+    },
+    {
+      "title": "Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-27T17:43:07+00:00",
+      "summary": "Nathan Hamiel outlines potential SecOps horror in the AI midst, as core technical capabilities go the way of reading an atlas or remembering phone numbers."
+    },
     {
       "title": "'Aokigahara' Stealer Targets 'Developer Keyrings' & AI Assistants",
       "link": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
@@ -59,22 +99,6 @@
       "category": "cybersecurity",
       "published": "2026-10-27T13:36:00+00:00",
       "summary": "Cybercriminals are stuffing infostealer malware into bogus apps aimed at tracking gas prices, police activity, drone strikes and other information of concern to average Russians, researchers said."
-    },
-    {
-      "title": "Moscow faces internet disruptions as foreign leaders gather for summits",
-      "link": "https://therecord.media/moscow-faces-internet-disruptions-as-foreign-leaders-gather",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-27T13:20:00+00:00",
-      "summary": "The restrictions will be in place from October 27 to 29, coinciding with the Gas Exporting Countries Forum summit and the Russia-Africa summit, Russia's Ministry of Digital Development said Monday."
-    },
-    {
-      "title": "CISA warns of PHP bug exploitation attempts, gives federal agencies days to patch",
-      "link": "https://therecord.media/php-vulnerabilities-cisa-kev",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-27T13:16:00+00:00",
-      "summary": "CISA added the widely publicized PHP vulnerabilities to the KEV, but didn't specify what kind of exploitation it was observing."
     },
     {
       "title": "The Download: Anthropic\u2019s IPO, smarter power grids, and exercise pills",
@@ -139,14 +163,6 @@
       "category": "ai",
       "published": "2026-10-27T09:00:00+00:00",
       "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they\u2019re complicated and in short supply. And given that their basic design hasn\u2019t chang"
-    },
-    {
-      "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
-      "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-27T08:22:43+00:00",
-      "summary": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown. OpenAI's reasoning models work "
     },
     {
       "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
@@ -309,28 +325,12 @@
       "summary": "Measuring AI model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation. But none replace testing against your own code and workflows."
     },
     {
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "link": "https://openai.com/index/greptile-code-review-codex-astra",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "link": "https://openai.com/index/check-point-daybreak",
       "source": "OpenAI News",
       "category": "ai",
-      "published": "2026-10-26T22:00:00+00:00",
-      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
-    },
-    {
-      "title": "Risks & Rewards: How AI Is Redefining the CISO's Role",
-      "link": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-26T21:44:33+00:00",
-      "summary": "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks."
-    },
-    {
-      "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown",
-      "link": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-26T20:59:26+00:00",
-      "summary": "A new AI agent prompt injection technique exploits how coding assistants consume local instruction files, blurring the line between text documents and executable actions."
+      "published": "2026-10-27T00:00:00+00:00",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
     }
   ]
 }
