@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T11:09:31.155376+00:00",
+  "generated_at": "2026-10-27T16:56:02.994181+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,118 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "'Aokigahara' Stealer Targets 'Developer Keyrings' & AI Assistants",
+      "link": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-27T16:47:20+00:00",
+      "summary": "The malware's focus on AI tools expands the traditional infostealer playbook to expose a forest of AI sessions, sensitive business data, and developer infrastructure from a single compromised endpoint."
+    },
+    {
+      "title": "Hackers repeatedly breached suppliers holding UK police data, watchdog finds",
+      "link": "https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-27T15:07:00+00:00",
+      "summary": "His Majesty\u2019s Inspectorate of Constabulary and Fire & Rescue Services says British police data has been breach several times this decade through third-party IT suppliers."
+    },
+    {
+      "title": "University of New Mexico hospital diverts ambulances after cyberattack",
+      "link": "https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-27T14:57:00+00:00",
+      "summary": "For about two hours on Monday, the organization diverted ambulances to health systems in Albuquerque and Santa Fe. They were forced to suspend outpatient surgeries and appointments for the remainder of the day."
+    },
+    {
+      "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+      "link": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-27T13:59:48+00:00",
+      "summary": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups. The fl"
+    },
+    {
+      "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+      "link": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-27T13:59:09+00:00",
+      "summary": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds writ"
+    },
+    {
+      "title": "Malicious apps prey on Russians\u2019 anxiety about fuel prices, drone strikes",
+      "link": "https://therecord.media/malicious-apps-russian-anxiety-gas-prices-drone-strikes",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-27T13:36:00+00:00",
+      "summary": "Cybercriminals are stuffing infostealer malware into bogus apps aimed at tracking gas prices, police activity, drone strikes and other information of concern to average Russians, researchers said."
+    },
+    {
+      "title": "Moscow faces internet disruptions as foreign leaders gather for summits",
+      "link": "https://therecord.media/moscow-faces-internet-disruptions-as-foreign-leaders-gather",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-27T13:20:00+00:00",
+      "summary": "The restrictions will be in place from October 27 to 29, coinciding with the Gas Exporting Countries Forum summit and the Russia-Africa summit, Russia's Ministry of Digital Development said Monday."
+    },
+    {
+      "title": "CISA warns of PHP bug exploitation attempts, gives federal agencies days to patch",
+      "link": "https://therecord.media/php-vulnerabilities-cisa-kev",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-27T13:16:00+00:00",
+      "summary": "CISA added the widely publicized PHP vulnerabilities to the KEV, but didn't specify what kind of exploitation it was observing."
+    },
+    {
+      "title": "The Download: Anthropic\u2019s IPO, smarter power grids, and exercise pills",
+      "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-27T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anth"
+    },
+    {
+      "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+      "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-27T12:09:50+00:00",
+      "summary": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account. Microso"
+    },
+    {
+      "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+      "link": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-27T11:46:00+00:00",
+      "summary": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on October 26. Someone with that key could build counterfeit d"
+    },
+    {
+      "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+      "link": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-27T11:32:46+00:00",
+      "summary": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific e"
+    },
+    {
+      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+      "link": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-27T11:32:31+00:00",
+      "summary": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-commun"
+    },
+    {
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-27T11:19:18+00:00",
+      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The m"
+    },
     {
       "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
       "link": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
@@ -37,20 +149,12 @@
       "summary": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown. OpenAI's reasoning models work "
     },
     {
-      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
-      "link": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-27T06:34:47+00:00",
-      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP cameras and DVRs with acc"
-    },
-    {
-      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
-      "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-27T04:37:59+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PH"
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-27T07:00:00+00:00",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
     },
     {
       "title": "TRACER: An RDC-Triggered Trajectory Recovery Framework for Cyberattack-Resilient Adaptive Cruise Control",
@@ -202,7 +306,7 @@
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-10-27T00:26:50+00:00",
-      "summary": "Measuring AI model security gets complex fast \u2014 a growing patchwork of benchmarks targets different variables in the equation, but none replace testing against your own code and workflows."
+      "summary": "Measuring AI model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation. But none replace testing against your own code and workflows."
     },
     {
       "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
@@ -221,116 +325,12 @@
       "summary": "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks."
     },
     {
-      "title": "Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines",
-      "link": "https://therecord.media/texas-sues-openai-deceiving-customers",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-26T21:03:00+00:00",
-      "summary": "In an unusual move, the suit \u2014 brought under the state\u2019s deceptive trade practices laws \u2014 seeks to hold founder and CEO Sam Altman personally liable for the alleged deception."
-    },
-    {
       "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown",
       "link": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-10-26T20:59:26+00:00",
       "summary": "A new AI agent prompt injection technique exploits how coding assistants consume local instruction files, blurring the line between text documents and executable actions."
-    },
-    {
-      "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
-      "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-26T18:12:22+00:00",
-      "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec, the activity is desi"
-    },
-    {
-      "title": "'Gheist' Weaponizes GitHub Tokens to Steal Cloud Secrets",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-26T18:01:40+00:00",
-      "summary": "An ongoing supply chain attack is harvesting credentials and sensitive data from thousands of developer repositories."
-    },
-    {
-      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
-      "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-26T17:45:57+00:00",
-      "summary": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentiall"
-    },
-    {
-      "title": "Will the real Anthropic please stand up",
-      "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-26T17:45:43+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 3"
-    },
-    {
-      "title": "Serbian autocrat loses election following widespread reports of digital repression",
-      "link": "https://therecord.media/serbia-election-spyware-vucic",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-26T17:30:00+00:00",
-      "summary": "Serbian strongman leader Aleksandar Vu\u010di\u0107 on Sunday admitted defeat in his race for prime minister, a loss that follows a series of incidents of digital repression that galvanized the opposition."
-    },
-    {
-      "title": "Ukraine disputes Musk's claims of Starlink misuse as military connectivity restored",
-      "link": "https://therecord.media/ukraine-disputes-musk-claims-of-starlink-misuse",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-26T16:40:00+00:00",
-      "summary": "Ukrainian Defense Minister Yevhen Khmara said Saturday that Starlink and Starshield connectivity had been restored."
-    },
-    {
-      "title": "Dutch police extradite Chinese national accused of laundering Cambodian investment scam funds",
-      "link": "https://therecord.media/dutch-police-extradite-chinese-national-money-laundering-scams",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-26T16:37:00+00:00",
-      "summary": "44-year-old Zheng Zhao was allegedly a key money-launderer working with a group of scammers who called U.S.-based victims and urged them to invest in fictitious businesses."
-    },
-    {
-      "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
-      "link": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-26T15:52:40+00:00",
-      "summary": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct "
-    },
-    {
-      "title": "Working with academic communities to build scientific understanding",
-      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-26T14:30:00+00:00",
-      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them."
-    },
-    {
-      "title": "Ukraine warns hackers are exploiting Chinese-made Dahua surveillance cameras",
-      "link": "https://therecord.media/ukraine-cert-ua-warning-chinese-dahua-cameras-hacked",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-26T14:21:00+00:00",
-      "summary": "CERT-UA says it has identified cases in which hackers compromised Dahua internet-connected cameras and video recorders, changed their settings and created unauthorized user accounts."
-    },
-    {
-      "title": "\u26a1 Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
-      "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-26T14:06:13+00:00",
-      "summary": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already "
-    },
-    {
-      "title": "10 Software Security Practices Built for the Next 250 Years",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-26T14:00:00+00:00",
-      "summary": "This Cybersecurity Awareness Month's theme, \"Securing the Next 250,\" asks us to look beyond vulnerabilities and consider what will make our digital systems resilient for generations."
     }
   ]
 }
