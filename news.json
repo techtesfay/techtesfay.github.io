@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T21:31:21.514177+00:00",
+  "generated_at": "2026-10-28T02:46:21.592246+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,22 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "ISC Stormcast For Wednesday, October 28th, 2026 https://isc.sans.edu/podcastdetail/10154, (Wed, Oct 28th)",
+      "link": "https://isc.sans.edu/diary/rss/33464",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-28T02:30:11+00:00",
+      "summary": ""
+    },
+    {
+      "title": "3 Frameworks to Protect CISOs & Orgs Against AI Liability",
+      "link": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-27T21:15:03+00:00",
+      "summary": "Cyber leaders can get ahead of AI liability with rigorous documentation, transparency, and smart contract negotiations with AI vendors."
+    },
     {
       "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
       "link": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
@@ -27,6 +43,14 @@
       "category": "cybersecurity",
       "published": "2026-10-27T20:40:00+00:00",
       "summary": "Ukrainian national Artem Stryzhak, 36, had pleaded guilty last year to charges related to participating in at least two well-known ransomware groups."
+    },
+    {
+      "title": "SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack",
+      "link": "https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-27T19:58:06+00:00",
+      "summary": "A recent Shai-Hulud attack shows defenders need real-time visibility into production code and affected services to respond to supply chain compromises."
     },
     {
       "title": "US indicts Malaysian national after Madagascar scam operation uncovered",
@@ -67,6 +91,14 @@
       "category": "cybersecurity",
       "published": "2026-10-27T15:07:00+00:00",
       "summary": "His Majesty\u2019s Inspectorate of Constabulary and Fire & Rescue Services says British police data has been breach several times this decade through third-party IT suppliers."
+    },
+    {
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "link": "https://openai.com/index/retell-ai",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-27T15:00:00+00:00",
+      "summary": "GPT-6 Astra tops Retell\u2019s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
     },
     {
       "title": "University of New Mexico hospital diverts ambulances after cyberattack",
@@ -237,100 +269,68 @@
       "summary": "arXiv:2610.33234v1 Announce Type: new Abstract: Cybersecurity operators increasingly encounter sophisticated and fast-paced attacks, making autonomous cyber defense (ACD) a critical approach for supporting timely and eff"
     },
     {
-      "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
-      "link": "https://arxiv.org/abs/2610.31701",
+      "title": "Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion",
+      "link": "https://arxiv.org/abs/2610.33096",
       "source": "arXiv cs.AI",
       "category": "research",
       "published": "2026-10-27T04:00:00+00:00",
-      "summary": "arXiv:2610.31701v1 Announce Type: new Abstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions. In B2B go-to-market (GTM) organi"
+      "summary": "arXiv:2610.33096v1 Announce Type: new Abstract: The achievement of practical fusion energy remains one of the most pressing unsolved scientific challenges, with immense implications for carbon-free power. A critical fact"
     },
     {
-      "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
-      "link": "https://arxiv.org/abs/2610.31789",
+      "title": "IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives",
+      "link": "https://arxiv.org/abs/2610.33097",
       "source": "arXiv cs.AI",
       "category": "research",
       "published": "2026-10-27T04:00:00+00:00",
-      "summary": "arXiv:2610.31789v1 Announce Type: new Abstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting. How"
+      "summary": "arXiv:2610.33097v1 Announce Type: new Abstract: As polarization grows on social media, understanding how political memes shape online narratives has become increasingly important. Previous research has relied on either q"
     },
     {
-      "title": "Patronizing and Condescending Language Detection in English and Mandarin",
-      "link": "https://arxiv.org/abs/2610.31808",
+      "title": "Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting",
+      "link": "https://arxiv.org/abs/2610.33103",
       "source": "arXiv cs.AI",
       "category": "research",
       "published": "2026-10-27T04:00:00+00:00",
-      "summary": "arXiv:2610.31808v1 Announce Type: new Abstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative societal stereotypes."
+      "summary": "arXiv:2610.33103v1 Announce Type: new Abstract: Prospect theory splits risky choice into three parts: loss aversion, measured by the relative weight of losses to gains, $\\lambda$ (e.g., $\\lambda = 2$ implies that losses "
     },
     {
-      "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
-      "link": "https://arxiv.org/abs/2610.31810",
+      "title": "Artificial Intelligence in Mechanical Engineering: Foundations, Opportunities, Challenges, and Responsibilities",
+      "link": "https://arxiv.org/abs/2610.33105",
       "source": "arXiv cs.AI",
       "category": "research",
       "published": "2026-10-27T04:00:00+00:00",
-      "summary": "arXiv:2610.31810v1 Announce Type: new Abstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps author"
+      "summary": "arXiv:2610.33105v1 Announce Type: new Abstract: Artificial intelligence (AI) is reshaping mechanical engineering (ME), from modeling, simulation, and optimization to diagnostics, design, and technical communication. Draw"
     },
     {
-      "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
-      "link": "https://arxiv.org/abs/2610.31846",
+      "title": "Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation",
+      "link": "https://arxiv.org/abs/2610.33112",
       "source": "arXiv cs.AI",
       "category": "research",
       "published": "2026-10-27T04:00:00+00:00",
-      "summary": "arXiv:2610.31846v1 Announce Type: new Abstract: Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recover from a mistake only temporarily: in-conte"
+      "summary": "arXiv:2610.33112v1 Announce Type: new Abstract: Use-based AI regulation assigns obligations by deployment risk but lacks an evidentiary object to carry them. A benchmark score is a property of a model; conformance of a d"
     },
     {
-      "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
-      "link": "https://arxiv.org/abs/2610.31882",
+      "title": "Optimal Correction Sets for Provable Redress of Contestable Causal Discovery",
+      "link": "https://arxiv.org/abs/2610.33138",
       "source": "arXiv cs.AI",
       "category": "research",
       "published": "2026-10-27T04:00:00+00:00",
-      "summary": "arXiv:2610.31882v1 Announce Type: new Abstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude"
+      "summary": "arXiv:2610.33138v1 Announce Type: new Abstract: Constraint-based causal discovery relies on conditional-independence (CI) tests that may conflict in finite samples, leaving no causal graph that satisfies them all. Causal"
     },
     {
-      "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
-      "link": "https://arxiv.org/abs/2610.31916",
+      "title": "AOS-Bench: Can LLM Agents Manage Dynamic Workloads?",
+      "link": "https://arxiv.org/abs/2610.33178",
       "source": "arXiv cs.AI",
       "category": "research",
       "published": "2026-10-27T04:00:00+00:00",
-      "summary": "arXiv:2610.31916v1 Announce Type: new Abstract: A durable agent can resume a consequential action while its authority changes and the action's external outcome remains uncertain. We study execution-time reliability of to"
+      "summary": "arXiv:2610.33178v2 Announce Type: new Abstract: Coding agents are moving from handling one request at a time to serving as persistent assistants to which users hand a stream of work: a build, a data-processing job and a "
     },
     {
-      "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
-      "link": "https://arxiv.org/abs/2610.31918",
+      "title": "Propensities Please: Exposing Alignment-Faking LLMs using Synthetic Document Finetuning",
+      "link": "https://arxiv.org/abs/2610.33180",
       "source": "arXiv cs.AI",
       "category": "research",
       "published": "2026-10-27T04:00:00+00:00",
-      "summary": "arXiv:2610.31918v1 Announce Type: new Abstract: Distilling interactive LLM agents requires choosing between teacher-generated demonstrations and student-generated experience, corresponding broadly to off-policy and on-po"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, October 27th, 2026 https://isc.sans.edu/podcastdetail/10152, (Tue, Oct 27th)",
-      "link": "https://isc.sans.edu/diary/rss/33462",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-27T02:55:13+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Apple Patches for October 2026, (Mon, Oct 26th)",
-      "link": "https://isc.sans.edu/diary/rss/33458",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-27T02:09:55+00:00",
-      "summary": "Apple today released patches for 304 vulnerabilties. This number is still in line with prior Apple updates, and comes just about a month after the last apple update."
-    },
-    {
-      "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-27T00:26:50+00:00",
-      "summary": "Measuring AI model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation. But none replace testing against your own code and workflows."
-    },
-    {
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "link": "https://openai.com/index/check-point-daybreak",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-27T00:00:00+00:00",
-      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
+      "summary": "arXiv:2610.33180v1 Announce Type: new Abstract: Alignment evaluations aim to assess whether large language models would engage in dangerous misaligned behaviour. Misaligned and evaluation-aware models might engage in ali"
     }
   ]
 }
