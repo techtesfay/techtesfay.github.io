@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T11:43:57.806489+00:00",
+  "generated_at": "2026-10-28T17:29:59.285949+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,102 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Moldova investigates possible foreign involvement in major government cyberattack",
+      "link": "https://therecord.media/moldova-investigates-possible-foreign-involvement-cyberattacks",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-28T16:37:00+00:00",
+      "summary": "Prime Minister Vasile Tofan said the incident may be part of a broader campaign targeting both citizens' personal data and government digital infrastructure, according to local media reports."
+    },
+    {
+      "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
+      "link": "https://isc.sans.edu/diary/rss/33466",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-28T16:07:03+00:00",
+      "summary": "Introduction"
+    },
+    {
+      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
+      "link": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-28T16:02:45+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities"
+    },
+    {
+      "title": "UK to look at making software companies liable for cyber breaches",
+      "link": "https://therecord.media/uk-budget-proposal-software-companies-liable-cyber-breaches",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-28T15:37:00+00:00",
+      "summary": "The new U.K. budget says the government will \"consider where liability for cyber breaches should sit,\" potentially a landmark shift for a country that has relied on voluntary codes to encourage software vendors to improv"
+    },
+    {
+      "title": "Belarusian hackers increasingly acting as proxies for Russia amid war in Ukraine",
+      "link": "https://therecord.media/belarus-russia-hackers-ukraine-war",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-28T15:15:00+00:00",
+      "summary": "Belarus-linked hackers are increasingly aligning their cyber operations with Russia's interests in Ukraine, researchers said Wednesday."
+    },
+    {
+      "title": "Attacker Relentlessly Scans for Credentials by Impersonating AI Bots",
+      "link": "https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-28T14:37:52+00:00",
+      "summary": "The threat actor lurked behind bots posing as agents from OpenAI, Anthropic, Meta, and others to find exposed data."
+    },
+    {
+      "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+      "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-28T12:48:03+00:00",
+      "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVS"
+    },
+    {
+      "title": "The Download: dead startups fueling AI and interspecies communication",
+      "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-28T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miske"
+    },
+    {
+      "title": "FBI seizes \u2018bulletproof\u2019 hosting site accused of facilitating child abuse, money laundering",
+      "link": "https://therecord.media/fbi-seizure-csam-virtualine",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-28T12:00:00+00:00",
+      "summary": "The FBI seized the domain of a \u201cbulletproof\u201d hosting provider accused of facilitating a range of cybercrimes, including money laundering and the distribution of child sexual abuse material."
+    },
+    {
+      "title": "Pairing industrial AI autonomy and human control",
+      "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-28T12:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
+      "link": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-28T11:50:00+00:00",
+      "summary": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machi"
+    },
+    {
+      "title": "Wazuh and AI for Enhanced SOC Workflows",
+      "link": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-28T11:30:00+00:00",
+      "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover "
+    },
     {
       "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
       "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
@@ -37,6 +133,14 @@
       "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
     },
     {
+      "title": "Legora is building the agentic operating system for legal work",
+      "link": "https://openai.com/index/legora",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-28T09:30:00+00:00",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
+    },
+    {
       "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
       "link": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
       "source": "The Hacker News",
@@ -53,44 +157,12 @@
       "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine. The move was in response to the service being used to commit and fa"
     },
     {
-      "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
-      "link": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-28T07:13:21+00:00",
-      "summary": "Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand. The reward program ope"
-    },
-    {
-      "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
-      "link": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-28T06:20:37+00:00",
-      "summary": "Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the root user should be able to touch. The flaws are in how Ta"
-    },
-    {
-      "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
-      "link": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-28T06:04:58+00:00",
-      "summary": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under a single identifier,"
-    },
-    {
       "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
       "link": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-10-28T06:00:00+00:00",
       "summary": "Interpol's annual Operation Serengeti, now on its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds."
-    },
-    {
-      "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
-      "link": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-28T05:42:26+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV)"
     },
     {
       "title": "Pricing Cross-Bank Context in Federated Anti-Money Laundering",
@@ -259,78 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-10-27T19:58:06+00:00",
       "summary": "A recent Shai-Hulud attack shows defenders need real-time visibility into production code and affected services to respond to supply chain compromises."
-    },
-    {
-      "title": "US indicts Malaysian national after Madagascar scam operation uncovered",
-      "link": "https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-27T19:30:00+00:00",
-      "summary": "DOJ action against five foreign nationals \u2014 plus a sting in Madagascar \u2014 highlight the expanding global reach of the scam center industry."
-    },
-    {
-      "title": "Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-27T17:43:07+00:00",
-      "summary": "Nathan Hamiel outlines potential SecOps horror in the AI midst, as core technical capabilities go the way of reading an atlas or remembering phone numbers."
-    },
-    {
-      "title": "'Aokigahara' Stealer Targets 'Developer Keyrings' & AI Assistants",
-      "link": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-27T16:47:20+00:00",
-      "summary": "The malware's focus on AI tools expands the traditional infostealer playbook to expose a forest of AI sessions, sensitive business data, and developer infrastructure from a single compromised endpoint."
-    },
-    {
-      "title": "Hackers repeatedly breached suppliers holding UK police data, watchdog finds",
-      "link": "https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-27T15:07:00+00:00",
-      "summary": "His Majesty\u2019s Inspectorate of Constabulary and Fire & Rescue Services says British police data has been breach several times this decade through third-party IT suppliers."
-    },
-    {
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "link": "https://openai.com/index/retell-ai",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-27T15:00:00+00:00",
-      "summary": "GPT-6 Astra tops Retell\u2019s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
-    },
-    {
-      "title": "University of New Mexico hospital diverts ambulances after cyberattack",
-      "link": "https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-27T14:57:00+00:00",
-      "summary": "For about two hours on Monday, the organization diverted ambulances to health systems in Albuquerque and Santa Fe. They were forced to suspend outpatient surgeries and appointments for the remainder of the day."
-    },
-    {
-      "title": "Malicious apps prey on Russians\u2019 anxiety about fuel prices, drone strikes",
-      "link": "https://therecord.media/malicious-apps-russian-anxiety-gas-prices-drone-strikes",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-27T13:36:00+00:00",
-      "summary": "Cybercriminals are stuffing infostealer malware into bogus apps aimed at tracking gas prices, police activity, drone strikes and other information of concern to average Russians, researchers said."
-    },
-    {
-      "title": "The Download: Anthropic\u2019s IPO, smarter power grids, and exercise pills",
-      "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-27T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anth"
-    },
-    {
-      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-      "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-27T11:19:18+00:00",
-      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The m"
     }
   ]
 }
