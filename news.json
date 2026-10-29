@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T21:56:31.053849+00:00",
+  "generated_at": "2026-10-29T03:07:27.253148+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
+      "link": "https://isc.sans.edu/diary/rss/33466",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-29T00:42:15+00:00",
+      "summary": "Introduction"
+    },
     {
       "title": "Court strikes down West Virginia law barring disclosure of public officials\u2019 personal data",
       "link": "https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court",
@@ -35,6 +43,14 @@
       "category": "ai",
       "published": "2026-10-28T20:32:02+00:00",
       "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously\u2014for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one i"
+    },
+    {
+      "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+      "link": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-28T19:39:00+00:00",
+      "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit."
     },
     {
       "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
@@ -83,14 +99,6 @@
       "category": "cybersecurity",
       "published": "2026-10-28T16:23:34+00:00",
       "summary": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown. Orange Tsai of DEVCORE published"
-    },
-    {
-      "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
-      "link": "https://isc.sans.edu/diary/rss/33466",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-28T16:07:03+00:00",
-      "summary": "Introduction"
     },
     {
       "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
@@ -323,14 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-10-28T02:30:11+00:00",
       "summary": ""
-    },
-    {
-      "title": "3 Frameworks to Protect CISOs & Orgs Against AI Liability",
-      "link": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-27T21:15:03+00:00",
-      "summary": "Cyber leaders can get ahead of AI liability with rigorous documentation, transparency, and smart contract negotiations with AI vendors."
     }
   ]
 }
