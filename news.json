@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T11:52:12.740018+00:00",
+  "generated_at": "2026-10-29T17:40:51.317005+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,20 +13,116 @@
   ],
   "items": [
     {
+      "title": "Federal bankruptcy courts contractor says no data stolen during cyber intrusion",
+      "link": "https://therecord.media/us-bankruptcy-courts-it-contractor-says-no-data-stolen-cyberattack",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-29T16:13:00+00:00",
+      "summary": "\"No data was extracted,\u201d a spokesperson for BAE Systems, a federal contractor, told Recorded Future News about its probe into a cyberattack against its systems for federal bankruptcy courts."
+    },
+    {
+      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+      "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-29T15:57:05+00:00",
+      "summary": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale. Anthro"
+    },
+    {
+      "title": "Threat Modeling With 4 Simple Questions on a White Board",
+      "link": "https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-29T15:44:04+00:00",
+      "summary": "A four-question exercise that CISOs can use to create a threat model that promises results, without a big spend."
+    },
+    {
+      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+      "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-29T15:20:29+00:00",
+      "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba. The"
+    },
+    {
+      "title": "FTC to probe major companies over personalized pricing and pay",
+      "link": "https://therecord.media/ftc-rideshare-airlines-data",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-29T13:45:00+00:00",
+      "summary": "The Federal Trade Commission ordered nine food delivery, airline and ride-sharing companies to turn over detailed information on how they harness personal data to set individual consumer prices and employee compensation."
+    },
+    {
+      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
+      "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-29T13:42:40+00:00",
+      "summary": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across coding and agentic tasks as well as "
+    },
+    {
+      "title": "Cyberattack disrupts Belgian tax services before filing deadline",
+      "link": "https://therecord.media/cyberattack-disrupts-belgian-tax-services-before-deadline",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-29T13:31:00+00:00",
+      "summary": "The Federal Public Service Finance (FPS Finance), which oversees taxation and other financial administration, said Wednesday that it was investigating the extent of the attack and had temporarily suspended access to MyMi"
+    },
+    {
+      "title": "University of New Mexico restores hospital systems, urges no contact with hackers",
+      "link": "https://therecord.media/new-mexico-cyberattack-hospital",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-29T13:30:00+00:00",
+      "summary": "The University of New Mexico was able to restore systems used by its healthcare facilities after a cyberattack forced it to divert ambulances and cancel classes at its medical school."
+    },
+    {
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-29T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Opinion: We urgently need to monitor AI agents\u2019 actions in real time \u2014Madhulika Sr"
+    },
+    {
+      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
+      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-29T11:39:41+00:00",
+      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate expl"
+    },
+    {
+      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+      "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-29T11:39:18+00:00",
+      "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. "
+    },
+    {
+      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+      "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-29T11:33:41+00:00",
+      "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are be"
+    },
+    {
+      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+      "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-29T11:33:15+00:00",
+      "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it. Independent researcher"
+    },
+    {
       "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
       "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
       "source": "The Hacker News",
       "category": "cybersecurity",
       "published": "2026-10-29T10:44:46+00:00",
       "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the w"
-    },
-    {
-      "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
-      "link": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-29T10:26:33+00:00",
-      "summary": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"The firewall inspects both metadata requests and package download"
     },
     {
       "title": "We urgently need to monitor AI agents\u2019 actions in real time",
@@ -53,20 +149,12 @@
       "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our"
     },
     {
-      "title": "Attacker Tried to Exploit Alpine Linux\u2019s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
-      "link": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-29T09:05:39+00:00",
-      "summary": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October. The flaw, CVE-2026-97229 (CVSS score: 10.0"
-    },
-    {
-      "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
-      "link": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-29T08:24:22+00:00",
-      "summary": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is designed to copy the "
+      "title": "How we detect frontier model misalignment",
+      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-29T09:00:00+00:00",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
     },
     {
       "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
@@ -74,15 +162,7 @@
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-10-29T08:00:00+00:00",
-      "summary": "Researchers can't quite explain why cyber threats look so different in Italy compared to everywhere else."
-    },
-    {
-      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
-      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-29T06:22:33+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it h"
+      "summary": "Researchers can't quite explain why cyber threats look so different in Italy compared with everywhere else."
     },
     {
       "title": "Deploying a Local Ghidra Server for Your Malware Analysis Lab, (Thu, Oct 29th)",
@@ -91,14 +171,6 @@
       "category": "cybersecurity",
       "published": "2026-10-29T06:17:41+00:00",
       "summary": "Building your malware analysis lab is a key point before playing with malware. Today, thanks to virtualization, it&#;x26;#;39;s convenient to play with snapshots in your lab. Start a new investigation from a clean snapsh"
-    },
-    {
-      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-29T05:50:17+00:00",
-      "summary": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has been observed targeting "
     },
     {
       "title": "Counting the Bandages: On measuring the time that AI saves",
@@ -189,14 +261,6 @@
       "summary": "A federal appellate court panel said West Virginia's version of Daniel's Law \u2014 meant to shield the personal data of police and other officials \u2014 is unconstitutional."
     },
     {
-      "title": "Japan Airlines warns of data breach as country grapples with multiple cyber incidents",
-      "link": "https://therecord.media/japan-airlines-warns-of-breach-country-grapples-with-incidents",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-28T20:33:00+00:00",
-      "summary": "Hackers stole passport numbers, frequent flyer numbers, email addresses and phone numbers for about 2,000 customers."
-    },
-    {
       "title": "Creating AI value with enterprise context",
       "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
       "source": "MIT Technology Review",
@@ -205,7 +269,7 @@
       "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously\u2014for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one i"
     },
     {
-      "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+      "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
       "link": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
       "source": "Dark Reading",
       "category": "cybersecurity",
@@ -213,44 +277,12 @@
       "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit."
     },
     {
-      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-      "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-      "source": "The Hacker News",
+      "title": "AI Takes Root in Hospital Corridors, Raises Security Stakes",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes",
+      "source": "Dark Reading",
       "category": "cybersecurity",
-      "published": "2026-10-28T18:08:33+00:00",
-      "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access. \"First"
-    },
-    {
-      "title": "European digital rights nonprofit noyb sues Scale AI for \u2018invasive\u2019 worker surveillance",
-      "link": "https://therecord.media/noyb-sues-scale-ai-for-worker-surveillance",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-28T18:02:00+00:00",
-      "summary": "Noyb alleges the platform in some cases records freelancers\u2019 mouse clicks and keystrokes every few seconds and claims the collected information can be used to generate video documenting freelancers\u2019 entire workday."
-    },
-    {
-      "title": "US sanctions Russians, North Koreans for laundering IT worker earnings",
-      "link": "https://therecord.media/north-korea-russia-sanctions",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-28T17:45:00+00:00",
-      "summary": "The U.S. Treasury Department sanctioned Russian and North Korean nationals for allegedly laundering the earnings of illicit IT workers on behalf of Pyongyang."
-    },
-    {
-      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
-      "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-28T17:08:09+00:00",
-      "summary": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background. To qualify, a store must pass identi"
-    },
-    {
-      "title": "Moldova investigates possible foreign involvement in major government cyberattack",
-      "link": "https://therecord.media/moldova-investigates-possible-foreign-involvement-cyberattacks",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-28T16:37:00+00:00",
-      "summary": "Prime Minister Vasile Tofan said the incident may be part of a broader campaign targeting both citizens' personal data and government digital infrastructure, according to local media reports."
+      "published": "2026-10-28T15:29:06+00:00",
+      "summary": "Artificial intelligence (AI) is everywhere in healthcare, from doctors\u2019 intake forms to cancer screenings. But in some cases, life-and-death uses are outpacing cybersecurity."
     },
     {
       "title": "Attacker Relentlessly Scans for Credentials by Impersonating AI Bots",
@@ -299,38 +331,6 @@
       "category": "ai",
       "published": "2026-10-28T09:30:00+00:00",
       "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
-    },
-    {
-      "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
-      "link": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-28T06:00:00+00:00",
-      "summary": "Interpol's annual Operation Serengeti, now in its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds."
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, October 28th, 2026 https://isc.sans.edu/podcastdetail/10154, (Wed, Oct 28th)",
-      "link": "https://isc.sans.edu/diary/rss/33464",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-28T02:30:11+00:00",
-      "summary": ""
-    },
-    {
-      "title": "3 Frameworks to Protect CISOs & Orgs Against AI Liability",
-      "link": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-27T21:15:03+00:00",
-      "summary": "Cyber leaders can get ahead of AI liability with rigorous documentation, transparency, and smart contract negotiations with AI vendors."
-    },
-    {
-      "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
-      "link": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-27T20:42:40+00:00",
-      "summary": "Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang."
     }
   ]
 }
