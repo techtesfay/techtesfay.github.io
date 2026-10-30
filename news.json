@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T11:45:05.935414+00:00",
+  "generated_at": "2026-10-30T17:19:46.958230+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,20 +13,108 @@
   ],
   "items": [
     {
+      "title": "Florida warns that 4.9 million people had Social Security numbers leaked in financial aid site breach",
+      "link": "https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-30T15:54:00+00:00",
+      "summary": "The state\u2019s Department of Education (FLDOE) said on Thursday it became aware of a data breach involving the Florida Student Financial Aid website on October 19."
+    },
+    {
+      "title": "L\u2019Italia \u00e8 afflitta da vulnerabilit\u00e0 informatiche, senza una causa chiara",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-30T15:39:54+00:00",
+      "summary": "I ricercatori non riescono a spiegare del tutto perch\u00e9 le minacce informatiche in Italia siano cos\u00ec diverse rispetto a quelle di qualsiasi altro Paese."
+    },
+    {
+      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+      "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-30T15:17:28+00:00",
+      "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer"
+    },
+    {
+      "title": "Syrian Electronic Army hacker gets prison time for attacks on Western targets",
+      "link": "https://therecord.media/syrian-electronic-army-hacker-sentenced-three-years",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-30T14:24:00+00:00",
+      "summary": "Ahmad Umar Agha, known online as \u201cTh3Pr0,\u201d was sentenced Thursday in federal court in Virginia to 42 months behind bars for his role in a conspiracy that was organized by former Syrian President Bashar al-Assad's closest"
+    },
+    {
+      "title": "Undead Software Projects Continue to Raise Security Risks",
+      "link": "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-30T14:10:37+00:00",
+      "summary": "A security firm patched a decade-old app to prevent the takeover of millions of machines, highlighting that abandoned domains remain a boon to attackers."
+    },
+    {
+      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+      "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-30T14:08:14+00:00",
+      "summary": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier, relates to a case of re"
+    },
+    {
+      "title": "British spy agency cannot account for thousands of data storage devices, watchdog says",
+      "link": "https://therecord.media/gchq-cannot-account-for-thousands-of-data-devices",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-30T12:52:00+00:00",
+      "summary": "The Investigatory Powers Commissioner\u2019s Office (IPCO) in its annual report for 2025, published Thursday, said it was \u201cvery concerned\u201d and \u201cdisappointed with the time it has taken GCHQ to investigate\u201d the issue."
+    },
+    {
+      "title": "Hackers target government Windows systems in Asia with new malware",
+      "link": "https://therecord.media/hackers-target-government-windows-systems-asia-new-malware",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-30T12:36:00+00:00",
+      "summary": "The previously unknown malware, dubbed NetamLoader, uses legitimate Microsoft software components to execute malicious code, evade security tools and download additional programs onto infected computers."
+    },
+    {
+      "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
+      "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-30T12:21:56+00:00",
+      "summary": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. I"
+    },
+    {
+      "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
+      "link": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-30T11:58:53+00:00",
+      "summary": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won\u2019t break anything. Their "
+    },
+    {
       "title": "Polymarket confirms cyberattack on third-party provider after outages",
       "link": "https://therecord.media/polymarket-confirms-cyberattack-third-party",
       "source": "The Record",
       "category": "cybersecurity",
       "published": "2026-10-30T11:33:00+00:00",
-      "summary": "The company suffered outages starting at 2pm EST on Thursday and eventually attributed the downtime to a compromise involving an unnamed provider."
+      "summary": "The company suffered outages starting at 2 p.m. Eastern U.S. time on Thursday and eventually attributed the downtime to a compromise involving an unnamed provider."
     },
     {
-      "title": "Russian popular home goods chain faces days of disruption following cyberattack",
-      "link": "https://therecord.media/russian-home-goods-chain-faces-disruptions",
-      "source": "The Record",
-      "category": "cybersecurity",
+      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+      "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+      "source": "MIT Technology Review",
+      "category": "ai",
       "published": "2026-10-30T11:30:00+00:00",
-      "summary": "Poryadok, which operates 48 stores across 32 Russian cities, first reported technical problems on Sunday, saying its website, mobile app and physical stores were temporarily unavailable."
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-los"
+    },
+    {
+      "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
+      "link": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-30T10:40:45+00:00",
+      "summary": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been sentenced by a U.S. federal court to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets. The co"
     },
     {
       "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
@@ -37,12 +125,20 @@
       "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister\u2014a potential trigger for eating disorders. A new repo"
     },
     {
-      "title": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
+      "title": "Community safety report and new protections for teens",
+      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-30T09:00:00+00:00",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
+    },
+    {
+      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
       "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
       "source": "The Hacker News",
       "category": "cybersecurity",
       "published": "2026-10-30T08:55:47+00:00",
-      "summary": "Cybersecurity researchers have disclosed that the official Anthropic Claude Code extension was compromised on the Open VSX registry to install a persistent SSH backdoor on infected hosts. The issue has since been traced "
+      "summary": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent S"
     },
     {
       "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
@@ -67,14 +163,6 @@
       "category": "cybersecurity",
       "published": "2026-10-30T07:27:05+00:00",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitati"
-    },
-    {
-      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
-      "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-30T04:14:59+00:00",
-      "summary": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest cryptocurrency exchange said nearly $3 billion of those assets"
     },
     {
       "title": "Generation, Not Selection: LLM Proposals for Certified Access-Control Policy Mining",
@@ -213,14 +301,6 @@
       "summary": ""
     },
     {
-      "title": "Binance hit by record $6.3 billion crypto hack, scrambles to freeze funds",
-      "link": "https://therecord.media/binance-hit-by-record-6-billion-crypto-hack",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-30T00:00:00+00:00",
-      "summary": "Binance, the world's largest cryptocurrency exchange, confirmed Thursday that it had been hacked in a $6.3 billion cyber heist that blockchain investigators are blaming on North Korea."
-    },
-    {
       "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
       "source": "Dark Reading",
@@ -237,28 +317,12 @@
       "summary": "This installment of the Reporters' Notebook video series discusses some of the trends and topics from Cybersecurity Awareness Month, from using AI for better training to educating next-generation workforces on modern ris"
     },
     {
-      "title": "Limited reports of PHP bug exploitation emerge",
-      "link": "https://therecord.media/php2shell-successful-exploitation-reports-emerge",
-      "source": "The Record",
+      "title": "Why CTF Competitions May Be More Important Than Ever",
+      "link": "https://www.darkreading.com/cybersecurity-operations/why-ctf-more-important-than-ever",
+      "source": "Dark Reading",
       "category": "cybersecurity",
-      "published": "2026-10-29T20:01:25+00:00",
-      "summary": "One cyber firm listed a half-dozen exploitations of the PHP2Shell bugs, and another identified a well targeted, suspected Chinese campaign that breached U.S. \"government affiliated\" servers."
-    },
-    {
-      "title": "GM settles with 36 states for selling driver data, agrees to $220 million fine and reforms",
-      "link": "https://therecord.media/general-motors-lawsuit-privacy",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-29T19:45:00+00:00",
-      "summary": "General Motors agreed to pay $220 million to settle a lawsuit filed by a coalition of 36 state attorneys general who alleged the company unlawfully sold information about driver behavior to outside parties."
-    },
-    {
-      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
-      "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-29T19:11:58+00:00",
-      "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix "
+      "published": "2026-10-29T19:56:44+00:00",
+      "summary": "As artificial intelligence squeezes early-career learning opportunities, capture-the-flag contests could be one way to help pick up the slack."
     },
     {
       "title": "Claude Model Builds Exploits Across Major Browsers & OSes",
@@ -267,70 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-10-29T18:15:59+00:00",
       "summary": "An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthropic says."
-    },
-    {
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "link": "https://openai.com/index/updated-model-spec",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-29T17:00:00+00:00",
-      "summary": "OpenAI\u2019s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
-    },
-    {
-      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-      "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-29T15:57:05+00:00",
-      "summary": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale. Anthro"
-    },
-    {
-      "title": "Threat Modeling With 4 Simple Questions on a White Board",
-      "link": "https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-29T15:44:04+00:00",
-      "summary": "A four-question exercise that CISOs can use to create a threat model that promises results, without a big spend."
-    },
-    {
-      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
-      "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-29T15:20:29+00:00",
-      "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba. The"
-    },
-    {
-      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
-      "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-29T13:42:40+00:00",
-      "summary": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across coding and agentic tasks as well as "
-    },
-    {
-      "title": "The Download: AI agent tracking and climate feedback loops",
-      "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-29T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Opinion: We urgently need to monitor AI agents\u2019 actions in real time \u2014Madhulika Sr"
-    },
-    {
-      "title": "We urgently need to monitor AI agents\u2019 actions in real time",
-      "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-29T10:11:12+00:00",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they\u2019d be grade"
-    },
-    {
-      "title": "Shadowy AI Relay Disables OpenAI Codex, Claude Code Sandboxes",
-      "link": "https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-29T10:00:00+00:00",
-      "summary": "The enigmatic service is providing popular AI coding tools to mainland China and other regions where OpenAI and Anthropic products are not officially for sale \u2014 but with key security features turned off."
     }
   ]
 }
