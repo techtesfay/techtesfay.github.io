@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T03:11:22.995168+00:00",
+  "generated_at": "2026-10-30T11:45:05.935414+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,214 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Polymarket confirms cyberattack on third-party provider after outages",
+      "link": "https://therecord.media/polymarket-confirms-cyberattack-third-party",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-30T11:33:00+00:00",
+      "summary": "The company suffered outages starting at 2pm EST on Thursday and eventually attributed the downtime to a compromise involving an unnamed provider."
+    },
+    {
+      "title": "Russian popular home goods chain faces days of disruption following cyberattack",
+      "link": "https://therecord.media/russian-home-goods-chain-faces-disruptions",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-30T11:30:00+00:00",
+      "summary": "Poryadok, which operates 48 stores across 32 Russian cities, first reported technical problems on Sunday, saying its website, mobile app and physical stores were temporarily unavailable."
+    },
+    {
+      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+      "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-30T09:00:00+00:00",
+      "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister\u2014a potential trigger for eating disorders. A new repo"
+    },
+    {
+      "title": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
+      "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-30T08:55:47+00:00",
+      "summary": "Cybersecurity researchers have disclosed that the official Anthropic Claude Code extension was compromised on the Open VSX registry to install a persistent SSH backdoor on infected hosts. The issue has since been traced "
+    },
+    {
+      "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
+      "link": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-30T08:00:00+00:00",
+      "summary": "The \"FrostyNeighbor\" advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives."
+    },
+    {
+      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+      "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-30T07:45:30+00:00",
+      "summary": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization af"
+    },
+    {
+      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+      "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-30T07:27:05+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitati"
+    },
+    {
+      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+      "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-30T04:14:59+00:00",
+      "summary": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest cryptocurrency exchange said nearly $3 billion of those assets"
+    },
+    {
+      "title": "Generation, Not Selection: LLM Proposals for Certified Access-Control Policy Mining",
+      "link": "https://arxiv.org/abs/2610.37716",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-30T04:00:00+00:00",
+      "summary": "arXiv:2610.37716v1 Announce Type: new Abstract: Attribute-Based Access Control (ABAC) policy mining---recovering a compact, auditable policy from an access log---is posed as minimum set cover and solved greedily, which e"
+    },
+    {
+      "title": "FVH-Bench: Evaluating Image Generator Safety Beyond Overtly Harmful Imagery",
+      "link": "https://arxiv.org/abs/2610.37722",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-30T04:00:00+00:00",
+      "summary": "arXiv:2610.37722v1 Announce Type: new Abstract: Modern image generators can produce complex visual artifacts, including diagrams, interfaces, and records that combine text, graphics, and layout to convey detailed informa"
+    },
+    {
+      "title": "When Skills Tell Agents Not to Ask: A Large-Scale Study of Oversight Directives in Agent Skills",
+      "link": "https://arxiv.org/abs/2610.37734",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-30T04:00:00+00:00",
+      "summary": "arXiv:2610.37734v1 Announce Type: new Abstract: Agent skills, reusable instruction packages centred on a SKILL.md file, extend AI agents on demand, and a single line in a widely copied skill reaches every agent that load"
+    },
+    {
+      "title": "Poisoned Skills: Propagating Jailbreaks Through Agent Markdown Files",
+      "link": "https://arxiv.org/abs/2610.37738",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-30T04:00:00+00:00",
+      "summary": "arXiv:2610.37738v1 Announce Type: new Abstract: Modern agent frameworks allow users to provide Markdown files containing system prompts, tool descriptions, and skill definitions (e.g., SKILL.md), which are incorporated i"
+    },
+    {
+      "title": "Agentic Backdoors via Pretraining Poisoning",
+      "link": "https://arxiv.org/abs/2610.37741",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-30T04:00:00+00:00",
+      "summary": "arXiv:2610.37741v1 Announce Type: new Abstract: Large language models are pretrained on vast, uncurated corpora scraped from the public web. This creates a security risk from attackers who plant poisoned content in the p"
+    },
+    {
+      "title": "Structured Security Explanations for Learning-Based Vulnerability Detection",
+      "link": "https://arxiv.org/abs/2610.37797",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-30T04:00:00+00:00",
+      "summary": "arXiv:2610.37797v1 Announce Type: new Abstract: Software vulnerability detection remains difficult because existing approaches rely on predefined analysis rules, learn vulnerability patterns implicitly from code and labe"
+    },
+    {
+      "title": "TensorBound: Characterizing Tensor Binding Failures in AI Compiler and Runtime Stacks",
+      "link": "https://arxiv.org/abs/2610.37838",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-30T04:00:00+00:00",
+      "summary": "arXiv:2610.37838v1 Announce Type: new Abstract: AI compiler and runtime stacks must preserve bindings between tensor values and their operations, storage, and execution state. These bindings can fail while the underlying"
+    },
+    {
+      "title": "Set an Exploit to Catch an Exploit: Compiling Public Proofs of Concept into Threat Hunting Rules",
+      "link": "https://arxiv.org/abs/2610.37872",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-10-30T04:00:00+00:00",
+      "summary": "arXiv:2610.37872v1 Announce Type: new Abstract: Public exploit code for a newly disclosed vulnerability usually appears before any published rule that detects its exploitation. Of the 45 CVEs we evaluate, 37 ever receive"
+    },
+    {
+      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+      "link": "https://arxiv.org/abs/2610.37720",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-30T04:00:00+00:00",
+      "summary": "arXiv:2610.37720v1 Announce Type: new Abstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and communication bottlenecks. Existing placemen"
+    },
+    {
+      "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
+      "link": "https://arxiv.org/abs/2610.37731",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-30T04:00:00+00:00",
+      "summary": "arXiv:2610.37731v1 Announce Type: new Abstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties in observations and "
+    },
+    {
+      "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
+      "link": "https://arxiv.org/abs/2610.37732",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-30T04:00:00+00:00",
+      "summary": "arXiv:2610.37732v1 Announce Type: new Abstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probabilities from one forw"
+    },
+    {
+      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+      "link": "https://arxiv.org/abs/2610.37739",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-30T04:00:00+00:00",
+      "summary": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluati"
+    },
+    {
+      "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+      "link": "https://arxiv.org/abs/2610.37786",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-30T04:00:00+00:00",
+      "summary": "arXiv:2610.37786v1 Announce Type: new Abstract: Web agents require diverse, executable, and resettable website environments for reproducible training and evaluation. Human-assisted mirrors demand per-site engineering, wh"
+    },
+    {
+      "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
+      "link": "https://arxiv.org/abs/2610.37809",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-30T04:00:00+00:00",
+      "summary": "arXiv:2610.37809v1 Announce Type: new Abstract: LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the graph's ontology, on the assumption that a formal schema make"
+    },
+    {
+      "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
+      "link": "https://arxiv.org/abs/2610.37830",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-30T04:00:00+00:00",
+      "summary": "arXiv:2610.37830v1 Announce Type: new Abstract: AI agents can now write software from a plain-English description, but code that runs is not the same as code that does what was asked. This gap matters most for smart cont"
+    },
+    {
+      "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
+      "link": "https://arxiv.org/abs/2610.37849",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-30T04:00:00+00:00",
+      "summary": "arXiv:2610.37849v1 Announce Type: new Abstract: AI agents that share a secret convention can coordinate through messages that look innocent, so a monitor that reads only the messages can miss them. We propose a behaviour"
+    },
+    {
+      "title": "ISC Stormcast For Friday, October 30th, 2026 https://isc.sans.edu/podcastdetail/10158, (Fri, Oct 30th)",
+      "link": "https://isc.sans.edu/diary/rss/33472",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-30T03:30:17+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Binance hit by record $6.3 billion crypto hack, scrambles to freeze funds",
+      "link": "https://therecord.media/binance-hit-by-record-6-billion-crypto-hack",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-30T00:00:00+00:00",
+      "summary": "Binance, the world's largest cryptocurrency exchange, confirmed Thursday that it had been hacked in a $6.3 billion cyber heist that blockchain investigators are blaming on North Korea."
+    },
     {
       "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
@@ -69,14 +277,6 @@
       "summary": "OpenAI\u2019s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
     },
     {
-      "title": "Federal bankruptcy courts contractor says no data stolen during cyber intrusion",
-      "link": "https://therecord.media/us-bankruptcy-courts-it-contractor-says-no-data-stolen-cyberattack",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-29T16:13:00+00:00",
-      "summary": "\"No data was extracted,\u201d a spokesperson for BAE Systems, a federal contractor, told Recorded Future News about its probe into a cyberattack against its systems for federal bankruptcy courts."
-    },
-    {
       "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
       "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
       "source": "The Hacker News",
@@ -101,14 +301,6 @@
       "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba. The"
     },
     {
-      "title": "FTC to probe major companies over personalized pricing and pay",
-      "link": "https://therecord.media/ftc-rideshare-airlines-data",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-29T13:45:00+00:00",
-      "summary": "The Federal Trade Commission ordered nine food delivery, airline and ride-sharing companies to turn over detailed information on how they harness personal data to set individual consumer prices and employee compensation."
-    },
-    {
       "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
       "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
       "source": "The Hacker News",
@@ -117,52 +309,12 @@
       "summary": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across coding and agentic tasks as well as "
     },
     {
-      "title": "Cyberattack disrupts Belgian tax services before filing deadline",
-      "link": "https://therecord.media/cyberattack-disrupts-belgian-tax-services-before-deadline",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-29T13:31:00+00:00",
-      "summary": "The Federal Public Service Finance (FPS Finance), which oversees taxation and other financial administration, said Wednesday that it was investigating the extent of the attack and had temporarily suspended access to MyMi"
-    },
-    {
       "title": "The Download: AI agent tracking and climate feedback loops",
       "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
       "source": "MIT Technology Review",
       "category": "ai",
       "published": "2026-10-29T12:10:00+00:00",
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Opinion: We urgently need to monitor AI agents\u2019 actions in real time \u2014Madhulika Sr"
-    },
-    {
-      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
-      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-29T11:39:41+00:00",
-      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate expl"
-    },
-    {
-      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
-      "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-29T11:39:18+00:00",
-      "summary": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec. The attacker needed only"
-    },
-    {
-      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
-      "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-29T11:33:41+00:00",
-      "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are be"
-    },
-    {
-      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-      "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-29T11:33:15+00:00",
-      "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it. Independent researcher"
     },
     {
       "title": "We urgently need to monitor AI agents\u2019 actions in real time",
@@ -179,158 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-10-29T10:00:00+00:00",
       "summary": "The enigmatic service is providing popular AI coding tools to mainland China and other regions where OpenAI and Anthropic products are not officially for sale \u2014 but with key security features turned off."
-    },
-    {
-      "title": "Our climate models have a big, dangerous blind spot",
-      "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-29T10:00:00+00:00",
-      "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our"
-    },
-    {
-      "title": "How we detect frontier model misalignment",
-      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-29T09:00:00+00:00",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
-    },
-    {
-      "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-29T08:00:00+00:00",
-      "summary": "Researchers can't quite explain why cyber threats look so different in Italy compared with everywhere else."
-    },
-    {
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "link": "https://openai.com/index/ropes-gray-ai-diligence",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-29T07:00:00+00:00",
-      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
-    },
-    {
-      "title": "Deploying a Local Ghidra Server for Your Malware Analysis Lab, (Thu, Oct 29th)",
-      "link": "https://isc.sans.edu/diary/rss/33470",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-29T06:17:41+00:00",
-      "summary": "Building your malware analysis lab is a key point before playing with malware. Today, thanks to virtualization, it&#;x26;#;39;s convenient to play with snapshots in your lab. Start a new investigation from a clean snapsh"
-    },
-    {
-      "title": "Counting the Bandages: On measuring the time that AI saves",
-      "link": "https://arxiv.org/abs/2610.35942",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-29T04:00:00+00:00",
-      "summary": "arXiv:2610.35942v1 Announce Type: new Abstract: I consider what it means for AI assistance to save time. I contrast a stopwatch view, on which time saved is whatever the clock records, with a ledger view, on which it is "
-    },
-    {
-      "title": "Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases",
-      "link": "https://arxiv.org/abs/2610.35984",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-29T04:00:00+00:00",
-      "summary": "arXiv:2610.35984v1 Announce Type: new Abstract: Deep learning models are highly effective in a wide range of domains, particu larly in plant disease diagnosis. However, their performance is often limited by challenges su"
-    },
-    {
-      "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
-      "link": "https://arxiv.org/abs/2610.36077",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-29T04:00:00+00:00",
-      "summary": "arXiv:2610.36077v1 Announce Type: new Abstract: Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: const"
-    },
-    {
-      "title": "CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction",
-      "link": "https://arxiv.org/abs/2610.36100",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-29T04:00:00+00:00",
-      "summary": "arXiv:2610.36100v1 Announce Type: new Abstract: Language model agents for clinical cohort curation should accommodate evolving eligibility criteria without repeatedly processing unchanged requirements. We introduce Cohor"
-    },
-    {
-      "title": "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction",
-      "link": "https://arxiv.org/abs/2610.36116",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-29T04:00:00+00:00",
-      "summary": "arXiv:2610.36116v1 Announce Type: new Abstract: As AI begins to match or exceed human researchers at core scientific tasks, two questions become pressing: \\emph{why} should humans keep doing science, and \\emph{how} shoul"
-    },
-    {
-      "title": "From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors",
-      "link": "https://arxiv.org/abs/2610.36146",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-29T04:00:00+00:00",
-      "summary": "arXiv:2610.36146v1 Announce Type: new Abstract: Prompt optimization should improve the image a user receives without changing the scene the user requested. Yet stylistic rewriting can weaken object attributes and relatio"
-    },
-    {
-      "title": "Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule",
-      "link": "https://arxiv.org/abs/2610.36169",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-29T04:00:00+00:00",
-      "summary": "arXiv:2610.36169v1 Announce Type: new Abstract: A retrieval-augmented language model answers from two sources, the retrieved context and its own knowledge, and the two disagree whenever the context is incomplete or wrong"
-    },
-    {
-      "title": "Learning Human Sports Motion Feasibility via Quantile Regression on Tracking Data",
-      "link": "https://arxiv.org/abs/2610.36183",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-29T04:00:00+00:00",
-      "summary": "arXiv:2610.36183v1 Announce Type: new Abstract: We study time-to-arrival (TTA) in sports: the shortest plausible time a player needs to reach an arbitrary location on the pitch given their current kinematic state, estima"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, October 29th, 2026 https://isc.sans.edu/podcastdetail/10156, (Thu, Oct 29th)",
-      "link": "https://isc.sans.edu/diary/rss/33468",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-29T03:10:12+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
-      "link": "https://isc.sans.edu/diary/rss/33466",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-29T00:42:15+00:00",
-      "summary": "Introduction"
-    },
-    {
-      "title": "Creating AI value with enterprise context",
-      "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-28T20:32:02+00:00",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously\u2014for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one i"
-    },
-    {
-      "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
-      "link": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-28T19:39:00+00:00",
-      "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit."
-    },
-    {
-      "title": "AI Takes Root in Hospital Corridors, Raises Security Stakes",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-28T15:29:06+00:00",
-      "summary": "Artificial intelligence (AI) is everywhere in healthcare, from doctors\u2019 intake forms to cancer screenings. But in some cases, life-and-death uses are outpacing cybersecurity."
-    },
-    {
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-28T13:15:00+00:00",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
     }
   ]
 }
