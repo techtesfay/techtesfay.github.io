@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T17:19:46.958230+00:00",
+  "generated_at": "2026-10-30T21:44:07.788197+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,38 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "DOJ raises privacy concerns over potential sale of Character.AI chats",
+      "link": "https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-30T20:45:00+00:00",
+      "summary": "The DOJ\u2019s Executive Office for U.S. Trustees said a consumer privacy ombudsman is needed to advise the court on how to regulate what data from Character.AI can be sold and under what terms."
+    },
+    {
+      "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-30T20:05:58+00:00",
+      "summary": "Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs)."
+    },
+    {
+      "title": "Fashion retailer Resolve says hackers stole payment card information",
+      "link": "https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-10-30T19:00:00+00:00",
+      "summary": "The company, billing itself as \u201cthe next-generation fashion retailer for Millennial and Generation Z consumers,\u201d said a recent hack exposed customer payment card numbers."
+    },
+    {
+      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+      "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-30T16:58:44+00:00",
+      "summary": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously. The activit"
+    },
     {
       "title": "Florida warns that 4.9 million people had Social Security numbers leaked in financial aid site breach",
       "link": "https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach",
@@ -69,14 +101,6 @@
       "summary": "The Investigatory Powers Commissioner\u2019s Office (IPCO) in its annual report for 2025, published Thursday, said it was \u201cvery concerned\u201d and \u201cdisappointed with the time it has taken GCHQ to investigate\u201d the issue."
     },
     {
-      "title": "Hackers target government Windows systems in Asia with new malware",
-      "link": "https://therecord.media/hackers-target-government-windows-systems-asia-new-malware",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-30T12:36:00+00:00",
-      "summary": "The previously unknown malware, dubbed NetamLoader, uses legitimate Microsoft software components to execute malicious code, evade security tools and download additional programs onto infected computers."
-    },
-    {
       "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
       "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
       "source": "The Hacker News",
@@ -93,14 +117,6 @@
       "summary": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won\u2019t break anything. Their "
     },
     {
-      "title": "Polymarket confirms cyberattack on third-party provider after outages",
-      "link": "https://therecord.media/polymarket-confirms-cyberattack-third-party",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-30T11:33:00+00:00",
-      "summary": "The company suffered outages starting at 2 p.m. Eastern U.S. time on Thursday and eventually attributed the downtime to a compromise involving an unnamed provider."
-    },
-    {
       "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
       "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
       "source": "MIT Technology Review",
@@ -115,6 +131,14 @@
       "category": "cybersecurity",
       "published": "2026-10-30T10:40:45+00:00",
       "summary": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been sentenced by a U.S. federal court to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets. The co"
+    },
+    {
+      "title": "Making it easier for websites to express AI training preferences",
+      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-30T09:30:00+00:00",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
     },
     {
       "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
@@ -155,14 +179,6 @@
       "category": "cybersecurity",
       "published": "2026-10-30T07:45:30+00:00",
       "summary": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization af"
-    },
-    {
-      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-      "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-30T07:27:05+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitati"
     },
     {
       "title": "Generation, Not Selection: LLM Proposals for Certified Access-Control Policy Mining",
@@ -315,22 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-10-29T20:15:37+00:00",
       "summary": "This installment of the Reporters' Notebook video series discusses some of the trends and topics from Cybersecurity Awareness Month, from using AI for better training to educating next-generation workforces on modern ris"
-    },
-    {
-      "title": "Why CTF Competitions May Be More Important Than Ever",
-      "link": "https://www.darkreading.com/cybersecurity-operations/why-ctf-more-important-than-ever",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-29T19:56:44+00:00",
-      "summary": "As artificial intelligence squeezes early-career learning opportunities, capture-the-flag contests could be one way to help pick up the slack."
-    },
-    {
-      "title": "Claude Model Builds Exploits Across Major Browsers & OSes",
-      "link": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-29T18:15:59+00:00",
-      "summary": "An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthropic says."
     }
   ]
 }
