@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T02:56:36.670307+00:00",
+  "generated_at": "2026-10-31T11:18:46.643162+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,118 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Wireshark 5.0.0rc1 Release, (Sat, Oct 31st)",
+      "link": "https://isc.sans.edu/diary/rss/33476",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-31T10:52:53+00:00",
+      "summary": "Wireshark Release Candidate 5.0.0 was published: soon we can expect a new major version of Wireshark."
+    },
+    {
+      "title": "YARA-X 1.22.1 Release, (Sat, Oct 31st)",
+      "link": "https://isc.sans.edu/diary/rss/33474",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-31T10:48:17+00:00",
+      "summary": "YARA-X&#;x26;#;39;s 1.22.1 is a bugfix version, it brings 2 bugfixes."
+    },
+    {
+      "title": "YARA-X 1.22.0 Release, (Sun, Oct 25th)",
+      "link": "https://isc.sans.edu/diary/rss/33454",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-31T10:45:40+00:00",
+      "summary": "YARA-X&#;x26;#;39;s 1.22.0 release brings 11 improvements and 9 bugfixes."
+    },
+    {
+      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+      "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-31T08:27:43+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitatio"
+    },
+    {
+      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+      "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-31T05:33:41+00:00",
+      "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed. The rese"
+    },
+    {
+      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+      "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-31T04:56:12+00:00",
+      "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 m"
+    },
+    {
+      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+      "link": "https://arxiv.org/abs/2610.37720",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37720v1 Announce Type: new Abstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and communication bottlenecks. Existing placemen"
+    },
+    {
+      "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
+      "link": "https://arxiv.org/abs/2610.37731",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37731v1 Announce Type: new Abstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties in observations and "
+    },
+    {
+      "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
+      "link": "https://arxiv.org/abs/2610.37732",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37732v1 Announce Type: new Abstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probabilities from one forw"
+    },
+    {
+      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+      "link": "https://arxiv.org/abs/2610.37739",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluati"
+    },
+    {
+      "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+      "link": "https://arxiv.org/abs/2610.37786",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37786v1 Announce Type: new Abstract: Web agents require diverse, executable, and resettable website environments for reproducible training and evaluation. Human-assisted mirrors demand per-site engineering, wh"
+    },
+    {
+      "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
+      "link": "https://arxiv.org/abs/2610.37809",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37809v1 Announce Type: new Abstract: LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the graph's ontology, on the assumption that a formal schema make"
+    },
+    {
+      "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
+      "link": "https://arxiv.org/abs/2610.37830",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37830v1 Announce Type: new Abstract: AI agents can now write software from a plain-English description, but code that runs is not the same as code that does what was asked. This gap matters most for smart cont"
+    },
+    {
+      "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
+      "link": "https://arxiv.org/abs/2610.37849",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-10-31T04:00:00+00:00",
+      "summary": "arXiv:2610.37849v1 Announce Type: new Abstract: AI agents that share a secret convention can coordinate through messages that look innocent, so a monitor that reads only the messages can miss them. We propose a behaviour"
+    },
     {
       "title": "DOJ raises privacy concerns over potential sale of Character.AI chats",
       "link": "https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale",
@@ -133,14 +245,6 @@
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-los"
     },
     {
-      "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
-      "link": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-30T10:40:45+00:00",
-      "summary": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been sentenced by a U.S. federal court to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets. The co"
-    },
-    {
       "title": "Making it easier for websites to express AI training preferences",
       "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
       "source": "OpenAI News",
@@ -165,156 +269,12 @@
       "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
     },
     {
-      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-      "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-30T08:55:47+00:00",
-      "summary": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent S"
-    },
-    {
       "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
       "link": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-10-30T08:00:00+00:00",
       "summary": "The \"FrostyNeighbor\" advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives."
-    },
-    {
-      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-      "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-30T07:45:30+00:00",
-      "summary": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization af"
-    },
-    {
-      "title": "Generation, Not Selection: LLM Proposals for Certified Access-Control Policy Mining",
-      "link": "https://arxiv.org/abs/2610.37716",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-30T04:00:00+00:00",
-      "summary": "arXiv:2610.37716v1 Announce Type: new Abstract: Attribute-Based Access Control (ABAC) policy mining---recovering a compact, auditable policy from an access log---is posed as minimum set cover and solved greedily, which e"
-    },
-    {
-      "title": "FVH-Bench: Evaluating Image Generator Safety Beyond Overtly Harmful Imagery",
-      "link": "https://arxiv.org/abs/2610.37722",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-30T04:00:00+00:00",
-      "summary": "arXiv:2610.37722v1 Announce Type: new Abstract: Modern image generators can produce complex visual artifacts, including diagrams, interfaces, and records that combine text, graphics, and layout to convey detailed informa"
-    },
-    {
-      "title": "When Skills Tell Agents Not to Ask: A Large-Scale Study of Oversight Directives in Agent Skills",
-      "link": "https://arxiv.org/abs/2610.37734",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-30T04:00:00+00:00",
-      "summary": "arXiv:2610.37734v1 Announce Type: new Abstract: Agent skills, reusable instruction packages centred on a SKILL.md file, extend AI agents on demand, and a single line in a widely copied skill reaches every agent that load"
-    },
-    {
-      "title": "Poisoned Skills: Propagating Jailbreaks Through Agent Markdown Files",
-      "link": "https://arxiv.org/abs/2610.37738",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-30T04:00:00+00:00",
-      "summary": "arXiv:2610.37738v1 Announce Type: new Abstract: Modern agent frameworks allow users to provide Markdown files containing system prompts, tool descriptions, and skill definitions (e.g., SKILL.md), which are incorporated i"
-    },
-    {
-      "title": "Agentic Backdoors via Pretraining Poisoning",
-      "link": "https://arxiv.org/abs/2610.37741",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-30T04:00:00+00:00",
-      "summary": "arXiv:2610.37741v1 Announce Type: new Abstract: Large language models are pretrained on vast, uncurated corpora scraped from the public web. This creates a security risk from attackers who plant poisoned content in the p"
-    },
-    {
-      "title": "Structured Security Explanations for Learning-Based Vulnerability Detection",
-      "link": "https://arxiv.org/abs/2610.37797",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-30T04:00:00+00:00",
-      "summary": "arXiv:2610.37797v1 Announce Type: new Abstract: Software vulnerability detection remains difficult because existing approaches rely on predefined analysis rules, learn vulnerability patterns implicitly from code and labe"
-    },
-    {
-      "title": "TensorBound: Characterizing Tensor Binding Failures in AI Compiler and Runtime Stacks",
-      "link": "https://arxiv.org/abs/2610.37838",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-30T04:00:00+00:00",
-      "summary": "arXiv:2610.37838v1 Announce Type: new Abstract: AI compiler and runtime stacks must preserve bindings between tensor values and their operations, storage, and execution state. These bindings can fail while the underlying"
-    },
-    {
-      "title": "Set an Exploit to Catch an Exploit: Compiling Public Proofs of Concept into Threat Hunting Rules",
-      "link": "https://arxiv.org/abs/2610.37872",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-10-30T04:00:00+00:00",
-      "summary": "arXiv:2610.37872v1 Announce Type: new Abstract: Public exploit code for a newly disclosed vulnerability usually appears before any published rule that detects its exploitation. Of the 45 CVEs we evaluate, 37 ever receive"
-    },
-    {
-      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
-      "link": "https://arxiv.org/abs/2610.37720",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-30T04:00:00+00:00",
-      "summary": "arXiv:2610.37720v1 Announce Type: new Abstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and communication bottlenecks. Existing placemen"
-    },
-    {
-      "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
-      "link": "https://arxiv.org/abs/2610.37731",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-30T04:00:00+00:00",
-      "summary": "arXiv:2610.37731v1 Announce Type: new Abstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties in observations and "
-    },
-    {
-      "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
-      "link": "https://arxiv.org/abs/2610.37732",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-30T04:00:00+00:00",
-      "summary": "arXiv:2610.37732v1 Announce Type: new Abstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probabilities from one forw"
-    },
-    {
-      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
-      "link": "https://arxiv.org/abs/2610.37739",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-30T04:00:00+00:00",
-      "summary": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluati"
-    },
-    {
-      "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
-      "link": "https://arxiv.org/abs/2610.37786",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-30T04:00:00+00:00",
-      "summary": "arXiv:2610.37786v1 Announce Type: new Abstract: Web agents require diverse, executable, and resettable website environments for reproducible training and evaluation. Human-assisted mirrors demand per-site engineering, wh"
-    },
-    {
-      "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
-      "link": "https://arxiv.org/abs/2610.37809",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-30T04:00:00+00:00",
-      "summary": "arXiv:2610.37809v1 Announce Type: new Abstract: LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the graph's ontology, on the assumption that a formal schema make"
-    },
-    {
-      "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
-      "link": "https://arxiv.org/abs/2610.37830",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-30T04:00:00+00:00",
-      "summary": "arXiv:2610.37830v1 Announce Type: new Abstract: AI agents can now write software from a plain-English description, but code that runs is not the same as code that does what was asked. This gap matters most for smart cont"
-    },
-    {
-      "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
-      "link": "https://arxiv.org/abs/2610.37849",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-30T04:00:00+00:00",
-      "summary": "arXiv:2610.37849v1 Announce Type: new Abstract: AI agents that share a secret convention can coordinate through messages that look innocent, so a monitor that reads only the messages can miss them. We propose a behaviour"
     },
     {
       "title": "ISC Stormcast For Friday, October 30th, 2026 https://isc.sans.edu/podcastdetail/10158, (Fri, Oct 30th)",
@@ -331,6 +291,46 @@
       "category": "ai",
       "published": "2026-10-30T00:00:00+00:00",
       "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
+    },
+    {
+      "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-29T21:21:56+00:00",
+      "summary": "Obvious phishing emails with numerous red flags are somehow getting past some of the industry-leading secure email gateway (SEG) products."
+    },
+    {
+      "title": "Rethinking Cybersecurity Awareness in the AI Era",
+      "link": "https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-29T20:15:37+00:00",
+      "summary": "This installment of the Reporters' Notebook video series discusses some of the trends and topics from Cybersecurity Awareness Month, from using AI for better training to educating next-generation workforces on modern ris"
+    },
+    {
+      "title": "Why CTF Competitions May Be More Important Than Ever",
+      "link": "https://www.darkreading.com/cybersecurity-operations/why-ctf-more-important-than-ever",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-29T19:56:44+00:00",
+      "summary": "As artificial intelligence squeezes early-career learning opportunities, capture-the-flag contests could be one way to help pick up the slack."
+    },
+    {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "link": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-29T17:00:00+00:00",
+      "summary": "OpenAI\u2019s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
+    },
+    {
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-29T12:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Opinion: We urgently need to monitor AI agents\u2019 actions in real time \u2014Madhulika Sr"
     }
   ]
 }
