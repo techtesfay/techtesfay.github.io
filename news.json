@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T11:18:46.643162+00:00",
+  "generated_at": "2026-10-31T16:24:42.303588+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+      "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-10-31T12:01:56+00:00",
+      "summary": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the company noted that the breach did not result "
+    },
     {
       "title": "Wireshark 5.0.0rc1 Release, (Sat, Oct 31st)",
       "link": "https://isc.sans.edu/diary/rss/33476",
@@ -227,14 +235,6 @@
       "category": "cybersecurity",
       "published": "2026-10-30T12:21:56+00:00",
       "summary": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. I"
-    },
-    {
-      "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
-      "link": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-30T11:58:53+00:00",
-      "summary": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won\u2019t break anything. Their "
     },
     {
       "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
