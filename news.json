@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T21:44:07.788197+00:00",
+  "generated_at": "2026-10-31T02:56:36.670307+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -27,6 +27,14 @@
       "category": "cybersecurity",
       "published": "2026-10-30T20:05:58+00:00",
       "summary": "Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs)."
+    },
+    {
+      "title": "Behind the Scenes of How Operation Blackout Went Down",
+      "link": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-10-30T19:46:08+00:00",
+      "summary": "A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the same."
     },
     {
       "title": "Fashion retailer Resolve says hackers stole payment card information",
@@ -317,20 +325,12 @@
       "summary": ""
     },
     {
-      "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-29T21:21:56+00:00",
-      "summary": "Obvious phishing emails with numerous red flags are somehow getting past some of the industry-leading secure email gateway (SEG) products."
-    },
-    {
-      "title": "Rethinking Cybersecurity Awareness in the AI Era",
-      "link": "https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-29T20:15:37+00:00",
-      "summary": "This installment of the Reporters' Notebook video series discusses some of the trends and topics from Cybersecurity Awareness Month, from using AI for better training to educating next-generation workforces on modern ris"
+      "title": "Fair use benefits everyone",
+      "link": "https://openai.com/index/fair-use-benefits-everyone",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-30T00:00:00+00:00",
+      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
     }
   ]
 }
