@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T02:50:41.357250+00:00",
+  "generated_at": "2026-11-01T12:09:49.894559+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,46 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "OneNote File Extraction, (Sun, Nov 1st)",
+      "link": "https://isc.sans.edu/diary/rss/33478",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-01T09:12:23+00:00",
+      "summary": "Recently, I had to extract embedded files from a set of OneNote files (extension .one)."
+    },
+    {
+      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+      "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-01T08:51:31+00:00",
+      "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the tr"
+    },
+    {
+      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+      "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-01T07:25:40+00:00",
+      "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from"
+    },
+    {
+      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+      "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-01T07:03:00+00:00",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressur"
+    },
+    {
+      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+      "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-01T07:02:58+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted "
+    },
     {
       "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
       "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
@@ -69,70 +109,6 @@
       "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 m"
     },
     {
-      "title": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
-      "link": "https://arxiv.org/abs/2610.37720",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-31T04:00:00+00:00",
-      "summary": "arXiv:2610.37720v1 Announce Type: new Abstract: Sparse Mixture-of-Experts (MoE) models offer scalable capacity for Web applications, but uneven routing creates computation and communication bottlenecks. Existing placemen"
-    },
-    {
-      "title": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
-      "link": "https://arxiv.org/abs/2610.37731",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-31T04:00:00+00:00",
-      "summary": "arXiv:2610.37731v1 Announce Type: new Abstract: Model discrepancy may prevent a single calibration parameter from reproducing a physical response across the context domain. In addition, uncertainties in observations and "
-    },
-    {
-      "title": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
-      "link": "https://arxiv.org/abs/2610.37732",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-31T04:00:00+00:00",
-      "summary": "arXiv:2610.37732v1 Announce Type: new Abstract: Many uses of language models end in a typed decision: a choice among a closed set of options, whose probabilities code can act on. Reading those probabilities from one forw"
-    },
-    {
-      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
-      "link": "https://arxiv.org/abs/2610.37739",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-31T04:00:00+00:00",
-      "summary": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluati"
-    },
-    {
-      "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
-      "link": "https://arxiv.org/abs/2610.37786",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-31T04:00:00+00:00",
-      "summary": "arXiv:2610.37786v1 Announce Type: new Abstract: Web agents require diverse, executable, and resettable website environments for reproducible training and evaluation. Human-assisted mirrors demand per-site engineering, wh"
-    },
-    {
-      "title": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
-      "link": "https://arxiv.org/abs/2610.37809",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-31T04:00:00+00:00",
-      "summary": "arXiv:2610.37809v1 Announce Type: new Abstract: LLM agents that answer questions over Web knowledge graphs are increasingly wrapped in checks derived from the graph's ontology, on the assumption that a formal schema make"
-    },
-    {
-      "title": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
-      "link": "https://arxiv.org/abs/2610.37830",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-31T04:00:00+00:00",
-      "summary": "arXiv:2610.37830v1 Announce Type: new Abstract: AI agents can now write software from a plain-English description, but code that runs is not the same as code that does what was asked. This gap matters most for smart cont"
-    },
-    {
-      "title": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
-      "link": "https://arxiv.org/abs/2610.37849",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-10-31T04:00:00+00:00",
-      "summary": "arXiv:2610.37849v1 Announce Type: new Abstract: AI agents that share a secret convention can coordinate through messages that look innocent, so a monitor that reads only the messages can miss them. We propose a behaviour"
-    },
-    {
       "title": "DOJ raises privacy concerns over potential sale of Character.AI chats",
       "link": "https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale",
       "source": "The Record",
@@ -165,14 +141,6 @@
       "summary": "The company, billing itself as \u201cthe next-generation fashion retailer for Millennial and Generation Z consumers,\u201d said a recent hack exposed customer payment card numbers."
     },
     {
-      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-      "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-30T16:58:44+00:00",
-      "summary": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously. The activit"
-    },
-    {
       "title": "Florida warns that 4.9 million people had Social Security numbers leaked in financial aid site breach",
       "link": "https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach",
       "source": "The Record",
@@ -187,14 +155,6 @@
       "category": "cybersecurity",
       "published": "2026-10-30T15:39:54+00:00",
       "summary": "I ricercatori non riescono a spiegare del tutto perch\u00e9 le minacce informatiche in Italia siano cos\u00ec diverse rispetto a quelle di qualsiasi altro Paese."
-    },
-    {
-      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
-      "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-30T15:17:28+00:00",
-      "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer"
     },
     {
       "title": "Syrian Electronic Army hacker gets prison time for attacks on Western targets",
@@ -213,28 +173,12 @@
       "summary": "A security firm patched a decade-old app to prevent the takeover of millions of machines, highlighting that abandoned domains remain a boon to attackers."
     },
     {
-      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
-      "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-30T14:08:14+00:00",
-      "summary": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier, relates to a case of re"
-    },
-    {
       "title": "British spy agency cannot account for thousands of data storage devices, watchdog says",
       "link": "https://therecord.media/gchq-cannot-account-for-thousands-of-data-devices",
       "source": "The Record",
       "category": "cybersecurity",
       "published": "2026-10-30T12:52:00+00:00",
       "summary": "The Investigatory Powers Commissioner\u2019s Office (IPCO) in its annual report for 2025, published Thursday, said it was \u201cvery concerned\u201d and \u201cdisappointed with the time it has taken GCHQ to investigate\u201d the issue."
-    },
-    {
-      "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
-      "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-30T12:21:56+00:00",
-      "summary": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. I"
     },
     {
       "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
@@ -331,6 +275,62 @@
       "category": "ai",
       "published": "2026-10-29T12:10:00+00:00",
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Opinion: We urgently need to monitor AI agents\u2019 actions in real time \u2014Madhulika Sr"
+    },
+    {
+      "title": "We urgently need to monitor AI agents\u2019 actions in real time",
+      "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-29T10:11:12+00:00",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they\u2019d be grade"
+    },
+    {
+      "title": "Our climate models have a big, dangerous blind spot",
+      "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-10-29T10:00:00+00:00",
+      "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our"
+    },
+    {
+      "title": "How we detect frontier model misalignment",
+      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-29T09:00:00+00:00",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
+    },
+    {
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "link": "https://openai.com/index/ropes-gray-ai-diligence",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-10-29T07:00:00+00:00",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
+    },
+    {
+      "title": "Deploying a Local Ghidra Server for Your Malware Analysis Lab, (Thu, Oct 29th)",
+      "link": "https://isc.sans.edu/diary/rss/33470",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-29T06:17:41+00:00",
+      "summary": "Building your malware analysis lab is a key point before playing with malware. Today, thanks to virtualization, it&#;x26;#;39;s convenient to play with snapshots in your lab. Start a new investigation from a clean snapsh"
+    },
+    {
+      "title": "ISC Stormcast For Thursday, October 29th, 2026 https://isc.sans.edu/podcastdetail/10156, (Thu, Oct 29th)",
+      "link": "https://isc.sans.edu/diary/rss/33468",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-29T03:10:12+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
+      "link": "https://isc.sans.edu/diary/rss/33466",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-10-29T00:42:15+00:00",
+      "summary": "Introduction"
     }
   ]
 }
