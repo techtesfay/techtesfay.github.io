@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T02:57:48.266125+00:00",
+  "generated_at": "2026-11-02T13:58:25.733825+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,12 +13,220 @@
   ],
   "items": [
     {
+      "title": "Stop counting tokens, start counting what ships",
+      "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-02T13:10:32+00:00",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens th"
+    },
+    {
+      "title": "The Download: the agentic web arrives and the drive for safer roads",
+      "link": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-02T13:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim "
+    },
+    {
+      "title": "Second wave of suspected cyberattacks hits supermarket freezers across Europe",
+      "link": "https://therecord.media/cyberattack-grocery-freezers-europe",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-02T13:00:00+00:00",
+      "summary": "Supermarket and grocery store refrigerators across Europe appear to have been hacked early Monday \u2014 the second such incident in recent weeks where attackers have manipulated temperature controls and caused stock to spoil"
+    },
+    {
+      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+      "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-02T11:50:00+00:00",
+      "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and its vu"
+    },
+    {
+      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
+      "link": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-02T11:30:00+00:00",
+      "summary": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CIS"
+    },
+    {
+      "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
+      "link": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-02T11:08:45+00:00",
+      "summary": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates"
+    },
+    {
+      "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+      "link": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-02T10:49:59+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure. The activity, observed b"
+    },
+    {
+      "title": "The agentic web is here",
+      "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-02T09:35:19+00:00",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he cal"
+    },
+    {
+      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+      "link": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-02T05:51:07+00:00",
+      "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Li"
+    },
+    {
+      "title": "FGSM Attack Transferability from Simulation to Quantum Hardware in Network Intrusion Detection",
+      "link": "https://arxiv.org/abs/2610.40701",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "summary": "arXiv:2610.40701v1 Announce Type: new Abstract: Quantum computers are now available through cloud platforms, and recent work has proposed using them to detect network intrusions. It is not yet clear how easily such syste"
+    },
+    {
+      "title": "PrivacyFlow: Privacy in AI Agents through Information Flow Analysis and Consequence-Aware Risk Management",
+      "link": "https://arxiv.org/abs/2610.40714",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "summary": "arXiv:2610.40714v1 Announce Type: new Abstract: Autonomous LLM agents executing multi-step workflows over personal data often misalign with user privacy expectations and leak sensitive, out-of-context information. Althou"
+    },
+    {
+      "title": "Characterizing LLM Agent Behaviors in Module Shadowing Environments",
+      "link": "https://arxiv.org/abs/2610.40716",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "summary": "arXiv:2610.40716v1 Announce Type: new Abstract: LLM agents operating in untrusted workspaces face the risk of untrusted code execution during routine tasks, yet final reports and workspace states alone cannot reliably es"
+    },
+    {
+      "title": "MetaVul: Agentic Harness Discovery for Vulnerability Detection",
+      "link": "https://arxiv.org/abs/2610.40721",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "summary": "arXiv:2610.40721v1 Announce Type: new Abstract: LLM agents are increasingly used to automate vulnerability detection, but reliable detection is challenging because agents must distinguish subtle, security-relevant fixes "
+    },
+    {
+      "title": "RiskyPy: Toward Model-Calibrated Prompt Generation for Joint Security and Functionality Evaluation of LLM-Generated Code",
+      "link": "https://arxiv.org/abs/2610.40735",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "summary": "arXiv:2610.40735v1 Announce Type: new Abstract: Evaluating approaches that improve the security of LLM code generation requires datasets that jointly assess security and functionality and remain adapted to the capabiliti"
+    },
+    {
+      "title": "Prevented is Not Protected: What Attack Success Rate Hides about RAG",
+      "link": "https://arxiv.org/abs/2610.40742",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "summary": "arXiv:2610.40742v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) is vulnerable to knowledge poisoning, where adversaries manipulate retrieved evidence to influence model outputs. Existing defenses are"
+    },
+    {
+      "title": "CLIC: Closed-Loop Intent Consistency for Securing LLM-Driven Control in Open RAN",
+      "link": "https://arxiv.org/abs/2610.40744",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "summary": "arXiv:2610.40744v1 Announce Type: new Abstract: With the progressive capabilities of large language models (LLMs), researchers are finding ways to integrate them into the control loops of Open Radio Access Network (O-RAN"
+    },
+    {
+      "title": "Safin-1.5: Safety-Native Architecture and Verifiable Reasoning for Recursive Safety Improvement",
+      "link": "https://arxiv.org/abs/2610.40751",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "summary": "arXiv:2610.40751v1 Announce Type: new Abstract: Recursive self-improvement (RSI) enables large language models to advance their capabilities through successive updates, but these updates can also introduce new risks and "
+    },
+    {
+      "title": "More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
+      "link": "https://arxiv.org/abs/2610.40758",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "summary": "arXiv:2610.40758v1 Announce Type: new Abstract: Self-evolving agents rewrite a persistent state from feedback, but it is largely untested whether this lets them learn a rule nobody told them. An agent can also pass by wr"
+    },
+    {
+      "title": "Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
+      "link": "https://arxiv.org/abs/2610.40798",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "summary": "arXiv:2610.40798v1 Announce Type: new Abstract: Web world models increasingly predict the consequences of candidate actions before agents act, yet a plausible predicted future does not necessarily support the correct saf"
+    },
+    {
+      "title": "Circumventing the Computational Hardness of Computational Arbitrage",
+      "link": "https://arxiv.org/abs/2610.40831",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "summary": "arXiv:2610.40831v1 Announce Type: new Abstract: AI model marketplaces host providers with heterogeneous costs and capabilities. These differences create an opportunity for computational arbitrage (Olmedo et al., 2026), i"
+    },
+    {
+      "title": "Incongruence-Aware Evaluation of Multimodal Speech Emotion Recognition in Audio Large Language Models",
+      "link": "https://arxiv.org/abs/2610.40883",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "summary": "arXiv:2610.40883v1 Announce Type: new Abstract: Voice-interactive large language models process both what a speaker says and how they say it, yet the two channels do not always agree. We ask whether that disagreement deg"
+    },
+    {
+      "title": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
+      "link": "https://arxiv.org/abs/2610.40890",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "summary": "arXiv:2610.40890v1 Announce Type: new Abstract: Large language models (LLMs) can generate detailed guidance, functional code, and persuasive text at scale. As one of the most widely used consumer language model products "
+    },
+    {
+      "title": "Does Recursive Knowledge Construction Help Agents Verify Consensus Claims in Science?",
+      "link": "https://arxiv.org/abs/2610.40906",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "summary": "arXiv:2610.40906v1 Announce Type: new Abstract: Recent scientific agents build knowledge recursively by retrieving evidence, constructing an intermediate state, and judging whether that state contains sufficient informat"
+    },
+    {
+      "title": "Towards Portable Specification of the Agent Harness",
+      "link": "https://arxiv.org/abs/2610.40917",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "summary": "arXiv:2610.40917v1 Announce Type: new Abstract: Large language models act only through the infrastructure that surrounds them. That infrastructure, the harness, determines what a model can accomplish and how it fails, ye"
+    },
+    {
+      "title": "Agentic World Modeling for Agent Test-time Scaling without Environment Replica",
+      "link": "https://arxiv.org/abs/2610.40927",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-02T05:00:00+00:00",
+      "summary": "arXiv:2610.40927v1 Announce Type: new Abstract: Test-time scaling (TTS) improves large language model agents by sampling and selecting among multiple candidate trajectories, but common realizations assume that these traj"
+    },
+    {
       "title": "ISC Stormcast For Monday, November 2nd, 2026 https://isc.sans.edu/podcastdetail/10160, (Mon, Nov 2nd)",
       "link": "https://isc.sans.edu/diary/rss/33480",
       "source": "SANS Internet Storm Center",
       "category": "cybersecurity",
       "published": "2026-11-02T02:00:03+00:00",
       "summary": ""
+    },
+    {
+      "title": "FBI blames N. Korea\u2019s TraderTraitor for Binance theft, urges crypto industry to block transactions",
+      "link": "https://therecord.media/fbi-blames-tradertraitor-for-binance-hack",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-02T00:00:00+00:00",
+      "summary": "The FBI and U.S. Secret Service alleged this weekend that North Korean hackers were responsible for stealing more than $6.3 billion from cryptocurrency platform Binance last week."
     },
     {
       "title": "OneNote File Extraction, (Sun, Nov 1st)",
@@ -50,23 +258,7 @@
       "source": "The Hacker News",
       "category": "cybersecurity",
       "published": "2026-11-01T07:03:00+00:00",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressur"
-    },
-    {
-      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
-      "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-01T07:02:58+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted "
-    },
-    {
-      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
-      "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-31T12:01:56+00:00",
-      "summary": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the company noted that the breach did not result "
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade S"
     },
     {
       "title": "Wireshark 5.0.0rc1 Release, (Sat, Oct 31st)",
@@ -91,30 +283,6 @@
       "category": "cybersecurity",
       "published": "2026-10-31T10:45:40+00:00",
       "summary": "YARA-X&#;x26;#;39;s 1.22.0 release brings 11 improvements and 9 bugfixes."
-    },
-    {
-      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
-      "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-31T08:27:43+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitatio"
-    },
-    {
-      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-      "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-31T05:33:41+00:00",
-      "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed. The rese"
-    },
-    {
-      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
-      "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-10-31T04:56:12+00:00",
-      "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 m"
     },
     {
       "title": "DOJ raises privacy concerns over potential sale of Character.AI chats",
@@ -163,174 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-10-30T15:39:54+00:00",
       "summary": "I ricercatori non riescono a spiegare del tutto perch\u00e9 le minacce informatiche in Italia siano cos\u00ec diverse rispetto a quelle di qualsiasi altro Paese."
-    },
-    {
-      "title": "Syrian Electronic Army hacker gets prison time for attacks on Western targets",
-      "link": "https://therecord.media/syrian-electronic-army-hacker-sentenced-three-years",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-30T14:24:00+00:00",
-      "summary": "Ahmad Umar Agha, known online as \u201cTh3Pr0,\u201d was sentenced Thursday in federal court in Virginia to 42 months behind bars for his role in a conspiracy that was organized by former Syrian President Bashar al-Assad's closest"
-    },
-    {
-      "title": "Undead Software Projects Continue to Raise Security Risks",
-      "link": "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-30T14:10:37+00:00",
-      "summary": "A security firm patched a decade-old app to prevent the takeover of millions of machines, highlighting that abandoned domains remain a boon to attackers."
-    },
-    {
-      "title": "British spy agency cannot account for thousands of data storage devices, watchdog says",
-      "link": "https://therecord.media/gchq-cannot-account-for-thousands-of-data-devices",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-30T12:52:00+00:00",
-      "summary": "The Investigatory Powers Commissioner\u2019s Office (IPCO) in its annual report for 2025, published Thursday, said it was \u201cvery concerned\u201d and \u201cdisappointed with the time it has taken GCHQ to investigate\u201d the issue."
-    },
-    {
-      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-      "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-30T11:30:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-los"
-    },
-    {
-      "title": "Making it easier for websites to express AI training preferences",
-      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-30T09:30:00+00:00",
-      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
-    },
-    {
-      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
-      "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-30T09:00:00+00:00",
-      "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister\u2014a potential trigger for eating disorders. A new repo"
-    },
-    {
-      "title": "Community safety report and new protections for teens",
-      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-30T09:00:00+00:00",
-      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
-    },
-    {
-      "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
-      "link": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-30T08:00:00+00:00",
-      "summary": "The \"FrostyNeighbor\" advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives."
-    },
-    {
-      "title": "ISC Stormcast For Friday, October 30th, 2026 https://isc.sans.edu/podcastdetail/10158, (Fri, Oct 30th)",
-      "link": "https://isc.sans.edu/diary/rss/33472",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-30T03:30:17+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Fair use benefits everyone",
-      "link": "https://openai.com/index/fair-use-benefits-everyone",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-30T00:00:00+00:00",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
-    },
-    {
-      "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-29T21:21:56+00:00",
-      "summary": "Obvious phishing emails with numerous red flags are somehow getting past some of the industry-leading secure email gateway (SEG) products."
-    },
-    {
-      "title": "Rethinking Cybersecurity Awareness in the AI Era",
-      "link": "https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-29T20:15:37+00:00",
-      "summary": "This installment of the Reporters' Notebook video series discusses some of the trends and topics from Cybersecurity Awareness Month, from using AI for better training to educating next-generation workforces on modern ris"
-    },
-    {
-      "title": "Why CTF Competitions May Be More Important Than Ever",
-      "link": "https://www.darkreading.com/cybersecurity-operations/why-ctf-more-important-than-ever",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-29T19:56:44+00:00",
-      "summary": "As artificial intelligence squeezes early-career learning opportunities, capture-the-flag contests could be one way to help pick up the slack."
-    },
-    {
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "link": "https://openai.com/index/updated-model-spec",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-29T17:00:00+00:00",
-      "summary": "OpenAI\u2019s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
-    },
-    {
-      "title": "The Download: AI agent tracking and climate feedback loops",
-      "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-29T12:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Opinion: We urgently need to monitor AI agents\u2019 actions in real time \u2014Madhulika Sr"
-    },
-    {
-      "title": "We urgently need to monitor AI agents\u2019 actions in real time",
-      "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-29T10:11:12+00:00",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they\u2019d be grade"
-    },
-    {
-      "title": "Our climate models have a big, dangerous blind spot",
-      "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-10-29T10:00:00+00:00",
-      "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our"
-    },
-    {
-      "title": "How we detect frontier model misalignment",
-      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-29T09:00:00+00:00",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
-    },
-    {
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "link": "https://openai.com/index/ropes-gray-ai-diligence",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-10-29T07:00:00+00:00",
-      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
-    },
-    {
-      "title": "Deploying a Local Ghidra Server for Your Malware Analysis Lab, (Thu, Oct 29th)",
-      "link": "https://isc.sans.edu/diary/rss/33470",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-29T06:17:41+00:00",
-      "summary": "Building your malware analysis lab is a key point before playing with malware. Today, thanks to virtualization, it&#;x26;#;39;s convenient to play with snapshots in your lab. Start a new investigation from a clean snapsh"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, October 29th, 2026 https://isc.sans.edu/podcastdetail/10156, (Thu, Oct 29th)",
-      "link": "https://isc.sans.edu/diary/rss/33468",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-29T03:10:12+00:00",
-      "summary": ""
     }
   ]
 }
