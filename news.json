@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T13:58:25.733825+00:00",
+  "generated_at": "2026-11-03T00:06:48.946468+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,126 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "UK faces \u2018unprecedented rise\u2019 in cyberattacks in coming months, warns cyber chief",
+      "link": "https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-03T00:01:00+00:00",
+      "summary": "\"[V]ulnerabilities that have been tolerated for far too long can now be discovered and exploited at a scale that was once unimaginable,\" the NCSC's chief will warn in releasing the agency's annual report."
+    },
+    {
+      "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-02T22:27:24+00:00",
+      "summary": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss."
+    },
+    {
+      "title": "Largest crypto exchange in Brazil confirms cyberattack as millions flow out of platform",
+      "link": "https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-02T21:42:00+00:00",
+      "summary": "Blockchain security companies said more than $46 million left the Mercado Bitcoin platform."
+    },
+    {
+      "title": "Michigan State cyber incident claimed by ransomware gang behind recent hospital attack",
+      "link": "https://therecord.media/michigan-state-university-byod-gang-cyber-incident",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-02T19:54:00+00:00",
+      "summary": "A recent post by the BYOD gang appears to line up with a security incident that prompted campus-wide action at Michigan State University. BYOD drew attention in October for an attack on the University of New Mexico."
+    },
+    {
+      "title": "Polymarket pledges to give $3.9 million back to victims after site compromise",
+      "link": "https://therecord.media/polymarket-returning-funds-to-customers-after-site-compromise",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-02T17:05:20+00:00",
+      "summary": "In a post-mortem about an October 29 incident, prediction market Polymarket said it will pay people back what they lost, as well as compensate them for the site's downtime."
+    },
+    {
+      "title": "Raising the quality of insights in agentic analytics",
+      "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-02T17:00:00+00:00",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflow"
+    },
+    {
+      "title": "\u26a1 Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+      "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-02T16:57:56+00:00",
+      "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious"
+    },
+    {
+      "title": "Russia's statistics agency confirms cyberattack claimed by Belarusian and Ukrainian hackers",
+      "link": "https://therecord.media/hackers-ukraine-belarus-russia",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-02T16:30:00+00:00",
+      "summary": "An alliance of Belarusian and pro-Ukrainian hackers claimed to have taken out Russia's federal statistics agency, Rosstat, and stolen vast amounts of sensitive government data in a cyberattack."
+    },
+    {
+      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+      "link": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-02T15:50:26+00:00",
+      "summary": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says it is highly confident that device maker Videostrong intent"
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "link": "https://openai.com/index/scaling-git-at-openai",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-02T15:30:00+00:00",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
+    },
+    {
+      "title": "Microsoft's AI Risk Report Misses This Key Detail",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-02T15:00:00+00:00",
+      "summary": "The latest \"Digital Defense Report\" identifies government agencies as prime targets for AI attacks but doesn't mention that they are broadly being targeted through Microsoft bugs."
+    },
+    {
+      "title": "Introducing the Grid Protectors Program",
+      "link": "https://openai.com/index/grid-protectors-program",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-02T15:00:00+00:00",
+      "summary": "OpenAI\u2019s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
+    },
+    {
+      "title": "Mutipath TCP: Use and Detection, (Mon, Nov 2nd)",
+      "link": "https://isc.sans.edu/diary/rss/33482",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-02T14:52:05+00:00",
+      "summary": "Last week, an often-ignored&#;x26;#;xc2;&#;x26;#;xa0;TCP option, introduced in 2020, made the news due to a new vulnerability in Linux&#;x26;#;39;s implementation (RFC&#;x26;#;xc2;&#;x26;#;xa0;8684, &#;x26;#;xc2;&#;x26;#"
+    },
+    {
+      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+      "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-02T14:46:05+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a repor"
+    },
+    {
+      "title": "PapRAT Cyber-Espionage Campaign Leaves a 'Bitter' Taste in South Asia",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-02T14:00:00+00:00",
+      "summary": "Organizations in the region face growing cyberattacks from the known India-linked threat group, which leverages legitimate Windows functionality in three distinct attack chains."
+    },
     {
       "title": "Stop counting tokens, start counting what ships",
       "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
@@ -27,14 +147,6 @@
       "category": "ai",
       "published": "2026-11-02T13:10:00+00:00",
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim "
-    },
-    {
-      "title": "Second wave of suspected cyberattacks hits supermarket freezers across Europe",
-      "link": "https://therecord.media/cyberattack-grocery-freezers-europe",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-02T13:00:00+00:00",
-      "summary": "Supermarket and grocery store refrigerators across Europe appear to have been hacked early Monday \u2014 the second such incident in recent weeks where attackers have manipulated temperature controls and caused stock to spoil"
     },
     {
       "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
@@ -75,6 +187,14 @@
       "category": "ai",
       "published": "2026-11-02T09:35:19+00:00",
       "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he cal"
+    },
+    {
+      "title": "LifeVal",
+      "link": "https://openai.com/index/lifeval",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-02T09:00:00+00:00",
+      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork."
     },
     {
       "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
@@ -211,126 +331,6 @@
       "category": "research",
       "published": "2026-11-02T05:00:00+00:00",
       "summary": "arXiv:2610.40927v1 Announce Type: new Abstract: Test-time scaling (TTS) improves large language model agents by sampling and selecting among multiple candidate trajectories, but common realizations assume that these traj"
-    },
-    {
-      "title": "ISC Stormcast For Monday, November 2nd, 2026 https://isc.sans.edu/podcastdetail/10160, (Mon, Nov 2nd)",
-      "link": "https://isc.sans.edu/diary/rss/33480",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-02T02:00:03+00:00",
-      "summary": ""
-    },
-    {
-      "title": "FBI blames N. Korea\u2019s TraderTraitor for Binance theft, urges crypto industry to block transactions",
-      "link": "https://therecord.media/fbi-blames-tradertraitor-for-binance-hack",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-02T00:00:00+00:00",
-      "summary": "The FBI and U.S. Secret Service alleged this weekend that North Korean hackers were responsible for stealing more than $6.3 billion from cryptocurrency platform Binance last week."
-    },
-    {
-      "title": "OneNote File Extraction, (Sun, Nov 1st)",
-      "link": "https://isc.sans.edu/diary/rss/33478",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-01T09:12:23+00:00",
-      "summary": "Recently, I had to extract embedded files from a set of OneNote files (extension .one)."
-    },
-    {
-      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
-      "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-01T08:51:31+00:00",
-      "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the tr"
-    },
-    {
-      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
-      "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-01T07:25:40+00:00",
-      "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from"
-    },
-    {
-      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-      "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-01T07:03:00+00:00",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade S"
-    },
-    {
-      "title": "Wireshark 5.0.0rc1 Release, (Sat, Oct 31st)",
-      "link": "https://isc.sans.edu/diary/rss/33476",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-31T10:52:53+00:00",
-      "summary": "Wireshark Release Candidate 5.0.0 was published: soon we can expect a new major version of Wireshark."
-    },
-    {
-      "title": "YARA-X 1.22.1 Release, (Sat, Oct 31st)",
-      "link": "https://isc.sans.edu/diary/rss/33474",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-31T10:48:17+00:00",
-      "summary": "YARA-X&#;x26;#;39;s 1.22.1 is a bugfix version, it brings 2 bugfixes."
-    },
-    {
-      "title": "YARA-X 1.22.0 Release, (Sun, Oct 25th)",
-      "link": "https://isc.sans.edu/diary/rss/33454",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-10-31T10:45:40+00:00",
-      "summary": "YARA-X&#;x26;#;39;s 1.22.0 release brings 11 improvements and 9 bugfixes."
-    },
-    {
-      "title": "DOJ raises privacy concerns over potential sale of Character.AI chats",
-      "link": "https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-30T20:45:00+00:00",
-      "summary": "The DOJ\u2019s Executive Office for U.S. Trustees said a consumer privacy ombudsman is needed to advise the court on how to regulate what data from Character.AI can be sold and under what terms."
-    },
-    {
-      "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-30T20:05:58+00:00",
-      "summary": "Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs)."
-    },
-    {
-      "title": "Behind the Scenes of How Operation Blackout Went Down",
-      "link": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-30T19:46:08+00:00",
-      "summary": "A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the same."
-    },
-    {
-      "title": "Fashion retailer Resolve says hackers stole payment card information",
-      "link": "https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-30T19:00:00+00:00",
-      "summary": "The company, billing itself as \u201cthe next-generation fashion retailer for Millennial and Generation Z consumers,\u201d said a recent hack exposed customer payment card numbers."
-    },
-    {
-      "title": "Florida warns that 4.9 million people had Social Security numbers leaked in financial aid site breach",
-      "link": "https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-10-30T15:54:00+00:00",
-      "summary": "The state\u2019s Department of Education (FLDOE) said on Thursday it became aware of a data breach involving the Florida Student Financial Aid website on October 19."
-    },
-    {
-      "title": "L\u2019Italia \u00e8 afflitta da vulnerabilit\u00e0 informatiche, senza una causa chiara",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-10-30T15:39:54+00:00",
-      "summary": "I ricercatori non riescono a spiegare del tutto perch\u00e9 le minacce informatiche in Italia siano cos\u00ec diverse rispetto a quelle di qualsiasi altro Paese."
     }
   ]
 }
