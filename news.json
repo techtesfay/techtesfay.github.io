@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T22:37:56.041942+00:00",
+  "generated_at": "2026-11-04T03:35:09.154973+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,22 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "ISC Stormcast For Wednesday, November 4th, 2026 https://isc.sans.edu/podcastdetail/10164, (Wed, Nov 4th)",
+      "link": "https://isc.sans.edu/diary/rss/33486",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-04T02:10:02+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-04T02:00:00+00:00",
+      "summary": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour."
+    },
     {
       "title": "Fresh European Fridge Attacks Put Cold-Chain Security in Focus",
       "link": "https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security",
@@ -315,22 +331,6 @@
       "category": "research",
       "published": "2026-11-03T05:00:00+00:00",
       "summary": "arXiv:2611.00186v1 Announce Type: new Abstract: For decades, artificial neural networks have operated under the assumption that durable, learned capability resides exclusively in adaptive synaptic parameters, primarily d"
-    },
-    {
-      "title": "MemU-Bench: Benchmarking GUI Agents on Long-Horizon User Interactions",
-      "link": "https://arxiv.org/abs/2611.00191",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-03T05:00:00+00:00",
-      "summary": "arXiv:2611.00191v1 Announce Type: new Abstract: Existing Graphical User Interface (GUI) benchmarks predominantly rely on precise and stateless user instructions. In everyday usage, however, instructions are often \\emph{v"
-    },
-    {
-      "title": "Here\u2019s who is falling in line for Trump\u2019s \u201cSuper Intelligence\u201d loyalty test",
-      "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-03T04:18:47+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained "
     }
   ]
 }
