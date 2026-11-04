@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T03:35:09.154973+00:00",
+  "generated_at": "2026-11-04T13:22:37.231818+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,198 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Securing the agentic enterprise with data lineage",
+      "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-04T13:00:00+00:00",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the age"
+    },
+    {
+      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+      "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-04T12:07:04+00:00",
+      "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed"
+    },
+    {
+      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+      "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-04T11:46:27+00:00",
+      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages t"
+    },
+    {
+      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
+      "link": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-04T11:34:20+00:00",
+      "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns."
+    },
+    {
+      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
+      "link": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-04T11:24:31+00:00",
+      "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surv"
+    },
+    {
+      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
+      "link": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-04T08:17:11+00:00",
+      "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and"
+    },
+    {
+      "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+      "link": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-04T07:46:15+00:00",
+      "summary": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get "
+    },
+    {
+      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+      "link": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-04T05:43:11+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity"
+    },
+    {
+      "title": "InterceptFuzz: Interception-based Stateful Fuzzing of Single-Process Targets",
+      "link": "https://arxiv.org/abs/2611.03709",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-04T05:00:00+00:00",
+      "summary": "arXiv:2611.03709v1 Announce Type: new Abstract: Stateful protocol implementations are commonly fuzzed by tools that act as a network client and exchange messages with the target over sockets. Some wireless and IoT protoc"
+    },
+    {
+      "title": "Fixed Detectors, Moving Code: How Well Do Static Security Analyzers Hold Up over a Decade of C/C++ Evolution?",
+      "link": "https://arxiv.org/abs/2611.03742",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-04T05:00:00+00:00",
+      "summary": "arXiv:2611.03742v1 Announce Type: new Abstract: Static application security testing (SAST) tools are often deployed on the assumption that detectors configured today will remain effective on future code, including previo"
+    },
+    {
+      "title": "LoRA-Patch: Defending Against Backdoored LoRA Adapters via Directional Steering",
+      "link": "https://arxiv.org/abs/2611.03752",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-04T05:00:00+00:00",
+      "summary": "arXiv:2611.03752v1 Announce Type: new Abstract: Third-party LoRA adapters introduce serious backdoor risks: malicious adapters can maintain normal task performance while embedding hidden, trigger-activated behaviors, mak"
+    },
+    {
+      "title": "The Web Doesn't Sit Still: Adversarial Self-Evolving Attacks on Search Agents",
+      "link": "https://arxiv.org/abs/2611.03754",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-04T05:00:00+00:00",
+      "summary": "arXiv:2611.03754v1 Announce Type: new Abstract: Large Language Models (LLMs) have shown promise for empowering search agents to tackle complex information-seeking tasks. However, since acquiring external information nece"
+    },
+    {
+      "title": "JevBreak: Your Model, Their Decision",
+      "link": "https://arxiv.org/abs/2611.03759",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-04T05:00:00+00:00",
+      "summary": "arXiv:2611.03759v1 Announce Type: new Abstract: Restricting what a model can say is often mistaken for restricting an attacker's influence over its decision. An attacker can add text to the evidence and steer the model t"
+    },
+    {
+      "title": "RuntimeTickets: Source-Grounded Security Obligations for Agent Skills",
+      "link": "https://arxiv.org/abs/2611.03772",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-04T05:00:00+00:00",
+      "summary": "arXiv:2611.03772v1 Announce Type: new Abstract: Third-party Agent Skills extend what an autonomous agent can do, but a malicious Skill can hide data exposure or output manipulation inside a legitimate workflow. Neither r"
+    },
+    {
+      "title": "What Malware Actually Does: An Empirical Analysis of Post-Infection Behavior Across Malware Families",
+      "link": "https://arxiv.org/abs/2611.03774",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-04T05:00:00+00:00",
+      "summary": "arXiv:2611.03774v1 Announce Type: new Abstract: Most malware detection research focuses on identifying whether a file is malicious before it executes. Far less attention goes to what happens after infection. This paper p"
+    },
+    {
+      "title": "Towards Effective Fuzzing of EDK2 Components",
+      "link": "https://arxiv.org/abs/2611.03854",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-04T05:00:00+00:00",
+      "summary": "arXiv:2611.03854v1 Announce Type: new Abstract: Securing bootloaders is critical to establishing the trusted computing base of modern systems. TianoCore's edk2, the de facto UEFI-based bootloader, is widely deployed but "
+    },
+    {
+      "title": "Alignment Faking Depends on the Value, Not Just the Model",
+      "link": "https://arxiv.org/abs/2611.03650",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-04T05:00:00+00:00",
+      "summary": "arXiv:2611.03650v1 Announce Type: new Abstract: Language models can follow a directive when they believe they are monitored and abandon it when they believe they are not, a pattern termed Alignment Faking. Prior work est"
+    },
+    {
+      "title": "CARD: A Proof-Carrying Certificate-to-Action Interface for Relative-Measurement Graphs",
+      "link": "https://arxiv.org/abs/2611.03651",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-04T05:00:00+00:00",
+      "summary": "arXiv:2611.03651v1 Announce Type: new Abstract: Geometric certificates make mathematical claims about specified estimator objects, while robotic action requires a physical transform, a service decision, and timely proof "
+    },
+    {
+      "title": "MCPGuard: Finding Conformance Gaps in MCP SDKs via Dual-Track Analysis and Dynamic Adjudication",
+      "link": "https://arxiv.org/abs/2611.03662",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-04T05:00:00+00:00",
+      "summary": "arXiv:2611.03662v1 Announce Type: new Abstract: The Model Context Protocol (MCP) connects large language model agents to external tools and services through official SDKs that implement message validation and session log"
+    },
+    {
+      "title": "Functional-Group Knowledge Is Structured in Language Models Before It Is Spoken",
+      "link": "https://arxiv.org/abs/2611.03684",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-04T05:00:00+00:00",
+      "summary": "arXiv:2611.03684v1 Announce Type: new Abstract: Language models serve as the reasoning core of agents for chemistry and materials science, where they must interpret molecular structure before planning syntheses or propos"
+    },
+    {
+      "title": "LOLPlay: Benchmarking Real-Time Visual Agents in League of Legends",
+      "link": "https://arxiv.org/abs/2611.03685",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-04T05:00:00+00:00",
+      "summary": "arXiv:2611.03685v1 Announce Type: new Abstract: Visual agents need to coordinate reasoning and action while their environment evolves during inference. We introduce LOLPlay, a benchmark in native \\emph{League of Legends}"
+    },
+    {
+      "title": "Training LLM Agents to Automate LLM Post-Training with RSI-Dojo",
+      "link": "https://arxiv.org/abs/2611.03698",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-04T05:00:00+00:00",
+      "summary": "arXiv:2611.03698v1 Announce Type: new Abstract: Recursive Self-Improvement (RSI) aims to enable AI systems to autonomously build and improve AI systems themselves, including models, harnesses, and underlying infrastructu"
+    },
+    {
+      "title": "Unsatz: Evaluating Scientific Discovery Without a Given Ansatz",
+      "link": "https://arxiv.org/abs/2611.03713",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-04T05:00:00+00:00",
+      "summary": "arXiv:2611.03713v1 Announce Type: new Abstract: Before a scientist fits any parameter, they must decide what the model contains: which quantities exist, which are hidden, how they interact, and how they are measured. Phy"
+    },
+    {
+      "title": "Counterexample-driven autonomous research with application to excess radiated energy in a Z-pinch",
+      "link": "https://arxiv.org/abs/2611.03721",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-04T05:00:00+00:00",
+      "summary": "arXiv:2611.03721v1 Announce Type: new Abstract: Recent breakthroughs in artificial-intelligence-assisted mathematics show that open-ended machine search can outperform human mathematicians, yet transferring this paradigm"
+    },
     {
       "title": "ISC Stormcast For Wednesday, November 4th, 2026 https://isc.sans.edu/podcastdetail/10164, (Wed, Nov 4th)",
       "link": "https://isc.sans.edu/diary/rss/33486",
@@ -27,6 +219,14 @@
       "category": "cybersecurity",
       "published": "2026-11-04T02:00:00+00:00",
       "summary": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour."
+    },
+    {
+      "title": "Phishing-Resistant Isn't Enough; Yubico Takes Aim at Identity-Verification Gap",
+      "link": "https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-04T01:05:40+00:00",
+      "summary": "The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing a phishing-resistant authentication gap. Plus: post-quantum YubiKey beta."
     },
     {
       "title": "Fresh European Fridge Attacks Put Cold-Chain Security in Focus",
@@ -69,14 +269,6 @@
       "summary": "Members of Germany's political elite were among the spyware targets in 99 countries that Apple personally warned recently."
     },
     {
-      "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
-      "link": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-03T18:16:19+00:00",
-      "summary": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The incident is assessed to"
-    },
-    {
       "title": "British businesses caught in Europe-wide supermarket fridge attacks",
       "link": "https://therecord.media/british-businesses-caught-in-europe-wide-supermarket-fridge-attacks",
       "source": "The Record",
@@ -85,36 +277,12 @@
       "summary": "Supermarket and grocery store refrigerator controls across Europe were hacked in the early hours of Monday in the second such wave of attacks in recent weeks \u2014 following a first wave in France \u2014 with unidentified perpetr"
     },
     {
-      "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
-      "link": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-03T16:55:58+00:00",
-      "summary": "Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a \"sophisticated, multi-stage campaign\" that involved the use of a tampe"
-    },
-    {
       "title": "Binance CEO says \u2018months-long campaign\u2019 led to $6.3 billion theft as N. Korea denies responsibility",
       "link": "https://therecord.media/binance-cryptocurrency-theft-months-long-campaign-nkorea",
       "source": "The Record",
       "category": "cybersecurity",
       "published": "2026-11-03T16:42:00+00:00",
       "summary": "North Korean attackers \"combined a range of techniques, including social engineering by fake recruitment interviews,\" Binance said about the multibillion-dollar crypto heist it discovered in October."
-    },
-    {
-      "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
-      "link": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-03T15:59:19+00:00",
-      "summary": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device. The vulnerab"
-    },
-    {
-      "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
-      "link": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-03T15:41:53+00:00",
-      "summary": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called LLMjacking, a form o"
     },
     {
       "title": "9 Cyber Awareness Tips That Actually Match Today's Maze of Threats",
@@ -131,14 +299,6 @@
       "category": "cybersecurity",
       "published": "2026-11-03T15:35:50+00:00",
       "summary": "Cybercriminals have turned reselling cloud access to LLMs into a lucrative business model, with some victims paying as much as $1 million in resource consumption before access was revoked."
-    },
-    {
-      "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
-      "link": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-03T15:16:32+00:00",
-      "summary": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and ot"
     },
     {
       "title": "3AM Affiliate Embraces AI-Like Loops in European School Attack",
@@ -171,166 +331,6 @@
       "category": "ai",
       "published": "2026-11-03T12:00:00+00:00",
       "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
-    },
-    {
-      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-      "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-03T11:23:53+00:00",
-      "summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remai"
-    },
-    {
-      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
-      "link": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-03T11:18:20+00:00",
-      "summary": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You\u2019re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waitin"
-    },
-    {
-      "title": "How \u201creverse game theory\u201d could keep AI agents in check",
-      "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-03T10:43:41+00:00",
-      "summary": "A new approach known as \u201creverse game theory\u201d aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to en"
-    },
-    {
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "link": "https://openai.com/index/cisco-cyber",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-03T08:00:00+00:00",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
-    },
-    {
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "link": "https://openai.com/index/heimstaden",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-03T08:00:00+00:00",
-      "summary": "Discover how Heimstaden uses OpenAI\u2019s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
-    },
-    {
-      "title": "Kerkoporta: Injecting Structured-Output Backdoors in Reasoning Coding Agents",
-      "link": "https://arxiv.org/abs/2611.00138",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-03T05:00:00+00:00",
-      "summary": "arXiv:2611.00138v1 Announce Type: new Abstract: Existing large language model (LLM) backdoor attacks operate primarily in chat settings, where the risk is bounded by free-form text outputs. AI agents remove that bound by"
-    },
-    {
-      "title": "When appearance and motion disagree: evaluating class--motion consistency against disguised uncrewed surface vessels",
-      "link": "https://arxiv.org/abs/2611.00367",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-03T05:00:00+00:00",
-      "summary": "arXiv:2611.00367v1 Announce Type: new Abstract: Defense systems for maritime assets must distinguish approaching benign craft from uncrewed surface vessels (USVs) with sufficient warning to act. Shore cameras using compu"
-    },
-    {
-      "title": "Threat Modeling Intimate Partner Abuse in Agentic Systems",
-      "link": "https://arxiv.org/abs/2611.00489",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-03T05:00:00+00:00",
-      "summary": "arXiv:2611.00489v1 Announce Type: new Abstract: Agentic systems are AI-powered technologies capable of autonomous action within digital environments, such as sending emails or making reservations. They are deeply connect"
-    },
-    {
-      "title": "Practical Preimages for 19- and 20-Step SHA-256 with Standard Padding",
-      "link": "https://arxiv.org/abs/2611.00512",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-03T05:00:00+00:00",
-      "summary": "arXiv:2611.00512v1 Announce Type: new Abstract: We present practical preimage attacks on 19- and 20-step SHA-256 that respect the standard IV, Davies-Meyer feed-forward, and full FIPS 180-4 padding, for arbitrary prescri"
-    },
-    {
-      "title": "Price is Only the Symptom: Understanding and Analyzing Economic-State Manipulation Vulnerabilities in DeFi",
-      "link": "https://arxiv.org/abs/2611.00587",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-03T05:00:00+00:00",
-      "summary": "arXiv:2611.00587v1 Announce Type: new Abstract: Economic-state manipulation has emerged as a significant security threat to decentralized finance (DeFi), causing substantial financial losses. Existing studies predominant"
-    },
-    {
-      "title": "Beyond Sensitive APIs: Detecting Access Control Flaws at Sensitive Callsites in Android Firmware",
-      "link": "https://arxiv.org/abs/2611.00594",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-03T05:00:00+00:00",
-      "summary": "arXiv:2611.00594v1 Announce Type: new Abstract: Existing studies of vulnerable pre-installed Android apps identify dangerous behavior by checking whether an app invokes an API from a predefined set of security-sensitive "
-    },
-    {
-      "title": "Adversarial Robustness Is Not Zero-Day Generalization: A Controlled Evaluation of Flow-Based Intrusion Detectors on Corrected CIC-IDS2017",
-      "link": "https://arxiv.org/abs/2611.00713",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-03T05:00:00+00:00",
-      "summary": "arXiv:2611.00713v1 Announce Type: new Abstract: Synthetic variants of known attacks, including feature-space adversarial perturbations, are sometimes used as stand-ins for unseen (\"zero-day\") attacks when evaluating mach"
-    },
-    {
-      "title": "The Long Con on the Web: Earn-then-Exploit Fraud Attacks against Coding Agents",
-      "link": "https://arxiv.org/abs/2611.00725",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-03T05:00:00+00:00",
-      "summary": "arXiv:2611.00725v1 Announce Type: new Abstract: Coding agents increasingly operate with web access and high privileges, creating a new attack surface where web fraud can directly target autonomous agents. Existing studie"
-    },
-    {
-      "title": "A Generalized Sparse Fuzzy Clustering Framework with Automated Cluster Cardinality Estimation Ability",
-      "link": "https://arxiv.org/abs/2611.00159",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-03T05:00:00+00:00",
-      "summary": "arXiv:2611.00159v1 Announce Type: new Abstract: Fuzzy clustering provides a robust framework for handling ambiguous and overlapping data boundaries, yet its traditional formulation generates entirely dense membership ass"
-    },
-    {
-      "title": "Learning to bid and bundle: a posterior-sampling agent for online retail",
-      "link": "https://arxiv.org/abs/2611.00165",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-03T05:00:00+00:00",
-      "summary": "arXiv:2611.00165v1 Announce Type: new Abstract: An online retailer launching a perishable product bids for sponsored-search clicks, discounts a bundle with an always-stocked staple and displays its remaining stock, which"
-    },
-    {
-      "title": "Early Stopping in Large Reasoning Models: A Survey and Empirical Audit of Efficiency and Reliability",
-      "link": "https://arxiv.org/abs/2611.00166",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-03T05:00:00+00:00",
-      "summary": "arXiv:2611.00166v1 Announce Type: new Abstract: Large reasoning models can improve accuracy by generating longer reasoning traces, but some of this computation may be unnecessary. Early-stopping methods aim to stop once "
-    },
-    {
-      "title": "PatchScout: Thematic Web Data Collection via Information Foraging",
-      "link": "https://arxiv.org/abs/2611.00169",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-03T05:00:00+00:00",
-      "summary": "arXiv:2611.00169v1 Announce Type: new Abstract: Researchers often need web corpora that are not answers to a single query, but reusable collections of documents spanning many decentralized sources. We refer to this probl"
-    },
-    {
-      "title": "Reimagining Text-to-SQL: A Survey of Large Language Model Architectures and Strategies",
-      "link": "https://arxiv.org/abs/2611.00171",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-03T05:00:00+00:00",
-      "summary": "arXiv:2611.00171v1 Announce Type: new Abstract: Text-to-SQL systems translate natural language questions into executable SQL queries, democratizing access to relational data. Early approaches relied on handcrafted rules "
-    },
-    {
-      "title": "AuroraWorld: Structured 4D World Modeling for Exo-to-Ego Video Generation in Robot Manipulation",
-      "link": "https://arxiv.org/abs/2611.00177",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-03T05:00:00+00:00",
-      "summary": "arXiv:2611.00177v1 Announce Type: new Abstract: Egocentric observations provide a robot-centric view of manipulation processes, capturing contact interactions and object-state changes that are important for visuomotor po"
-    },
-    {
-      "title": "Neurons Are All You Need",
-      "link": "https://arxiv.org/abs/2611.00186",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-03T05:00:00+00:00",
-      "summary": "arXiv:2611.00186v1 Announce Type: new Abstract: For decades, artificial neural networks have operated under the assumption that durable, learned capability resides exclusively in adaptive synaptic parameters, primarily d"
     }
   ]
 }
