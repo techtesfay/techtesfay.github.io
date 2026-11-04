@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T13:22:37.231818+00:00",
+  "generated_at": "2026-11-04T22:56:50.095582+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,150 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
+      "link": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-04T21:48:18+00:00",
+      "summary": "An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement."
+    },
+    {
+      "title": "More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus",
+      "link": "https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-04T21:30:00+00:00",
+      "summary": "Japan Airlines, Cathay Pacific, Korean Air, Asiana Airlines, Singapore Airlines and Malaysia Airlines have all come forward over the last week to report data breaches traced back to Amadeus IT Group \u2014 a company that buil"
+    },
+    {
+      "title": "Canadian extradited to US for allegedly hacking schools in at least four states",
+      "link": "https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-04T19:17:00+00:00",
+      "summary": "The Department of Justice said it identified two suspects in a case that dates back to 2016 and involved illicit cryptomining on the computers of U.S. educational institutions."
+    },
+    {
+      "title": "French bank confirms cyber heist, hackers suspected to have stolen an estimated $133 million",
+      "link": "https://therecord.media/french-bank-confirms-cyber-heist",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-04T18:58:00+00:00",
+      "summary": "Cr\u00e9dit Mutuel Ark\u00e9a said in a press notice that the attackers were able to make transfers using the bank\u2019s own account after compromising an unnamed supplier."
+    },
+    {
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-04T18:50:55+00:00",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech\u2019s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won th"
+    },
+    {
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "link": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-04T18:21:40+00:00",
+      "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going\u2014even beyond death. Join science editor Mary Beth Griggs and"
+    },
+    {
+      "title": "What\u2019s next for US energy policy after the midterm elections?",
+      "link": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-04T17:08:00+00:00",
+      "summary": "I\u2019ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn\u2019t take long to see the beginning of the blue wave: Democrats took control of both the US House of "
+    },
+    {
+      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+      "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-04T17:00:46+00:00",
+      "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that D"
+    },
+    {
+      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+      "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-04T17:00:38+00:00",
+      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versi"
+    },
+    {
+      "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
+      "link": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-04T16:24:08+00:00",
+      "summary": "Google alleges that Android device manufacturer Videostrong ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity."
+    },
+    {
+      "title": "Ukrainian news outlet Kyiv Independent hit by suspected Russian cyberattack",
+      "link": "https://therecord.media/ukraine-kyiv-independent-cyberattack",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-04T16:15:00+00:00",
+      "summary": "A suspected Russian cyberattack disrupted the website of The Kyiv Independent, one of Ukraine\u2019s leading English-language news outlets."
+    },
+    {
+      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+      "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-04T16:06:43+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI ga"
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "link": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-04T14:30:00+00:00",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex\u2019s tools for building, understanding, and reviewing code."
+    },
+    {
+      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+      "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-04T14:27:52+00:00",
+      "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Uk"
+    },
+    {
+      "title": "Incidents Move Too Fast for Pen & Paper",
+      "link": "https://www.darkreading.com/cybersecurity-operations/incidents-move-fast-pen-paper",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-04T14:17:00+00:00",
+      "summary": "Organizations may not be ready for completely autonomous communication processes, but there are places where automating information updates would alleviate pressure."
+    },
+    {
+      "title": "Cyberattack wipes cloud data at major Russian hosting provider Beget",
+      "link": "https://therecord.media/russia-cyberattack-beget-cloud",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-04T14:00:00+00:00",
+      "summary": "A major Russian web hosting provider is struggling to restore its services after a cyberattack destroyed data across its cloud infrastructure and disrupted hundreds of websites."
+    },
+    {
+      "title": "The Classics Return: Vulnerable E-Mail Scripts, (Wed, Nov 4th)",
+      "link": "https://isc.sans.edu/diary/rss/33488",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-04T13:24:13+00:00",
+      "summary": "One of the early web application vulnerabilities I remember was CVE-2000-0411 [CVE]. This was a simple vulnerability in a CGI-bin script used to send e-mail. The vulnerability was pretty straightforward: Adding additiona"
+    },
+    {
+      "title": "The Download: blended meat, restored sight, and the agentic web",
+      "link": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-04T13:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. These startups hope \u201cblended\u201d food will cut our appetite for red meat In the fall "
+    },
     {
       "title": "Securing the agentic enterprise with data lineage",
       "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
@@ -53,28 +197,20 @@
       "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surv"
     },
     {
-      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
-      "link": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-04T08:17:11+00:00",
-      "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and"
+      "title": "A thousand fewer paths to root",
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-04T08:00:00+00:00",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
     },
     {
-      "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
-      "link": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-04T07:46:15+00:00",
-      "summary": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get "
-    },
-    {
-      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
-      "link": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-04T05:43:11+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity"
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-04T07:00:00+00:00",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
     },
     {
       "title": "InterceptFuzz: Interception-based Stateful Fuzzing of Single-Process Targets",
@@ -195,142 +331,6 @@
       "category": "research",
       "published": "2026-11-04T05:00:00+00:00",
       "summary": "arXiv:2611.03713v1 Announce Type: new Abstract: Before a scientist fits any parameter, they must decide what the model contains: which quantities exist, which are hidden, how they interact, and how they are measured. Phy"
-    },
-    {
-      "title": "Counterexample-driven autonomous research with application to excess radiated energy in a Z-pinch",
-      "link": "https://arxiv.org/abs/2611.03721",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "summary": "arXiv:2611.03721v1 Announce Type: new Abstract: Recent breakthroughs in artificial-intelligence-assisted mathematics show that open-ended machine search can outperform human mathematicians, yet transferring this paradigm"
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, November 4th, 2026 https://isc.sans.edu/podcastdetail/10164, (Wed, Nov 4th)",
-      "link": "https://isc.sans.edu/diary/rss/33486",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-04T02:10:02+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-04T02:00:00+00:00",
-      "summary": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour."
-    },
-    {
-      "title": "Phishing-Resistant Isn't Enough; Yubico Takes Aim at Identity-Verification Gap",
-      "link": "https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-04T01:05:40+00:00",
-      "summary": "The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing a phishing-resistant authentication gap. Plus: post-quantum YubiKey beta."
-    },
-    {
-      "title": "Fresh European Fridge Attacks Put Cold-Chain Security in Focus",
-      "link": "https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-03T22:16:49+00:00",
-      "summary": "Beyond food storage, the same combination of Internet connectivity, remote access, and inadequate security practices can put temperature-controlled infrastructure across other critical sectors at risk."
-    },
-    {
-      "title": "Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit",
-      "link": "https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-03T21:57:12+00:00",
-      "summary": "German police led a multinational probe that exposed an alleged crime-as-a-service provider supplying fraudulent trading platforms to investment scammers."
-    },
-    {
-      "title": "Google dismantles massive botnet hidden in Android TV boxes",
-      "link": "https://therecord.media/google-dismantles-botnet-hidden-android-tv-boxes",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-03T19:48:00+00:00",
-      "summary": "The overwhelming majority of the infected devices in the X.CPE botnet are Android TV set-top boxes, Google said, adding that they observed a number of other infected Android-based IoT devices, including telehealth device"
-    },
-    {
-      "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
-      "link": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-03T18:46:38+00:00",
-      "summary": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passk"
-    },
-    {
-      "title": "Several German lawmakers and foreign policy staff received Apple warnings on spyware",
-      "link": "https://therecord.media/german-officials-among-apple-spyware-warning-recipients",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-03T18:44:00+00:00",
-      "summary": "Members of Germany's political elite were among the spyware targets in 99 countries that Apple personally warned recently."
-    },
-    {
-      "title": "British businesses caught in Europe-wide supermarket fridge attacks",
-      "link": "https://therecord.media/british-businesses-caught-in-europe-wide-supermarket-fridge-attacks",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-03T17:43:00+00:00",
-      "summary": "Supermarket and grocery store refrigerator controls across Europe were hacked in the early hours of Monday in the second such wave of attacks in recent weeks \u2014 following a first wave in France \u2014 with unidentified perpetr"
-    },
-    {
-      "title": "Binance CEO says \u2018months-long campaign\u2019 led to $6.3 billion theft as N. Korea denies responsibility",
-      "link": "https://therecord.media/binance-cryptocurrency-theft-months-long-campaign-nkorea",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-03T16:42:00+00:00",
-      "summary": "North Korean attackers \"combined a range of techniques, including social engineering by fake recruitment interviews,\" Binance said about the multibillion-dollar crypto heist it discovered in October."
-    },
-    {
-      "title": "9 Cyber Awareness Tips That Actually Match Today's Maze of Threats",
-      "link": "https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-03T15:38:20+00:00",
-      "summary": "Practical guidance on safer search, stronger login security, better executive protection, and other habits that help reduce enterprise risk."
-    },
-    {
-      "title": "LLMjacking Emerges as Thriving Cybercriminal Enterprise",
-      "link": "https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-03T15:35:50+00:00",
-      "summary": "Cybercriminals have turned reselling cloud access to LLMs into a lucrative business model, with some victims paying as much as $1 million in resource consumption before access was revoked."
-    },
-    {
-      "title": "3AM Affiliate Embraces AI-Like Loops in European School Attack",
-      "link": "https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-03T14:00:00+00:00",
-      "summary": "Evidence suggests a model may have generated and revised commands during the ransom gang's breach, though researchers stopped short of claiming full automation."
-    },
-    {
-      "title": "Russia dismantles infrastructure of VasyGrek cybercrime group, detains three suspects",
-      "link": "https://therecord.media/russia-dismantles-vasygrek-infrastructure-detains-three",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-03T13:50:00+00:00",
-      "summary": "Russia's Interior Ministry said Monday that police had dismantled the group's infrastructure and identified its suspected members following an investigation conducted with assistance from cybersecurity firm Kaspersky."
-    },
-    {
-      "title": "The Download: controlling AI agents and \u201cSuper Intelligence\u201d loyalty tests",
-      "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-03T13:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. How \u201creverse game theory\u201d could keep AI agents in check A new approach known as \u201cr"
-    },
-    {
-      "title": "Accelerating engineering for the physical world",
-      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-03T12:00:00+00:00",
-      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
     }
   ]
 }
