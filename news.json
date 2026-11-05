@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T03:55:07.535788+00:00",
+  "generated_at": "2026-11-05T13:36:27.378011+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,238 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "The Download: Texas\u2019s fragile AI boom and energy policy shifts",
+      "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-05T13:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. T"
+    },
+    {
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-05T12:08:54+00:00",
+      "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API cos"
+    },
+    {
+      "title": "ISC Stormcast For Thursday, November 5th, 2026 https://isc.sans.edu/podcastdetail/10166, (Thu, Nov 5th)",
+      "link": "https://isc.sans.edu/diary/rss/33490",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-05T11:25:11+00:00",
+      "summary": ""
+    },
+    {
+      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+      "link": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-05T10:06:19+00:00",
+      "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campai"
+    },
+    {
+      "title": "A new bill could change how the US builds energy infrastructure",
+      "link": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-05T10:00:00+00:00",
+      "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week\u2019s momentous midterms, the Senate is set to vote on the Bipa"
+    },
+    {
+      "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+      "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-05T09:13:28+00:00",
+      "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users shar"
+    },
+    {
+      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+      "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-05T08:42:03+00:00",
+      "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and"
+    },
+    {
+      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+      "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-05T07:06:33+00:00",
+      "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a swit"
+    },
+    {
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-05T05:17:04+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, followi"
+    },
+    {
+      "title": "Optimal Marginal Mixing for Transvection-Based Trapdoored Matrices over Large Fields",
+      "link": "https://arxiv.org/abs/2611.05573",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "summary": "arXiv:2611.05573v1 Announce Type: new Abstract: \\emph{Trapdoored matrices} are pseudorandom matrices admitting a fast matrix-vector multiplication algorithm given the secret key. We study a candidate family of such matri"
+    },
+    {
+      "title": "AQUA - A Modular Authentication Quality Modeling Framework",
+      "link": "https://arxiv.org/abs/2611.05660",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "summary": "arXiv:2611.05660v1 Announce Type: new Abstract: Authentication solutions are the key design, architectural, and implementation decisions that implement authentication security controls. An example is a password-based aut"
+    },
+    {
+      "title": "Constraint-Aware Evaluation of Reinforcement Learning and Unsupervised Anomaly Detection for Security Operations Alert Triage",
+      "link": "https://arxiv.org/abs/2611.05746",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "summary": "arXiv:2611.05746v1 Announce Type: new Abstract: Security Operations Centers (SOCs) must identify real threats from large alert streams, but limited analyst capacity means that unnecessary escalations can delay more serio"
+    },
+    {
+      "title": "Private Vulnerability Testing for User Oversharing",
+      "link": "https://arxiv.org/abs/2611.05779",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "summary": "arXiv:2611.05779v1 Announce Type: new Abstract: Users can inadvertently increase their vulnerability to privacy attacks by oversharing personal information. In particular, the combination of individually innocuous attrib"
+    },
+    {
+      "title": "Timing is Everything: Inferring Temporal Membership in Continually Updated Models",
+      "link": "https://arxiv.org/abs/2611.05781",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "summary": "arXiv:2611.05781v1 Announce Type: new Abstract: Continual model updating has become a common practice in the deployment of machine learning systems. However, the dynamic training behaviors give rise to new risks not suff"
+    },
+    {
+      "title": "When File Ingestion Misleads Language Models: Measuring and Mitigating Divergences in Office Documents",
+      "link": "https://arxiv.org/abs/2611.05806",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "summary": "arXiv:2611.05806v1 Announce Type: new Abstract: Office documents are now routinely uploaded to large language models (LLMs) for processing. However, an LLM does not always see what a human sees, because it typically read"
+    },
+    {
+      "title": "GRIDSHIELD: Verifiable Grid Feasibility and Manipulation Resistance in Privacy-Preserving Peer-to-Peer Energy Trading",
+      "link": "https://arxiv.org/abs/2611.05816",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "summary": "arXiv:2611.05816v1 Announce Type: new Abstract: Blockchain-based peer-to-peer (P2P) energy markets let neighbors trade directly, but concentrate unchecked power in the clearing operator. Most prior work addresses only pa"
+    },
+    {
+      "title": "A Hybrid Approach for Automated Security Pattern Recovery",
+      "link": "https://arxiv.org/abs/2611.05823",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "summary": "arXiv:2611.05823v1 Announce Type: new Abstract: Security-by-design emphasises integrating security into software design and development. Security pattern catalogues operationalise this principle by prescribing reusable a"
+    },
+    {
+      "title": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+      "link": "https://arxiv.org/abs/2611.05390",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "summary": "arXiv:2611.05390v1 Announce Type: new Abstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair errors and replace decisions that were alrea"
+    },
+    {
+      "title": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+      "link": "https://arxiv.org/abs/2611.05391",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "summary": "arXiv:2611.05391v1 Announce Type: new Abstract: Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is healthy or suitable at the moment of use. Execution harness"
+    },
+    {
+      "title": "Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
+      "link": "https://arxiv.org/abs/2611.05392",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "summary": "arXiv:2611.05392v1 Announce Type: new Abstract: Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-step pipelines that dynamically invoke tools, integrate obs"
+    },
+    {
+      "title": "Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning",
+      "link": "https://arxiv.org/abs/2611.05393",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "summary": "arXiv:2611.05393v1 Announce Type: new Abstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often fails to beat strong single-model prompt"
+    },
+    {
+      "title": "A Feasibility Condition for Confidence-Gated Tiered LLM Inference",
+      "link": "https://arxiv.org/abs/2611.05394",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "summary": "arXiv:2611.05394v1 Announce Type: new Abstract: Tiered inference distributes large language model computation across a hierarchy of devices, from on-device and edge hardware to the datacenter, and is increasingly offered"
+    },
+    {
+      "title": "Towards Robust Long-Lived Agents: Benchmarking Experience Lifecycles in Evolving Environments",
+      "link": "https://arxiv.org/abs/2611.05450",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "summary": "arXiv:2611.05450v1 Announce Type: new Abstract: As agents become more capable, they are moving beyond one-off tasks toward sustained assistance across successive user goals. Such assistance requires agents to discover ho"
+    },
+    {
+      "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
+      "link": "https://arxiv.org/abs/2611.05459",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "summary": "arXiv:2611.05459v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine individual tasks rather than the review process a"
+    },
+    {
+      "title": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
+      "link": "https://arxiv.org/abs/2611.05512",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-05T05:00:00+00:00",
+      "summary": "arXiv:2611.05512v1 Announce Type: new Abstract: AI Agents are becoming digital coworkers that can browse the web, write code, run experiments, and assist humans over extended horizons. Yet existing benchmarks fall short "
+    },
+    {
+      "title": "Want to Rent an Internet Address at the White House?",
+      "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "published": "2026-11-05T04:36:17+00:00",
+      "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of th"
+    },
+    {
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-05T02:00:00+00:00",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
+    },
+    {
+      "title": "Chainalysis warns all users hit in cyber breach involving \u2018agentic\u2019 techniques",
+      "link": "https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-05T00:00:00+00:00",
+      "summary": "Chainalysis, the blockchain analytics company, said Wednesday night that some information belonging to all its users \u2014 which its website says include those in the law enforcement and national security sectors \u2014 had been "
+    },
+    {
+      "title": "Ukraine fires two senior security officials amid corruption probe into scam call centers",
+      "link": "https://therecord.media/ukraine-fires-senior-security-officials-amid-scam-center-corruption-investigation",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-05T00:00:00+00:00",
+      "summary": "Ukraine's security service has fired two senior officials amid a corruption investigation into an alleged criminal network that bribed law enforcement officers to protect fraudulent call centers and other illegal operati"
+    },
     {
       "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
       "link": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
@@ -93,244 +325,12 @@
       "summary": "Google alleges that Android device manufacturer Videostrong ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity."
     },
     {
-      "title": "Ukrainian news outlet Kyiv Independent hit by suspected Russian cyberattack",
-      "link": "https://therecord.media/ukraine-kyiv-independent-cyberattack",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-04T16:15:00+00:00",
-      "summary": "A suspected Russian cyberattack disrupted the website of The Kyiv Independent, one of Ukraine\u2019s leading English-language news outlets."
-    },
-    {
-      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
-      "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-04T16:06:43+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI ga"
-    },
-    {
       "title": "OpenAI to acquire Pierre Computer Company, Inc.",
       "link": "https://openai.com/index/openai-to-acquire-pierre",
       "source": "OpenAI News",
       "category": "ai",
       "published": "2026-11-04T14:30:00+00:00",
       "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex\u2019s tools for building, understanding, and reviewing code."
-    },
-    {
-      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
-      "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-04T14:27:52+00:00",
-      "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Uk"
-    },
-    {
-      "title": "Incidents Move Too Fast for Pen & Paper",
-      "link": "https://www.darkreading.com/cybersecurity-operations/incidents-move-fast-pen-paper",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-04T14:17:00+00:00",
-      "summary": "Organizations may not be ready for completely autonomous communication processes, but there are places where automating information updates would alleviate pressure."
-    },
-    {
-      "title": "Cyberattack wipes cloud data at major Russian hosting provider Beget",
-      "link": "https://therecord.media/russia-cyberattack-beget-cloud",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-04T14:00:00+00:00",
-      "summary": "A major Russian web hosting provider is struggling to restore its services after a cyberattack destroyed data across its cloud infrastructure and disrupted hundreds of websites."
-    },
-    {
-      "title": "The Classics Return: Vulnerable E-Mail Scripts, (Wed, Nov 4th)",
-      "link": "https://isc.sans.edu/diary/rss/33488",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-04T13:24:13+00:00",
-      "summary": "One of the early web application vulnerabilities I remember was CVE-2000-0411 [CVE]. This was a simple vulnerability in a CGI-bin script used to send e-mail. The vulnerability was pretty straightforward: Adding additiona"
-    },
-    {
-      "title": "The Download: blended meat, restored sight, and the agentic web",
-      "link": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-04T13:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. These startups hope \u201cblended\u201d food will cut our appetite for red meat In the fall "
-    },
-    {
-      "title": "Securing the agentic enterprise with data lineage",
-      "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-04T13:00:00+00:00",
-      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the age"
-    },
-    {
-      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
-      "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-04T12:07:04+00:00",
-      "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed"
-    },
-    {
-      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-      "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-04T11:46:27+00:00",
-      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages t"
-    },
-    {
-      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
-      "link": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-04T11:34:20+00:00",
-      "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns."
-    },
-    {
-      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
-      "link": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-04T11:24:31+00:00",
-      "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surv"
-    },
-    {
-      "title": "A thousand fewer paths to root",
-      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-04T08:00:00+00:00",
-      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
-    },
-    {
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-04T07:00:00+00:00",
-      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
-    },
-    {
-      "title": "InterceptFuzz: Interception-based Stateful Fuzzing of Single-Process Targets",
-      "link": "https://arxiv.org/abs/2611.03709",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "summary": "arXiv:2611.03709v1 Announce Type: new Abstract: Stateful protocol implementations are commonly fuzzed by tools that act as a network client and exchange messages with the target over sockets. Some wireless and IoT protoc"
-    },
-    {
-      "title": "Fixed Detectors, Moving Code: How Well Do Static Security Analyzers Hold Up over a Decade of C/C++ Evolution?",
-      "link": "https://arxiv.org/abs/2611.03742",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "summary": "arXiv:2611.03742v1 Announce Type: new Abstract: Static application security testing (SAST) tools are often deployed on the assumption that detectors configured today will remain effective on future code, including previo"
-    },
-    {
-      "title": "LoRA-Patch: Defending Against Backdoored LoRA Adapters via Directional Steering",
-      "link": "https://arxiv.org/abs/2611.03752",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "summary": "arXiv:2611.03752v1 Announce Type: new Abstract: Third-party LoRA adapters introduce serious backdoor risks: malicious adapters can maintain normal task performance while embedding hidden, trigger-activated behaviors, mak"
-    },
-    {
-      "title": "The Web Doesn't Sit Still: Adversarial Self-Evolving Attacks on Search Agents",
-      "link": "https://arxiv.org/abs/2611.03754",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "summary": "arXiv:2611.03754v1 Announce Type: new Abstract: Large Language Models (LLMs) have shown promise for empowering search agents to tackle complex information-seeking tasks. However, since acquiring external information nece"
-    },
-    {
-      "title": "JevBreak: Your Model, Their Decision",
-      "link": "https://arxiv.org/abs/2611.03759",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "summary": "arXiv:2611.03759v1 Announce Type: new Abstract: Restricting what a model can say is often mistaken for restricting an attacker's influence over its decision. An attacker can add text to the evidence and steer the model t"
-    },
-    {
-      "title": "RuntimeTickets: Source-Grounded Security Obligations for Agent Skills",
-      "link": "https://arxiv.org/abs/2611.03772",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "summary": "arXiv:2611.03772v1 Announce Type: new Abstract: Third-party Agent Skills extend what an autonomous agent can do, but a malicious Skill can hide data exposure or output manipulation inside a legitimate workflow. Neither r"
-    },
-    {
-      "title": "What Malware Actually Does: An Empirical Analysis of Post-Infection Behavior Across Malware Families",
-      "link": "https://arxiv.org/abs/2611.03774",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "summary": "arXiv:2611.03774v1 Announce Type: new Abstract: Most malware detection research focuses on identifying whether a file is malicious before it executes. Far less attention goes to what happens after infection. This paper p"
-    },
-    {
-      "title": "Towards Effective Fuzzing of EDK2 Components",
-      "link": "https://arxiv.org/abs/2611.03854",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "summary": "arXiv:2611.03854v1 Announce Type: new Abstract: Securing bootloaders is critical to establishing the trusted computing base of modern systems. TianoCore's edk2, the de facto UEFI-based bootloader, is widely deployed but "
-    },
-    {
-      "title": "Alignment Faking Depends on the Value, Not Just the Model",
-      "link": "https://arxiv.org/abs/2611.03650",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "summary": "arXiv:2611.03650v1 Announce Type: new Abstract: Language models can follow a directive when they believe they are monitored and abandon it when they believe they are not, a pattern termed Alignment Faking. Prior work est"
-    },
-    {
-      "title": "CARD: A Proof-Carrying Certificate-to-Action Interface for Relative-Measurement Graphs",
-      "link": "https://arxiv.org/abs/2611.03651",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "summary": "arXiv:2611.03651v1 Announce Type: new Abstract: Geometric certificates make mathematical claims about specified estimator objects, while robotic action requires a physical transform, a service decision, and timely proof "
-    },
-    {
-      "title": "MCPGuard: Finding Conformance Gaps in MCP SDKs via Dual-Track Analysis and Dynamic Adjudication",
-      "link": "https://arxiv.org/abs/2611.03662",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "summary": "arXiv:2611.03662v1 Announce Type: new Abstract: The Model Context Protocol (MCP) connects large language model agents to external tools and services through official SDKs that implement message validation and session log"
-    },
-    {
-      "title": "Functional-Group Knowledge Is Structured in Language Models Before It Is Spoken",
-      "link": "https://arxiv.org/abs/2611.03684",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "summary": "arXiv:2611.03684v1 Announce Type: new Abstract: Language models serve as the reasoning core of agents for chemistry and materials science, where they must interpret molecular structure before planning syntheses or propos"
-    },
-    {
-      "title": "LOLPlay: Benchmarking Real-Time Visual Agents in League of Legends",
-      "link": "https://arxiv.org/abs/2611.03685",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "summary": "arXiv:2611.03685v1 Announce Type: new Abstract: Visual agents need to coordinate reasoning and action while their environment evolves during inference. We introduce LOLPlay, a benchmark in native \\emph{League of Legends}"
-    },
-    {
-      "title": "Training LLM Agents to Automate LLM Post-Training with RSI-Dojo",
-      "link": "https://arxiv.org/abs/2611.03698",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "summary": "arXiv:2611.03698v1 Announce Type: new Abstract: Recursive Self-Improvement (RSI) aims to enable AI systems to autonomously build and improve AI systems themselves, including models, harnesses, and underlying infrastructu"
-    },
-    {
-      "title": "Unsatz: Evaluating Scientific Discovery Without a Given Ansatz",
-      "link": "https://arxiv.org/abs/2611.03713",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-04T05:00:00+00:00",
-      "summary": "arXiv:2611.03713v1 Announce Type: new Abstract: Before a scientist fits any parameter, they must decide what the model contains: which quantities exist, which are hidden, how they interact, and how they are measured. Phy"
     }
   ]
 }
