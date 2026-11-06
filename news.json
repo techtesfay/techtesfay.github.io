@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T22:57:44.472527+00:00",
+  "generated_at": "2026-11-06T03:53:33.296410+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, (Fri, Nov 6th)",
+      "link": "https://isc.sans.edu/diary/rss/33494",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-06T02:00:02+00:00",
+      "summary": ""
+    },
     {
       "title": "Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers",
       "link": "https://therecord.media/queens-library-ransomware-causes-disruptions",
@@ -61,6 +69,14 @@
       "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones."
     },
     {
+      "title": "Cult.fit builds operational muscle with Codex",
+      "link": "https://openai.com/index/cultfit-builds-with-codex",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-05T20:00:00+00:00",
+      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
+    },
+    {
       "title": "Harden cooling systems now, feds warn critical infrastructure operators amid attacks",
       "link": "https://therecord.media/cyberattacks-refrigeration-cisa-fbi",
       "source": "The Record",
@@ -75,6 +91,14 @@
       "category": "cybersecurity",
       "published": "2026-11-05T17:00:00+00:00",
       "summary": "Russian state-linked hackers targeted users in Ukraine, the United States and Europe in a campaign to steal sensitive information from iPhone and Android devices, researchers found."
+    },
+    {
+      "title": "Australian universities are creating AI-native graduates",
+      "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-05T17:00:00+00:00",
+      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
     },
     {
       "title": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era",
@@ -189,6 +213,14 @@
       "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and"
     },
     {
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "link": "https://openai.com/index/merge-builds-with-openai",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-05T08:00:00+00:00",
+      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates."
+    },
+    {
       "title": "Optimal Marginal Mixing for Transvection-Based Trapdoored Matrices over Large Fields",
       "link": "https://arxiv.org/abs/2611.05573",
       "source": "arXiv cs.CR",
@@ -299,38 +331,6 @@
       "category": "research",
       "published": "2026-11-05T05:00:00+00:00",
       "summary": "arXiv:2611.05450v1 Announce Type: new Abstract: As agents become more capable, they are moving beyond one-off tasks toward sustained assistance across successive user goals. Such assistance requires agents to discover ho"
-    },
-    {
-      "title": "Can Large Language Models Review the Scientific Literature? A Test Against a 102-Article Benchmark",
-      "link": "https://arxiv.org/abs/2611.05459",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-05T05:00:00+00:00",
-      "summary": "arXiv:2611.05459v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to support scientific literature reviews, yet evaluations often examine individual tasks rather than the review process a"
-    },
-    {
-      "title": "SlackBench: Benchmarking Agents on Collaborative Projects Grounded in Real Code Repositories",
-      "link": "https://arxiv.org/abs/2611.05512",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-05T05:00:00+00:00",
-      "summary": "arXiv:2611.05512v1 Announce Type: new Abstract: AI Agents are becoming digital coworkers that can browse the web, write code, run experiments, and assist humans over extended horizons. Yet existing benchmarks fall short "
-    },
-    {
-      "title": "Want to Rent an Internet Address at the White House?",
-      "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
-      "source": "Krebs on Security",
-      "category": "cybersecurity",
-      "published": "2026-11-05T04:36:17+00:00",
-      "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of th"
-    },
-    {
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-05T02:00:00+00:00",
-      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
     }
   ]
 }
