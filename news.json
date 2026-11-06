@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T13:19:39.756961+00:00",
+  "generated_at": "2026-11-06T22:27:52.368270+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,94 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
+      "link": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-06T21:27:36+00:00",
+      "summary": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech \u2014 but security leaders question whether the funding is too fragmented and too late."
+    },
+    {
+      "title": "Medical services company settles with 4 states over 2023 hack of sensitive patient records",
+      "link": "https://therecord.media/medical-services-company-settles-with-4-state-ags",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-06T19:06:00+00:00",
+      "summary": "The case, brought by AGs in Connecticut, New Jersey, New York and Michigan, targeted the medical transcription, coding and imaging subsidiaries of the Nevada-based Perry Johnson Companies."
+    },
+    {
+      "title": "Certificate authority DigiCert reports data breach involving business customer info",
+      "link": "https://therecord.media/digicert-certificate-authority-reports-data-breach",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-06T18:56:00+00:00",
+      "summary": "DigiCert explained that over the summer, an internal business system was \"externally accessible when that was not intended,\" and someone had created an unauthorized account."
+    },
+    {
+      "title": "AI Gave Your Incident Archive a Second Job",
+      "link": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-06T18:27:30+00:00",
+      "summary": "Security records are increasingly being used by vendors to train their models, creating new risks for enterprises."
+    },
+    {
+      "title": "FBI agent pleads guilty to stealing $2.4 million in crypto from nation-state hackers",
+      "link": "https://therecord.media/fbi-agent-pleads-guilty-to-stealing-from-nation-state-hackers",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-06T16:53:00+00:00",
+      "summary": "Patrick Steven Yaroch, 37, is facing up to 20 years in prison on wire fraud and money laundering charges after admitting to using his position on an FBI investigative squad to steal more than $2.4 million in cryptocurren"
+    },
+    {
+      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+      "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-06T16:08:38+00:00",
+      "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks i"
+    },
+    {
+      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+      "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-06T15:21:49+00:00",
+      "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-"
+    },
+    {
+      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+      "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-06T14:58:32+00:00",
+      "summary": "OpenAI on Thursday unveiled GPT\u20116 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new"
+    },
+    {
+      "title": "CEO-spoofing scammers used AI to help steal more than $100 million, feds say",
+      "link": "https://therecord.media/ceo-spoofing-scammers-charged",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-06T14:30:00+00:00",
+      "summary": "The U.S. is working on extraditing three suspects from Europe in a case involving more than $100 million in fraud from CEO impersonations."
+    },
+    {
+      "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
+      "link": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-06T14:00:00+00:00",
+      "summary": "Europe's supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale."
+    },
+    {
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-06T13:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future."
+    },
     {
       "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
       "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
@@ -61,20 +149,20 @@
       "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we"
     },
     {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI\u2019s systems",
+      "link": "https://openai.com/index/partnering-with-hacktron",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-06T08:00:00+00:00",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
+    },
+    {
       "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
       "link": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
       "source": "The Hacker News",
       "category": "cybersecurity",
       "published": "2026-11-06T05:58:54+00:00",
       "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes comm"
-    },
-    {
-      "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
-      "link": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-06T05:39:10+00:00",
-      "summary": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, an"
     },
     {
       "title": "Beyond Proof of Possession: A Relational Theory of Authority",
@@ -221,12 +309,20 @@
       "summary": "The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into \u201crabbit holes\u201d of content about sadness, self-harm and body image."
     },
     {
-      "title": "Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers",
-      "link": "https://therecord.media/queens-library-ransomware-causes-disruptions",
-      "source": "The Record",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-06T00:00:00+00:00",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
+    },
+    {
+      "title": "Opera\u00e7\u00e3o de influ\u00eancia russa tem como alvo generalizado a Am\u00e9rica Latina",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
+      "source": "Dark Reading",
       "category": "cybersecurity",
-      "published": "2026-11-05T22:08:00+00:00",
-      "summary": "The library system, which has 66 branches serving the borough\u2019s 2.3 million residents, published multiple alerts on Wednesday confirming that the disruption was caused by a ransomware attack."
+      "published": "2026-11-05T22:13:23+00:00",
+      "summary": "A opera\u00e7\u00e3o, que contou com o uso de intelig\u00eancia artificial, utilizou e-mails falsos, documentos governamentais falsificados e a cria\u00e7\u00e3o de uma organiza\u00e7\u00e3o local para atacar escolas no Peru e no Equador, entre outras a\u00e7\u00f5"
     },
     {
       "title": "US Government Email Systems Open to Abuse Thanks to Typos",
@@ -235,102 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-11-05T21:35:05+00:00",
       "summary": "Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems."
-    },
-    {
-      "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
-      "link": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-05T21:00:47+00:00",
-      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency."
-    },
-    {
-      "title": "Social media giants sue California to overturn law shielding kids 15 and under from compulsive use",
-      "link": "https://therecord.media/social-media-giants-sue-california-over-social-media-law",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-05T20:48:00+00:00",
-      "summary": "Google, Meta and TikTok each filed suit in federal court against an incoming California law that blocks platforms from deploying features considered \u201cpsychologically exploitative.\u201d"
-    },
-    {
-      "title": "US issues more sanctions against Prince Group scam center affiliates",
-      "link": "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-05T20:11:00+00:00",
-      "summary": "The sanctions target four people and 41 companies linked to the Prince Group \u2014 a Cambodian company accused of running a billion-dollar scam operation."
-    },
-    {
-      "title": "APT29's Watering Holes Target Thousands of Mobile Users",
-      "link": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-05T20:05:39+00:00",
-      "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones."
-    },
-    {
-      "title": "Cult.fit builds operational muscle with Codex",
-      "link": "https://openai.com/index/cultfit-builds-with-codex",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-05T20:00:00+00:00",
-      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
-    },
-    {
-      "title": "Harden cooling systems now, feds warn critical infrastructure operators amid attacks",
-      "link": "https://therecord.media/cyberattacks-refrigeration-cisa-fbi",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-05T19:15:00+00:00",
-      "summary": "The U.S. government on Thursday called on critical infrastructure operators to safeguard their cooling systems following hacks that have caused chaos in European supermarkets in recent weeks."
-    },
-    {
-      "title": "Australian universities are creating AI-native graduates",
-      "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-05T17:00:00+00:00",
-      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
-    },
-    {
-      "title": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era",
-      "link": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-05T16:48:36+00:00",
-      "summary": "The ungated resource explains how security data pipelines reduce SIEM ingestion costs, preserve detection coverage, and prepare the data layer for AI-driven security operations."
-    },
-    {
-      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
-      "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-05T16:42:46+00:00",
-      "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, an"
-    },
-    {
-      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
-      "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-05T16:42:32+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence ("
-    },
-    {
-      "title": "Vulnerability Scans for Older Cisco IOS Vulnerability / Opt-Out Headers, (Thu, Nov 5th)",
-      "link": "https://isc.sans.edu/diary/rss/33492",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-05T15:29:08+00:00",
-      "summary": "This morning, I was browsing our honeypot data for any new and existing PHP exploit attempts. Instead, I first ran into some GeoServer exploits, but found them to be too boring to write up. This Cisco IOS exploit attempt"
-    },
-    {
-      "title": "The Download: Texas\u2019s fragile AI boom and energy policy shifts",
-      "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-05T13:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. T"
     }
   ]
 }
