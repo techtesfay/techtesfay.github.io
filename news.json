@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T21:25:07.870058+00:00",
+  "generated_at": "2026-11-09T03:17:35.378477+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "ISC Stormcast For Monday, November 9th, 2026 https://isc.sans.edu/podcastdetail/10170, (Mon, Nov 9th)",
+      "link": "https://isc.sans.edu/diary/rss/33500",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-09T02:05:10+00:00",
+      "summary": ""
+    },
     {
       "title": "Scans for Sshole Vulnerability (CVE-2026-123158), (Sun, Nov 8th)",
       "link": "https://isc.sans.edu/diary/rss/33498",
@@ -323,14 +331,6 @@
       "category": "ai",
       "published": "2026-11-04T18:50:55+00:00",
       "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech\u2019s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won th"
-    },
-    {
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "link": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-04T18:21:40+00:00",
-      "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going\u2014even beyond death. Join science editor Mary Beth Griggs and"
     }
   ]
 }
