@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T03:17:35.378477+00:00",
+  "generated_at": "2026-11-09T14:30:08.177042+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,238 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Alleged AI-aided cyberattack exploits assistant interface to breach German web host",
+      "link": "https://therecord.media/cyberattack-germany-ai-mittwald",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-09T14:15:00+00:00",
+      "summary": "Hackers allegedly assisted by AI breached a German web hosting company through a tool designed to allow customers to connect AI assistants to their accounts, the company disclosed."
+    },
+    {
+      "title": "\u26a1 Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
+      "link": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-09T13:28:25+00:00",
+      "summary": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or runni"
+    },
+    {
+      "title": "Pro-Russian hackers target European officials, offer rewards for personal information",
+      "link": "https://therecord.media/hackers-russia-italy-noname",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-09T13:15:00+00:00",
+      "summary": "Pro-Russian hackers published the personal information of Italian Foreign Minister Antonio Tajani and other senior European officials on the dark web, offering cryptocurrency rewards for additional details about them and"
+    },
+    {
+      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-09T13:15:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Opinion: The climate case for AI has not been made \u2014By Mary Nichols, distinguished"
+    },
+    {
+      "title": "Innovating with AI in the special chemicals industry",
+      "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-09T13:00:00+00:00",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practi"
+    },
+    {
+      "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
+      "link": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-09T11:27:53+00:00",
+      "summary": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors"
+    },
+    {
+      "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
+      "link": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-09T10:56:25+00:00",
+      "summary": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker. Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a securit"
+    },
+    {
+      "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
+      "link": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-09T10:01:21+00:00",
+      "summary": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday. It has several security fixes to release and aske"
+    },
+    {
+      "title": "The climate case for AI has not been made",
+      "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-09T10:00:00+00:00",
+      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to e"
+    },
+    {
+      "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+      "link": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-09T09:01:50+00:00",
+      "summary": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week. The agents also found a Taipei fire department platform e"
+    },
+    {
+      "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+      "link": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-09T07:05:48+00:00",
+      "summary": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulr"
+    },
+    {
+      "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
+      "link": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-09T06:15:10+00:00",
+      "summary": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inven"
+    },
+    {
+      "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+      "link": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-09T06:05:24+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said ma"
+    },
+    {
+      "title": "AutoPYara: Next-Gen YARA Rule Generator for Malware Family Clustering",
+      "link": "https://arxiv.org/abs/2611.08608",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "summary": "arXiv:2611.08608v1 Announce Type: new Abstract: Millions of malware variants threaten users daily, such that clustering these samples is key for fast incident response. AutoYara is the current state-of-the-art for automa"
+    },
+    {
+      "title": "I Don't Care How You Hide It, I Care What You Do: Runtime Detection of Malicious ML Models",
+      "link": "https://arxiv.org/abs/2611.08745",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "summary": "arXiv:2611.08745v1 Announce Type: new Abstract: Pre-trained machine learning (ML) models shared through public platforms can be weaponized to execute malicious payloads during loading or inference. Existing scanners prov"
+    },
+    {
+      "title": "Conflux: Preventing Privilege Escalation with Principal Contexts and System-Level Evaluation",
+      "link": "https://arxiv.org/abs/2611.08768",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "summary": "arXiv:2611.08768v1 Announce Type: new Abstract: LLM agents combine information from multiple principals while acting externally. We formalise privilege escalation (PE) as the system-level security objective: an action ma"
+    },
+    {
+      "title": "Gain-Dependent Entropy Characterization of a Zener Avalanche Noise TRNG via Dual NIST Standards: Toward Low-Cost Hardware Entropy for ICS Deployments",
+      "link": "https://arxiv.org/abs/2611.08774",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "summary": "arXiv:2611.08774v1 Announce Type: new Abstract: True random number generators based on Zener avalanche noise offer a low-cost entropy source for industrial control system and IoT edge devices, yet the relationship betwee"
+    },
+    {
+      "title": "Jev as an LLM Safety Guardrail: An Empirical Study of Input Filtering, Selective Output Review, and Over-Refusal",
+      "link": "https://arxiv.org/abs/2611.08845",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "summary": "arXiv:2611.08845v1 Announce Type: new Abstract: External safety filters can prevent unsafe requests from reaching a large language model (LLM), but may also reject legitimate queries. We present an end-to-end empirical e"
+    },
+    {
+      "title": "Who's Asking? Audience-Conditioned Privatization",
+      "link": "https://arxiv.org/abs/2611.08884",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "summary": "arXiv:2611.08884v1 Announce Type: new Abstract: The abundance of user-generated conversational data makes the question of how to responsibly derive insights from confidential data without putting the individuals in it at"
+    },
+    {
+      "title": "NotaryMark: Multi-Bit Watermarking for Black-Box DatasetUsage Auditing in Text-to-Image Diffusion Models",
+      "link": "https://arxiv.org/abs/2611.08985",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "summary": "arXiv:2611.08985v1 Announce Type: new Abstract: As generative artificial intelligence (AI) models increasingly require data, more publicly available yet licensed data is being harvested and used without authorization. Al"
+    },
+    {
+      "title": "Beyond a Single Commit: Anchor-Guided Reconstruction of Multi-Commit Patches",
+      "link": "https://arxiv.org/abs/2611.09026",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "summary": "arXiv:2611.09026v1 Announce Type: new Abstract: Vulnerability patch identification plays a critical role in software security by linking reported vulnerabilities and the corresponding fixes, enabling reliable vulnerabili"
+    },
+    {
+      "title": "Enhancing Academic Advisement with Case-Based Reasoning",
+      "link": "https://arxiv.org/abs/2611.08572",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "summary": "arXiv:2611.08572v1 Announce Type: new Abstract: This research involved the study of an application of Case-Based Reasoning (CBR) in the field of academic advising. Academic advisement has been recognised as an important "
+    },
+    {
+      "title": "NormGym: Evaluating Normative Competence through Social Interaction",
+      "link": "https://arxiv.org/abs/2611.08613",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "summary": "arXiv:2611.08613v1 Announce Type: new Abstract: Normative competence, the ability to infer socially enforced expectations from interaction and adjust behavior accordingly, is essential for agents operating in unfamiliar "
+    },
+    {
+      "title": "LLM-Based Feature Extraction for Multi-Criteria Inventory Classification",
+      "link": "https://arxiv.org/abs/2611.08626",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "summary": "arXiv:2611.08626v1 Announce Type: new Abstract: E-commerce supply chains generate large volumes of customer feedback and operational data that remain underutilized in inventory management. Traditional inventory classific"
+    },
+    {
+      "title": "Aspect-wise Pairwise Tournaments for Test-Time Selection",
+      "link": "https://arxiv.org/abs/2611.08640",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "summary": "arXiv:2611.08640v1 Announce Type: new Abstract: Scaling test-time compute has proven highly effective at improving LLM reasoning. A popular method is best-of-n sampling, where a model generates many candidate solutions a"
+    },
+    {
+      "title": "Decision Context: Persistent Behavioral Learning for AI Agents",
+      "link": "https://arxiv.org/abs/2611.08644",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "summary": "arXiv:2611.08644v1 Announce Type: new Abstract: LLM agents do not learn from corrections across sessions. A user fixes the same mistake at the start of every conversation. Existing agent memory systems primarily handle f"
+    },
+    {
+      "title": "IWIBench: Evaluating Gradient-Free Model Driven Intra-weight Injection",
+      "link": "https://arxiv.org/abs/2611.08647",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "summary": "arXiv:2611.08647v1 Announce Type: new Abstract: Intra-weight injection lets one model change another model's behaviour by editing its weights directly, without gradients. Such edits can range from altering lexical associ"
+    },
+    {
+      "title": "Pdb or Not to Be: Comparing Debugging Interfaces With Pass$_{X}$@$k$",
+      "link": "https://arxiv.org/abs/2611.08666",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "summary": "arXiv:2611.08666v1 Announce Type: new Abstract: Interactive debuggers are indispensable to human software development, yet coding agents overwhelmingly rely on edit-execute-observe loops, using common bash tools, test sc"
+    },
+    {
+      "title": "ChainFlow: Few-Step Latent Flow Matching for Speculative Decoding",
+      "link": "https://arxiv.org/abs/2611.08669",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-09T05:00:00+00:00",
+      "summary": "arXiv:2611.08669v1 Announce Type: new Abstract: Speculative decoding has become a standard way to accelerate LLM inference: a lightweight drafter proposes tokens that the target verifies in one parallel pass. Existing dr"
+    },
     {
       "title": "ISC Stormcast For Monday, November 9th, 2026 https://isc.sans.edu/podcastdetail/10170, (Mon, Nov 9th)",
       "link": "https://isc.sans.edu/diary/rss/33500",
@@ -27,14 +259,6 @@
       "category": "cybersecurity",
       "published": "2026-11-08T15:44:33+00:00",
       "summary": "Our honeypots use \"Cowrie\" to collect SSH data. With the emergence of the \"sshole\" vulnerability last week, we are now seeing an increase in attempts to exploit the vulnerability. Our data is a bit limited in this respec"
-    },
-    {
-      "title": "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-      "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-07T06:44:17+00:00",
-      "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's A"
     },
     {
       "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
@@ -77,38 +301,6 @@
       "summary": "Patrick Steven Yaroch, 37, is facing up to 20 years in prison on wire fraud and money laundering charges after admitting to using his position on an FBI investigative squad to steal more than $2.4 million in cryptocurren"
     },
     {
-      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
-      "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-06T16:08:38+00:00",
-      "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks i"
-    },
-    {
-      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
-      "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-06T15:21:49+00:00",
-      "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-"
-    },
-    {
-      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
-      "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-06T14:58:32+00:00",
-      "summary": "OpenAI on Thursday unveiled GPT\u20116 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new"
-    },
-    {
-      "title": "CEO-spoofing scammers used AI to help steal more than $100 million, feds say",
-      "link": "https://therecord.media/ceo-spoofing-scammers-charged",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-06T14:30:00+00:00",
-      "summary": "The U.S. is working on extraditing three suspects from Europe in a case involving more than $100 million in fraud from CEO impersonations."
-    },
-    {
       "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
       "link": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
       "source": "Dark Reading",
@@ -125,30 +317,6 @@
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future."
     },
     {
-      "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
-      "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-06T12:06:43+00:00",
-      "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was th"
-    },
-    {
-      "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
-      "link": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-06T12:06:35+00:00",
-      "summary": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch,"
-    },
-    {
-      "title": "The Flood is Coming And The Pipes Were Already Full",
-      "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-06T11:30:00+00:00",
-      "summary": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at wha"
-    },
-    {
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
       "source": "MIT Technology Review",
@@ -163,174 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-11-06T09:00:00+00:00",
       "summary": "Britain's new Labour-led government is making a concerted push to get ahead of the AI risks to its national networks and the industrial complex."
-    },
-    {
-      "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
-      "link": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-06T08:04:49+00:00",
-      "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we"
-    },
-    {
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI\u2019s systems",
-      "link": "https://openai.com/index/partnering-with-hacktron",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-06T08:00:00+00:00",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
-    },
-    {
-      "title": "ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, (Fri, Nov 6th)",
-      "link": "https://isc.sans.edu/diary/rss/33494",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-06T02:00:02+00:00",
-      "summary": ""
-    },
-    {
-      "title": "EU accuses TikTok of trapping users in harmful \u2018rabbit holes\u2019",
-      "link": "https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-06T00:00:00+00:00",
-      "summary": "The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into \u201crabbit holes\u201d of content about sadness, self-harm and body image."
-    },
-    {
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-06T00:00:00+00:00",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
-    },
-    {
-      "title": "Opera\u00e7\u00e3o de influ\u00eancia russa tem como alvo generalizado a Am\u00e9rica Latina",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-05T22:13:23+00:00",
-      "summary": "A opera\u00e7\u00e3o, que contou com o uso de intelig\u00eancia artificial, utilizou e-mails falsos, documentos governamentais falsificados e a cria\u00e7\u00e3o de uma organiza\u00e7\u00e3o local para atacar escolas no Peru e no Equador, entre outras a\u00e7\u00f5"
-    },
-    {
-      "title": "US Government Email Systems Open to Abuse Thanks to Typos",
-      "link": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-05T21:35:05+00:00",
-      "summary": "Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems."
-    },
-    {
-      "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
-      "link": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-05T21:00:47+00:00",
-      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency."
-    },
-    {
-      "title": "APT29's Watering Holes Target Thousands of Mobile Users",
-      "link": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-05T20:05:39+00:00",
-      "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones."
-    },
-    {
-      "title": "Cult.fit builds operational muscle with Codex",
-      "link": "https://openai.com/index/cultfit-builds-with-codex",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-05T20:00:00+00:00",
-      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
-    },
-    {
-      "title": "Australian universities are creating AI-native graduates",
-      "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-05T17:00:00+00:00",
-      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
-    },
-    {
-      "title": "Vulnerability Scans for Older Cisco IOS Vulnerability / Opt-Out Headers, (Thu, Nov 5th)",
-      "link": "https://isc.sans.edu/diary/rss/33492",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-05T15:29:08+00:00",
-      "summary": "This morning, I was browsing our honeypot data for any new and existing PHP exploit attempts. Instead, I first ran into some GeoServer exploits, but found them to be too boring to write up. This Cisco IOS exploit attempt"
-    },
-    {
-      "title": "The Download: Texas\u2019s fragile AI boom and energy policy shifts",
-      "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-05T13:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. T"
-    },
-    {
-      "title": "ISC Stormcast For Thursday, November 5th, 2026 https://isc.sans.edu/podcastdetail/10166, (Thu, Nov 5th)",
-      "link": "https://isc.sans.edu/diary/rss/33490",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-05T11:25:11+00:00",
-      "summary": ""
-    },
-    {
-      "title": "A new bill could change how the US builds energy infrastructure",
-      "link": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-05T10:00:00+00:00",
-      "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week\u2019s momentous midterms, the Senate is set to vote on the Bipa"
-    },
-    {
-      "title": "GPT\u20116 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "link": "https://openai.com/index/introducing-gpt-6-cyber",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-05T09:00:00+00:00",
-      "summary": "Introducing GPT\u20116 Cyber, OpenAI\u2019s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
-    },
-    {
-      "title": "Merge builds product and business tools with OpenAI technology",
-      "link": "https://openai.com/index/merge-builds-with-openai",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-05T08:00:00+00:00",
-      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates."
-    },
-    {
-      "title": "Want to Rent an Internet Address at the White House?",
-      "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
-      "source": "Krebs on Security",
-      "category": "cybersecurity",
-      "published": "2026-11-05T04:36:17+00:00",
-      "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of th"
-    },
-    {
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-05T02:00:00+00:00",
-      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
-    },
-    {
-      "title": "Flipsnack grows product signups with conversion optimization",
-      "link": "https://openai.com/ads/customers/flipsnack",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-05T00:45:15+00:00",
-      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup."
-    },
-    {
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-04T18:50:55+00:00",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech\u2019s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won th"
     }
   ]
 }
