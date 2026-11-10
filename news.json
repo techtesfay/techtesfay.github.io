@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T14:30:08.177042+00:00",
+  "generated_at": "2026-11-10T00:54:58.319708+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,142 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-09T21:38:20+00:00",
+      "summary": "New questionnaire captures critical data and information that improves the agency\u2019s ability to assess incidents, identify trends and prioritize response actions."
+    },
+    {
+      "title": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion",
+      "link": "https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-09T21:12:24+00:00",
+      "summary": "Last month, Microsoft disclosed a vulnerability in Microsoft Paint, but messaging regarding a patch was unclear."
+    },
+    {
+      "title": "Data breach at hearing aid giant Amplifon impacts thousands",
+      "link": "https://therecord.media/amplifon-hearing-aid-company-data-breach",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-09T20:44:00+00:00",
+      "summary": "The U.S arm of international hearing aid company Amplifon has been notifying customers about a data breach early this year that included medical information."
+    },
+    {
+      "title": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India",
+      "link": "https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-09T20:19:56+00:00",
+      "summary": "Inaugural edition by Informa Markets in India brings together leading researchers, security practitioners and industry decision makers for four days of cutting-edge research, technical exchange and strategic dialogue."
+    },
+    {
+      "title": "The backlash about data centers might really just be about electricity",
+      "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-09T19:35:33+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, p"
+    },
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-09T19:00:00+00:00",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
+    },
+    {
+      "title": "France blames Iran for fridge cyberattacks, says some caused fires",
+      "link": "https://therecord.media/france-blames-iran-for-fridge-cyberattacks",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-09T18:45:00+00:00",
+      "summary": "In the first attribution since the October attacks, the French authorities identified the perpetrators as part of Shahid Kaveh, an IRGC cyber unit previously linked to attacks on industrial controllers at U.S. water util"
+    },
+    {
+      "title": "Vanderbilt cybersecurity incident impacting campus devices and systems",
+      "link": "https://therecord.media/vanderbilt-cyberattack-ransomware-alert",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-09T18:30:00+00:00",
+      "summary": "Vanderbilt University announced a cyberattack, warning students and employees that campus devices and systems may be impacted by the incident."
+    },
+    {
+      "title": "Attackers Searching for SAP Netweaver Webshells, (Mon, Nov 9th)",
+      "link": "https://isc.sans.edu/diary/rss/33502",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-09T18:18:15+00:00",
+      "summary": "Just saw a new (to me) URL in our honeypot data today:"
+    },
+    {
+      "title": "Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux",
+      "link": "https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-09T18:08:30+00:00",
+      "summary": "Attackers can exploit a flaw in Claude's document-processing tool by creating a temporary file that Anthropic's AI assistant can access and run on a user's machine."
+    },
+    {
+      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-09T17:51:21+00:00",
+      "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an "
+    },
+    {
+      "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+      "link": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-09T17:36:28+00:00",
+      "summary": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases downloa"
+    },
+    {
+      "title": "PwC's CISO on AI, Robots & What's Next for Security",
+      "link": "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-09T17:17:23+00:00",
+      "summary": "As AI accelerates change across the enterprise, PwC's James Shira explains why security teams must rethink their approach to risk and adapt their strategies."
+    },
+    {
+      "title": "Nancy Pelosi\u2019s replacement is ready to regulate AI",
+      "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-09T17:05:43+00:00",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi\u2019s open San Francisco "
+    },
+    {
+      "title": "NIST: Solo Shouldn't Mean Less Secure",
+      "link": "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-09T15:46:10+00:00",
+      "summary": "New guidance provides a basic framework for less-technical solo business owners, but it may miss the mark on how to secure technology that requires no human oversight."
+    },
+    {
+      "title": "Ukraine arrests four in $5 million crypto scam targeting Germans",
+      "link": "https://therecord.media/ukraine-arrests-scam-call-centers-germany",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-09T15:24:00+00:00",
+      "summary": "Ukraine's cyber police said the four arrested men included the alleged leader of the scam call centers."
+    },
+    {
+      "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
+      "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-09T14:31:29+00:00",
+      "summary": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote acces"
+    },
     {
       "title": "Alleged AI-aided cyberattack exploits assistant interface to breach German web host",
       "link": "https://therecord.media/cyberattack-germany-ai-mittwald",
@@ -29,14 +165,6 @@
       "summary": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or runni"
     },
     {
-      "title": "Pro-Russian hackers target European officials, offer rewards for personal information",
-      "link": "https://therecord.media/hackers-russia-italy-noname",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-09T13:15:00+00:00",
-      "summary": "Pro-Russian hackers published the personal information of Italian Foreign Minister Antonio Tajani and other senior European officials on the dark web, offering cryptocurrency rewards for additional details about them and"
-    },
-    {
       "title": "The Download: empty AI climate claims, and an Nvidia investigation",
       "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
       "source": "MIT Technology Review",
@@ -51,6 +179,14 @@
       "category": "ai",
       "published": "2026-11-09T13:00:00+00:00",
       "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practi"
+    },
+    {
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "link": "https://openai.com/index/control-room",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-09T13:00:00+00:00",
+      "summary": "Learn how OpenAI\u2019s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
     },
     {
       "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
@@ -93,28 +229,20 @@
       "summary": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week. The agents also found a Taipei fire department platform e"
     },
     {
-      "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
-      "link": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-09T07:05:48+00:00",
-      "summary": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulr"
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "link": "https://openai.com/index/coderabbit-codex-daybreak",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-09T08:00:00+00:00",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team."
     },
     {
-      "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
-      "link": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-09T06:15:10+00:00",
-      "summary": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inven"
-    },
-    {
-      "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
-      "link": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-09T06:05:24+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said ma"
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "link": "https://openai.com/index/kuken",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-09T08:00:00+00:00",
+      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
     },
     {
       "title": "AutoPYara: Next-Gen YARA Rule Generator for Malware Family Clustering",
@@ -203,134 +331,6 @@
       "category": "research",
       "published": "2026-11-09T05:00:00+00:00",
       "summary": "arXiv:2611.08626v1 Announce Type: new Abstract: E-commerce supply chains generate large volumes of customer feedback and operational data that remain underutilized in inventory management. Traditional inventory classific"
-    },
-    {
-      "title": "Aspect-wise Pairwise Tournaments for Test-Time Selection",
-      "link": "https://arxiv.org/abs/2611.08640",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "summary": "arXiv:2611.08640v1 Announce Type: new Abstract: Scaling test-time compute has proven highly effective at improving LLM reasoning. A popular method is best-of-n sampling, where a model generates many candidate solutions a"
-    },
-    {
-      "title": "Decision Context: Persistent Behavioral Learning for AI Agents",
-      "link": "https://arxiv.org/abs/2611.08644",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "summary": "arXiv:2611.08644v1 Announce Type: new Abstract: LLM agents do not learn from corrections across sessions. A user fixes the same mistake at the start of every conversation. Existing agent memory systems primarily handle f"
-    },
-    {
-      "title": "IWIBench: Evaluating Gradient-Free Model Driven Intra-weight Injection",
-      "link": "https://arxiv.org/abs/2611.08647",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "summary": "arXiv:2611.08647v1 Announce Type: new Abstract: Intra-weight injection lets one model change another model's behaviour by editing its weights directly, without gradients. Such edits can range from altering lexical associ"
-    },
-    {
-      "title": "Pdb or Not to Be: Comparing Debugging Interfaces With Pass$_{X}$@$k$",
-      "link": "https://arxiv.org/abs/2611.08666",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "summary": "arXiv:2611.08666v1 Announce Type: new Abstract: Interactive debuggers are indispensable to human software development, yet coding agents overwhelmingly rely on edit-execute-observe loops, using common bash tools, test sc"
-    },
-    {
-      "title": "ChainFlow: Few-Step Latent Flow Matching for Speculative Decoding",
-      "link": "https://arxiv.org/abs/2611.08669",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "summary": "arXiv:2611.08669v1 Announce Type: new Abstract: Speculative decoding has become a standard way to accelerate LLM inference: a lightweight drafter proposes tokens that the target verifies in one parallel pass. Existing dr"
-    },
-    {
-      "title": "ISC Stormcast For Monday, November 9th, 2026 https://isc.sans.edu/podcastdetail/10170, (Mon, Nov 9th)",
-      "link": "https://isc.sans.edu/diary/rss/33500",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-09T02:05:10+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Scans for Sshole Vulnerability (CVE-2026-123158), (Sun, Nov 8th)",
-      "link": "https://isc.sans.edu/diary/rss/33498",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-08T15:44:33+00:00",
-      "summary": "Our honeypots use \"Cowrie\" to collect SSH data. With the emergence of the \"sshole\" vulnerability last week, we are now seeing an increase in attempts to exploit the vulnerability. Our data is a bit limited in this respec"
-    },
-    {
-      "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
-      "link": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-06T21:27:36+00:00",
-      "summary": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech \u2014 but security leaders question whether the funding is too fragmented and too late."
-    },
-    {
-      "title": "Medical services company settles with 4 states over 2023 hack of sensitive patient records",
-      "link": "https://therecord.media/medical-services-company-settles-with-4-state-ags",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-06T19:06:00+00:00",
-      "summary": "The case, brought by AGs in Connecticut, New Jersey, New York and Michigan, targeted the medical transcription, coding and imaging subsidiaries of the Nevada-based Perry Johnson Companies."
-    },
-    {
-      "title": "Certificate authority DigiCert reports data breach involving business customer info",
-      "link": "https://therecord.media/digicert-certificate-authority-reports-data-breach",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-06T18:56:00+00:00",
-      "summary": "DigiCert explained that over the summer, an internal business system was \"externally accessible when that was not intended,\" and someone had created an unauthorized account."
-    },
-    {
-      "title": "AI Gave Your Incident Archive a Second Job",
-      "link": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-06T18:27:30+00:00",
-      "summary": "Security records are increasingly being used by vendors to train their models, creating new risks for enterprises."
-    },
-    {
-      "title": "FBI agent pleads guilty to stealing $2.4 million in crypto from nation-state hackers",
-      "link": "https://therecord.media/fbi-agent-pleads-guilty-to-stealing-from-nation-state-hackers",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-06T16:53:00+00:00",
-      "summary": "Patrick Steven Yaroch, 37, is facing up to 20 years in prison on wire fraud and money laundering charges after admitting to using his position on an FBI investigative squad to steal more than $2.4 million in cryptocurren"
-    },
-    {
-      "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
-      "link": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-06T14:00:00+00:00",
-      "summary": "Europe's supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale."
-    },
-    {
-      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-      "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-06T13:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future."
-    },
-    {
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-06T10:00:00+00:00",
-      "summary": "I\u2019m not the sort of person who typically pays for a house cleaner. I\u2019m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-r"
-    },
-    {
-      "title": "UK Warns Its Critical Infrastructure Faces Grave Risk",
-      "link": "https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-06T09:00:00+00:00",
-      "summary": "Britain's new Labour-led government is making a concerted push to get ahead of the AI risks to its national networks and the industrial complex."
     }
   ]
 }
