@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T00:54:58.319708+00:00",
+  "generated_at": "2026-11-10T13:51:32.811307+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,262 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "The Download: Pelosi\u2019s successor targets AI and data centers face power woes",
+      "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-10T13:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Nancy Pelosi\u2019s replacement is ready to regulate AI \u2014Grace Huckins As a California "
+    },
+    {
+      "title": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier",
+      "link": "https://www.darkreading.com/application-security/ai-reverse-engineering-apps",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-10T13:00:00+00:00",
+      "summary": "Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising fresh concerns for defenders."
+    },
+    {
+      "title": "Russian hackers compromised government email servers to steal NATO, EU correspondence",
+      "link": "https://therecord.media/russia-hackers-espionage-romania-kazakhstan",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-10T13:00:00+00:00",
+      "summary": "Russian state-linked hackers have compromised government email servers in Romania and Kazakhstan to secretly intercept messages exchanged with NATO and European Union officials, researchers said."
+    },
+    {
+      "title": "Evolving metal extraction processes",
+      "link": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-10T13:00:00+00:00",
+      "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century,"
+    },
+    {
+      "title": "Apple Patches Everyting: November 2026 Edition, (Tue, Nov 10th)",
+      "link": "https://isc.sans.edu/diary/rss/33506",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-10T12:48:55+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
+      "link": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-10T12:15:31+00:00",
+      "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance wa"
+    },
+    {
+      "title": "Helping caregivers use AI in everyday life",
+      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-10T12:00:00+00:00",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+    },
+    {
+      "title": "Beyond the Alert: The Case for Rich Network Data",
+      "link": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-10T11:38:13+00:00",
+      "summary": "At some point your security will fail. This isn\u2019t pessimism. It\u2019s not because your team and tools aren\u2019t sophisticated enough. It\u2019s the reason we have detections in the first place. And, it\u2019s why once we accept that prev"
+    },
+    {
+      "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+      "link": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-10T10:16:51+00:00",
+      "summary": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added"
+    },
+    {
+      "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
+      "link": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-10T10:07:29+00:00",
+      "summary": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an"
+    },
+    {
+      "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-10T10:02:40+00:00",
+      "summary": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day\u2014the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP NetWeaver application s"
+    },
+    {
+      "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
+      "link": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-10T09:08:20+00:00",
+      "summary": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday. The attackers"
+    },
+    {
+      "title": "Closing the AI guidance gap in education",
+      "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-10T09:00:00+00:00",
+      "summary": "New ThinkYoung research and lessons from OpenAI\u2019s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
+    },
+    {
+      "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
+      "link": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-10T08:16:14+00:00",
+      "summary": "Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision. During pre-release training, the large language models (LLMs) helped its en"
+    },
+    {
+      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+      "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-10T06:52:54+00:00",
+      "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (C"
+    },
+    {
+      "title": "Federated Lightweight Transformer for Network-Layer Cyberattack Detection in O-RAN",
+      "link": "https://arxiv.org/abs/2611.09992",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "summary": "arXiv:2611.09992v1 Announce Type: new Abstract: Open Radio Access Network (O-RAN) improves radio access network flexibility through disaggregation, open interfaces, and programmable RAN Intelligent Controllers (RICs). Ho"
+    },
+    {
+      "title": "zk-DEAP: A Zero-Knowledge Decentralized Encrypted Aggregation Protocol",
+      "link": "https://arxiv.org/abs/2611.10020",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "summary": "arXiv:2611.10020v1 Announce Type: new Abstract: Secure aggregation in domains such as federated learning, Internet of Things, and voting requires operating on private inputs while preserving confidentiality, verifying th"
+    },
+    {
+      "title": "MetaPI: Constructing Prompt Injection Benchmarks from LLM Agent Benchmark",
+      "link": "https://arxiv.org/abs/2611.10026",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "summary": "arXiv:2611.10026v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly perform complex tasks using high-privilege tools, making indirect prompt injection (IPI) a critical security risk. However, I"
+    },
+    {
+      "title": "Alignment Investigation of Mythos 5's behaviour in UK AISI's July 2026 Security Incident",
+      "link": "https://arxiv.org/abs/2611.10030",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "summary": "arXiv:2611.10030v1 Announce Type: new Abstract: This technical report describes an alignment investigation into Mythos 5's behaviour during a security incident in UK AISI's cyber evaluations. During an evaluation, Mythos"
+    },
+    {
+      "title": "zkARc: Succinctly Verifiable Proofs for Neurosymbolic Natural Language Formalization and Verification",
+      "link": "https://arxiv.org/abs/2611.10031",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "summary": "arXiv:2611.10031v1 Announce Type: new Abstract: Autonomous agents increasingly execute consequential actions on behalf of users, but ordinary middleware guardrails do not provide cryptographic proof that a policy was act"
+    },
+    {
+      "title": "Toward Safety-Aware AI Agents in Realistic Social Engineering Attack Scenarios",
+      "link": "https://arxiv.org/abs/2611.10037",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "summary": "arXiv:2611.10037v1 Announce Type: new Abstract: Personal AI agents are increasingly deployed on user devices to execute actions involving real money and sensitive data, but their security under social engineering attacks"
+    },
+    {
+      "title": "Towards a Privacy-Preserving Reliability-Aware Entity Resolution for Attributed Graphs [Vision] (Technical Report)",
+      "link": "https://arxiv.org/abs/2611.10038",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "summary": "arXiv:2611.10038v1 Announce Type: new Abstract: Entity resolution (ER) on attributed graphs aims to identify nodes across multiple graphs that correspond to the same real-world entity and merge them into an integrated gr"
+    },
+    {
+      "title": "Safety Direction Adapter: A Training-Free Post-Hoc Safety Patch for Fine-Tuned Open-Weight LLMs",
+      "link": "https://arxiv.org/abs/2611.10056",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "summary": "arXiv:2611.10056v1 Announce Type: new Abstract: Open-weight LLMs are routinely fine-tuned from public repositories, yet task-specific adaptation can silently erode safety alignment inherited from instruct-tuned bases. Th"
+    },
+    {
+      "title": "Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training",
+      "link": "https://arxiv.org/abs/2611.10045",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "summary": "arXiv:2611.10045v1 Announce Type: new Abstract: AI sycophancy, the tendency of large language models (LLMs) to flatter users and affirm their beliefs, can undermine accuracy and contribute to misinformation, dependence, "
+    },
+    {
+      "title": "Veterans' Mental Health Crisis Severity Annotation: Do LLMs Agree More Than Human Experts?",
+      "link": "https://arxiv.org/abs/2611.10048",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "summary": "arXiv:2611.10048v1 Announce Type: new Abstract: Large language models (LLMs) offer a scalable approach for annotating mental health and crisis-related social media content, but their reliability in safety-critical tasks "
+    },
+    {
+      "title": "LoRazor: Trimming Adapter Execution for Efficient Multi-LoRA Serving",
+      "link": "https://arxiv.org/abs/2611.10049",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "summary": "arXiv:2611.10049v1 Announce Type: new Abstract: LoRA offers a parameter-efficient adaptation strategy, supporting multi-user workloads via customized adapters on a shared backbone. However, serving concurrent requests wi"
+    },
+    {
+      "title": "AYO: A Safe and Privacy-Preserving Platform for Studying Children's Interaction with LLMs",
+      "link": "https://arxiv.org/abs/2611.10054",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "summary": "arXiv:2611.10054v1 Announce Type: new Abstract: Children and adolescents are increasingly interacting with generative AI and large language models (LLMs), yet little is known about how these interactions may influence th"
+    },
+    {
+      "title": "META-IR: Meta-Introspective Reasoning for Adaptive Safety Alignment in LLM",
+      "link": "https://arxiv.org/abs/2611.10089",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "summary": "arXiv:2611.10089v1 Announce Type: new Abstract: Large Language Models (LLMs) remain vulnerable to jailbreak attacks and harmful-content prompts, particularly under adversarial distribution shifts where static alignment p"
+    },
+    {
+      "title": "The Infrastructure Divide: Analyzing Community Stance on Data Center Development via Reddit",
+      "link": "https://arxiv.org/abs/2611.10109",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "summary": "arXiv:2611.10109v1 Announce Type: new Abstract: The rapid expansion of AI-driven data center construction has outpaced public engagement: an estimated $64 billion in U.S. data center projects were blocked or delayed by l"
+    },
+    {
+      "title": "Homeopathic Learning: Diluting poisoned fine-tuning data can strengthen its effect",
+      "link": "https://arxiv.org/abs/2611.10110",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "summary": "arXiv:2611.10110v1 Announce Type: new Abstract: We study homeopathic learning, a phenomenon where poisoned training data with little effect on its own can create a hidden backdoor once clean, contrasting data is added. I"
+    },
+    {
+      "title": "What Is the Value of AI-Involved Art? Evidence From a Juried In-Person Exhibition",
+      "link": "https://arxiv.org/abs/2611.10150",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-10T05:00:00+00:00",
+      "summary": "arXiv:2611.10150v1 Announce Type: new Abstract: What is the value of AI-involved art, and to whom does it belong? We begin to answer these questions using data from an in-person, juried AI art exhibition. Our study invol"
+    },
+    {
+      "title": "ISC Stormcast For Tuesday, November 10th, 2026 https://isc.sans.edu/podcastdetail/10172, (Tue, Nov 10th)",
+      "link": "https://isc.sans.edu/diary/rss/33504",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-10T02:00:02+00:00",
+      "summary": ""
+    },
     {
       "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
@@ -75,262 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-11-09T18:30:00+00:00",
       "summary": "Vanderbilt University announced a cyberattack, warning students and employees that campus devices and systems may be impacted by the incident."
-    },
-    {
-      "title": "Attackers Searching for SAP Netweaver Webshells, (Mon, Nov 9th)",
-      "link": "https://isc.sans.edu/diary/rss/33502",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-09T18:18:15+00:00",
-      "summary": "Just saw a new (to me) URL in our honeypot data today:"
-    },
-    {
-      "title": "Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux",
-      "link": "https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-09T18:08:30+00:00",
-      "summary": "Attackers can exploit a flaw in Claude's document-processing tool by creating a temporary file that Anthropic's AI assistant can access and run on a user's machine."
-    },
-    {
-      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-09T17:51:21+00:00",
-      "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an "
-    },
-    {
-      "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
-      "link": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-09T17:36:28+00:00",
-      "summary": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases downloa"
-    },
-    {
-      "title": "PwC's CISO on AI, Robots & What's Next for Security",
-      "link": "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-09T17:17:23+00:00",
-      "summary": "As AI accelerates change across the enterprise, PwC's James Shira explains why security teams must rethink their approach to risk and adapt their strategies."
-    },
-    {
-      "title": "Nancy Pelosi\u2019s replacement is ready to regulate AI",
-      "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-09T17:05:43+00:00",
-      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi\u2019s open San Francisco "
-    },
-    {
-      "title": "NIST: Solo Shouldn't Mean Less Secure",
-      "link": "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-09T15:46:10+00:00",
-      "summary": "New guidance provides a basic framework for less-technical solo business owners, but it may miss the mark on how to secure technology that requires no human oversight."
-    },
-    {
-      "title": "Ukraine arrests four in $5 million crypto scam targeting Germans",
-      "link": "https://therecord.media/ukraine-arrests-scam-call-centers-germany",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-09T15:24:00+00:00",
-      "summary": "Ukraine's cyber police said the four arrested men included the alleged leader of the scam call centers."
-    },
-    {
-      "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
-      "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-09T14:31:29+00:00",
-      "summary": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote acces"
-    },
-    {
-      "title": "Alleged AI-aided cyberattack exploits assistant interface to breach German web host",
-      "link": "https://therecord.media/cyberattack-germany-ai-mittwald",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-09T14:15:00+00:00",
-      "summary": "Hackers allegedly assisted by AI breached a German web hosting company through a tool designed to allow customers to connect AI assistants to their accounts, the company disclosed."
-    },
-    {
-      "title": "\u26a1 Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
-      "link": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-09T13:28:25+00:00",
-      "summary": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or runni"
-    },
-    {
-      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-      "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-09T13:15:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Opinion: The climate case for AI has not been made \u2014By Mary Nichols, distinguished"
-    },
-    {
-      "title": "Innovating with AI in the special chemicals industry",
-      "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-09T13:00:00+00:00",
-      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practi"
-    },
-    {
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "link": "https://openai.com/index/control-room",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-09T13:00:00+00:00",
-      "summary": "Learn how OpenAI\u2019s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
-    },
-    {
-      "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
-      "link": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-09T11:27:53+00:00",
-      "summary": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors"
-    },
-    {
-      "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
-      "link": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-09T10:56:25+00:00",
-      "summary": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker. Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a securit"
-    },
-    {
-      "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
-      "link": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-09T10:01:21+00:00",
-      "summary": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday. It has several security fixes to release and aske"
-    },
-    {
-      "title": "The climate case for AI has not been made",
-      "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-09T10:00:00+00:00",
-      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to e"
-    },
-    {
-      "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
-      "link": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-09T09:01:50+00:00",
-      "summary": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week. The agents also found a Taipei fire department platform e"
-    },
-    {
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "link": "https://openai.com/index/coderabbit-codex-daybreak",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-09T08:00:00+00:00",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team."
-    },
-    {
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "link": "https://openai.com/index/kuken",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-09T08:00:00+00:00",
-      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
-    },
-    {
-      "title": "AutoPYara: Next-Gen YARA Rule Generator for Malware Family Clustering",
-      "link": "https://arxiv.org/abs/2611.08608",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "summary": "arXiv:2611.08608v1 Announce Type: new Abstract: Millions of malware variants threaten users daily, such that clustering these samples is key for fast incident response. AutoYara is the current state-of-the-art for automa"
-    },
-    {
-      "title": "I Don't Care How You Hide It, I Care What You Do: Runtime Detection of Malicious ML Models",
-      "link": "https://arxiv.org/abs/2611.08745",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "summary": "arXiv:2611.08745v1 Announce Type: new Abstract: Pre-trained machine learning (ML) models shared through public platforms can be weaponized to execute malicious payloads during loading or inference. Existing scanners prov"
-    },
-    {
-      "title": "Conflux: Preventing Privilege Escalation with Principal Contexts and System-Level Evaluation",
-      "link": "https://arxiv.org/abs/2611.08768",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "summary": "arXiv:2611.08768v1 Announce Type: new Abstract: LLM agents combine information from multiple principals while acting externally. We formalise privilege escalation (PE) as the system-level security objective: an action ma"
-    },
-    {
-      "title": "Gain-Dependent Entropy Characterization of a Zener Avalanche Noise TRNG via Dual NIST Standards: Toward Low-Cost Hardware Entropy for ICS Deployments",
-      "link": "https://arxiv.org/abs/2611.08774",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "summary": "arXiv:2611.08774v1 Announce Type: new Abstract: True random number generators based on Zener avalanche noise offer a low-cost entropy source for industrial control system and IoT edge devices, yet the relationship betwee"
-    },
-    {
-      "title": "Jev as an LLM Safety Guardrail: An Empirical Study of Input Filtering, Selective Output Review, and Over-Refusal",
-      "link": "https://arxiv.org/abs/2611.08845",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "summary": "arXiv:2611.08845v1 Announce Type: new Abstract: External safety filters can prevent unsafe requests from reaching a large language model (LLM), but may also reject legitimate queries. We present an end-to-end empirical e"
-    },
-    {
-      "title": "Who's Asking? Audience-Conditioned Privatization",
-      "link": "https://arxiv.org/abs/2611.08884",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "summary": "arXiv:2611.08884v1 Announce Type: new Abstract: The abundance of user-generated conversational data makes the question of how to responsibly derive insights from confidential data without putting the individuals in it at"
-    },
-    {
-      "title": "NotaryMark: Multi-Bit Watermarking for Black-Box DatasetUsage Auditing in Text-to-Image Diffusion Models",
-      "link": "https://arxiv.org/abs/2611.08985",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "summary": "arXiv:2611.08985v1 Announce Type: new Abstract: As generative artificial intelligence (AI) models increasingly require data, more publicly available yet licensed data is being harvested and used without authorization. Al"
-    },
-    {
-      "title": "Beyond a Single Commit: Anchor-Guided Reconstruction of Multi-Commit Patches",
-      "link": "https://arxiv.org/abs/2611.09026",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "summary": "arXiv:2611.09026v1 Announce Type: new Abstract: Vulnerability patch identification plays a critical role in software security by linking reported vulnerabilities and the corresponding fixes, enabling reliable vulnerabili"
-    },
-    {
-      "title": "Enhancing Academic Advisement with Case-Based Reasoning",
-      "link": "https://arxiv.org/abs/2611.08572",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "summary": "arXiv:2611.08572v1 Announce Type: new Abstract: This research involved the study of an application of Case-Based Reasoning (CBR) in the field of academic advising. Academic advisement has been recognised as an important "
-    },
-    {
-      "title": "NormGym: Evaluating Normative Competence through Social Interaction",
-      "link": "https://arxiv.org/abs/2611.08613",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "summary": "arXiv:2611.08613v1 Announce Type: new Abstract: Normative competence, the ability to infer socially enforced expectations from interaction and adjust behavior accordingly, is essential for agents operating in unfamiliar "
-    },
-    {
-      "title": "LLM-Based Feature Extraction for Multi-Criteria Inventory Classification",
-      "link": "https://arxiv.org/abs/2611.08626",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-09T05:00:00+00:00",
-      "summary": "arXiv:2611.08626v1 Announce Type: new Abstract: E-commerce supply chains generate large volumes of customer feedback and operational data that remain underutilized in inventory management. Traditional inventory classific"
     }
   ]
 }
