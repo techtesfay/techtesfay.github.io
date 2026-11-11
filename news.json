@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T03:25:37.731135+00:00",
+  "generated_at": "2026-11-11T13:03:24.672726+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -19,6 +19,198 @@
       "category": "ai",
       "published": "2026-11-12T00:00:00+00:00",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+    },
+    {
+      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+      "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-11T12:19:40+00:00",
+      "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at S"
+    },
+    {
+      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+      "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-11T12:01:59+00:00",
+      "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they\u2019re given, and traceability that\u2019s separate from any human\u2019s. That was true for us at Token as well. T"
+    },
+    {
+      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+      "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-11T12:00:53+00:00",
+      "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each intermediate CA has its"
+    },
+    {
+      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+      "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-11T08:17:53+00:00",
+      "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, "
+    },
+    {
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-11T08:00:00+00:00",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+    },
+    {
+      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+      "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-11T07:49:04+00:00",
+      "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to "
+    },
+    {
+      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+      "link": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-11T07:21:05+00:00",
+      "summary": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attacker"
+    },
+    {
+      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+      "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-11T06:04:02+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) cat"
+    },
+    {
+      "title": "Useful Work Can Increase Energy Use: Demand Elasticity and Proof of Useful Work",
+      "link": "https://arxiv.org/abs/2611.13131",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "summary": "arXiv:2611.13131v1 Announce Type: new Abstract: A serious criticism of Bitcoin's Proof-of-Work is its enormous electricity consumption. Proof-of-Useful-Work (PoUW), introduced by Ball, Rosen, Sabin, and Vasudevan (2017),"
+    },
+    {
+      "title": "Splitting for Stability: a Modified Reward Scheme for Transaction-Fee-Only Regimes",
+      "link": "https://arxiv.org/abs/2611.13252",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "summary": "arXiv:2611.13252v1 Announce Type: new Abstract: As Bitcoin's block subsidy declines over time, miner revenue will come to depend increasingly on transaction fees. In fee-dominated regimes, winner-take-all reward structur"
+    },
+    {
+      "title": "Early Rug Pull Detection on Solana",
+      "link": "https://arxiv.org/abs/2611.13342",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "summary": "arXiv:2611.13342v1 Announce Type: new Abstract: Web3 platforms that help users discover and trade newly launched crypto tokens, including launchpads, decentralized-exchange (DEX) interfaces, wallets, and token-analytics "
+    },
+    {
+      "title": "Stinging the Swarm: Extracting Attacker Intelligence from a Twin-Controller OT Honeypot",
+      "link": "https://arxiv.org/abs/2611.13406",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "summary": "arXiv:2611.13406v1 Announce Type: new Abstract: Autonomous language-model agents can drive industrial controllers over fieldbus protocols, probing a plant at machine speed and in coordinated swarms. We present Talos, an "
+    },
+    {
+      "title": "5G CATS: 5G-Based Cryptographic Authorization Against Trafficking of Semiconductor Devices",
+      "link": "https://arxiv.org/abs/2611.13437",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "summary": "arXiv:2611.13437v1 Announce Type: new Abstract: Enforcing export controls on AI accelerators requires verifying where a chip operates after deployment. Round-trip time measurements can bound a chip's distance from a trus"
+    },
+    {
+      "title": "Data-Efficient Unlearning-Based Backdoor Detection in Federated Learning",
+      "link": "https://arxiv.org/abs/2611.13491",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "summary": "arXiv:2611.13491v1 Announce Type: new Abstract: Detecting backdoor attacks in federated learning (FL) is challenging because malicious clients can manipulate the global model while preserving main-task performance. Stati"
+    },
+    {
+      "title": "TERM: Target-Free Jailbreak Defense via Entropy-Guided Residual Modulation",
+      "link": "https://arxiv.org/abs/2611.13577",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "summary": "arXiv:2611.13577v1 Announce Type: new Abstract: Large language models (LLMs) have shown strong capabilities across diverse applications, making both safety and utility essential for reliable deployment. Jailbreak attacks"
+    },
+    {
+      "title": "POEM: Output-Relative Block-Sparse Attention for Long-Context Prefilling",
+      "link": "https://arxiv.org/abs/2611.13578",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "summary": "arXiv:2611.13578v1 Announce Type: new Abstract: Large language models (LLMs) have shown strong capabilities across diverse applications, making both safety and utility essential for reliable deployment. Jailbreak attacks"
+    },
+    {
+      "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
+      "link": "https://arxiv.org/abs/2611.12933",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "summary": "arXiv:2611.12933v1 Announce Type: new Abstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower this barrier, although"
+    },
+    {
+      "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+      "link": "https://arxiv.org/abs/2611.12934",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "summary": "arXiv:2611.12934v1 Announce Type: new Abstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for E"
+    },
+    {
+      "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
+      "link": "https://arxiv.org/abs/2611.12935",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "summary": "arXiv:2611.12935v1 Announce Type: new Abstract: Topic monitoring is the task of labelling the topic of each token in a model's response during generation. Activation-based monitors that run at generation time have so far"
+    },
+    {
+      "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
+      "link": "https://arxiv.org/abs/2611.12936",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "summary": "arXiv:2611.12936v1 Announce Type: new Abstract: Intelligent landslide detection is essential for disaster prevention. However, existing models primarily focus on isolated visual tasks, require extensive labeled data, and"
+    },
+    {
+      "title": "Tracing Psychometric Inference in Large Language Models",
+      "link": "https://arxiv.org/abs/2611.12937",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "summary": "arXiv:2611.12937v1 Announce Type: new Abstract: Do large language models represent psychological constructs internally, or do they only generate outputs that resemble psychometric structure? We address this question usin"
+    },
+    {
+      "title": "Graph Visualizations in Prompts for Knowledge Graph Question Answering",
+      "link": "https://arxiv.org/abs/2611.12938",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "summary": "arXiv:2611.12938v1 Announce Type: new Abstract: We study when and how multimodal input improves knowledge graph question answering (KGQA) in large vision--language models. Using a controlled evaluation over 1,500 WebQSP "
+    },
+    {
+      "title": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
+      "link": "https://arxiv.org/abs/2611.12940",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "summary": "arXiv:2611.12940v1 Announce Type: new Abstract: Reinforcement Learning has achieved tremendous success in recent years. Extending its scope from the traditional complex games such as Atari, Go, Pokeman, and Chess, reinfo"
+    },
+    {
+      "title": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
+      "link": "https://arxiv.org/abs/2611.12941",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-11T05:00:00+00:00",
+      "summary": "arXiv:2611.12941v1 Announce Type: new Abstract: The rapid proliferation of autonomously acting AI agents makes the governance of agentic systems urgent. We propose the competence circuit, summarized as IKC + KC + C, that"
     },
     {
       "title": "ISC Stormcast For Wednesday, November 11th, 2026 https://isc.sans.edu/podcastdetail/10174, (Wed, Nov 11th)",
@@ -101,14 +293,6 @@
       "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2."
     },
     {
-      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
-      "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-10T19:19:39+00:00",
-      "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen requests being processed on"
-    },
-    {
       "title": "Microsoft Patch Tuesday November 2027 , (Tue, Nov 10th)",
       "link": "https://isc.sans.edu/diary/rss/33508",
       "source": "SANS Internet Storm Center",
@@ -125,44 +309,12 @@
       "summary": "A command in Claude Code inadvertently saves files with credentials and other sensitive data to public Git repositories, creating security gaps for organizations."
     },
     {
-      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-10T18:12:21+00:00",
-      "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild. The authentication bypass flaw, which does not yet have a CVE ident"
-    },
-    {
-      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-      "link": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-10T17:43:23+00:00",
-      "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutio"
-    },
-    {
       "title": "AI company Fireworks says hackers stole data, billing info during October breaches",
       "link": "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks",
       "source": "The Record",
       "category": "cybersecurity",
       "published": "2026-11-10T16:08:00+00:00",
       "summary": "Fireworks said the incident affected a \u201climited number of customer accounts\u201d \u2014 all of whom were notified of the attack."
-    },
-    {
-      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
-      "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-10T16:00:55+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in early October 2026, involv"
-    },
-    {
-      "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
-      "link": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-10T15:58:44+00:00",
-      "summary": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that sha"
     },
     {
       "title": "Cybercriminals are increasingly infecting regular people with spyware",
@@ -173,164 +325,12 @@
       "summary": "Cybercriminals are infecting devices on a large scale with spyware, increasingly compromising systems belonging to average people, according to a new report."
     },
     {
-      "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
-      "link": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-10T15:33:59+00:00",
-      "summary": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month uncovered further malicious activity, affecting account and billing information, alongside secrets, dataset"
-    },
-    {
       "title": "Palantir exec nominated to lead CISA; lame-duck Senate vote is uncertain",
       "link": "https://therecord.media/michael-losapio-cisa-director-nomination",
       "source": "The Record",
       "category": "cybersecurity",
       "published": "2026-11-10T14:31:00+00:00",
       "summary": "Michael LoSapio, Palantir's chief information security officer, is officially President Donald Trump's pick to lead the Cybersecurity and Infrastructure Security Agency."
-    },
-    {
-      "title": "The Download: Pelosi\u2019s successor targets AI and data centers face power woes",
-      "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-10T13:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Nancy Pelosi\u2019s replacement is ready to regulate AI \u2014Grace Huckins As a California "
-    },
-    {
-      "title": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier",
-      "link": "https://www.darkreading.com/application-security/ai-reverse-engineering-apps",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-10T13:00:00+00:00",
-      "summary": "Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising opportunities and concerns for organizations and cybersecurity analysts."
-    },
-    {
-      "title": "Evolving metal extraction processes",
-      "link": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-10T13:00:00+00:00",
-      "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century,"
-    },
-    {
-      "title": "Apple Patches Everyting: November 2026 Edition, (Tue, Nov 10th)",
-      "link": "https://isc.sans.edu/diary/rss/33506",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-10T12:48:55+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
-      "link": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-10T12:15:31+00:00",
-      "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance wa"
-    },
-    {
-      "title": "Helping caregivers use AI in everyday life",
-      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-10T12:00:00+00:00",
-      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
-    },
-    {
-      "title": "Introducing Businesses in ChatGPT",
-      "link": "https://openai.com/index/introducing-businesses-chatgpt",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-10T10:00:00+00:00",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
-    },
-    {
-      "title": "Closing the AI guidance gap in education",
-      "link": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-10T09:00:00+00:00",
-      "summary": "New ThinkYoung research and lessons from OpenAI\u2019s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
-    },
-    {
-      "title": "Work at the Frontier: AI\u2019s effect on freelance work",
-      "link": "https://openai.com/index/ai-effect-on-freelance-work",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-10T07:00:00+00:00",
-      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
-    },
-    {
-      "title": "Federated Lightweight Transformer for Network-Layer Cyberattack Detection in O-RAN",
-      "link": "https://arxiv.org/abs/2611.09992",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "summary": "arXiv:2611.09992v1 Announce Type: new Abstract: Open Radio Access Network (O-RAN) improves radio access network flexibility through disaggregation, open interfaces, and programmable RAN Intelligent Controllers (RICs). Ho"
-    },
-    {
-      "title": "zk-DEAP: A Zero-Knowledge Decentralized Encrypted Aggregation Protocol",
-      "link": "https://arxiv.org/abs/2611.10020",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "summary": "arXiv:2611.10020v1 Announce Type: new Abstract: Secure aggregation in domains such as federated learning, Internet of Things, and voting requires operating on private inputs while preserving confidentiality, verifying th"
-    },
-    {
-      "title": "MetaPI: Constructing Prompt Injection Benchmarks from LLM Agent Benchmark",
-      "link": "https://arxiv.org/abs/2611.10026",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "summary": "arXiv:2611.10026v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly perform complex tasks using high-privilege tools, making indirect prompt injection (IPI) a critical security risk. However, I"
-    },
-    {
-      "title": "Alignment Investigation of Mythos 5's behaviour in UK AISI's July 2026 Security Incident",
-      "link": "https://arxiv.org/abs/2611.10030",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "summary": "arXiv:2611.10030v1 Announce Type: new Abstract: This technical report describes an alignment investigation into Mythos 5's behaviour during a security incident in UK AISI's cyber evaluations. During an evaluation, Mythos"
-    },
-    {
-      "title": "zkARc: Succinctly Verifiable Proofs for Neurosymbolic Natural Language Formalization and Verification",
-      "link": "https://arxiv.org/abs/2611.10031",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "summary": "arXiv:2611.10031v1 Announce Type: new Abstract: Autonomous agents increasingly execute consequential actions on behalf of users, but ordinary middleware guardrails do not provide cryptographic proof that a policy was act"
-    },
-    {
-      "title": "Toward Safety-Aware AI Agents in Realistic Social Engineering Attack Scenarios",
-      "link": "https://arxiv.org/abs/2611.10037",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "summary": "arXiv:2611.10037v1 Announce Type: new Abstract: Personal AI agents are increasingly deployed on user devices to execute actions involving real money and sensitive data, but their security under social engineering attacks"
-    },
-    {
-      "title": "Towards a Privacy-Preserving Reliability-Aware Entity Resolution for Attributed Graphs [Vision] (Technical Report)",
-      "link": "https://arxiv.org/abs/2611.10038",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "summary": "arXiv:2611.10038v1 Announce Type: new Abstract: Entity resolution (ER) on attributed graphs aims to identify nodes across multiple graphs that correspond to the same real-world entity and merge them into an integrated gr"
-    },
-    {
-      "title": "Safety Direction Adapter: A Training-Free Post-Hoc Safety Patch for Fine-Tuned Open-Weight LLMs",
-      "link": "https://arxiv.org/abs/2611.10056",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "summary": "arXiv:2611.10056v1 Announce Type: new Abstract: Open-weight LLMs are routinely fine-tuned from public repositories, yet task-specific adaptation can silently erode safety alignment inherited from instruct-tuned bases. Th"
-    },
-    {
-      "title": "Don't Blame The Preferences: Examining The Emergence of Sycophancy in LLM Training",
-      "link": "https://arxiv.org/abs/2611.10045",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-10T05:00:00+00:00",
-      "summary": "arXiv:2611.10045v1 Announce Type: new Abstract: AI sycophancy, the tendency of large language models (LLMs) to flatter users and affirm their beliefs, can undermine accuracy and contribute to misinformation, dependence, "
     }
   ]
 }
