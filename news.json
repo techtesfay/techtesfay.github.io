@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T13:03:24.672726+00:00",
+  "generated_at": "2026-11-11T23:45:49.475044+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -19,6 +19,110 @@
       "category": "ai",
       "published": "2026-11-12T00:00:00+00:00",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+    },
+    {
+      "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
+      "link": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-11T21:44:04+00:00",
+      "summary": "Researchers dubbed an attack chain \"Greeter\" after discovering that attackers deliberately covered their trail by leaving \"hello\" messages in logs."
+    },
+    {
+      "title": "AI Raises the Stakes for Cyber Resilience",
+      "link": "https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-11T21:20:41+00:00",
+      "summary": "An organization's ability to quickly recover from a business disruption will be a competitive advantage in an era of AI-driven threats and business enablement."
+    },
+    {
+      "title": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws",
+      "link": "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-11T20:05:18+00:00",
+      "summary": "The RMM provider also released a hotfix as one of recommended mitigations to address public exploits for the alleged zero-days that allow for attacker takeover."
+    },
+    {
+      "title": "Microsoft Patch Tuesday November 2026, (Tue, Nov 10th)",
+      "link": "https://isc.sans.edu/diary/rss/33508",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-11T18:28:43+00:00",
+      "summary": "Microsoft continues its AI-induced patch surge, addressing 1,260 different vulnerabilities this month. 68 of these vulnerabilities are considered critical. 167 of the vulnerabilities are Chromium issues affecting Microso"
+    },
+    {
+      "title": "Who Runs the Ransomware Group Qilin?",
+      "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "published": "2026-11-11T18:06:01+00:00",
+      "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational sec"
+    },
+    {
+      "title": "What to know about this year\u2019s UN climate talks",
+      "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-11T17:00:00+00:00",
+      "summary": "It\u2019s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking"
+    },
+    {
+      "title": "Iran-backed network directed London attacks over FaceTime, US prosecutors say",
+      "link": "https://therecord.media/iran-backed-network-directed-london-attacks-over-facetime",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-11T16:57:00+00:00",
+      "summary": "An indictment unsealed Tuesday says the broader campaign, targeting Jewish and American sites, included attacks on synagogues in Belgium, the Netherlands and London, and U.S. bank buildings in Amsterdam and Paris."
+    },
+    {
+      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+      "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-11T16:12:46+00:00",
+      "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The vulnerabilities are liste"
+    },
+    {
+      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+      "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-11T15:34:27+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally int"
+    },
+    {
+      "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+      "link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-11T14:01:00+00:00",
+      "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identifi"
+    },
+    {
+      "title": "Poland shuts down government services platform ePUAP following cyberattack",
+      "link": "https://therecord.media/poland-shuts-down-government-services-platform-cyberattack",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-11T13:18:00+00:00",
+      "summary": "The attack targeted a nationwide system that allows users to submit official documents, communicate with government agencies and complete administrative procedures online."
+    },
+    {
+      "title": "Britain, France set out first guidelines for commercial hacking firms",
+      "link": "https://therecord.media/britain-france-set-out-guidelines-for-commercial-hacking-firms",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-11T13:11:00+00:00",
+      "summary": "The guidelines call on businesses that develop, sell or finance CCICs to vet their customers, establish technical safeguards against misuse and to maintain systems for monitoring and reporting abuses."
+    },
+    {
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-11T13:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we\u2019ve "
     },
     {
       "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
@@ -67,22 +171,6 @@
       "category": "cybersecurity",
       "published": "2026-11-11T07:49:04+00:00",
       "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to "
-    },
-    {
-      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
-      "link": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-11T07:21:05+00:00",
-      "summary": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attacker"
-    },
-    {
-      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
-      "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-11T06:04:02+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) cat"
     },
     {
       "title": "Useful Work Can Increase Energy Use: Demand Elasticity and Proof of Useful Work",
@@ -221,6 +309,14 @@
       "summary": ""
     },
     {
+      "title": "JioStar\u2019s chief architect on AI discovery at 500M-user scale",
+      "link": "https://openai.com/index/jiostar-vijay-seshadri",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-11T00:00:00+00:00",
+      "summary": "JioStar\u2019s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
+    },
+    {
       "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
       "link": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
       "source": "Dark Reading",
@@ -235,102 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-11-10T21:55:03+00:00",
       "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical "
-    },
-    {
-      "title": "US Army member arrested in UK over allegations of spying for Russia",
-      "link": "https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-10T21:13:00+00:00",
-      "summary": "The unnamed soldier was arrested by British counterterrorism police \u201cworking closely\u201d with U.S. authorities, including the FBI and the military, the Metropolitan Police said in a statement."
-    },
-    {
-      "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-10T21:01:14+00:00",
-      "summary": "Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries."
-    },
-    {
-      "title": "Microsoft\u2019s Patch Tuesday surpasses 1,000 bugs for second month in a row",
-      "link": "https://therecord.media/patch-tuesday-microsoft-1000-bugs-again",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-10T20:55:00+00:00",
-      "summary": "An exploited Outlook vulnerability drew most of the attention in Microsoft's latest Patch Tuesday, which listed 1,093 bugs total."
-    },
-    {
-      "title": "F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them",
-      "link": "https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-10T20:41:45+00:00",
-      "summary": "New AI Harms Taxonomy traces how harm moves through AI systems, from misleading chatbot answers to compromised autonomous agents, and identifies where defenses can intervene."
-    },
-    {
-      "title": "Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer",
-      "link": "https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-10T20:35:34+00:00",
-      "summary": "Sivilya brings deep cybersecurity and technology leadership to Checkmarx as AI transforms software development."
-    },
-    {
-      "title": "How to Assess OT Incident Response Preparedness",
-      "link": "https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-10T20:18:43+00:00",
-      "summary": "Cloud Range's free 28-question OT Cyber Readiness Assessment helps organizations identify gaps in operational technology (OT) incident response."
-    },
-    {
-      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
-      "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-10T19:23:10+00:00",
-      "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2."
-    },
-    {
-      "title": "Microsoft Patch Tuesday November 2027 , (Tue, Nov 10th)",
-      "link": "https://isc.sans.edu/diary/rss/33508",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-10T19:09:32+00:00",
-      "summary": "Microsoft continues its AI-induced patch surge, addressing 1,260 different vulnerabilities this month. 68 of these vulnerabilities are considered critical. 167 of the vulnerabilities are Chromium issues affecting Microso"
-    },
-    {
-      "title": "AI Coding Agents Leak Thousands of Secrets to GitHub",
-      "link": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-10T18:46:22+00:00",
-      "summary": "A command in Claude Code inadvertently saves files with credentials and other sensitive data to public Git repositories, creating security gaps for organizations."
-    },
-    {
-      "title": "AI company Fireworks says hackers stole data, billing info during October breaches",
-      "link": "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-10T16:08:00+00:00",
-      "summary": "Fireworks said the incident affected a \u201climited number of customer accounts\u201d \u2014 all of whom were notified of the attack."
-    },
-    {
-      "title": "Cybercriminals are increasingly infecting regular people with spyware",
-      "link": "https://therecord.media/spyware-cyber-crime-iverify",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-10T15:45:00+00:00",
-      "summary": "Cybercriminals are infecting devices on a large scale with spyware, increasingly compromising systems belonging to average people, according to a new report."
-    },
-    {
-      "title": "Palantir exec nominated to lead CISA; lame-duck Senate vote is uncertain",
-      "link": "https://therecord.media/michael-losapio-cisa-director-nomination",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-10T14:31:00+00:00",
-      "summary": "Michael LoSapio, Palantir's chief information security officer, is officially President Donald Trump's pick to lead the Cybersecurity and Infrastructure Security Agency."
     }
   ]
 }
