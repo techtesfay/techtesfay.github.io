@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T04:35:34.008555+00:00",
+  "generated_at": "2026-11-12T14:05:43.907233+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,118 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Romania says it stopped Russian cyberattack targeting government emails",
+      "link": "https://therecord.media/romania-russia-cyberattack-emails",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-12T13:30:00+00:00",
+      "summary": "Romania's intelligence agency said it stopped a cyber-espionage campaign by Russian state-linked hackers before the group exfiltrated sensitive data."
+    },
+    {
+      "title": "The Download: COP31\u2019s climate challenge and the quest for immortality",
+      "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-12T13:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. What to know about this year\u2019s UN climate talks Thousands of delegates, lobbyists,"
+    },
+    {
+      "title": "Kazakhstan-linked hackers used AI agent to spy on Central Asian governments",
+      "link": "https://therecord.media/kazakhstan-hackers-central-asia",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-12T13:00:00+00:00",
+      "summary": "Suspected Kazakhstan-linked hackers used an artificial intelligence agent to help spy on Central Asian governments, steal sensitive documents and infiltrate critical infrastructure networks, according to new research."
+    },
+    {
+      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+      "link": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-12T12:09:14+00:00",
+      "summary": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations against attacks between V"
+    },
+    {
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-12T12:02:51+00:00",
+      "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A s"
+    },
+    {
+      "title": "Exploit Attempts for GPUStack Authentication Bypass (CVE-2026-102895), (Thu, Nov 12th)",
+      "link": "https://isc.sans.edu/diary/rss/33514",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-12T11:56:24+00:00",
+      "summary": "CVE-2026-102895 is a trivial authentication-bypass vulnerability. GPUStack is also an attractive target. It is open-source software that manages clusters of GPUs, which are typically used to run AI workloads. All version"
+    },
+    {
+      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+      "link": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-12T11:51:43+00:00",
+      "summary": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. \"Based on our initial review, the serve"
+    },
+    {
+      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+      "link": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-12T11:51:31+00:00",
+      "summary": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on pu"
+    },
+    {
+      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-12T11:33:15+00:00",
+      "summary": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked as CVE-2026-126325, ca"
+    },
+    {
+      "title": "Inside an AI Attack Against a US Retailer",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-12T11:00:00+00:00",
+      "summary": "When hand-typed commands failed to breach a US retailer, the attacker turned to AI-generated scripts, achieving lateral movement in minutes."
+    },
+    {
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-12T09:30:00+00:00",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
+    },
+    {
+      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+      "link": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-12T09:25:00+00:00",
+      "summary": "A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over as the main server "
+    },
+    {
+      "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
+      "link": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-12T08:20:37+00:00",
+      "summary": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client pie"
+    },
+    {
+      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+      "link": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-12T06:42:47+00:00",
+      "summary": "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security software company. The stea"
+    },
     {
       "title": "ISC Stormcast For Thursday, November 12th, 2026 https://isc.sans.edu/podcastdetail/10176, (Thu, Nov 12th)",
       "link": "https://isc.sans.edu/diary/rss/33512",
@@ -35,6 +147,14 @@
       "category": "cybersecurity",
       "published": "2026-11-12T00:00:00+00:00",
       "summary": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers."
+    },
+    {
+      "title": "Supporting research on AI and children\u2019s safety",
+      "link": "https://openai.com/index/children-first-declaration",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-12T00:00:00+00:00",
+      "summary": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
     },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -66,7 +186,7 @@
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-11-11T20:05:18+00:00",
-      "summary": "The RMM provider also released a hotfix as one of recommended mitigations to address public exploits for the alleged zero-days that allow for attacker takeover."
+      "summary": "The RMM provider also released a hotfix as a recommended mitigation to address public exploits for the alleged zero-days, which allow for attacker takeover."
     },
     {
       "title": "Microsoft Patch Tuesday November 2026, (Tue, Nov 10th)",
@@ -101,30 +221,6 @@
       "summary": "An indictment unsealed Tuesday says the broader campaign, targeting Jewish and American sites, included attacks on synagogues in Belgium, the Netherlands and London, and U.S. bank buildings in Amsterdam and Paris."
     },
     {
-      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
-      "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-11T16:12:46+00:00",
-      "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The vulnerabilities are liste"
-    },
-    {
-      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
-      "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-11T15:34:27+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally int"
-    },
-    {
-      "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
-      "link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-11T14:01:00+00:00",
-      "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identifi"
-    },
-    {
       "title": "Poland shuts down government services platform ePUAP following cyberattack",
       "link": "https://therecord.media/poland-shuts-down-government-services-platform-cyberattack",
       "source": "The Record",
@@ -149,38 +245,6 @@
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we\u2019ve "
     },
     {
-      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-      "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-11T12:19:40+00:00",
-      "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at S"
-    },
-    {
-      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
-      "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-11T12:01:59+00:00",
-      "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they\u2019re given, and traceability that\u2019s separate from any human\u2019s. That was true for us at Token as well. T"
-    },
-    {
-      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
-      "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-11T12:00:53+00:00",
-      "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each intermediate CA has its"
-    },
-    {
-      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-      "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-11T08:17:53+00:00",
-      "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, "
-    },
-    {
       "title": "ChatGPT Plus for veterans and servicemembers",
       "link": "https://openai.com/index/chatgpt-plus-for-veterans",
       "source": "OpenAI News",
@@ -189,148 +253,84 @@
       "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
     },
     {
-      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-      "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-11T07:49:04+00:00",
-      "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to "
-    },
-    {
-      "title": "Useful Work Can Increase Energy Use: Demand Elasticity and Proof of Useful Work",
-      "link": "https://arxiv.org/abs/2611.13131",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "summary": "arXiv:2611.13131v1 Announce Type: new Abstract: A serious criticism of Bitcoin's Proof-of-Work is its enormous electricity consumption. Proof-of-Useful-Work (PoUW), introduced by Ball, Rosen, Sabin, and Vasudevan (2017),"
-    },
-    {
-      "title": "Splitting for Stability: a Modified Reward Scheme for Transaction-Fee-Only Regimes",
-      "link": "https://arxiv.org/abs/2611.13252",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "summary": "arXiv:2611.13252v1 Announce Type: new Abstract: As Bitcoin's block subsidy declines over time, miner revenue will come to depend increasingly on transaction fees. In fee-dominated regimes, winner-take-all reward structur"
-    },
-    {
-      "title": "Early Rug Pull Detection on Solana",
-      "link": "https://arxiv.org/abs/2611.13342",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "summary": "arXiv:2611.13342v1 Announce Type: new Abstract: Web3 platforms that help users discover and trade newly launched crypto tokens, including launchpads, decentralized-exchange (DEX) interfaces, wallets, and token-analytics "
-    },
-    {
-      "title": "Stinging the Swarm: Extracting Attacker Intelligence from a Twin-Controller OT Honeypot",
-      "link": "https://arxiv.org/abs/2611.13406",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "summary": "arXiv:2611.13406v1 Announce Type: new Abstract: Autonomous language-model agents can drive industrial controllers over fieldbus protocols, probing a plant at machine speed and in coordinated swarms. We present Talos, an "
-    },
-    {
-      "title": "5G CATS: 5G-Based Cryptographic Authorization Against Trafficking of Semiconductor Devices",
-      "link": "https://arxiv.org/abs/2611.13437",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "summary": "arXiv:2611.13437v1 Announce Type: new Abstract: Enforcing export controls on AI accelerators requires verifying where a chip operates after deployment. Round-trip time measurements can bound a chip's distance from a trus"
-    },
-    {
-      "title": "Data-Efficient Unlearning-Based Backdoor Detection in Federated Learning",
-      "link": "https://arxiv.org/abs/2611.13491",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "summary": "arXiv:2611.13491v1 Announce Type: new Abstract: Detecting backdoor attacks in federated learning (FL) is challenging because malicious clients can manipulate the global model while preserving main-task performance. Stati"
-    },
-    {
-      "title": "TERM: Target-Free Jailbreak Defense via Entropy-Guided Residual Modulation",
-      "link": "https://arxiv.org/abs/2611.13577",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "summary": "arXiv:2611.13577v1 Announce Type: new Abstract: Large language models (LLMs) have shown strong capabilities across diverse applications, making both safety and utility essential for reliable deployment. Jailbreak attacks"
-    },
-    {
-      "title": "POEM: Output-Relative Block-Sparse Attention for Long-Context Prefilling",
-      "link": "https://arxiv.org/abs/2611.13578",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "summary": "arXiv:2611.13578v1 Announce Type: new Abstract: Large language models (LLMs) have shown strong capabilities across diverse applications, making both safety and utility essential for reliable deployment. Jailbreak attacks"
-    },
-    {
-      "title": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
-      "link": "https://arxiv.org/abs/2611.12933",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "summary": "arXiv:2611.12933v1 Announce Type: new Abstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower this barrier, although"
-    },
-    {
-      "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
-      "link": "https://arxiv.org/abs/2611.12934",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "summary": "arXiv:2611.12934v1 Announce Type: new Abstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for E"
-    },
-    {
-      "title": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
-      "link": "https://arxiv.org/abs/2611.12935",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "summary": "arXiv:2611.12935v1 Announce Type: new Abstract: Topic monitoring is the task of labelling the topic of each token in a model's response during generation. Activation-based monitors that run at generation time have so far"
-    },
-    {
-      "title": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
-      "link": "https://arxiv.org/abs/2611.12936",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "summary": "arXiv:2611.12936v1 Announce Type: new Abstract: Intelligent landslide detection is essential for disaster prevention. However, existing models primarily focus on isolated visual tasks, require extensive labeled data, and"
-    },
-    {
-      "title": "Tracing Psychometric Inference in Large Language Models",
-      "link": "https://arxiv.org/abs/2611.12937",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "summary": "arXiv:2611.12937v1 Announce Type: new Abstract: Do large language models represent psychological constructs internally, or do they only generate outputs that resemble psychometric structure? We address this question usin"
-    },
-    {
-      "title": "Graph Visualizations in Prompts for Knowledge Graph Question Answering",
-      "link": "https://arxiv.org/abs/2611.12938",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "summary": "arXiv:2611.12938v1 Announce Type: new Abstract: We study when and how multimodal input improves knowledge graph question answering (KGQA) in large vision--language models. Using a controlled evaluation over 1,500 WebQSP "
-    },
-    {
-      "title": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
-      "link": "https://arxiv.org/abs/2611.12940",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "summary": "arXiv:2611.12940v1 Announce Type: new Abstract: Reinforcement Learning has achieved tremendous success in recent years. Extending its scope from the traditional complex games such as Atari, Go, Pokeman, and Chess, reinfo"
-    },
-    {
-      "title": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
-      "link": "https://arxiv.org/abs/2611.12941",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-11T05:00:00+00:00",
-      "summary": "arXiv:2611.12941v1 Announce Type: new Abstract: The rapid proliferation of autonomously acting AI agents makes the governance of agentic systems urgent. We propose the competence circuit, summarized as IKC + KC + C, that"
-    },
-    {
       "title": "ISC Stormcast For Wednesday, November 11th, 2026 https://isc.sans.edu/podcastdetail/10174, (Wed, Nov 11th)",
       "link": "https://isc.sans.edu/diary/rss/33510",
       "source": "SANS Internet Storm Center",
       "category": "cybersecurity",
       "published": "2026-11-11T02:00:03+00:00",
       "summary": ""
+    },
+    {
+      "title": "JioStar\u2019s chief architect on AI discovery at 500M-user scale",
+      "link": "https://openai.com/index/jiostar-vijay-seshadri",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-11T00:00:00+00:00",
+      "summary": "JioStar\u2019s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
+    },
+    {
+      "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-10T22:26:51+00:00",
+      "summary": "Microsoft serves up an actively exploited Outlook zero-day, and a wave of critical Exchange, SharePoint, Windows Search, and LDAP bugs that exhausted defenders need to prioritize fast."
+    },
+    {
+      "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+      "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "published": "2026-11-10T21:55:03+00:00",
+      "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical "
+    },
+    {
+      "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-10T21:01:14+00:00",
+      "summary": "Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries."
+    },
+    {
+      "title": "The Download: Pelosi\u2019s successor targets AI and data centers face power woes",
+      "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-10T13:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Nancy Pelosi\u2019s replacement is ready to regulate AI \u2014Grace Huckins As a California "
+    },
+    {
+      "title": "Evolving metal extraction processes",
+      "link": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-10T13:00:00+00:00",
+      "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century,"
+    },
+    {
+      "title": "Apple Patches Everyting: November 2026 Edition, (Tue, Nov 10th)",
+      "link": "https://isc.sans.edu/diary/rss/33506",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-10T12:48:55+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Helping caregivers use AI in everyday life",
+      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-10T12:00:00+00:00",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "link": "https://openai.com/index/introducing-businesses-chatgpt",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-10T10:00:00+00:00",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
     }
   ]
 }
