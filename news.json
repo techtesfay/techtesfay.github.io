@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T23:45:49.475044+00:00",
+  "generated_at": "2026-11-12T04:35:34.008555+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,30 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "ISC Stormcast For Thursday, November 12th, 2026 https://isc.sans.edu/podcastdetail/10176, (Thu, Nov 12th)",
+      "link": "https://isc.sans.edu/diary/rss/33512",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-12T02:00:03+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
+      "link": "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-12T01:00:00+00:00",
+      "summary": "The CCP built a Big Data system to scrape reams of information and learn about individuals abroad, to potentially target and exploit them. Think Alice Huang Lite."
+    },
+    {
+      "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
+      "link": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-12T00:00:00+00:00",
+      "summary": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers."
+    },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
@@ -307,30 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-11-11T02:00:03+00:00",
       "summary": ""
-    },
-    {
-      "title": "JioStar\u2019s chief architect on AI discovery at 500M-user scale",
-      "link": "https://openai.com/index/jiostar-vijay-seshadri",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-11T00:00:00+00:00",
-      "summary": "JioStar\u2019s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
-    },
-    {
-      "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-10T22:26:51+00:00",
-      "summary": "Microsoft serves up an actively exploited Outlook zero-day, and a wave of critical Exchange, SharePoint, Windows Search, and LDAP bugs that exhausted defenders need to prioritize fast."
-    },
-    {
-      "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
-      "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
-      "source": "Krebs on Security",
-      "category": "cybersecurity",
-      "published": "2026-11-10T21:55:03+00:00",
-      "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical "
     }
   ]
 }
