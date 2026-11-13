@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T22:55:18.426651+00:00",
+  "generated_at": "2026-11-13T03:49:02.869961+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,30 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Macfinger ClickFix campaign sends DownTheDRAIN infostealer for macOS, (Fri, Nov 13th)",
+      "link": "https://isc.sans.edu/diary/rss/33518",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-13T03:41:41+00:00",
+      "summary": "Introduction"
+    },
+    {
+      "title": "ISC Stormcast For Friday, November 13th, 2026 https://isc.sans.edu/podcastdetail/10178, (Fri, Nov 13th)",
+      "link": "https://isc.sans.edu/diary/rss/33516",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-13T02:00:03+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Getting Past the Post-Quantum Cryptography Discovery Phase",
+      "link": "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-12T22:46:05+00:00",
+      "summary": "Most organizations haven't sorted out their cryptographic estate enough to even know where they'd start with post-quantum cryptography (PQC)."
+    },
     {
       "title": "Feds announce seizure of $1.2 billion from Binance theft; also takedown of \u2018FaceStealer\u2019 tools",
       "link": "https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted",
@@ -46,7 +70,7 @@
     },
     {
       "title": "How Amplitude ships product improvements in 1\u20132 days with OpenAI",
-      "link": "https://openai.com/index/amplitude",
+      "link": "https://openai.com/business/customer-stories/amplitude",
       "source": "OpenAI News",
       "category": "ai",
       "published": "2026-11-12T20:00:00+00:00",
@@ -157,6 +181,14 @@
       "summary": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations against attacks between V"
     },
     {
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "link": "https://openai.com/business/customer-stories/gondola",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-12T12:00:00+00:00",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer\u2019s output by 50% and ChatGPT simplifying daily work."
+    },
+    {
       "title": "Exploit Attempts for GPUStack Authentication Bypass (CVE-2026-102895), (Thu, Nov 12th)",
       "link": "https://isc.sans.edu/diary/rss/33514",
       "source": "SANS Internet Storm Center",
@@ -237,14 +269,6 @@
       "summary": "Researchers dubbed an attack chain \"Greeter\" after discovering that attackers deliberately covered their trail by leaving \"hello\" messages in logs."
     },
     {
-      "title": "AI Raises the Stakes for Cyber Resilience",
-      "link": "https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-11T21:20:41+00:00",
-      "summary": "An organization's ability to quickly recover from a business disruption will be a competitive advantage in an era of AI-driven threats and business enablement."
-    },
-    {
       "title": "Microsoft Patch Tuesday November 2026, (Tue, Nov 10th)",
       "link": "https://isc.sans.edu/diary/rss/33508",
       "source": "SANS Internet Storm Center",
@@ -307,30 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-11-10T21:55:03+00:00",
       "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical "
-    },
-    {
-      "title": "The Download: Pelosi\u2019s successor targets AI and data centers face power woes",
-      "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-10T13:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Nancy Pelosi\u2019s replacement is ready to regulate AI \u2014Grace Huckins As a California "
-    },
-    {
-      "title": "Evolving metal extraction processes",
-      "link": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-10T13:00:00+00:00",
-      "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century,"
-    },
-    {
-      "title": "Apple Patches Everyting: November 2026 Edition, (Tue, Nov 10th)",
-      "link": "https://isc.sans.edu/diary/rss/33506",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-10T12:48:55+00:00",
-      "summary": ""
     }
   ]
 }
