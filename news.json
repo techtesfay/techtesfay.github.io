@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T22:57:33.030732+00:00",
+  "generated_at": "2026-11-14T03:47:12.414678+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -165,6 +165,14 @@
       "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in G"
     },
     {
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "link": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-13T08:00:00+00:00",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
+    },
+    {
       "title": "SideTaskBench: Measuring Unauthorized Side-Task Delivery in Coding Agents",
       "link": "https://arxiv.org/abs/2611.14548",
       "source": "arXiv cs.CR",
@@ -323,14 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-11-12T21:18:52+00:00",
       "summary": "Cybercriminals using agentic pen-testing tools is a proverbial genie out of the bottle at this point, so enterprises need to get a defense plan in place right away."
-    },
-    {
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-12T20:16:24+00:00",
-      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review i"
     }
   ]
 }
