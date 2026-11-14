@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T03:47:12.414678+00:00",
+  "generated_at": "2026-11-14T12:36:34.479706+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -173,134 +173,6 @@
       "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
     },
     {
-      "title": "SideTaskBench: Measuring Unauthorized Side-Task Delivery in Coding Agents",
-      "link": "https://arxiv.org/abs/2611.14548",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "summary": "arXiv:2611.14548v1 Announce Type: new Abstract: Can a coding agent fix a user's repository while also completing and delivering work the user never requested? In this paper, we introduce SideTaskBench to measure this fai"
-    },
-    {
-      "title": "Incrementally Verifiable Oracle Aided Computation",
-      "link": "https://arxiv.org/abs/2611.14698",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "summary": "arXiv:2611.14698v1 Announce Type: new Abstract: Incrementally verifiable computation (IVC) allows a prover to maintain a short proof that can be efficiently updated after each computation step, without retaining or recom"
-    },
-    {
-      "title": "OverServe: Resource Amplification Attacks on SaaS Agents via Tool--Prompt Co-Design",
-      "link": "https://arxiv.org/abs/2611.14808",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "summary": "arXiv:2611.14808v1 Announce Type: new Abstract: Advances in large language models (LLMs) are enabling software-as-a-service (SaaS) providers to automate longer business workflows with agents. In subscription-based SaaS d"
-    },
-    {
-      "title": "What Does an RF Fingerprint Identify? A Cross-Corpus Evaluation of Hardware-Family-Associated and Unit-Level Signal",
-      "link": "https://arxiv.org/abs/2611.14835",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "summary": "arXiv:2611.14835v1 Announce Type: new Abstract: RF fingerprinting benchmarks report how well a classifier separates transmitters, not whether that separability reflects the individual unit or its hardware family. We comp"
-    },
-    {
-      "title": "When Safety Becomes an Attack Surface: Manipulating Abstention in Tool-Using AI Agents",
-      "link": "https://arxiv.org/abs/2611.14864",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "summary": "arXiv:2611.14864v1 Announce Type: new Abstract: An AI agent's decision not to act can itself become an attack surface. We study warning-induced over-abstention, an availability attack in which adversaries place fabricate"
-    },
-    {
-      "title": "Stress-Testing Sandbagging Detection Under Adaptive Attack",
-      "link": "https://arxiv.org/abs/2611.14950",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "summary": "arXiv:2611.14950v1 Announce Type: new Abstract: Developers, auditors and researchers read evaluation scores as evidence of what a model can do. A model that sandbags, scoring low on purpose while keeping the capability, "
-    },
-    {
-      "title": "Hijacking a Trusted LLM in Real-World Quantized Deployments Only Requires a Disguised Adapter",
-      "link": "https://arxiv.org/abs/2611.14978",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "summary": "arXiv:2611.14978v1 Announce Type: new Abstract: Third-party low-rank adaptation (LoRA) adapters are tailored to perform decision tasks such as content moderation and function selection. However, in the real world, quanti"
-    },
-    {
-      "title": "VRMaaS: Verifiable Reward-Model-as-a-Service for Trustworthy LLM Alignment",
-      "link": "https://arxiv.org/abs/2611.14984",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "summary": "arXiv:2611.14984v1 Announce Type: new Abstract: Reward models (RMs) are increasingly deployed as service components in LLM alignment pipelines, where payment, audit, moderation, and governance workflows act on the scores"
-    },
-    {
-      "title": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
-      "link": "https://arxiv.org/abs/2611.14544",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "summary": "arXiv:2611.14544v1 Announce Type: new Abstract: Digitizing handwritten chess scoresheets has been studied as a handwriting-recognition problem: read the move in each box and check that it is legal. This framing misses th"
-    },
-    {
-      "title": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
-      "link": "https://arxiv.org/abs/2611.14654",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "summary": "arXiv:2611.14654v1 Announce Type: new Abstract: Tool-using language-model agents accumulate histories of their own mistakes, and a system that compacts, repairs or hands off such a history decides what it says about thos"
-    },
-    {
-      "title": "Together Compiler: Continual Compilation for AI Inference",
-      "link": "https://arxiv.org/abs/2611.14681",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "summary": "arXiv:2611.14681v1 Announce Type: new Abstract: Today's AI workloads are rapidly changing: new models are released more often, model architectures are increasingly diverse, and traffic distributions change frequently. Th"
-    },
-    {
-      "title": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
-      "link": "https://arxiv.org/abs/2611.14736",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "summary": "arXiv:2611.14736v1 Announce Type: new Abstract: Observational causal discovery often leaves causal di- rections unresolved or unstable. Large language mod- els (LLMs) can provide semantic information to resolve these dir"
-    },
-    {
-      "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
-      "link": "https://arxiv.org/abs/2611.14765",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "summary": "arXiv:2611.14765v1 Announce Type: new Abstract: Current benchmarks for LLM-driven data agents saturate quickly and cannot target specific capabilities. We present SynthCorp, a platform that creates customizable data esta"
-    },
-    {
-      "title": "Rational Use of Time for Social Coordination in Humans and AI",
-      "link": "https://arxiv.org/abs/2611.14766",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "summary": "arXiv:2611.14766v1 Announce Type: new Abstract: All social interactions are situated in time. Previous studies have shown that humans are able to use implicit temporal cues, such as the duration of a pause, to infer othe"
-    },
-    {
-      "title": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
-      "link": "https://arxiv.org/abs/2611.14769",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "summary": "arXiv:2611.14769v1 Announce Type: new Abstract: Arena-style rankings of language models are a widely used evaluation framework in online leaderboards, research papers, and model evaluation in production. These rankings a"
-    },
-    {
-      "title": "Robust Task-Aware State Estimation from Pre-trained Perception",
-      "link": "https://arxiv.org/abs/2611.14781",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-13T05:00:00+00:00",
-      "summary": "arXiv:2611.14781v1 Announce Type: new Abstract: Agents that perform state estimation using pretrained perception models, e.g., Vision-Language Models (VLMs), face the fundamental challenge that predictions are uncertain."
-    },
-    {
       "title": "Macfinger ClickFix campaign sends DownTheDRAIN infostealer for macOS, (Fri, Nov 13th)",
       "link": "https://isc.sans.edu/diary/rss/33518",
       "source": "SANS Internet Storm Center",
@@ -331,6 +203,134 @@
       "category": "cybersecurity",
       "published": "2026-11-12T21:18:52+00:00",
       "summary": "Cybercriminals using agentic pen-testing tools is a proverbial genie out of the bottle at this point, so enterprises need to get a defense plan in place right away."
+    },
+    {
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-12T20:16:24+00:00",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review i"
+    },
+    {
+      "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time",
+      "link": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-12T20:09:41+00:00",
+      "summary": "The cybercriminals are retargeting law firms that refused to pay its first ransom, with a social engineering con aimed at stealing Microsoft access tokens."
+    },
+    {
+      "title": "How Amplitude ships product improvements in 1\u20132 days with OpenAI",
+      "link": "https://openai.com/business/customer-stories/amplitude",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-12T20:00:00+00:00",
+      "summary": "Built primarily on OpenAI models, Amplitude\u2019s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
+    },
+    {
+      "title": "The Download: COP31\u2019s climate challenge and the quest for immortality",
+      "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-12T13:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. What to know about this year\u2019s UN climate talks Thousands of delegates, lobbyists,"
+    },
+    {
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "link": "https://openai.com/business/customer-stories/gondola",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-12T12:00:00+00:00",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer\u2019s output by 50% and ChatGPT simplifying daily work."
+    },
+    {
+      "title": "Exploit Attempts for GPUStack Authentication Bypass (CVE-2026-102895), (Thu, Nov 12th)",
+      "link": "https://isc.sans.edu/diary/rss/33514",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-12T11:56:24+00:00",
+      "summary": "CVE-2026-102895 is a trivial authentication-bypass vulnerability. GPUStack is also an attractive target. It is open-source software that manages clusters of GPUs, which are typically used to run AI workloads. All version"
+    },
+    {
+      "title": "Inside an AI Attack Against a US Retailer",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-12T11:00:00+00:00",
+      "summary": "When hand-typed commands failed to breach a US retailer, the attacker turned to AI-generated scripts, achieving lateral movement in minutes."
+    },
+    {
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-12T09:30:00+00:00",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
+    },
+    {
+      "title": "ISC Stormcast For Thursday, November 12th, 2026 https://isc.sans.edu/podcastdetail/10176, (Thu, Nov 12th)",
+      "link": "https://isc.sans.edu/diary/rss/33512",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-12T02:00:03+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
+      "link": "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-12T01:00:00+00:00",
+      "summary": "The CCP built a Big Data system to scrape reams of information and learn about individuals abroad, to potentially target and exploit them. Think Alice Huang Lite."
+    },
+    {
+      "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
+      "link": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-12T00:00:00+00:00",
+      "summary": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers."
+    },
+    {
+      "title": "Supporting research on AI and children\u2019s safety",
+      "link": "https://openai.com/index/children-first-declaration",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-12T00:00:00+00:00",
+      "summary": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
+    },
+    {
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-12T00:00:00+00:00",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+    },
+    {
+      "title": "Microsoft Patch Tuesday November 2026, (Tue, Nov 10th)",
+      "link": "https://isc.sans.edu/diary/rss/33508",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-11T18:28:43+00:00",
+      "summary": "Microsoft continues its AI-induced patch surge, addressing 1,260 different vulnerabilities this month. 68 of these vulnerabilities are considered critical. 167 of the vulnerabilities are Chromium issues affecting Microso"
+    },
+    {
+      "title": "Who Runs the Ransomware Group Qilin?",
+      "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "published": "2026-11-11T18:06:01+00:00",
+      "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational sec"
+    },
+    {
+      "title": "What to know about this year\u2019s UN climate talks",
+      "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-11T17:00:00+00:00",
+      "summary": "It\u2019s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking"
     }
   ]
 }
