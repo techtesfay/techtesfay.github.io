@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T12:36:34.479706+00:00",
+  "generated_at": "2026-11-14T21:44:28.811550+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-14T12:38:35+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities"
+    },
     {
       "title": "FBI flash alert says Artex tool automating cyberattacks at \u2018machine speed\u2019",
       "link": "https://therecord.media/artex-ai-tool-fbi-flash-alert",
@@ -155,14 +163,6 @@
       "category": "ai",
       "published": "2026-11-13T10:00:00+00:00",
       "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta\u2019s Mark Zuckerberg"
-    },
-    {
-      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-13T08:05:49+00:00",
-      "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in G"
     },
     {
       "title": "Shield helps technicians hand off legacy portal work with OpenAI",
