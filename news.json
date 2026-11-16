@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T03:27:09.306211+00:00",
+  "generated_at": "2026-11-16T14:06:50.568864+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,12 +13,212 @@
   ],
   "items": [
     {
+      "title": "Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)",
+      "link": "https://isc.sans.edu/diary/rss/33522",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-16T13:11:04+00:00",
+      "summary": "This weekend, we started seeing requests for /mcp-rest/test/tools/list hitting our honeypots. These requests appear to attempt to exploit CVE-2026-42271 and CVE-2026-48710. Horizon3.ai published a short write-up about ho"
+    },
+    {
+      "title": "The Download: testing tech promises and searching for cognitive immortality",
+      "link": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-16T13:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you me"
+    },
+    {
+      "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
+      "link": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-16T12:34:21+00:00",
+      "summary": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No patch is available, and "
+    },
+    {
+      "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
+      "link": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-16T12:33:18+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based installer executable dropped a file na"
+    },
+    {
+      "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
+      "link": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-16T09:32:57+00:00",
+      "summary": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads. Central to the i"
+    },
+    {
+      "title": "LVMH\u2019s Media Division announces strategic partnership with OpenAI",
+      "link": "https://openai.com/index/lvmh-media-division-partnership",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-16T09:00:00+00:00",
+      "summary": "LVMH\u2019s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
+    },
+    {
+      "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+      "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-16T07:34:21+00:00",
+      "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which A"
+    },
+    {
+      "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
+      "link": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-16T06:53:34+00:00",
+      "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documente"
+    },
+    {
+      "title": "Beyond Attack-Based Accuracy: Rethinking Adversarial Robustness Evaluation Through Structural Gradient Alignment",
+      "link": "https://arxiv.org/abs/2611.17377",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-16T05:00:00+00:00",
+      "summary": "arXiv:2611.17377v1 Announce Type: new Abstract: Visual adversarial robustness remains a fundamental security property as vision systems evolve from conventional classifiers to vision-language models (VLMs) and large visi"
+    },
+    {
+      "title": "Evolutionary-based Transfer Learning for Physical Attack on End-to-End Autoencoder Communications",
+      "link": "https://arxiv.org/abs/2611.17393",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-16T05:00:00+00:00",
+      "summary": "arXiv:2611.17393v1 Announce Type: new Abstract: End-to-end autoencoder communication has emerged as a promising means of achieving efficient data transmission across various domains. Nevertheless, vulnerabilities have re"
+    },
+    {
+      "title": "Can LLMs Write Backdoors? An Empirical Security Study of Weight-Space Programming",
+      "link": "https://arxiv.org/abs/2611.17395",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-16T05:00:00+00:00",
+      "summary": "arXiv:2611.17395v1 Announce Type: new Abstract: Recent advances in weight-space programming (WSP) have demonstrated that large language models (LLMs) can directly inspect and modify neural network weights without convent"
+    },
+    {
+      "title": "I2C-GRPO: Insight Importance Checklist for Reinforcement Learning in a Multi-Agent DDoS Alert Triage Workflow",
+      "link": "https://arxiv.org/abs/2611.17534",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-16T05:00:00+00:00",
+      "summary": "arXiv:2611.17534v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly used for investigative tasks over incomplete evidence, such as cybersecurity alert triage, but reinforcement learning (RL"
+    },
+    {
+      "title": "Online Allocation with Differential Privacy",
+      "link": "https://arxiv.org/abs/2611.17554",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-16T05:00:00+00:00",
+      "summary": "arXiv:2611.17554v1 Announce Type: new Abstract: We study private online allocation problems, where allocation decisions must satisfy differential privacy (DP) to protect sensitive user information while optimizing perfor"
+    },
+    {
+      "title": "Tractable Importance Sampling for Monte Carlo Privacy Accounting",
+      "link": "https://arxiv.org/abs/2611.17596",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-16T05:00:00+00:00",
+      "summary": "arXiv:2611.17596v1 Announce Type: new Abstract: Evaluating tight Differential Privacy (DP) parameters for DP matrix factorization with privacy amplification by sampling requires analyzing high-dimensional, correlated Gau"
+    },
+    {
+      "title": "Binarization as an Attack Surface in Weightless Neural Networks",
+      "link": "https://arxiv.org/abs/2611.17646",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-16T05:00:00+00:00",
+      "summary": "arXiv:2611.17646v1 Announce Type: new Abstract: Weightless Neural Networks (WNNs) are lightweight classifiers that binarize their inputs and learn by storing binary patterns in lookup memories, which makes them attractiv"
+    },
+    {
+      "title": "iGRAIL: Blockchain-Based Generative Federated Learning for Trustworthy Healthcare Intelligence",
+      "link": "https://arxiv.org/abs/2611.17703",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-16T05:00:00+00:00",
+      "summary": "arXiv:2611.17703v1 Announce Type: new Abstract: Healthcare organizations collect huge amounts of patient data from clinical records, medical tests, monitoring systems, and healthcare services. Such data can underpin inte"
+    },
+    {
+      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+      "link": "https://arxiv.org/abs/2611.17338",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-16T05:00:00+00:00",
+      "summary": "arXiv:2611.17338v1 Announce Type: new Abstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical f"
+    },
+    {
+      "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+      "link": "https://arxiv.org/abs/2611.17339",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-16T05:00:00+00:00",
+      "summary": "arXiv:2611.17339v1 Announce Type: new Abstract: Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets and exact-match or ROUGE correc"
+    },
+    {
+      "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+      "link": "https://arxiv.org/abs/2611.17340",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-16T05:00:00+00:00",
+      "summary": "arXiv:2611.17340v1 Announce Type: new Abstract: Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but repeated adaptation creates a gro"
+    },
+    {
+      "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+      "link": "https://arxiv.org/abs/2611.17341",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-16T05:00:00+00:00",
+      "summary": "arXiv:2611.17341v1 Announce Type: new Abstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended cas"
+    },
+    {
+      "title": "An Operationalization of Opaque Serial Depth",
+      "link": "https://arxiv.org/abs/2611.17495",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-16T05:00:00+00:00",
+      "summary": "arXiv:2611.17495v1 Announce Type: new Abstract: Chain-of-thought (CoT) is currently a valuable tool for overseeing AI models, but some architectural shifts could significantly reduce CoT monitorability. We operationalize"
+    },
+    {
+      "title": "Advancing Quantization for R&R Models with Microscaling Formats",
+      "link": "https://arxiv.org/abs/2611.17501",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-16T05:00:00+00:00",
+      "summary": "arXiv:2611.17501v1 Announce Type: new Abstract: Recommendation and Ranking (R&R) models, particularly in digital advertising, require massive inference throughput but exhibit extreme sensitivity to precision loss. Unlike"
+    },
+    {
+      "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+      "link": "https://arxiv.org/abs/2611.17515",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-16T05:00:00+00:00",
+      "summary": "arXiv:2611.17515v1 Announce Type: new Abstract: Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a defendant in the London silver-fixing litiga"
+    },
+    {
+      "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
+      "link": "https://arxiv.org/abs/2611.17524",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-16T05:00:00+00:00",
+      "summary": "arXiv:2611.17524v1 Announce Type: new Abstract: A small labelled dataset is memorized long before the training budget runs out, and the one-hot labels that remain to be fitted then mostly sharpen confidence. Model anneal"
+    },
+    {
       "title": "ISC Stormcast For Monday, November 16th, 2026 https://isc.sans.edu/podcastdetail/10180, (Mon, Nov 16th)",
       "link": "https://isc.sans.edu/diary/rss/33520",
       "source": "SANS Internet Storm Center",
       "category": "cybersecurity",
       "published": "2026-11-16T02:00:05+00:00",
       "summary": ""
+    },
+    {
+      "title": "The King\u2019s Trust and OpenAI launch \u00a31m partnership",
+      "link": "https://openai.com/index/the-kings-trust-and-openai",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-16T00:00:00+00:00",
+      "summary": "The King\u2019s Trust and OpenAI launch a \u00a31m partnership to help up to 25,000 young people across the UK build practical AI skills for work."
     },
     {
       "title": "A step toward defining the Standard Model on a lattice",
@@ -82,7 +282,7 @@
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-11-13T20:20:27+00:00",
-      "summary": "The Android malware has expanded from focusing on crypto theft to full device control, and the attackers have added advanced analysis of stolen information."
+      "summary": "The Android malware has expanded from focusing on cryptocurrency theft to full device control, and the attackers have added advanced analysis of stolen information."
     },
     {
       "title": "City of Osaka warns of data breach impacting 1 million as Japan reels from dozens of cyber incidents",
@@ -109,28 +309,12 @@
       "summary": "In a statement to Recorded Future News, a spokesperson said an investigation into the attack confirmed the stolen data but declined to say what information was obtained by the threat actors."
     },
     {
-      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
-      "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-13T16:53:08+00:00",
-      "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires "
-    },
-    {
       "title": "German parliament passes law giving spy agencies hacking, sabotage powers",
       "link": "https://therecord.media/german-parliament-passes-law-giving-spy-agencies-hacking-power",
       "source": "The Record",
       "category": "cybersecurity",
       "published": "2026-11-13T16:32:00+00:00",
       "summary": "In the biggest overhaul of the country\u2019s spy laws of the postwar era, the Bundestag approved the bill by 308 votes to 190 \u2014 with 71 abstentions \u2014 months after Chancellor Friedrich Merz\u2019s cabinet signed off on the draft."
-    },
-    {
-      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
-      "link": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-13T15:27:05+00:00",
-      "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memo"
     },
     {
       "title": "Introducing ChatGPT Wallet",
@@ -141,196 +325,12 @@
       "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
     },
     {
-      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
-      "link": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-13T14:28:58+00:00",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as par"
-    },
-    {
-      "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
-      "link": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-13T13:54:20+00:00",
-      "summary": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The implant reads the phrase "
-    },
-    {
       "title": "The Download: Silicon Valley\u2019s blind spot and Nvidia\u2019s chip-tracking plan",
       "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
       "source": "MIT Technology Review",
       "category": "ai",
       "published": "2026-11-13T13:10:00+00:00",
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong?"
-    },
-    {
-      "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
-      "link": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-13T13:00:00+00:00",
-      "summary": "Blockchain complexities, such as attacker-deployed sweepers, hobble security controls designed to limit the damage of an exchange compromise."
-    },
-    {
-      "title": "When an AI Agent Goes Wrong, Can You Stop It?",
-      "link": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-13T11:52:31+00:00",
-      "summary": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because "
-    },
-    {
-      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-      "link": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-13T10:00:00+00:00",
-      "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to \u201cspeak.\u201d The people who volunteer for tr"
-    },
-    {
-      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-      "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-13T10:00:00+00:00",
-      "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta\u2019s Mark Zuckerberg"
-    },
-    {
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "link": "https://openai.com/business/customer-stories/shield",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-13T08:00:00+00:00",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment."
-    },
-    {
-      "title": "Macfinger ClickFix campaign sends DownTheDRAIN infostealer for macOS, (Fri, Nov 13th)",
-      "link": "https://isc.sans.edu/diary/rss/33518",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-13T03:41:41+00:00",
-      "summary": "Introduction"
-    },
-    {
-      "title": "ISC Stormcast For Friday, November 13th, 2026 https://isc.sans.edu/podcastdetail/10178, (Fri, Nov 13th)",
-      "link": "https://isc.sans.edu/diary/rss/33516",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-13T02:00:03+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Getting Past the Post-Quantum Cryptography Discovery Phase",
-      "link": "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-12T22:46:05+00:00",
-      "summary": "Most organizations haven't sorted out their cryptographic estate enough to even know where they'd start with post-quantum cryptography (PQC)."
-    },
-    {
-      "title": "Cyber Experts Weigh In: How to Fight Artex & AntiFox",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-12T21:18:52+00:00",
-      "summary": "Cybercriminals using agentic pen-testing tools is a proverbial genie out of the bottle at this point, so enterprises need to get a defense plan in place right away."
-    },
-    {
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-12T20:16:24+00:00",
-      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review i"
-    },
-    {
-      "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time",
-      "link": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-12T20:09:41+00:00",
-      "summary": "The cybercriminals are retargeting law firms that refused to pay its first ransom, with a social engineering con aimed at stealing Microsoft access tokens."
-    },
-    {
-      "title": "How Amplitude ships product improvements in 1\u20132 days with OpenAI",
-      "link": "https://openai.com/business/customer-stories/amplitude",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-12T20:00:00+00:00",
-      "summary": "Built primarily on OpenAI models, Amplitude\u2019s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
-    },
-    {
-      "title": "The Download: COP31\u2019s climate challenge and the quest for immortality",
-      "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-12T13:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. What to know about this year\u2019s UN climate talks Thousands of delegates, lobbyists,"
-    },
-    {
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "link": "https://openai.com/business/customer-stories/gondola",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-12T12:00:00+00:00",
-      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer\u2019s output by 50% and ChatGPT simplifying daily work."
-    },
-    {
-      "title": "Exploit Attempts for GPUStack Authentication Bypass (CVE-2026-102895), (Thu, Nov 12th)",
-      "link": "https://isc.sans.edu/diary/rss/33514",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-12T11:56:24+00:00",
-      "summary": "CVE-2026-102895 is a trivial authentication-bypass vulnerability. GPUStack is also an attractive target. It is open-source software that manages clusters of GPUs, which are typically used to run AI workloads. All version"
-    },
-    {
-      "title": "Inside an AI Attack Against a US Retailer",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-12T11:00:00+00:00",
-      "summary": "When hand-typed commands failed to breach a US retailer, the attacker turned to AI-generated scripts, achieving lateral movement in minutes."
-    },
-    {
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-12T09:30:00+00:00",
-      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
-    },
-    {
-      "title": "ISC Stormcast For Thursday, November 12th, 2026 https://isc.sans.edu/podcastdetail/10176, (Thu, Nov 12th)",
-      "link": "https://isc.sans.edu/diary/rss/33512",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-12T02:00:03+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
-      "link": "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-12T01:00:00+00:00",
-      "summary": "The CCP built a Big Data system to scrape reams of information and learn about individuals abroad, to potentially target and exploit them. Think Alice Huang Lite."
-    },
-    {
-      "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
-      "link": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-12T00:00:00+00:00",
-      "summary": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers."
-    },
-    {
-      "title": "Supporting research on AI and children\u2019s safety",
-      "link": "https://openai.com/index/children-first-declaration",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-12T00:00:00+00:00",
-      "summary": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
     }
   ]
 }
