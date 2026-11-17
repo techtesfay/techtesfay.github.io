@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T14:06:50.568864+00:00",
+  "generated_at": "2026-11-17T01:11:54.115632+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,126 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-16T22:08:20+00:00",
+      "summary": "One of the oldest running bug disclosure programs announced it would shorten public disclosure timelines to vendors from 120 days to 30 over the next 14 months."
+    },
+    {
+      "title": "California sues OpenAI for Hugging Face and other incidents, alleging deception and recklessness",
+      "link": "https://therecord.media/california-sues-openai-hugging-face",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-16T21:40:00+00:00",
+      "summary": "\"OpenAI thwarted the Attorney General\u2019s efforts to investigate these incidents, including by refusing to provide detailed information about the full universe of incidents known to the company,\u201d California alleges in a ne"
+    },
+    {
+      "title": "Match fined $10 million for alleged Tinder privacy violations",
+      "link": "https://therecord.media/ireland-tinder-privacy-fine",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-16T20:15:00+00:00",
+      "summary": "Ireland\u2019s data protection regulator will fine the Match Group as a result of the dating app Tinder allegedly failing to provide users with their personal data held by the company upon request."
+    },
+    {
+      "title": "Ransomware Attacks Increase Behind AI, But Payments Decline",
+      "link": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-16T19:56:05+00:00",
+      "summary": "Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly."
+    },
+    {
+      "title": "'Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-16T19:10:03+00:00",
+      "summary": "Malware can lurk inside just 0.00001% of a neural network. How, then, can any user tell it's there?"
+    },
+    {
+      "title": "The open-source movement wants Jensen Huang back",
+      "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-16T18:38:47+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating"
+    },
+    {
+      "title": "Italian regulator fines Meta $886 million for violating data privacy law",
+      "link": "https://therecord.media/italian-regulator-fines-meta-886-million-privacy",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-16T18:05:00+00:00",
+      "summary": "The crackdown on Meta\u2019s Facebook platform involved the company\u2019s alleged use of its \u201ccamera roll\u201d suggestions option, launched in 2023, to browse Android users\u2019 photo galleries to recommend posts they could enhance with "
+    },
+    {
+      "title": "King Charles opens new HQ for National Cyber Force, UK\u2019s offensive hacking unit",
+      "link": "https://therecord.media/uk-national-cyber-force-headquarters-opens",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-16T17:22:00+00:00",
+      "summary": "A building near the Lancashire village of Samlesbury in northwest England is officially the headquarters for the secretive unit that runs the Britain's offensive cyber operations."
+    },
+    {
+      "title": "Russia denies intercepting Romanian government emails",
+      "link": "https://therecord.media/romania-russia-cyberattack-espionage",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-16T17:00:00+00:00",
+      "summary": "Russia has denied accusations that its state-backed hackers targeted a Romanian government institution in an attempt to intercept emails exchanged with NATO and the European Union."
+    },
+    {
+      "title": "Broadening access to AI for scientists",
+      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-16T17:00:00+00:00",
+      "summary": "We\u2019re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
+    },
+    {
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "link": "https://openai.com/index/strengthening-online-child-safety",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-16T17:00:00+00:00",
+      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
+    },
+    {
+      "title": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-16T16:36:55+00:00",
+      "summary": "Attackers used Cairn once again in autonomous attacks that targeted advanced manufacturing and defense sectors, as well as civil and human rights organizations."
+    },
+    {
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-16T16:04:28+00:00",
+      "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed"
+    },
+    {
+      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+      "link": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-16T14:00:00+00:00",
+      "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, "
+    },
+    {
+      "title": "\u26a1 Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+      "link": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-16T13:27:20+00:00",
+      "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always do"
+    },
     {
       "title": "Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)",
       "link": "https://isc.sans.edu/diary/rss/33522",
@@ -27,6 +147,14 @@
       "category": "ai",
       "published": "2026-11-16T13:10:00+00:00",
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you me"
+    },
+    {
+      "title": "Building AI that can work across the enterprise",
+      "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-16T13:00:00+00:00",
+      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving fro"
     },
     {
       "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
@@ -45,6 +173,14 @@
       "summary": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based installer executable dropped a file na"
     },
     {
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "link": "https://openai.com/index/science-at-the-frontier",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-16T12:00:00+00:00",
+      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
+    },
+    {
       "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
       "link": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
       "source": "The Hacker News",
@@ -61,6 +197,14 @@
       "summary": "LVMH\u2019s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
     },
     {
+      "title": "Our first phase of embedded assessments",
+      "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-16T08:00:00+00:00",
+      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems."
+    },
+    {
       "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
       "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
       "source": "The Hacker News",
@@ -75,6 +219,22 @@
       "category": "cybersecurity",
       "published": "2026-11-16T06:53:34+00:00",
       "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documente"
+    },
+    {
+      "title": "Advancing computer-use agents for healthcare teams",
+      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-16T06:00:00+00:00",
+      "summary": ""
+    },
+    {
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-16T06:00:00+00:00",
+      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done."
     },
     {
       "title": "Beyond Attack-Based Accuracy: Rethinking Adversarial Robustness Evaluation Through Structural Gradient Alignment",
@@ -171,166 +331,6 @@
       "category": "research",
       "published": "2026-11-16T05:00:00+00:00",
       "summary": "arXiv:2611.17341v1 Announce Type: new Abstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended cas"
-    },
-    {
-      "title": "An Operationalization of Opaque Serial Depth",
-      "link": "https://arxiv.org/abs/2611.17495",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-16T05:00:00+00:00",
-      "summary": "arXiv:2611.17495v1 Announce Type: new Abstract: Chain-of-thought (CoT) is currently a valuable tool for overseeing AI models, but some architectural shifts could significantly reduce CoT monitorability. We operationalize"
-    },
-    {
-      "title": "Advancing Quantization for R&R Models with Microscaling Formats",
-      "link": "https://arxiv.org/abs/2611.17501",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-16T05:00:00+00:00",
-      "summary": "arXiv:2611.17501v1 Announce Type: new Abstract: Recommendation and Ranking (R&R) models, particularly in digital advertising, require massive inference throughput but exhibit extreme sensitivity to precision loss. Unlike"
-    },
-    {
-      "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
-      "link": "https://arxiv.org/abs/2611.17515",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-16T05:00:00+00:00",
-      "summary": "arXiv:2611.17515v1 Announce Type: new Abstract: Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a defendant in the London silver-fixing litiga"
-    },
-    {
-      "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
-      "link": "https://arxiv.org/abs/2611.17524",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-16T05:00:00+00:00",
-      "summary": "arXiv:2611.17524v1 Announce Type: new Abstract: A small labelled dataset is memorized long before the training budget runs out, and the one-hot labels that remain to be fitted then mostly sharpen confidence. Model anneal"
-    },
-    {
-      "title": "ISC Stormcast For Monday, November 16th, 2026 https://isc.sans.edu/podcastdetail/10180, (Mon, Nov 16th)",
-      "link": "https://isc.sans.edu/diary/rss/33520",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-16T02:00:05+00:00",
-      "summary": ""
-    },
-    {
-      "title": "The King\u2019s Trust and OpenAI launch \u00a31m partnership",
-      "link": "https://openai.com/index/the-kings-trust-and-openai",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-16T00:00:00+00:00",
-      "summary": "The King\u2019s Trust and OpenAI launch a \u00a31m partnership to help up to 25,000 young people across the UK build practical AI skills for work."
-    },
-    {
-      "title": "A step toward defining the Standard Model on a lattice",
-      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-15T22:00:01+00:00",
-      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
-    },
-    {
-      "title": "Our new blog for science",
-      "link": "https://openai.com/index/our-new-blog-for-science",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-15T22:00:00+00:00",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
-    },
-    {
-      "title": "YARA-X 1.23.0 Release, (Sun, Nov 15th)",
-      "link": "https://isc.sans.edu/diary/rss/33496",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-15T18:17:27+00:00",
-      "summary": "YARA-X&#;x26;#;39;s 1.23.0 release brings 4 improvements and 16 bugfixes."
-    },
-    {
-      "title": "Italy Fines Meta \u20ac805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-      "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-15T11:27:31+00:00",
-      "summary": "Meta was fined \u20ac805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that "
-    },
-    {
-      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-      "link": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-15T08:22:04+00:00",
-      "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker ob"
-    },
-    {
-      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
-      "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-14T12:38:35+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities"
-    },
-    {
-      "title": "FBI flash alert says Artex tool automating cyberattacks at \u2018machine speed\u2019",
-      "link": "https://therecord.media/artex-ai-tool-fbi-flash-alert",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-13T21:32:00+00:00",
-      "summary": "Open source hacking tool Artex \"significantly reduces the time required to chain attack techniques, with some intrusions progressing from initial targeting to privileged access in under three hours,\" the FBI said."
-    },
-    {
-      "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
-      "link": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-13T20:20:27+00:00",
-      "summary": "The Android malware has expanded from focusing on cryptocurrency theft to full device control, and the attackers have added advanced analysis of stolen information."
-    },
-    {
-      "title": "City of Osaka warns of data breach impacting 1 million as Japan reels from dozens of cyber incidents",
-      "link": "https://therecord.media/city-of-osaka-japan-email-data-breach",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-13T19:43:00+00:00",
-      "summary": "Osaka, Japan's third-largest city, told its 2.8 million residents to be wary of suspicious emails purporting to come from the local government."
-    },
-    {
-      "title": "NYC to bar surveillance pricing as momentum for bans grows nationwide",
-      "link": "https://therecord.media/nyc-council-passes-bill-ban-surveillance-pricing",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-13T18:35:00+00:00",
-      "summary": "The New York City government will be able to fine companies $1,000 for each verified instance of surveillance pricing."
-    },
-    {
-      "title": "University of Texas at Arlington warns personal information stolen during cyberattack",
-      "link": "https://therecord.media/university-of-texas-arlington-warns-data-breach",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-13T17:26:00+00:00",
-      "summary": "In a statement to Recorded Future News, a spokesperson said an investigation into the attack confirmed the stolen data but declined to say what information was obtained by the threat actors."
-    },
-    {
-      "title": "German parliament passes law giving spy agencies hacking, sabotage powers",
-      "link": "https://therecord.media/german-parliament-passes-law-giving-spy-agencies-hacking-power",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-13T16:32:00+00:00",
-      "summary": "In the biggest overhaul of the country\u2019s spy laws of the postwar era, the Bundestag approved the bill by 308 votes to 190 \u2014 with 71 abstentions \u2014 months after Chancellor Friedrich Merz\u2019s cabinet signed off on the draft."
-    },
-    {
-      "title": "Introducing ChatGPT Wallet",
-      "link": "https://openai.com/index/introducing-chatgpt-wallet",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-13T15:00:00+00:00",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
-    },
-    {
-      "title": "The Download: Silicon Valley\u2019s blind spot and Nvidia\u2019s chip-tracking plan",
-      "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-13T13:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong?"
     }
   ]
 }
