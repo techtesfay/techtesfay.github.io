@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T00:05:54.991844+00:00",
+  "generated_at": "2026-11-18T14:40:59.365232+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,270 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Major Brazilian Signature Apps Enable RCE & Fraud",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-18T14:00:00+00:00",
+      "summary": "Government-sanctioned authentication middleware is used for exceptionally important legal documents, yet it's often rife with RCE bugs."
+    },
+    {
+      "title": "Ice hockey governing body website defaced amid dispute over Russia's exclusion",
+      "link": "https://therecord.media/russia-hockey-cyberattack-championships",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-18T13:45:00+00:00",
+      "summary": "The International Ice Hockey Federation (IIHF) confirmed a cyberattack on its website after hackers replaced its homepage with a pro-Russian message criticizing the country's exclusion from international competitions."
+    },
+    {
+      "title": "Cyberattack hits Norwegian energy giant Equinor, disrupting internal services",
+      "link": "https://therecord.media/norway-equinor-cyberattack-energy",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-18T13:30:00+00:00",
+      "summary": "The Norwegian energy giant Equinor is working to contain a cyberattack on its IT systems that the company said has not impacted oil and gas production."
+    },
+    {
+      "title": "The Download: AI learns to smell and hydropower struggles",
+      "link": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-18T13:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. This smell startup says its AI nose is as good as a human\u2019s In a New Jersey lab, r"
+    },
+    {
+      "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+      "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-18T12:28:30+00:00",
+      "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universit\u00e4t Berlin say. That leaves short PINs open to "
+    },
+    {
+      "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
+      "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-18T12:15:00+00:00",
+      "summary": "TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or before disclosure da"
+    },
+    {
+      "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+      "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-18T11:55:49+00:00",
+      "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this we"
+    },
+    {
+      "title": "Quality Isn\u2019t The Main Worry About AI Pentesting \u2014 Data Privacy and Production Safety Are",
+      "link": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-18T11:03:57+00:00",
+      "summary": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit now d"
+    },
+    {
+      "title": "This smell startup says its AI nose is as good as a human\u2019s",
+      "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-18T10:20:30+00:00",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes\u2014\u201cnutty,\u201d \u201cpeachy,\u201d \u201cmarine\u201d\u2014are cross-referenced wi"
+    },
+    {
+      "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
+      "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-18T08:24:31+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to i"
+    },
+    {
+      "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-18T08:24:23+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java. The flaw, tracked as CVE-2026-114938 (CVSS sco"
+    },
+    {
+      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+      "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-18T06:45:26+00:00",
+      "summary": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz."
+    },
+    {
+      "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+      "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-18T05:58:04+00:00",
+      "summary": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-p"
+    },
+    {
+      "title": "A Critical Appraisal and Motivated Intruder Test of A Search Dataset Anonymised for the Purposes of the EU Digital Markets Act",
+      "link": "https://arxiv.org/abs/2611.21689",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "summary": "arXiv:2611.21689v1 Announce Type: new Abstract: This study evaluated the European Commission's anonymisation measures for Alphabet's search-data sharing under Article 6(11) of the Digital Markets Act against European Dat"
+    },
+    {
+      "title": "Stop Early, Stay Simple: Evidence Acquisition for Power System Fault and Attack Diagnosis",
+      "link": "https://arxiv.org/abs/2611.21695",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "summary": "arXiv:2611.21695v1 Announce Type: new Abstract: Diagnostic models for cyber-physical power systems usually inspect every telemetry source for every event, although some events are clear from one source and others need se"
+    },
+    {
+      "title": "Watermark Evidence under Open-Weight LLM Modification: Exact Bounds for Low-Rank Output Watermarks",
+      "link": "https://arxiv.org/abs/2611.21702",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "summary": "arXiv:2611.21702v1 Announce Type: new Abstract: Open-weight language models can continue generating after their released weights are modified, while a watermark verifier still scores outputs against the original base and"
+    },
+    {
+      "title": "LLMs as Validators for Cross-Chain Bridges: Evaluating Source-Level and Transaction-Level Attack Detection on Solana",
+      "link": "https://arxiv.org/abs/2611.21777",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "summary": "arXiv:2611.21777v1 Announce Type: new Abstract: Cross-chain bridges have suffered substantial asset losses due to vulnerabilities in their on-chain programs. On Solana, missing validation checks can enable exploits even "
+    },
+    {
+      "title": "Threat Landscape of Vibe Coding and the Road to Secure Autonomy",
+      "link": "https://arxiv.org/abs/2611.21822",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "summary": "arXiv:2611.21822v1 Announce Type: new Abstract: Vibe coding is reshaping software development, enabling faster implementation and allowing individuals with limited programming experience to describe requirements in natur"
+    },
+    {
+      "title": "Bajillion: Cryptographic Clearing for Micropayments",
+      "link": "https://arxiv.org/abs/2611.21883",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "summary": "arXiv:2611.21883v1 Announce Type: new Abstract: Much of the web is funded by advertising, a model that erodes as humans delegate browsing to AI agents acting on their behalf. A natural replacement is for agents to pay fo"
+    },
+    {
+      "title": "A Forensic Analysis of Metadata and Information Leakage in Swedish Public Documents",
+      "link": "https://arxiv.org/abs/2611.21922",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "summary": "arXiv:2611.21922v1 Announce Type: new Abstract: This study investigates metadata and structural content leakage in publicly available PDF documents from 30 Swedish public-sector authorities. Using an automated collection"
+    },
+    {
+      "title": "CNN Architecture Comparison for Malware Classification with Limited Training Data",
+      "link": "https://arxiv.org/abs/2611.21936",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "summary": "arXiv:2611.21936v1 Announce Type: new Abstract: Traditional malware classification methods struggle to keep pace with rapidly evolving threats. Image-based malware classification offers a promising alternative by convert"
+    },
+    {
+      "title": "NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models",
+      "link": "https://arxiv.org/abs/2611.21682",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "summary": "arXiv:2611.21682v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being explored for knowledge-intensive and safety-critical applications in nuclear engineering. However, existing nuclear-doma"
+    },
+    {
+      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+      "link": "https://arxiv.org/abs/2611.21799",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "summary": "arXiv:2611.21799v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One risk is that models could delibera"
+    },
+    {
+      "title": "How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR",
+      "link": "https://arxiv.org/abs/2611.21827",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "summary": "arXiv:2611.21827v1 Announce Type: new Abstract: Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be harder. We ask how much of these scores comes from the vehi"
+    },
+    {
+      "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+      "link": "https://arxiv.org/abs/2611.21832",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "summary": "arXiv:2611.21832v1 Announce Type: new Abstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses a"
+    },
+    {
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "link": "https://arxiv.org/abs/2611.21885",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "summary": "arXiv:2611.21885v1 Announce Type: new Abstract: Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone on"
+    },
+    {
+      "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+      "link": "https://arxiv.org/abs/2611.21925",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "summary": "arXiv:2611.21925v1 Announce Type: new Abstract: Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger tar"
+    },
+    {
+      "title": "SLED: Sensor SLicing from Edge to Datacenter",
+      "link": "https://arxiv.org/abs/2611.21937",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "summary": "arXiv:2611.21937v1 Announce Type: new Abstract: Modern sensing systems generate large volumes of heterogeneous data streams from multiple sensor modalities, increasing reliance on datacenters for computation, artificial "
+    },
+    {
+      "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
+      "link": "https://arxiv.org/abs/2611.21946",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-18T05:00:00+00:00",
+      "summary": "arXiv:2611.21946v1 Announce Type: new Abstract: A reasoning model that has reached a correct answer can lose it by continuing to think. Deciding whether to stop means comparing two probabilities at the same point of a ch"
+    },
+    {
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "published": "2026-11-18T02:52:04+00:00",
+      "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize "
+    },
+    {
+      "title": "ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)",
+      "link": "https://isc.sans.edu/diary/rss/33528",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-18T02:00:03+00:00",
+      "summary": ""
+    },
+    {
+      "title": "CISA warns of \u2018Java4Shell,\u2019 an AI-found Java bug touching most of the Fortune 500",
+      "link": "https://therecord.media/cisa-issues-java4shell-alert",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-18T00:00:00+00:00",
+      "summary": "The federal cybersecurity agency urged organizations to immediately patch a new vulnerability affecting Java \u2014 one of the world\u2019s most used programming languages \u2014 after experts warned that it could allow an attacker to "
+    },
+    {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-18T00:00:00+00:00",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro\u2019s journalism to ChatGPT through summaries and excerpts, with links to original stories."
+    },
     {
       "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
       "link": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
@@ -37,28 +301,12 @@
       "summary": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets."
     },
     {
-      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram\u2019s New Android Defenses",
-      "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-17T19:34:20+00:00",
-      "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send in"
-    },
-    {
       "title": "Kazakh ransomware hacking suspect extradited from Italy",
       "link": "https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx",
       "source": "The Record",
       "category": "cybersecurity",
       "published": "2026-11-17T19:09:00+00:00",
       "summary": "The U.S. accused Roman Khlynovskiy of participating in ransomware attacks against healthcare organizations, schools and companies as part of the \"8 Digits Team\" connected with INC and Lynx."
-    },
-    {
-      "title": "Chinese state group developing automated attack tool for cyber espionage, Google says",
-      "link": "https://therecord.media/chinese-state-group-developing-automated-attack-tool-espionage",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-17T18:50:00+00:00",
-      "summary": "Google released its latest AI Threat Tracker report on Monday, writing that threat actors are rapidly evolving their use of artificial intelligence in attacks \u2014 now leaning more heavily on autonomous multi-agent offensiv"
     },
     {
       "title": "Roundtables: Inside the Quest for Cognitive Immortality",
@@ -69,7 +317,7 @@
       "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going\u2014even beyond death. Science editor Mary Beth Grigg"
     },
     {
-      "title": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
+      "title": "Cursor Traces Malicious Claude Code Extensions to Third-Party Breach",
       "link": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
       "source": "Dark Reading",
       "category": "cybersecurity",
@@ -83,254 +331,6 @@
       "category": "ai",
       "published": "2026-11-17T17:52:10+00:00",
       "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely"
-    },
-    {
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-17T17:45:00+00:00",
-      "summary": "Introducing GPT\u20116.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
-    },
-    {
-      "title": "California fines Hertz $1.5 million for breaking state data privacy law",
-      "link": "https://therecord.media/california-fines-hertz-state-data-privacy-law",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-17T17:13:00+00:00",
-      "summary": "Hertz agreed to the fine and said it would change its business practices, according to a court filing shared by the regulator, the California Privacy Protection Agency (CPPA)."
-    },
-    {
-      "title": "NSA Net, agency\u2019s classified internal network, faces unspecified disruptions",
-      "link": "https://therecord.media/nsa-net-disruptions",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-17T16:21:00+00:00",
-      "summary": "The NSA has ordered staggered arrivals at its headquarters at Fort Meade, Maryland, as technicians work to fully restore the classified internal network NSA Net."
-    },
-    {
-      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
-      "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-17T15:17:36+00:00",
-      "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially cr"
-    },
-    {
-      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
-      "link": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-17T15:17:28+00:00",
-      "summary": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram. \"Trigram is a large-scale campaign that impe"
-    },
-    {
-      "title": "Research Reports",
-      "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-17T14:39:46+00:00",
-      "summary": "To access a report, click on the corresponding image below."
-    },
-    {
-      "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
-      "link": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-17T13:12:56+00:00",
-      "summary": "Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner approval."
-    },
-    {
-      "title": "The Download: Jensen Huang\u2019s open-source dilemma and cognitive immortality",
-      "link": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-17T13:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Hu"
-    },
-    {
-      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-      "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-17T12:25:06+00:00",
-      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers"
-    },
-    {
-      "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
-      "link": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-17T12:14:36+00:00",
-      "summary": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt. The first security updates with the fix came out on August 17. Nei"
-    },
-    {
-      "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
-      "link": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-17T11:20:18+00:00",
-      "summary": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for"
-    },
-    {
-      "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
-      "link": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-17T11:07:31+00:00",
-      "summary": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes, currently previewed in macOS"
-    },
-    {
-      "title": "A phishing page interested in MX records, (Tue, Nov 17th)",
-      "link": "https://isc.sans.edu/diary/rss/33526",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-17T10:56:38+00:00",
-      "summary": "I&#;x26;#;xe2;&#;x26;#;x80;&#;x26;#;x99;ve mentioned before in some of my diaries that it can be instructive to look at what appear to be &#;x26;#;xe2;&#;x26;#;x80;&#;x26;#;x9c;generic&#;x26;#;xe2;&#;x26;#;x80;&#;x26;#;x"
-    },
-    {
-      "title": "Introducing ChatGPT for Sales",
-      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-17T08:00:00+00:00",
-      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
-    },
-    {
-      "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
-      "link": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-17T07:12:13+00:00",
-      "summary": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today. Visitors to sites run by at least"
-    },
-    {
-      "title": "Stargate: Security Analysis and Mission-Aware Firewall for the CubeSat Space Protocol",
-      "link": "https://arxiv.org/abs/2611.18874",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "summary": "arXiv:2611.18874v1 Announce Type: new Abstract: The CubeSat Space Protocol (CSP) is widely used for communication in CubeSat missions, yet its security model and attack surface remain largely unexplored. In this work, we"
-    },
-    {
-      "title": "We Have All the Cards: Securing Agent Cards at the Operational Trust Boundary of the Agent2Agent Protocol",
-      "link": "https://arxiv.org/abs/2611.18887",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "summary": "arXiv:2611.18887v1 Announce Type: new Abstract: AI agent interoperability protocols enable orchestrators to discover and invoke external agents using machine-readable metadata. In the Agent2Agent (A2A) protocol, Agent Ca"
-    },
-    {
-      "title": "Quantifying Membership Inference Risks in Genomic Data Sharing: The Role of Attacker's Auxiliary Information",
-      "link": "https://arxiv.org/abs/2611.18909",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "summary": "arXiv:2611.18909v1 Announce Type: new Abstract: Genomic data sharing is essential for biomedical research but introduces significant privacy risks, including membership inference attacks, in which an adversary determines"
-    },
-    {
-      "title": "Memory Safety Isn't All You Need: Code Reuse Attacks in Memory Safe Languages",
-      "link": "https://arxiv.org/abs/2611.18910",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "summary": "arXiv:2611.18910v1 Announce Type: new Abstract: Memory safety rules out classical code reuse attacks that rely on arbitrary memory corruption, but does not eliminate code reuse altogether. Attacks such as object injectio"
-    },
-    {
-      "title": "Privacy-Preserving Clustering Algorithm and Parameter Selection for Collaborative Population Stratification Using Distributed PCA",
-      "link": "https://arxiv.org/abs/2611.18925",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "summary": "arXiv:2611.18925v1 Announce Type: new Abstract: We propose a privacy-preserving selection layer for collaborative population stratification workflows, enabling an honest-but-curious server to recommend a strong clusterin"
-    },
-    {
-      "title": "Agent-ZTA: A chain-Aware Zero Trust Model for Bidirectional Security-State Propagation and Runtime Containment in Multi-Agent Delegation",
-      "link": "https://arxiv.org/abs/2611.18999",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "summary": "arXiv:2611.18999v1 Announce Type: new Abstract: Multi-agent systems increasingly delegate tasks and permissions across chains of autonomous agents that invoke protected tools. Although agent identities and delegated cred"
-    },
-    {
-      "title": "When the Spec Sheet Lies: Injection Attacks on LLM-Generated Compliance Artifacts",
-      "link": "https://arxiv.org/abs/2611.19090",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "summary": "arXiv:2611.19090v1 Announce Type: new Abstract: As Large Language Models (LLMs) become used more commonly across a variety of fields, a growing body of research has highlighted particular concerns surrounding model secur"
-    },
-    {
-      "title": "ST-GAT: A Leakage-Free Spatio-Temporal Graph Attention Framework for Robust Network Intrusion Detection",
-      "link": "https://arxiv.org/abs/2611.19109",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "summary": "arXiv:2611.19109v1 Announce Type: new Abstract: Intrusion detection systems are a central defence in modern networks. Deep learning models report strong anomaly-detection results, but evaluations on standard benchmarks s"
-    },
-    {
-      "title": "Agents Cannot Hand Over What They Have Not Yet Understood",
-      "link": "https://arxiv.org/abs/2611.18642",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "summary": "arXiv:2611.18642v1 Announce Type: new Abstract: Agents that work beyond a single context window, or in teams, hand their work to a successor as a short written summary. Evaluation has focused on whether an agent can solv"
-    },
-    {
-      "title": "How to make a moral agent: sentimentalism and rationalism as lenses on AI",
-      "link": "https://arxiv.org/abs/2611.18714",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "summary": "arXiv:2611.18714v1 Announce Type: new Abstract: Can AI systems be moral agents? That is, can they undertake actions that can be correctly assessed as morally right or wrong? There is no settled normative criterion of mor"
-    },
-    {
-      "title": "Video-as-Experience: Learning Computer Use via Audio-Visual Understanding",
-      "link": "https://arxiv.org/abs/2611.18747",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "summary": "arXiv:2611.18747v1 Announce Type: new Abstract: Multimodal large language models (LLMs) have enabled capable computer-use agents that perceive graphical user interfaces, reason over instructions, and execute actions. How"
-    },
-    {
-      "title": "Multimodal Fusion: A Review of Breast Cancer Advanced and Traditional Modalities",
-      "link": "https://arxiv.org/abs/2611.18793",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "summary": "arXiv:2611.18793v1 Announce Type: new Abstract: Purpose: Multimodal medical imaging fusion (MMIF) is an increasingly important approach to breast cancer detection (BCD), as different imaging modalities rely on different "
-    },
-    {
-      "title": "D\\'ecoupage: Directorial Audio-Visual Control for Long Multi-Shot Video Generation",
-      "link": "https://arxiv.org/abs/2611.18866",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "summary": "arXiv:2611.18866v1 Announce Type: new Abstract: In cinematic storytelling, sound and visual transitions do not always coincide in lockstep: dialogue frequently bridges across cuts to reveal reactions or introduces new sc"
-    },
-    {
-      "title": "SPLICE: Structured Prompt Local Iterative Combinatorial Evolution",
-      "link": "https://arxiv.org/abs/2611.18883",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "summary": "arXiv:2611.18883v1 Announce Type: new Abstract: Natural language optimization (NLO) improves an agent by having a model critique and rewrite its natural language policy parameters: system prompts, tool instructions, reas"
-    },
-    {
-      "title": "Bring Back Language to Actions: Restoring VLM capabilities in VLA Models via Parameter Merging",
-      "link": "https://arxiv.org/abs/2611.18891",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "summary": "arXiv:2611.18891v1 Announce Type: new Abstract: Vision-Language-Action models (VLAs) are obtained by fine-tuning pre-trained Vision-Language Models (VLMs) on robot demonstration data, enabling action prediction from visu"
-    },
-    {
-      "title": "Ask Precisely, Assume Wisely: Interactive Evaluation of Ambiguity Resolution in Large Language Models",
-      "link": "https://arxiv.org/abs/2611.18905",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-17T05:00:00+00:00",
-      "summary": "arXiv:2611.18905v1 Announce Type: new Abstract: Ambiguity is a core challenge in human--AI interaction, where models must decide when to make assumptions and when to seek clarification. Existing approaches to ambiguity e"
     }
   ]
 }
