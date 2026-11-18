@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T14:40:59.365232+00:00",
+  "generated_at": "2026-11-18T23:38:51.872330+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,28 +13,132 @@
   ],
   "items": [
     {
+      "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-18T21:59:46+00:00",
+      "summary": "The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks."
+    },
+    {
+      "title": "Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool",
+      "link": "https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-18T20:45:49+00:00",
+      "summary": "New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work."
+    },
+    {
+      "title": "Judge signs off on sale of Spirit Airlines\u2019 data to Google",
+      "link": "https://therecord.media/judge-signs-off-google-purchase-spirit-airlines-data",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-18T20:39:00+00:00",
+      "summary": "Google can take possession of defunct Spirit Airlines' data for $10 million, a federal bankruptcy judge has ruled. The tech giant agreed to protections as it plans to use the data in AI projects."
+    },
+    {
+      "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
+      "link": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-18T20:38:42+00:00",
+      "summary": "Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns."
+    },
+    {
+      "title": "Trump administration officials size-up a bad stretch for tech",
+      "link": "https://therecord.media/tech-disruptions-house-homeland-committee-testimony",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-18T20:00:00+00:00",
+      "summary": "Homeland Security Secretary Markwayne Mullin said the administration will reach out to industry to get companies to share more information about big patches before they take effect."
+    },
+    {
+      "title": "Java4Shell, NGINX2Shell and more: Why we are not at \"Yellow\", (Wed, Nov 18th)",
+      "link": "https://isc.sans.edu/diary/rss/33532",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-18T19:54:50+00:00",
+      "summary": "About a month ago, we went to Infocon Yellow for the first time in a few years. We decided to address the php2shell vulnerability and alert our readers to its significant impact. Following php2shell, we had a number of v"
+    },
+    {
+      "title": "Lawmakers call on White House to develop defensive AI cyber systems",
+      "link": "https://therecord.media/ai-cyber-white-house",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-18T19:00:00+00:00",
+      "summary": "A bipartisan Senate duo urged the White House to launch a national effort to more robustly confront AI-enabled cyber threats in light of recent security incidents involving artificial intelligence."
+    },
+    {
+      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+      "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-18T18:31:17+00:00",
+      "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-so"
+    },
+    {
+      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+      "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-18T18:15:39+00:00",
+      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual s"
+    },
+    {
+      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+      "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-18T17:10:45+00:00",
+      "summary": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE"
+    },
+    {
+      "title": "Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-18T16:54:52+00:00",
+      "summary": "Discovered using AI, the memory corruption vulnerability affects the OpenJDK runtime and could allow unauthenticated attackers to take over systems."
+    },
+    {
+      "title": "NSA continues response to interruptions in classified internal network",
+      "link": "https://therecord.media/nsa-continues-response-to-nsa-net-problems",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-18T16:19:00+00:00",
+      "summary": "Day 2 of the NSA Net's disruptions included staggered arrivals and logins at Fort Meade, while a source said classified national security work continued unimpeded."
+    },
+    {
+      "title": "Russian cyber-espionage group used stolen cloud data to hack into organizations, Google says",
+      "link": "https://therecord.media/russia-cyber-espionage-google",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-18T15:15:00+00:00",
+      "summary": "Russian state-backed hackers are using information stolen from cloud accounts to impersonate trusted contacts and launch new espionage attacks against people in their victims' professional networks, according to new rese"
+    },
+    {
+      "title": "The AI Hype Index: AI is everywhere",
+      "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-18T14:42:44+00:00",
+      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people he"
+    },
+    {
+      "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+      "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-18T14:11:28+00:00",
+      "summary": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines. \"When attackers are e"
+    },
+    {
       "title": "Major Brazilian Signature Apps Enable RCE & Fraud",
       "link": "https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-11-18T14:00:00+00:00",
       "summary": "Government-sanctioned authentication middleware is used for exceptionally important legal documents, yet it's often rife with RCE bugs."
-    },
-    {
-      "title": "Ice hockey governing body website defaced amid dispute over Russia's exclusion",
-      "link": "https://therecord.media/russia-hockey-cyberattack-championships",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-18T13:45:00+00:00",
-      "summary": "The International Ice Hockey Federation (IIHF) confirmed a cyberattack on its website after hackers replaced its homepage with a pro-Russian message criticizing the country's exclusion from international competitions."
-    },
-    {
-      "title": "Cyberattack hits Norwegian energy giant Equinor, disrupting internal services",
-      "link": "https://therecord.media/norway-equinor-cyberattack-energy",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-18T13:30:00+00:00",
-      "summary": "The Norwegian energy giant Equinor is working to contain a cyberattack on its IT systems that the company said has not impacted oil and gas production."
     },
     {
       "title": "The Download: AI learns to smell and hydropower struggles",
@@ -85,36 +189,36 @@
       "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes\u2014\u201cnutty,\u201d \u201cpeachy,\u201d \u201cmarine\u201d\u2014are cross-referenced wi"
     },
     {
-      "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
-      "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-18T08:24:31+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to i"
+      "title": "The Silent Consensus",
+      "link": "https://openai.com/index/the-silent-consensus",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-18T10:00:00+00:00",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
     },
     {
-      "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
-      "link": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-18T08:24:23+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java. The flaw, tracked as CVE-2026-114938 (CVSS sco"
+      "title": "Research acceleration: The jagged frontier",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-18T08:00:00+00:00",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
     },
     {
-      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
-      "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-18T06:45:26+00:00",
-      "summary": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz."
+      "title": "Inside the Codex sandbox",
+      "link": "https://openai.com/index/inside-the-codex-sandbox",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-18T08:00:00+00:00",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows."
     },
     {
-      "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
-      "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-18T05:58:04+00:00",
-      "summary": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-p"
+      "title": "Managing frontier AI risk: From training to deployment",
+      "link": "https://openai.com/index/managing-frontier-ai-risk",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-18T06:00:00+00:00",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring."
     },
     {
       "title": "A Critical Appraisal and Motivated Intruder Test of A Search Dataset Anonymised for the Purposes of the EU Digital Markets Act",
@@ -227,110 +331,6 @@
       "category": "research",
       "published": "2026-11-18T05:00:00+00:00",
       "summary": "arXiv:2611.21925v1 Announce Type: new Abstract: Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger tar"
-    },
-    {
-      "title": "SLED: Sensor SLicing from Edge to Datacenter",
-      "link": "https://arxiv.org/abs/2611.21937",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "summary": "arXiv:2611.21937v1 Announce Type: new Abstract: Modern sensing systems generate large volumes of heterogeneous data streams from multiple sensor modalities, increasing reliance on datacenters for computation, artificial "
-    },
-    {
-      "title": "Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking",
-      "link": "https://arxiv.org/abs/2611.21946",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "summary": "arXiv:2611.21946v1 Announce Type: new Abstract: A reasoning model that has reached a correct answer can lose it by continuing to think. Deciding whether to stop means comparing two probabilities at the same point of a ch"
-    },
-    {
-      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
-      "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
-      "source": "Krebs on Security",
-      "category": "cybersecurity",
-      "published": "2026-11-18T02:52:04+00:00",
-      "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize "
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)",
-      "link": "https://isc.sans.edu/diary/rss/33528",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-18T02:00:03+00:00",
-      "summary": ""
-    },
-    {
-      "title": "CISA warns of \u2018Java4Shell,\u2019 an AI-found Java bug touching most of the Fortune 500",
-      "link": "https://therecord.media/cisa-issues-java4shell-alert",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-18T00:00:00+00:00",
-      "summary": "The federal cybersecurity agency urged organizations to immediately patch a new vulnerability affecting Java \u2014 one of the world\u2019s most used programming languages \u2014 after experts warned that it could allow an attacker to "
-    },
-    {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-18T00:00:00+00:00",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro\u2019s journalism to ChatGPT through summaries and excerpts, with links to original stories."
-    },
-    {
-      "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
-      "link": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-17T22:34:22+00:00",
-      "summary": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform."
-    },
-    {
-      "title": "Website management platform Optimizely confirms hackers put malicious code into customer sites",
-      "link": "https://therecord.media/optimizely-malicious-code-customer-sites",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-17T21:20:00+00:00",
-      "summary": "Researchers said they found malicious JavaScript code on 178 different widely visited websites run through the Optimizely Web experimentation platform. The company confirmed the breach."
-    },
-    {
-      "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
-      "link": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-17T20:58:13+00:00",
-      "summary": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets."
-    },
-    {
-      "title": "Kazakh ransomware hacking suspect extradited from Italy",
-      "link": "https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-17T19:09:00+00:00",
-      "summary": "The U.S. accused Roman Khlynovskiy of participating in ransomware attacks against healthcare organizations, schools and companies as part of the \"8 Digits Team\" connected with INC and Lynx."
-    },
-    {
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "link": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-17T18:46:47+00:00",
-      "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going\u2014even beyond death. Science editor Mary Beth Grigg"
-    },
-    {
-      "title": "Cursor Traces Malicious Claude Code Extensions to Third-Party Breach",
-      "link": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-17T18:38:37+00:00",
-      "summary": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials."
-    },
-    {
-      "title": "Hydropower hit record lows in the US Southwest this summer",
-      "link": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-17T17:52:10+00:00",
-      "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely"
     }
   ]
 }
