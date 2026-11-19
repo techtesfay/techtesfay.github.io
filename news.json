@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T23:38:51.872330+00:00",
+  "generated_at": "2026-11-19T04:44:52.677418+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,22 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "ISC Stormcast For Thursday, November 19th, 2026 https://isc.sans.edu/podcastdetail/10186, (Thu, Nov 19th)",
+      "link": "https://isc.sans.edu/diary/rss/33536",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-19T02:00:03+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Treat Your Honeypot Analysis Like Code: Git, Pull Requests and a Human Gate for AI [Guest Diary], (Wed, Nov 18th)",
+      "link": "https://isc.sans.edu/diary/rss/33534",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-19T01:53:48+00:00",
+      "summary": "[This is a Guest Diary by Kevin Truong, an ISC intern as part of the SANS.edu BACS program]"
+    },
     {
       "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
@@ -205,6 +221,14 @@
       "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
     },
     {
+      "title": "How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
+      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-18T08:00:00+00:00",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
+    },
+    {
       "title": "Inside the Codex sandbox",
       "link": "https://openai.com/index/inside-the-codex-sandbox",
       "source": "OpenAI News",
@@ -307,30 +331,6 @@
       "category": "research",
       "published": "2026-11-18T05:00:00+00:00",
       "summary": "arXiv:2611.21827v1 Announce Type: new Abstract: Deep networks score near 99% on the MSTAR vehicle benchmark, and the newer ATRNet-STAR benchmark was built to be harder. We ask how much of these scores comes from the vehi"
-    },
-    {
-      "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
-      "link": "https://arxiv.org/abs/2611.21832",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "summary": "arXiv:2611.21832v1 Announce Type: new Abstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses a"
-    },
-    {
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "link": "https://arxiv.org/abs/2611.21885",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "summary": "arXiv:2611.21885v1 Announce Type: new Abstract: Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone on"
-    },
-    {
-      "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
-      "link": "https://arxiv.org/abs/2611.21925",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-18T05:00:00+00:00",
-      "summary": "arXiv:2611.21925v1 Announce Type: new Abstract: Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger tar"
     }
   ]
 }
