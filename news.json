@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T14:47:49.449881+00:00",
+  "generated_at": "2026-11-19T23:57:27.866717+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,6 +13,118 @@
   ],
   "items": [
     {
+      "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
+      "link": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-19T22:40:03+00:00",
+      "summary": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions."
+    },
+    {
+      "title": "Lawmakers launch new AI safety caucus amid rising security concerns",
+      "link": "https://therecord.media/lawmakers-launch-new-ai-safety-caucus",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-19T21:19:00+00:00",
+      "summary": "Seven of 26 founding members of the caucus are Republicans, a notable number given the White House\u2019s steadfast opposition to regulating AI."
+    },
+    {
+      "title": "Second Norwegian Energy Company Breached in Two Days",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-19T20:14:15+00:00",
+      "summary": "No specific link has been drawn between the two incidents, though they certainly sing the same notes."
+    },
+    {
+      "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
+      "link": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-19T19:57:31+00:00",
+      "summary": "November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration."
+    },
+    {
+      "title": "Navigating Vulnerability Hysteria in the AI Era",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-19T19:46:44+00:00",
+      "summary": "This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions, and"
+    },
+    {
+      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+      "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-19T18:47:58+00:00",
+      "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories sh"
+    },
+    {
+      "title": "DOJ, DHS partner on new unit tackling scams and cybercrime",
+      "link": "https://therecord.media/doj-dhs-partner-on-new-unit-tackling-scams-cybercrime",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-19T17:25:00+00:00",
+      "summary": "The departments are partnering on the Threat Disruption Center to better triage victim complaints, map cybercriminal networks and provide a direct channel to private sector organizations that work with victims."
+    },
+    {
+      "title": "CISA nominee LoSapio vows to bolster cyber defenses while denying Jan. 6 Capitol attack",
+      "link": "https://therecord.media/cisa-losapio-nomination-trump",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-19T17:00:00+00:00",
+      "summary": "President Donald Trump\u2019s pick to lead the Cybersecurity and Infrastructure Security Agency pledged to lawmakers to uncover any \u201cgaps\u201d within the organization while also denying the Capitol came under attack on January 6,"
+    },
+    {
+      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+      "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-19T16:59:56+00:00",
+      "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the a"
+    },
+    {
+      "title": "UK court confirms British government served Apple with secret encryption notice",
+      "link": "https://therecord.media/apple-uk-encryption-notice",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-19T16:15:00+00:00",
+      "summary": "The British government served Apple with a secret legal notice targeting the company\u2019s cryptographic protections for iCloud accounts, a tribunal has confirmed, ending almost two years of official refusal to acknowledge w"
+    },
+    {
+      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+      "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-19T15:18:07+00:00",
+      "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560. The release of the"
+    },
+    {
+      "title": "European Commission confirms cyberattack, says hackers used AI tool",
+      "link": "https://therecord.media/european-commission-confirms-cyberattack-using-ai",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-19T15:15:00+00:00",
+      "summary": "POLITICO had reported CERT-EU had identified the attackers\u2019 use of ARTEX, an open-source AI hacking platform that the FBI last week warned was being used both by criminals and state-sponsored groups."
+    },
+    {
+      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-19T15:11:06+00:00",
+      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions ar"
+    },
+    {
+      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+      "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-19T14:33:06+00:00",
+      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote "
+    },
+    {
       "title": "Why Holiday Security Can't Wait for Black Friday",
       "link": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
       "source": "Dark Reading",
@@ -21,20 +133,12 @@
       "summary": "Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike."
     },
     {
-      "title": "Ukraine exposes ransomware network extorting US oil, healthcare firms",
-      "link": "https://therecord.media/ukraine-ransomware-arrests-cyber",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-19T13:30:00+00:00",
-      "summary": "Ukrainian authorities arrested four suspected members of an international ransomware network accused of extorting more than $40 million from companies around the world."
-    },
-    {
       "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
       "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
       "source": "MIT Technology Review",
       "category": "ai",
       "published": "2026-11-19T13:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. A human liver has been kept alive outside the body for seven weeks, setting a reco"
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Resear"
     },
     {
       "title": "A human liver has been kept alive outside the body for a record seven weeks",
@@ -77,28 +181,20 @@
       "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can r"
     },
     {
-      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
-      "link": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-19T08:14:00+00:00",
-      "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behin"
-    },
-    {
-      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
-      "link": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-19T08:00:00+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Elec"
-    },
-    {
       "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
       "link": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-11-19T08:00:00+00:00",
       "summary": "Nigeria faced more than double the cyber threats of the previous year, with Angola and Kenya also in the top 5 most-attacked countries globally."
+    },
+    {
+      "title": "How OpenAI\u2019s Performance Factory keeps ChatGPT fast",
+      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-19T08:00:00+00:00",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
     },
     {
       "title": "Securing and Auditing Long-Horizon LLM Agents: State-Transfer Auditing and Controls in the Agent Harness",
@@ -229,108 +325,12 @@
       "summary": "arXiv:2611.23456v1 Announce Type: new Abstract: Automatic generation of mathematics assessment items is a growing area in educational artificial intelligence, yet classroom deployment remains challenging. Generated quest"
     },
     {
-      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
-      "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-19T04:33:46+00:00",
-      "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026, between 2 and 2:30 p."
-    },
-    {
       "title": "ISC Stormcast For Thursday, November 19th, 2026 https://isc.sans.edu/podcastdetail/10186, (Thu, Nov 19th)",
       "link": "https://isc.sans.edu/diary/rss/33536",
       "source": "SANS Internet Storm Center",
       "category": "cybersecurity",
       "published": "2026-11-19T02:00:03+00:00",
       "summary": ""
-    },
-    {
-      "title": "Treat Your Honeypot Analysis Like Code: Git, Pull Requests and a Human Gate for AI [Guest Diary], (Wed, Nov 18th)",
-      "link": "https://isc.sans.edu/diary/rss/33534",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-19T01:53:48+00:00",
-      "summary": "[This is a Guest Diary by Kevin Truong, an ISC intern as part of the SANS.edu BACS program]"
-    },
-    {
-      "title": "Russian charged with spying on Palantir employees for Moscow",
-      "link": "https://therecord.media/russian-charged-with-spying-on-palantir-for-moscow",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-19T00:00:00+00:00",
-      "summary": "Igor Andreevich D\u2019iu, A Russian national recruited through Telegram, has been charged in the United States with acting as a Moscow agent in a surveillance campaign targeting employees of a defense technology company, und"
-    },
-    {
-      "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-18T21:59:46+00:00",
-      "summary": "The state-sponsored threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks."
-    },
-    {
-      "title": "Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool",
-      "link": "https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-18T20:45:49+00:00",
-      "summary": "New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work."
-    },
-    {
-      "title": "Judge signs off on sale of Spirit Airlines\u2019 data to Google",
-      "link": "https://therecord.media/judge-signs-off-google-purchase-spirit-airlines-data",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-18T20:39:00+00:00",
-      "summary": "Google can take possession of defunct Spirit Airlines' data for $10 million, a federal bankruptcy judge has ruled. The tech giant agreed to protections as it plans to use the data in AI projects."
-    },
-    {
-      "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
-      "link": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-18T20:38:42+00:00",
-      "summary": "Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns."
-    },
-    {
-      "title": "Trump administration officials size-up a bad stretch for tech",
-      "link": "https://therecord.media/tech-disruptions-house-homeland-committee-testimony",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-18T20:00:00+00:00",
-      "summary": "Homeland Security Secretary Markwayne Mullin said the administration will reach out to industry to get companies to share more information about big patches before they take effect."
-    },
-    {
-      "title": "Java4Shell, NGINX2Shell and more: Why we are not at \"Yellow\", (Wed, Nov 18th)",
-      "link": "https://isc.sans.edu/diary/rss/33532",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-18T19:54:50+00:00",
-      "summary": "About a month ago, we went to Infocon Yellow for the first time in a few years. We decided to address the php2shell vulnerability and alert our readers to its significant impact. Following php2shell, we had a number of v"
-    },
-    {
-      "title": "Lawmakers call on White House to develop defensive AI cyber systems",
-      "link": "https://therecord.media/ai-cyber-white-house",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-18T19:00:00+00:00",
-      "summary": "A bipartisan Senate duo urged the White House to launch a national effort to more robustly confront AI-enabled cyber threats in light of recent security incidents involving artificial intelligence."
-    },
-    {
-      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
-      "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-18T18:31:17+00:00",
-      "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-so"
-    },
-    {
-      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-      "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-18T18:15:39+00:00",
-      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual s"
     }
   ]
 }
