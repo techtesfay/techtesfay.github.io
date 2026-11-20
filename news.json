@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T14:28:53.916990+00:00",
+  "generated_at": "2026-11-20T23:26:37.450146+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,94 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "West Virginia Legislature hit with cyber incident affecting IT systems",
+      "link": "https://therecord.media/west-virginia-legislature-cyberattack",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-20T21:34:36+00:00",
+      "summary": "A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not spread to other government entities."
+    },
+    {
+      "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-20T21:03:27+00:00",
+      "summary": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve."
+    },
+    {
+      "title": "US companies\u2019 use of Chinese open weight AI draws rebuke from House chairmen",
+      "link": "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-20T20:25:00+00:00",
+      "summary": "An investigation led by the House Homeland Security Committee focused on the dangers of U.S. companies using lower-cost open weight AI models for certain projects."
+    },
+    {
+      "title": "Container Store restores systems after cyberattack",
+      "link": "https://therecord.media/container-store-restores-systems-cyberattack",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-20T19:32:00+00:00",
+      "summary": "The firm\u2019s parent company, Neighborhood Intelligence, said in a statement that The Container Store has \u201crestored its website and systems following a cybersecurity incident this past weekend.\u201d"
+    },
+    {
+      "title": "In Security, Words Matter as Much as Tools, Maybe More",
+      "link": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-20T18:35:40+00:00",
+      "summary": "From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise."
+    },
+    {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-20T18:15:15+00:00",
+      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory\u2014but it also indicates that models aren\u2019t quite as good at tasks that require ju"
+    },
+    {
+      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+      "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-20T17:57:20+00:00",
+      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871,"
+    },
+    {
+      "title": "Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university",
+      "link": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-20T17:30:00+00:00",
+      "summary": "A China-linked threat actor used the open source AI penetration testing tool Cairn to persistently attack two universities, and in one case, possibly discover a zero-day bug, researchers said."
+    },
+    {
+      "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
+      "link": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-20T17:04:04+00:00",
+      "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage."
+    },
+    {
+      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+      "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-20T16:58:16+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile"
+    },
+    {
+      "title": "NSA resumes normal operations following internal network disruptions",
+      "link": "https://therecord.media/nsa-resumes-normal-operations-following-internal-disruptions",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-20T16:06:00+00:00",
+      "summary": "Certain facilities remain under \u201cCode Orange\u201d for non-essential employees, meaning delayed openings and some must check in with their supervisors."
+    },
     {
       "title": "The Download: inside the quest to make our minds immortal",
       "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
@@ -53,6 +141,14 @@
       "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit. The activ"
     },
     {
+      "title": "Combatting adversarial distillation",
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-20T10:00:00+00:00",
+      "summary": "OpenAI\u2019s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
+    },
+    {
       "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
       "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
       "source": "The Hacker News",
@@ -67,14 +163,6 @@
       "category": "cybersecurity",
       "published": "2026-11-20T07:11:39+00:00",
       "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates "
-    },
-    {
-      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
-      "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-20T05:30:01+00:00",
-      "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administ"
     },
     {
       "title": "Ties at the Top: A Point-in-Time Comparison of CVSS and EPSS at a Fixed Budget",
@@ -213,6 +301,22 @@
       "summary": ""
     },
     {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "link": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-20T00:00:00+00:00",
+      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality."
+    },
+    {
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "link": "https://openai.com/index/introducing-medchembench",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-20T00:00:00+00:00",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery."
+    },
+    {
       "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
       "link": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
       "source": "Dark Reading",
@@ -221,116 +325,12 @@
       "summary": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions."
     },
     {
-      "title": "Lawmakers launch new AI safety caucus amid rising security concerns",
-      "link": "https://therecord.media/lawmakers-launch-new-ai-safety-caucus",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-19T21:19:00+00:00",
-      "summary": "Seven of 26 founding members of the caucus are Republicans, a notable number given the White House\u2019s steadfast opposition to regulating AI."
-    },
-    {
-      "title": "Second Norwegian Energy Company Breached in Two Days",
+      "title": "Second Norwegian Energy Company Breached in 2 Days",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
       "source": "Dark Reading",
       "category": "cybersecurity",
       "published": "2026-11-19T20:14:15+00:00",
       "summary": "No specific link has been drawn between the two incidents, though they certainly sing the same notes."
-    },
-    {
-      "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
-      "link": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-19T19:57:31+00:00",
-      "summary": "November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration."
-    },
-    {
-      "title": "Navigating Vulnerability Hysteria in the AI Era",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-19T19:46:44+00:00",
-      "summary": "This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions, and"
-    },
-    {
-      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-      "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-19T18:47:58+00:00",
-      "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories sh"
-    },
-    {
-      "title": "DOJ, DHS partner on new unit tackling scams and cybercrime",
-      "link": "https://therecord.media/doj-dhs-partner-on-new-unit-tackling-scams-cybercrime",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-19T17:25:00+00:00",
-      "summary": "The departments are partnering on the Threat Disruption Center to better triage victim complaints, map cybercriminal networks and provide a direct channel to private sector organizations that work with victims."
-    },
-    {
-      "title": "CISA nominee LoSapio vows to bolster cyber defenses while denying Jan. 6 Capitol attack",
-      "link": "https://therecord.media/cisa-losapio-nomination-trump",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-19T17:00:00+00:00",
-      "summary": "President Donald Trump\u2019s pick to lead the Cybersecurity and Infrastructure Security Agency pledged to lawmakers to uncover any \u201cgaps\u201d within the organization while also denying the Capitol came under attack on January 6,"
-    },
-    {
-      "title": "UK court confirms British government served Apple with secret encryption notice",
-      "link": "https://therecord.media/apple-uk-encryption-notice",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-19T16:15:00+00:00",
-      "summary": "The British government served Apple with a secret legal notice targeting the company\u2019s cryptographic protections for iCloud accounts, a tribunal has confirmed, ending almost two years of official refusal to acknowledge w"
-    },
-    {
-      "title": "European Commission confirms cyberattack, says hackers used AI tool",
-      "link": "https://therecord.media/european-commission-confirms-cyberattack-using-ai",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-19T15:15:00+00:00",
-      "summary": "POLITICO had reported CERT-EU had identified the attackers\u2019 use of ARTEX, an open-source AI hacking platform that the FBI last week warned was being used both by criminals and state-sponsored groups."
-    },
-    {
-      "title": "Why Holiday Security Can't Wait for Black Friday",
-      "link": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-19T14:00:00+00:00",
-      "summary": "Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike."
-    },
-    {
-      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-      "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-19T13:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Resear"
-    },
-    {
-      "title": "A human liver has been kept alive outside the body for a record seven weeks",
-      "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-19T12:00:00+00:00",
-      "summary": "Researchers in Australia claim they\u2019ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending "
-    },
-    {
-      "title": "What a billion-dollar deal says about the US battery market",
-      "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-19T11:00:00+00:00",
-      "summary": "After a tough few years littered with some high-profile failures, there\u2019s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to"
-    },
-    {
-      "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
-      "link": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-19T08:00:00+00:00",
-      "summary": "Nigeria faced more than double the cyber threats of the previous year, with Angola and Kenya also in the top 5 most-attacked countries globally."
     }
   ]
 }
