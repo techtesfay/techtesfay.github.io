@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T23:26:37.450146+00:00",
+  "generated_at": "2026-11-21T04:30:02.811318+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "CTO of \u2018RansomwareHelp\u2019 Indicted for Wire Fraud",
+      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "source": "Krebs on Security",
+      "category": "cybersecurity",
+      "published": "2026-11-21T00:36:39+00:00",
+      "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud"
+    },
     {
       "title": "West Virginia Legislature hit with cyber incident affecting IT systems",
       "link": "https://therecord.media/west-virginia-legislature-cyberattack",
@@ -323,14 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-11-19T22:40:03+00:00",
       "summary": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions."
-    },
-    {
-      "title": "Second Norwegian Energy Company Breached in 2 Days",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-19T20:14:15+00:00",
-      "summary": "No specific link has been drawn between the two incidents, though they certainly sing the same notes."
     }
   ]
 }
