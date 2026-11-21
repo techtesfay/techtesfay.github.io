@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T04:30:02.811318+00:00",
+  "generated_at": "2026-11-21T13:47:57.239788+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,46 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+      "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-21T11:53:07+00:00",
+      "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach"
+    },
+    {
+      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+      "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-21T11:05:53+00:00",
+      "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used"
+    },
+    {
+      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+      "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-21T11:03:17+00:00",
+      "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence sa"
+    },
+    {
+      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+      "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-21T08:49:20+00:00",
+      "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The f"
+    },
+    {
+      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-21T08:49:13+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KE"
+    },
     {
       "title": "CTO of \u2018RansomwareHelp\u2019 Indicted for Wire Fraud",
       "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
@@ -74,7 +114,7 @@
       "source": "The Hacker News",
       "category": "cybersecurity",
       "published": "2026-11-20T17:57:20+00:00",
-      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871,"
+      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871 "
     },
     {
       "title": "Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university",
@@ -125,180 +165,12 @@
       "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can incl"
     },
     {
-      "title": "The Path to AI Autonomy in the SOC",
-      "link": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-20T12:00:00+00:00",
-      "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously "
-    },
-    {
-      "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
-      "link": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-20T10:38:22+00:00",
-      "summary": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks. \"Atta"
-    },
-    {
-      "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-20T10:32:50+00:00",
-      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit. The activ"
-    },
-    {
       "title": "Combatting adversarial distillation",
       "link": "https://openai.com/index/combatting-adversarial-distillation",
       "source": "OpenAI News",
       "category": "ai",
       "published": "2026-11-20T10:00:00+00:00",
       "summary": "OpenAI\u2019s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
-    },
-    {
-      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-      "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-20T09:38:15+00:00",
-      "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The"
-    },
-    {
-      "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
-      "link": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-20T07:11:39+00:00",
-      "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates "
-    },
-    {
-      "title": "Ties at the Top: A Point-in-Time Comparison of CVSS and EPSS at a Fixed Budget",
-      "link": "https://arxiv.org/abs/2611.24983",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-20T05:00:00+00:00",
-      "summary": "arXiv:2611.24983v1 Announce Type: new Abstract: Organizations must decide which vulnerabilities warrant further analysis and protective action when the volume of published vulnerabilities exceeds their analytical capacit"
-    },
-    {
-      "title": "Signed, Valid, and Unauthorized: Authority Closure at the Trust Boundary Between Agent Commerce Protocols and Crypto Wallets",
-      "link": "https://arxiv.org/abs/2611.24989",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-20T05:00:00+00:00",
-      "summary": "arXiv:2611.24989v1 Announce Type: new Abstract: Agent commerce protocols let software agents pay with stablecoins. A buyer approves a payee, asset, spending cap and time window, but the wallet signs an object whose effec"
-    },
-    {
-      "title": "Attacks and Defenses in Decentralized Multi-Agent Systems with Hop-by-Hop Task Decomposition and Delegation",
-      "link": "https://arxiv.org/abs/2611.25056",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-20T05:00:00+00:00",
-      "summary": "arXiv:2611.25056v1 Announce Type: new Abstract: Decentralized multi-agent LLM systems enable independently administered agents, each with its own operator, model, memory, and configuration, to collaborate on complex task"
-    },
-    {
-      "title": "PriTabICL: Differentially Private Tabular In-Context Learning with Task-Aligned Cluster-Wise Synthesis",
-      "link": "https://arxiv.org/abs/2611.25073",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-20T05:00:00+00:00",
-      "summary": "arXiv:2611.25073v1 Announce Type: new Abstract: Tabular in-context learning (TabICL) enables large language models (LLMs) to predict target records using a handful of labeled demonstrations in their prompts. However, the"
-    },
-    {
-      "title": "Living off the Local Model: Abusing Browser-Embedded Language Models for Post-Exploitation",
-      "link": "https://arxiv.org/abs/2611.25086",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-20T05:00:00+00:00",
-      "summary": "arXiv:2611.25086v1 Announce Type: new Abstract: Browsers now ship local language models to ordinary endpoints. Google includes Gemini Nano in Chrome to enable productivity features such as summarization, with inference r"
-    },
-    {
-      "title": "Mutable State in Enrich-by-Need Security Protocol Analysis",
-      "link": "https://arxiv.org/abs/2611.25142",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-20T05:00:00+00:00",
-      "summary": "arXiv:2611.25142v1 Announce Type: new Abstract: Security protocol analysis has emphasized message-passing, as this is how different principals interact in authentication, key exchange, and similar functionalities. Howeve"
-    },
-    {
-      "title": "User Perceptions of Deceptive In-Vehicle Infotainment User Interfaces",
-      "link": "https://arxiv.org/abs/2611.25195",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-20T05:00:00+00:00",
-      "summary": "arXiv:2611.25195v1 Announce Type: new Abstract: Modern vehicles collect extensive data about drivers, passengers, and vehicle use, with privacy and consent decisions increasingly mediated through infotainment software. A"
-    },
-    {
-      "title": "Reject and Report: Forgery-Evident Undetectable Watermarks for Generative Image Models",
-      "link": "https://arxiv.org/abs/2611.25226",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-20T05:00:00+00:00",
-      "summary": "arXiv:2611.25226v1 Announce Type: new Abstract: Provenance schemes such as those based on content watermarks let images from a generative model be traced back to it. A practical watermarking scheme must be accurate at a "
-    },
-    {
-      "title": "Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories",
-      "link": "https://arxiv.org/abs/2611.25043",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-20T05:00:00+00:00",
-      "summary": "arXiv:2611.25043v1 Announce Type: new Abstract: Artificial intelligence (AI) agents are increasingly integrated into self-driving laboratories (SDLs) to plan experiments and interpret results. However, analytical reasoni"
-    },
-    {
-      "title": "An LLM-Agentic Framework for Intelligent Work Order Management in Industrial Maintenance",
-      "link": "https://arxiv.org/abs/2611.25070",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-20T05:00:00+00:00",
-      "summary": "arXiv:2611.25070v1 Announce Type: new Abstract: This paper presents an AI-driven framework, CodeReAct agent, designed to enhance industrial equipment maintenance through natural language (NL) interactions. The framework "
-    },
-    {
-      "title": "SailSearch: Agent-Assisted Discovery in Combinatorial Optimization",
-      "link": "https://arxiv.org/abs/2611.25087",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-20T05:00:00+00:00",
-      "summary": "arXiv:2611.25087v1 Announce Type: new Abstract: We present SailSearch, a human-guided workflow for algorithmic research with two language-model agents, and report results on Market Split and maximum independent set (MIS)"
-    },
-    {
-      "title": "BuggyMLE: Scaling Machine Learning Engineering Difficulty with Bug Injection",
-      "link": "https://arxiv.org/abs/2611.25088",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-20T05:00:00+00:00",
-      "summary": "arXiv:2611.25088v1 Announce Type: new Abstract: Enabling AI systems to autonomously improve AI models requires agents capable of performing machine learning engineering (MLE). In practice, designing, training, and evalua"
-    },
-    {
-      "title": "CoMPASS: A Multi-Turn Benchmark for Measuring LLM Reinforcement of Parasocial Behavior",
-      "link": "https://arxiv.org/abs/2611.25109",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-20T05:00:00+00:00",
-      "summary": "arXiv:2611.25109v1 Announce Type: new Abstract: Users of conversational LLMs sometimes anthropomorphize these systems, form emotional attachments to them, and become dependent on them. This behavior, known as parasocial "
-    },
-    {
-      "title": "DSFlow: A Neuro-Symbolic Data Workflow Agent with Statistical Diagnostic Guardrails",
-      "link": "https://arxiv.org/abs/2611.25111",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-20T05:00:00+00:00",
-      "summary": "arXiv:2611.25111v1 Announce Type: new Abstract: Data science workflows often require tools that presume non-trivial technical knowledge. Large language models (LLMs) reduce this barrier, but a gap remains between flexibl"
-    },
-    {
-      "title": "Calibrated Decision Rewards: Training Language Models with a Judge That Knows How Sure It Is",
-      "link": "https://arxiv.org/abs/2611.25135",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-20T05:00:00+00:00",
-      "summary": "arXiv:2611.25135v1 Announce Type: new Abstract: Reinforcement learning (RL) can only teach a language model what its reward can recognize. Answer checkers are exact but need a reference answer; learned reward models and "
-    },
-    {
-      "title": "EverydayBench: Evaluating Satisfactory Completion of Live User-Facing Digital Work",
-      "link": "https://arxiv.org/abs/2611.25146",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-20T05:00:00+00:00",
-      "summary": "arXiv:2611.25146v1 Announce Type: new Abstract: Everyday digital tasks, from selecting products and planning trips to conducting research and creating artifacts, require AI agents to deliver useful outcomes rather than m"
     },
     {
       "title": "ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)",
@@ -331,6 +203,134 @@
       "category": "cybersecurity",
       "published": "2026-11-19T22:40:03+00:00",
       "summary": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions."
+    },
+    {
+      "title": "Second Norwegian Energy Company Breached in 2 Days",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-19T20:14:15+00:00",
+      "summary": "No specific link has been drawn between the two incidents, though they certainly sing the same notes."
+    },
+    {
+      "title": "Critical PHP Flaws Allow Code Execution, but Don't Panic 'PHP2Shell'-Style",
+      "link": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-19T19:57:31+00:00",
+      "summary": "November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration."
+    },
+    {
+      "title": "Navigating Vulnerability Hysteria in the AI Era",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-19T19:46:44+00:00",
+      "summary": "This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions, and"
+    },
+    {
+      "title": "Why Holiday Security Can't Wait for Black Friday",
+      "link": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-19T14:00:00+00:00",
+      "summary": "Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike."
+    },
+    {
+      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-19T13:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Resear"
+    },
+    {
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-19T12:00:00+00:00",
+      "summary": "Researchers in Australia claim they\u2019ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending "
+    },
+    {
+      "title": "What a billion-dollar deal says about the US battery market",
+      "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-19T11:00:00+00:00",
+      "summary": "After a tough few years littered with some high-profile failures, there\u2019s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to"
+    },
+    {
+      "title": "How OpenAI\u2019s Performance Factory keeps ChatGPT fast",
+      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-19T08:00:00+00:00",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
+    },
+    {
+      "title": "ISC Stormcast For Thursday, November 19th, 2026 https://isc.sans.edu/podcastdetail/10186, (Thu, Nov 19th)",
+      "link": "https://isc.sans.edu/diary/rss/33536",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-19T02:00:03+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Treat Your Honeypot Analysis Like Code: Git, Pull Requests and a Human Gate for AI [Guest Diary], (Wed, Nov 18th)",
+      "link": "https://isc.sans.edu/diary/rss/33534",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-19T01:53:48+00:00",
+      "summary": "[This is a Guest Diary by Kevin Truong, an ISC intern as part of the SANS.edu BACS program]"
+    },
+    {
+      "title": "Explore the Codex Security Plugin",
+      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-19T00:00:00+00:00",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
+    },
+    {
+      "title": "See PR scans in action",
+      "link": "https://openai.com/business/learn/pr-scans-demo",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-19T00:00:00+00:00",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow."
+    },
+    {
+      "title": "Get started with Daybreak Blue",
+      "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-19T00:00:00+00:00",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started."
+    },
+    {
+      "title": "Deploying Daybreak Red",
+      "link": "https://openai.com/business/learn/deploying-daybreak-red",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-19T00:00:00+00:00",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
+    },
+    {
+      "title": "Java4Shell, NGINX2Shell and more: Why we are not at \"Yellow\", (Wed, Nov 18th)",
+      "link": "https://isc.sans.edu/diary/rss/33532",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-18T19:54:50+00:00",
+      "summary": "About a month ago, we went to Infocon Yellow for the first time in a few years. We decided to address the php2shell vulnerability and alert our readers to its significant impact. Following php2shell, we had a number of v"
+    },
+    {
+      "title": "The AI Hype Index: AI is everywhere",
+      "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-18T14:42:44+00:00",
+      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people he"
     }
   ]
 }
