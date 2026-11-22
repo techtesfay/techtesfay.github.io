@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T13:41:03.601023+00:00",
+  "generated_at": "2026-11-22T22:53:26.812863+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "A brief history of syslog timestamps, (Sun, Nov 22nd)",
+      "link": "https://isc.sans.edu/diary/rss/33530",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-22T18:40:18+00:00",
+      "summary": "BLUF: Debian and Ubuntu dropped a config directive in the rsyslogd package in early 2023."
+    },
     {
       "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
       "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
@@ -27,6 +35,14 @@
       "category": "cybersecurity",
       "published": "2026-11-22T05:03:41+00:00",
       "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert upl"
+    },
+    {
+      "title": "Perplexity and Intelligence",
+      "link": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-22T00:00:00+00:00",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
     },
     {
       "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
@@ -285,12 +301,12 @@
       "summary": "[This is a Guest Diary by Kevin Truong, an ISC intern as part of the SANS.edu BACS program]"
     },
     {
-      "title": "Explore the Codex Security Plugin",
-      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "title": "Deploying Daybreak Red",
+      "link": "https://openai.com/business/learn/deploying-daybreak-red",
       "source": "OpenAI News",
       "category": "ai",
       "published": "2026-11-19T00:00:00+00:00",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording."
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
     },
     {
       "title": "See PR scans in action",
@@ -309,28 +325,12 @@
       "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started."
     },
     {
-      "title": "Deploying Daybreak Red",
-      "link": "https://openai.com/business/learn/deploying-daybreak-red",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-19T00:00:00+00:00",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring."
-    },
-    {
       "title": "Java4Shell, NGINX2Shell and more: Why we are not at \"Yellow\", (Wed, Nov 18th)",
       "link": "https://isc.sans.edu/diary/rss/33532",
       "source": "SANS Internet Storm Center",
       "category": "cybersecurity",
       "published": "2026-11-18T19:54:50+00:00",
       "summary": "About a month ago, we went to Infocon Yellow for the first time in a few years. We decided to address the php2shell vulnerability and alert our readers to its significant impact. Following php2shell, we had a number of v"
-    },
-    {
-      "title": "The AI Hype Index: AI is everywhere",
-      "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-18T14:42:44+00:00",
-      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people he"
     }
   ]
 }
