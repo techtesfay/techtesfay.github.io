@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T22:53:26.812863+00:00",
+  "generated_at": "2026-11-23T04:21:21.920571+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)",
+      "link": "https://isc.sans.edu/diary/rss/33548",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-23T02:00:04+00:00",
+      "summary": ""
+    },
     {
       "title": "A brief history of syslog timestamps, (Sun, Nov 22nd)",
       "link": "https://isc.sans.edu/diary/rss/33530",
@@ -173,6 +181,14 @@
       "summary": "Certain facilities remain under \u201cCode Orange\u201d for non-essential employees, meaning delayed openings and some must check in with their supervisors."
     },
     {
+      "title": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
+      "link": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-20T13:51:30+00:00",
+      "summary": "Microsoft announces new AI agent security tools and transparency standards to protect enterprise systems at its Ignite technical conference."
+    },
+    {
       "title": "The Download: inside the quest to make our minds immortal",
       "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
       "source": "MIT Technology Review",
@@ -245,14 +261,6 @@
       "summary": "This installment of the Reporters' Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions, and"
     },
     {
-      "title": "Why Holiday Security Can't Wait for Black Friday",
-      "link": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-19T14:00:00+00:00",
-      "summary": "Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike."
-    },
-    {
       "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
       "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
       "source": "MIT Technology Review",
@@ -323,14 +331,6 @@
       "category": "ai",
       "published": "2026-11-19T00:00:00+00:00",
       "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started."
-    },
-    {
-      "title": "Java4Shell, NGINX2Shell and more: Why we are not at \"Yellow\", (Wed, Nov 18th)",
-      "link": "https://isc.sans.edu/diary/rss/33532",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-18T19:54:50+00:00",
-      "summary": "About a month ago, we went to Infocon Yellow for the first time in a few years. We decided to address the php2shell vulnerability and alert our readers to its significant impact. Following php2shell, we had a number of v"
     }
   ]
 }
