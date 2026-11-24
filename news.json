@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T16:39:56.374827+00:00",
+  "generated_at": "2026-11-24T03:31:33.275139+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -13,6 +13,22 @@
   ],
   "items": [
     {
+      "title": "Scanning from Subnet 109.160.32.0/24, (Mon, Nov 23rd)",
+      "link": "https://isc.sans.edu/diary/rss/33550",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-24T02:32:00+00:00",
+      "summary": "This subnet is assigned to a web hosting and virtual private server (VPS) provider BANATSYNC SRL with AS198364, located in Timisoara, Romania. This graph shows the DShield sensor activity over the past 90 days for this s"
+    },
+    {
+      "title": "ISC Stormcast For Tuesday, November 24th, 2026 https://isc.sans.edu/podcastdetail/10192, (Tue, Nov 24th)",
+      "link": "https://isc.sans.edu/diary/rss/33552",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-24T02:00:04+00:00",
+      "summary": ""
+    },
+    {
       "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
       "link": "https://therecord.media/austrian-foreign-ministry-says-website-hacked",
       "source": "The Record",
@@ -21,20 +37,100 @@
       "summary": "Austria's Foreign Ministry said late last week that hackers breached one of its websites and accessed the names and official contact information of employees at its Vienna headquarters and at Austria\u2019s diplomatic mission"
     },
     {
+      "title": "Industrial Serial Gateways Broadcast That They're Insecure",
+      "link": "https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-23T22:02:46+00:00",
+      "summary": "Critical OT access devices will often tell you, and anyone else, whether they're protected by authentication \u2014 and many aren't."
+    },
+    {
+      "title": "CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal",
+      "link": "https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-23T21:21:42+00:00",
+      "summary": "CrowdStrike's $44 billion acquisition of Zscaler would unite endpoint protection and zero-trust network security to obtain greater control over AI agents."
+    },
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "link": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-23T21:20:00+00:00",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
+    },
+    {
+      "title": "US Cyber Director Pick Signals Shift Toward Expertise",
+      "link": "https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-23T20:13:48+00:00",
+      "summary": "Trump named Kirsten Davies as Acting National Cyber Director, bringing greater industry experience to the role amid recent outages and rising geopolitical tensions."
+    },
+    {
+      "title": "Signal blocks screenshots by Apple, Google operating systems to protect data from AI agents",
+      "link": "https://therecord.media/signal-no-screenshots-by-apple-google-operating-systems",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-23T18:37:00+00:00",
+      "summary": "Google\u2019s Gemini Intelligence and Apple's Siri AI \"are changing this environment in a way that\u2019s making it increasingly hostile to privacy,\" Signal said."
+    },
+    {
+      "title": "FBI reportedly facing second data breach involving National Crime Information Center",
+      "link": "https://therecord.media/fbi-cyberattack-data-breach",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-23T18:30:00+00:00",
+      "summary": "The FBI is reportedly investigating a data breach involving the National Crime Information Center, a database used by U.S. law enforcement agencies that contains information on criminals, fugitives and missing people."
+    },
+    {
+      "title": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors",
+      "link": "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-23T17:45:52+00:00",
+      "summary": "Ransomware isn't slowing down. A new framework gives security teams the edge to trace attackers back to their source."
+    },
+    {
+      "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+      "link": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-23T17:45:15+00:00",
+      "summary": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as n"
+    },
+    {
+      "title": "A legendary philosopher isn\u2019t buying Anthropic\u2019s consciousness argument",
+      "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-23T17:36:08+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be co"
+    },
+    {
+      "title": "CrowdStrike to purchase Zscaler for $43.9 billion",
+      "link": "https://therecord.media/crowdstrike-zscaler",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-23T17:14:00+00:00",
+      "summary": "\u201cWe see a path to become the largest AI safety and security company the world has ever seen,\u201d CrowdStrike CEO George Kurtz said."
+    },
+    {
+      "title": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-23T16:17:21+00:00",
+      "summary": "A China-nexus actor used the Cairn penetration testing tool in attacks against East Asian universities, exploiting a zero-day in a medical imaging app."
+    },
+    {
       "title": "Norway says hackers exploited Microsoft security flaw to attack energy firms Equinor, Skagerak Energi",
       "link": "https://therecord.media/norway-microsoft-cyberattack-equinor",
       "source": "The Record",
       "category": "cybersecurity",
       "published": "2026-11-23T15:45:00+00:00",
       "summary": "Norwegian energy companies Equinor and Skagerak Energi were affected by a Microsoft cloud security vulnerability that hackers have exploited to target sensitive credentials, Norway's cybersecurity authorities said."
-    },
-    {
-      "title": "'Overwhelming' support leads Trump to lock in Davies for national cyber czar",
-      "link": "https://therecord.media/kirsten-davies-trump-intends-nominate-national-cyber-director",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-23T15:14:00+00:00",
-      "summary": "The Pentagon's chief information officer, who has filled in as the acting national cyber director, is the president's likely pick for the full nomination."
     },
     {
       "title": "\u26a1 Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
@@ -107,6 +203,22 @@
       "category": "cybersecurity",
       "published": "2026-11-23T08:24:15+00:00",
       "summary": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in "
+    },
+    {
+      "title": "Connected intelligence for in-house legal",
+      "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-23T08:00:00+00:00",
+      "summary": "Watch OpenAI\u2019s Stacey Wang and Craig Bruney, Mary O\u2019Carroll of LECG, and Cooley\u2019s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside co"
+    },
+    {
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-23T08:00:00+00:00",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations."
     },
     {
       "title": "Exploring Early Vulnerability Analysis via Automatic Identification of Vulnerability-Introducing Commits",
@@ -219,118 +331,6 @@
       "category": "research",
       "published": "2026-11-23T05:00:00+00:00",
       "summary": "arXiv:2611.26797v1 Announce Type: new Abstract: Generative models now write working code, produce realistic images, and hold long conversations, yet the mechanisms behind their intelligence still evade our understanding."
-    },
-    {
-      "title": "Beyond Demographic Discrimination: Benchmarking Normative-Descriptive Calibration in LLMs",
-      "link": "https://arxiv.org/abs/2611.26870",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-23T05:00:00+00:00",
-      "summary": "arXiv:2611.26870v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed in socially consequential settings, where they must distinguish between normative reasoning (what should happen) and "
-    },
-    {
-      "title": "Towards Robust Partial-Edit Deepfake Localization: An edit and Generator Conditioned Analysis",
-      "link": "https://arxiv.org/abs/2611.26903",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-23T05:00:00+00:00",
-      "summary": "arXiv:2611.26903v1 Announce Type: new Abstract: Partial-edit deepfake localization aims to identify manipulated regions within otherwise authentic speech. Recent systems report strong overall results, but aggregate score"
-    },
-    {
-      "title": "ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)",
-      "link": "https://isc.sans.edu/diary/rss/33548",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-23T02:00:04+00:00",
-      "summary": ""
-    },
-    {
-      "title": "A brief history of syslog timestamps, (Sun, Nov 22nd)",
-      "link": "https://isc.sans.edu/diary/rss/33530",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-22T18:40:18+00:00",
-      "summary": "BLUF: Debian and Ubuntu dropped a config directive in the rsyslogd package in early 2023."
-    },
-    {
-      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
-      "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-22T05:06:55+00:00",
-      "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests we"
-    },
-    {
-      "title": "Perplexity and Intelligence",
-      "link": "https://openai.com/index/perplexity-and-intelligence",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-22T00:00:00+00:00",
-      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
-    },
-    {
-      "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
-      "link": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-21T01:31:23+00:00",
-      "summary": "Identity, runtime, and development controls are converging as enterprises look for ways to keep agents within their assigned tasks. But vendors' approaches vary, so CISOs face a choice."
-    },
-    {
-      "title": "CTO of \u2018RansomwareHelp\u2019 Indicted for Wire Fraud",
-      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "source": "Krebs on Security",
-      "category": "cybersecurity",
-      "published": "2026-11-21T00:36:39+00:00",
-      "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud"
-    },
-    {
-      "title": "West Virginia Legislature hit with cyber incident affecting IT systems",
-      "link": "https://therecord.media/west-virginia-legislature-cyberattack",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-20T21:34:36+00:00",
-      "summary": "A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not spread to other government entities."
-    },
-    {
-      "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-20T21:03:27+00:00",
-      "summary": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve."
-    },
-    {
-      "title": "US companies\u2019 use of Chinese open weight AI draws rebuke from House chairmen",
-      "link": "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-20T20:25:00+00:00",
-      "summary": "An investigation led by the House Homeland Security Committee focused on the dangers of U.S. companies using lower-cost open weight AI models for certain projects."
-    },
-    {
-      "title": "In Security, Words Matter as Much as Tools, Maybe More",
-      "link": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-20T18:35:40+00:00",
-      "summary": "From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise."
-    },
-    {
-      "title": "The most misunderstood graph in AI just got a major update",
-      "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-20T18:15:15+00:00",
-      "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory\u2014but it also indicates that models aren\u2019t quite as good at tasks that require ju"
-    },
-    {
-      "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
-      "link": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-20T17:04:04+00:00",
-      "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage."
     }
   ]
 }
