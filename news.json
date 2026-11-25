@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T01:41:03.878212+00:00",
+  "generated_at": "2026-11-25T16:18:13.759846+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,270 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
+      "link": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-25T15:48:04+00:00",
+      "summary": "Researchers discovered 13 malicious NuGet packages as part of a fake recruitment campaign that spreads malware and gives attackers access to developers' machines."
+    },
+    {
+      "title": "It's a Bot World. We're Just Living in It",
+      "link": "https://www.darkreading.com/cyber-risk/bot-world-just-living",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-25T15:20:27+00:00",
+      "summary": "Bot detection has become a losing game. Security teams need to limit privileged access for humans and their machine counterparts equally."
+    },
+    {
+      "title": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-25T15:00:00+00:00",
+      "summary": "Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting pressure on both sides of the policy, leaving the current model unsustainabl"
+    },
+    {
+      "title": "Latin America Sees Cyberattacks on Ports, Pipelines & Manufacturing",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-25T14:00:00+00:00",
+      "summary": "From the Port of Santos in Brazil to a pipeline in Argentina, cyberattacks are increasingly affecting industrial systems throughout the region."
+    },
+    {
+      "title": "Suspected ransomware attack disrupts cancer treatments, surgeries at Guadeloupe hospital",
+      "link": "https://therecord.media/guadeloupe-ransomware-hospital-cyber",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-25T13:30:00+00:00",
+      "summary": "France\u2019s national cybersecurity agency is investigating a suspected ransomware attack that impaired the computer systems of the University Hospital of Guadeloupe, forcing doctors to postpone surgeries, suspend some cance"
+    },
+    {
+      "title": "The Download: AI swamping open records, and firefighting for permafrost",
+      "link": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-25T13:10:00+00:00",
+      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. AI is straining America\u2019s open records systems AI has intensified investors\u2019 inter"
+    },
+    {
+      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-25T12:48:54+00:00",
+      "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below - CVE-2026-"
+    },
+    {
+      "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+      "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-25T12:30:08+00:00",
+      "summary": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday."
+    },
+    {
+      "title": "Credential Remediation Is Slow When You Don\u2019t Know What Will Break",
+      "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-25T11:51:48+00:00",
+      "summary": "TL;DR More than 64% still valid after four years: GitGuardian\u2019s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what a revoke will break."
+    },
+    {
+      "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
+      "link": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-25T11:23:26+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by No"
+    },
+    {
+      "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
+      "link": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-25T10:43:07+00:00",
+      "summary": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tue"
+    },
+    {
+      "title": "Treasury's FinCEN takes systems offline after cybersecurity incident",
+      "link": "https://therecord.media/treasury-fincen-takes-systems-offline-after-cyber-incident",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-25T10:15:00+00:00",
+      "summary": "The Treasury Department has taken some systems offline after a cybersecurity incident that \u201cresulted in unauthorized access to a limited subset of its systems.\u201d"
+    },
+    {
+      "title": "AI is straining America\u2019s open records systems",
+      "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-25T10:00:00+00:00",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town\u2019s zoning supervisor and presiding elections officer. During mor"
+    },
+    {
+      "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
+      "link": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-25T09:06:59+00:00",
+      "summary": "An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from. The flaw used in the attack had been in the r"
+    },
+    {
+      "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
+      "link": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-25T06:50:19+00:00",
+      "summary": "An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world. The intr"
+    },
+    {
+      "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
+      "link": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-25T06:37:06+00:00",
+      "summary": "Palo Alto Networks Unit 42 has disclosed that it's tracking and has responded to \"numerous waves of vishing attacks\" orchestrated by Com-affiliated threat actors since August 2026 that have led to data theft and extortio"
+    },
+    {
+      "title": "The Industrialization of Noise: Why Automated Proof-Solving is the Same Old Dead End",
+      "link": "https://arxiv.org/abs/2611.31286",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "summary": "arXiv:2611.31286v1 Announce Type: new Abstract: Nearly fifty years ago, DeMillo, Lipton, and Perlis argued that mathematical proofs are not static, isolated structures of formal logic, but the products of a vibrant, evol"
+    },
+    {
+      "title": "Information Security Risk Preparedness in Electronic Data Interchange: A Comparative Assessment of General IT and Healthcare Environments",
+      "link": "https://arxiv.org/abs/2611.31294",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "summary": "arXiv:2611.31294v1 Announce Type: new Abstract: Electronic Data Interchange (EDI) supports the exchange of structured information across business and healthcare environments, making information security and organizationa"
+    },
+    {
+      "title": "Towards Efficient Attack Tree Generation from Attack Graphs for Unobservable Target Analysis",
+      "link": "https://arxiv.org/abs/2611.31302",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "summary": "arXiv:2611.31302v1 Announce Type: new Abstract: Attack trees provide a structured approach to security analysis but traditionally require prior knowledge of the attacker's objective. In practice, this objective often rem"
+    },
+    {
+      "title": "Scoring Recovery-Time Agent Security: Proposals, Effects, and Retry Instructions",
+      "link": "https://arxiv.org/abs/2611.31318",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "summary": "arXiv:2611.31318v1 Announce Type: new Abstract: A timed-out tool write may be absent, committed, or still in flight. Evaluating an agent only on whether its goal exists can hide harmful recovery actions: auditing 12 supp"
+    },
+    {
+      "title": "Trustworthy Edge AI: Security, Privacy, and Resilience for Distributed Intelligence",
+      "link": "https://arxiv.org/abs/2611.31331",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "summary": "arXiv:2611.31331v1 Announce Type: new Abstract: This chapter examines the principles and emerging research directions for building secure, privacy-preserving, and resilient Edge Artificial Intelligence (Edge AI) systems."
+    },
+    {
+      "title": "High Throughput Meets Low Latency: CKKS Functional Bootstrapping on GPUs",
+      "link": "https://arxiv.org/abs/2611.31335",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "summary": "arXiv:2611.31335v1 Announce Type: new Abstract: Functional (programmable) bootstrapping extends the bootstrapping operation of Fully Homomorphic Encryption (FHE) to evaluate an arbitrary function while refreshing a ciphe"
+    },
+    {
+      "title": "Per-Attack Blocking Hides Catalog Vulnerability: A Weakest-Link Analysis of Tool Manifests",
+      "link": "https://arxiv.org/abs/2611.31338",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "summary": "arXiv:2611.31338v1 Announce Type: new Abstract: Runtime controls for tool-using agents depend on manifests that state what each tool may read and where its output may go. Evaluations of these controls, including ChainCap"
+    },
+    {
+      "title": "Leaks by Installments: Cross-Session Answer Disclosure in LLM Tutors and a Ledger-Based Defense",
+      "link": "https://arxiv.org/abs/2611.31429",
+      "source": "arXiv cs.CR",
+      "category": "research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "summary": "arXiv:2611.31429v1 Announce Type: new Abstract: Tutors built on large language models (LLMs) are told not to give away answers, but a learner does not have to ask for the answer all at once. Existing safeguards judge eac"
+    },
+    {
+      "title": "Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
+      "link": "https://arxiv.org/abs/2611.31284",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "summary": "arXiv:2611.31284v1 Announce Type: new Abstract: Autonomous agent governance is commonly framed as a problem of enforcing correct execution. However, in multi-agent systems, an equally fundamental question precedes execut"
+    },
+    {
+      "title": "MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
+      "link": "https://arxiv.org/abs/2611.31301",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "summary": "arXiv:2611.31301v1 Announce Type: new Abstract: Audio-video (AV) deepfakes can fake the face, the voice, or both. Most benchmarks only ask whether a clip is real or fake, so they cannot show whether a detector relies on "
+    },
+    {
+      "title": "Conservative Overlap Fuzzy Rough Sets for Incomplete Data",
+      "link": "https://arxiv.org/abs/2611.31329",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "summary": "arXiv:2611.31329v1 Announce Type: new Abstract: Attribute reduction in incomplete information systems is difficult because missing values break the equivalence-class structure of rough set theory. We propose the Conserva"
+    },
+    {
+      "title": "Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
+      "link": "https://arxiv.org/abs/2611.31345",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "summary": "arXiv:2611.31345v1 Announce Type: new Abstract: In recent years, multimodal large language models (MLLMs) have achieved significant progress in chart-to-code generation. However, existing benchmarks mainly focus on stati"
+    },
+    {
+      "title": "What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations",
+      "link": "https://arxiv.org/abs/2611.31346",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "summary": "arXiv:2611.31346v1 Announce Type: new Abstract: Recent advances in MLLMs have improved social understanding, enabling models to recognize emotions and distinguish truthful from deceptive behaviors. However, existing benc"
+    },
+    {
+      "title": "Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations",
+      "link": "https://arxiv.org/abs/2611.31347",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "summary": "arXiv:2611.31347v1 Announce Type: new Abstract: Laya is an open decision model: given a text, a question and K named options with descriptions, it returns one probability per option in a single pass, and software may act"
+    },
+    {
+      "title": "ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
+      "link": "https://arxiv.org/abs/2611.31424",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "summary": "arXiv:2611.31424v1 Announce Type: new Abstract: As LLMs become more capable, agents can perform more complex tasks with tools and maintain longer interactions with users. These benign conversations contain evidence on ta"
+    },
+    {
+      "title": "Learning What vs. Learning How: Decomposing Task and Interface Competence in Agentic Training",
+      "link": "https://arxiv.org/abs/2611.31427",
+      "source": "arXiv cs.AI",
+      "category": "research",
+      "published": "2026-11-25T05:00:00+00:00",
+      "summary": "arXiv:2611.31427v1 Announce Type: new Abstract: LLM agents operate through harnesses that define system prompts, action formats, feedback loops, and resource constraints. A model may possess the knowledge needed to solve"
+    },
+    {
+      "title": "ISC Stormcast For Wednesday, November 25th, 2026 https://isc.sans.edu/podcastdetail/10194, (Wed, Nov 25th)",
+      "link": "https://isc.sans.edu/diary/rss/33554",
+      "source": "SANS Internet Storm Center",
+      "category": "cybersecurity",
+      "published": "2026-11-25T02:00:03+00:00",
+      "summary": ""
+    },
     {
       "title": "Satellites Have a Ground-Level Cybersecurity Problem",
       "link": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem",
@@ -61,276 +325,12 @@
       "summary": "A bicameral, bipartisan letter from lawmakers said identity verification companies still have significant security work to do in the wake of a data breach at IDscan in September."
     },
     {
-      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
-      "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
-      "source": "The Hacker News",
+      "title": "How Southeastern University Got a Handle on Its Data",
+      "link": "https://www.darkreading.com/cybersecurity-operations/how-southeastern-university-handle-data",
+      "source": "Dark Reading",
       "category": "cybersecurity",
-      "published": "2026-11-24T16:54:07+00:00",
-      "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a back"
-    },
-    {
-      "title": "Carnegie Endowment for International Peace says third-party breach leaked donation info",
-      "link": "https://therecord.media/carnegie-endowment-data-breach",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-24T16:00:00+00:00",
-      "summary": "Some donors to the Carnegie Endowment for International Peace had their information leaked due to a cyberattack on a third-party vendor named Soapbox Engage."
-    },
-    {
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-24T15:15:16+00:00",
-      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tas"
-    },
-    {
-      "title": "CISA warns of exploited N-able bug as company restores email platform",
-      "link": "https://therecord.media/cisa-nable-cybersecurity-bug",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-24T15:00:00+00:00",
-      "summary": "The U.S. cyber agency is giving government departments until Thanksgiving to patch a vulnerability impacting a critical email security platform that blocks spam, malware and other threats."
-    },
-    {
-      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
-      "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-24T13:28:26+00:00",
-      "summary": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical"
-    },
-    {
-      "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
-      "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-24T13:28:21+00:00",
-      "summary": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The "
-    },
-    {
-      "title": "The Download: AI\u2019s gas power boom and a consciousness reality check",
-      "link": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-24T13:10:00+00:00",
-      "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obs"
-    },
-    {
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-24T13:00:00+00:00",
-      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
-    },
-    {
-      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-      "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-24T12:42:09+00:00",
-      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers"
-    },
-    {
-      "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
-      "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-24T12:02:00+00:00",
-      "summary": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up"
-    },
-    {
-      "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
-      "link": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-24T12:01:54+00:00",
-      "summary": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through fast"
-    },
-    {
-      "title": "Data centers are getting their own natural gas power plants",
-      "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-24T11:00:00+00:00",
-      "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid\u2014a wait that could last as long as a decade. Some developers aren\u2019t willing to wait and are instead opting to "
-    },
-    {
-      "title": "Searching for distant planets with Astra",
-      "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-24T11:00:00+00:00",
-      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA\u2019s Kepler and TESS space telescopes."
-    },
-    {
-      "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
-      "link": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-24T10:44:49+00:00",
-      "summary": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy "
-    },
-    {
-      "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
-      "link": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-24T08:34:20+00:00",
-      "summary": "A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hash"
-    },
-    {
-      "title": "STEGOGUARD-LM: Evaluating End-to-End Protection Against LLM Covert Channels",
-      "link": "https://arxiv.org/abs/2611.28152",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "summary": "arXiv:2611.28152v1 Announce Type: new Abstract: A defense that disrupts hidden messages may still provide little protection if its detector rarely triggers an intervention. We present StegoGuard-LM, a controlled framewor"
-    },
-    {
-      "title": "Development of an Effective Federated Learning-Based Defense System Against Phishing Attacks on Mobile Platforms",
-      "link": "https://arxiv.org/abs/2611.28245",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "summary": "arXiv:2611.28245v1 Announce Type: new Abstract: Phishing remains one of the most pervasive and damaging cyber threats, exploiting both technical flaws and human behavior to compromise sensitive data. We present a privacy"
-    },
-    {
-      "title": "Cross-Boundary Vulnerability Management for SDVs: A Traceability Architecture at the ISO/SAE 21434 and EU Cyber Resilience Act Interface",
-      "link": "https://arxiv.org/abs/2611.28303",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "summary": "arXiv:2611.28303v1 Announce Type: new Abstract: A software-defined vehicle depends on products that sit under different EU regimes. The type-approved vehicle and the systems, components and separate technical units made "
-    },
-    {
-      "title": "An LLM-Assisted Multi-Objective AutoML Framework for Efficient Network Intrusion Detection",
-      "link": "https://arxiv.org/abs/2611.28312",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "summary": "arXiv:2611.28312v1 Announce Type: new Abstract: Conventional Machine Learning (ML)-based Intrusion Detection Systems (IDSs) require manual design, optimize only detection performance, and neglect inference latency and mo"
-    },
-    {
-      "title": "Quantity-Level FDIA in SDR-Based P2P Energy Trading: Cyber-Economic Impact and Pre-Clearing Detection",
-      "link": "https://arxiv.org/abs/2611.28317",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "summary": "arXiv:2611.28317v1 Announce Type: new Abstract: This paper investigates the cyber-economic impact and pre-clearing detectability of false data injection attacks (FDIAs) in peer-to-peer (P2P) energy trading among intercon"
-    },
-    {
-      "title": "Enabling Verifiable Output Lineage for Virtualized ML Workload Execution",
-      "link": "https://arxiv.org/abs/2611.28344",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "summary": "arXiv:2611.28344v1 Announce Type: new Abstract: Machine learning (ML) property attestation lets a model provider demonstrate properties of their models and datasets to verifiers, and trusted execution environments (TEEs)"
-    },
-    {
-      "title": "Understanding Membership Inference Attacks on EEG Models",
-      "link": "https://arxiv.org/abs/2611.28354",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "summary": "arXiv:2611.28354v1 Announce Type: new Abstract: Electroencephalography (EEG) signals contain sensitive, subject-specific information, making models trained on them potential targets for membership inference attacks (MIAs"
-    },
-    {
-      "title": "Targeted In-Context Poisoning of Tabular Foundation Models: An Empirical Study",
-      "link": "https://arxiv.org/abs/2611.28396",
-      "source": "arXiv cs.CR",
-      "category": "research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "summary": "arXiv:2611.28396v1 Announce Type: new Abstract: Tabular foundation models (TFMs) predict the label of a query row conditioned on a context of labelled rows, without training on them. Drawn from operational data, the cont"
-    },
-    {
-      "title": "SAMA: Training-Free Consensus Ridge Tracking for Camera-Based Heart Rate on Five Public Datasets",
-      "link": "https://arxiv.org/abs/2611.28185",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "summary": "arXiv:2611.28185v1 Announce Type: new Abstract: Remote photoplethysmography (rPPG) is usually benchmarked by one heart rate per video, a figure that hides the short windows in which a tele-consultation would actually rea"
-    },
-    {
-      "title": "torchtsetlin: Fast, Interpretable Tsetlin Machines for PyTorch",
-      "link": "https://arxiv.org/abs/2611.28195",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "summary": "arXiv:2611.28195v1 Announce Type: new Abstract: The Tsetlin machine learns propositional rules with teams of Tsetlin automata that are driven by reward and penalty rather than gradients, so its models are interpretable b"
-    },
-    {
-      "title": "From Point Clouds to Engineering Models: Benchmarking Agentic 3D Reconstruction in the Built Environment",
-      "link": "https://arxiv.org/abs/2611.28197",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "summary": "arXiv:2611.28197v1 Announce Type: new Abstract: Coding agents can translate 3D measurements into CAD geometry, but reconstructing engineering models for the built environment demands semantic interpretation and consisten"
-    },
-    {
-      "title": "AutoPILOT: A Visual Agent Harness for Real-Time Gameplay",
-      "link": "https://arxiv.org/abs/2611.28202",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "summary": "arXiv:2611.28202v1 Announce Type: new Abstract: Multimodal foundation models can play video games well when the game waits for them, but often fail when it keeps running. We find that much of this gap lies in the harness"
-    },
-    {
-      "title": "FinEvo: Recursive Self-Improvement for Long-Horizon Financial Modeling",
-      "link": "https://arxiv.org/abs/2611.28239",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "summary": "arXiv:2611.28239v1 Announce Type: new Abstract: Advances in large language models (LLMs) have expanded their role in high-value productivity tasks, including financial analysis and modeling, while enabling models to play"
-    },
-    {
-      "title": "Demystifying the Autoresearch Harness: How Context and Skills Shape Self-Evolving Agents",
-      "link": "https://arxiv.org/abs/2611.28244",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "summary": "arXiv:2611.28244v1 Announce Type: new Abstract: Autoresearch agents, which autonomously design, run, and refine experiments, are accelerating scientific progress, particularly in AI research. However, existing agents rel"
-    },
-    {
-      "title": "A Nepali-Accented English Evaluation Dataset for Automatic Speech Recognition",
-      "link": "https://arxiv.org/abs/2611.28263",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "summary": "arXiv:2611.28263v1 Announce Type: new Abstract: Automatic speech recognition (ASR) systems perform strongly on native-English benchmarks, yet their accuracy degrades sharply when the input speech comes from under represe"
-    },
-    {
-      "title": "Temporal Logic Tensor Networks: Foundations of Temporal Reasoning in Neural Networks",
-      "link": "https://arxiv.org/abs/2611.28277",
-      "source": "arXiv cs.AI",
-      "category": "research",
-      "published": "2026-11-24T05:00:00+00:00",
-      "summary": "arXiv:2611.28277v1 Announce Type: new Abstract: In dynamic scenes---football matches, traffic streams, surgery, or assembly---actions unfold at fundamentally different time scales: in football, a kick happens in millisec"
-    },
-    {
-      "title": "Scanning from Subnet 109.160.32.0/24, (Mon, Nov 23rd)",
-      "link": "https://isc.sans.edu/diary/rss/33550",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-24T02:32:00+00:00",
-      "summary": "This subnet is assigned to a web hosting and virtual private server (VPS) provider BANATSYNC SRL with AS198364, located in Timisoara, Romania. This graph shows the DShield sensor activity over the past 90 days for this s"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, November 24th, 2026 https://isc.sans.edu/podcastdetail/10192, (Tue, Nov 24th)",
-      "link": "https://isc.sans.edu/diary/rss/33552",
-      "source": "SANS Internet Storm Center",
-      "category": "cybersecurity",
-      "published": "2026-11-24T02:00:04+00:00",
-      "summary": ""
-    },
-    {
-      "title": "How Intentful uses dots to make more time for growth",
-      "link": "https://openai.com/business/customer-stories/intentful-dots",
-      "source": "OpenAI News",
-      "category": "ai",
-      "published": "2026-11-24T00:00:00+00:00",
-      "summary": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
+      "published": "2026-11-24T15:46:46+00:00",
+      "summary": "Data security posture management (DSPM) allowed the university to uncover sensitive information, tighten access controls, and lay the groundwork for safer AI adoption."
     }
   ]
 }
