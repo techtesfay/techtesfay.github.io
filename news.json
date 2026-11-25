@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T16:35:43.291026+00:00",
+  "generated_at": "2026-11-25T01:41:03.878212+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,62 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Satellites Have a Ground-Level Cybersecurity Problem",
+      "link": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-24T22:05:34+00:00",
+      "summary": "Weaknesses in the ground-based infrastructure supporting satellite services are becoming more consequential as a new space race gathers pace."
+    },
+    {
+      "title": "Webworm APT Slithers Into Networks With Customized SoftEther VPN",
+      "link": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-24T21:48:06+00:00",
+      "summary": "The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to defenders."
+    },
+    {
+      "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
+      "source": "Dark Reading",
+      "category": "cybersecurity",
+      "published": "2026-11-24T21:36:11+00:00",
+      "summary": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems."
+    },
+    {
+      "title": "Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen",
+      "link": "https://therecord.media/mycolorado-app-down-data-breach",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-24T20:52:00+00:00",
+      "summary": "Cybercriminals likely stole data from 150,000 users of myColorado, which residents typically use for digital identification, document storage and accessing state government services."
+    },
+    {
+      "title": "California privacy agency director Kemp to leave after two-year tenure",
+      "link": "https://therecord.media/california-privacy-agency-kemp",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-24T19:30:00+00:00",
+      "summary": "The director of the trailblazing California Privacy Protection Agency announced his departure following implementation of a first-in-the-nation platform allowing consumers to easily opt out of data sharing."
+    },
+    {
+      "title": "Lawmakers warn ID verification companies to bolster security after September hack",
+      "link": "https://therecord.media/idscan-data-breach-warning-congressional-letter",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-24T17:49:00+00:00",
+      "summary": "A bicameral, bipartisan letter from lawmakers said identity verification companies still have significant security work to do in the wake of a data breach at IDscan in September."
+    },
+    {
+      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+      "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-24T16:54:07+00:00",
+      "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a back"
+    },
     {
       "title": "Carnegie Endowment for International Peace says third-party breach leaked donation info",
       "link": "https://therecord.media/carnegie-endowment-data-breach",
@@ -35,14 +91,6 @@
       "category": "cybersecurity",
       "published": "2026-11-24T15:00:00+00:00",
       "summary": "The U.S. cyber agency is giving government departments until Thanksgiving to patch a vulnerability impacting a critical email security platform that blocks spam, malware and other threats."
-    },
-    {
-      "title": "UK cyber agency seeing \u2018marked rise\u2019 in AI-driven attacks",
-      "link": "https://therecord.media/cyberattacks-uk-artificial-intelligence",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-24T13:45:00+00:00",
-      "summary": "Britain\u2019s National Cyber Security Centre said it has observed \u201ca marked rise\u201d since September in cyberattacks assisted by artificial intelligence and warned the technology was increasing attackers\u2019 speed, scale and persi"
     },
     {
       "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
@@ -69,12 +117,12 @@
       "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obs"
     },
     {
-      "title": "McDonald\u2019s Japan discloses breach exposing customer purchase and location data",
-      "link": "https://therecord.media/japan-mcdonalds-cyberattack-breach",
-      "source": "The Record",
-      "category": "cybersecurity",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI News",
+      "category": "ai",
       "published": "2026-11-24T13:00:00+00:00",
-      "summary": "McDonald\u2019s Japan disclosed a cybersecurity breach that exposed customers\u2019 purchase histories and mobile device location data."
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets."
     },
     {
       "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
@@ -109,6 +157,14 @@
       "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid\u2014a wait that could last as long as a decade. Some developers aren\u2019t willing to wait and are instead opting to "
     },
     {
+      "title": "Searching for distant planets with Astra",
+      "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source": "OpenAI News",
+      "category": "ai",
+      "published": "2026-11-24T11:00:00+00:00",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA\u2019s Kepler and TESS space telescopes."
+    },
+    {
       "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
       "link": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
       "source": "The Hacker News",
@@ -123,14 +179,6 @@
       "category": "cybersecurity",
       "published": "2026-11-24T08:34:20+00:00",
       "summary": "A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hash"
-    },
-    {
-      "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
-      "link": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-24T06:02:57+00:00",
-      "summary": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime. \"It lets agents write dyn"
     },
     {
       "title": "STEGOGUARD-LM: Evaluating End-to-End Protection Against LLM Covert Channels",
@@ -277,60 +325,12 @@
       "summary": ""
     },
     {
-      "title": "LaLiga hacked: Spain\u2019s top football league confirms theft of fans\u2019 personal data",
-      "link": "https://therecord.media/laliga-hacked-spain-top-professional-league-confirms-cyber-incident",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-24T00:00:00+00:00",
-      "summary": "Spain\u2019s professional soccer league LaLiga said Monday hackers stole personal information belonging to fans in a cyberattack affecting its digital services and those of several Spanish clubs."
-    },
-    {
-      "title": "Industrial Serial Gateways Broadcast That They're Insecure",
-      "link": "https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-23T22:02:46+00:00",
-      "summary": "Critical OT access devices will often tell you, and anyone else, whether they're protected by authentication \u2014 and many aren't."
-    },
-    {
-      "title": "CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal",
-      "link": "https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-23T21:21:42+00:00",
-      "summary": "CrowdStrike's $44 billion acquisition of Zscaler would unite endpoint protection and zero-trust network security to obtain greater control over AI agents."
-    },
-    {
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "link": "https://openai.com/index/introducing-shirudo",
+      "title": "How Intentful uses dots to make more time for growth",
+      "link": "https://openai.com/business/customer-stories/intentful-dots",
       "source": "OpenAI News",
       "category": "ai",
-      "published": "2026-11-23T21:20:00+00:00",
-      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
-    },
-    {
-      "title": "US Cyber Director Pick Signals Shift Toward Expertise",
-      "link": "https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-23T20:13:48+00:00",
-      "summary": "Trump named Kirsten Davies as Acting National Cyber Director, bringing greater industry experience to the role amid recent outages and rising geopolitical tensions."
-    },
-    {
-      "title": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors",
-      "link": "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-23T17:45:52+00:00",
-      "summary": "Ransomware isn't slowing down. A new framework gives security teams the edge to trace attackers back to their source."
-    },
-    {
-      "title": "A legendary philosopher isn\u2019t buying Anthropic\u2019s consciousness argument",
-      "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-      "source": "MIT Technology Review",
-      "category": "ai",
-      "published": "2026-11-23T17:36:08+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be co"
+      "published": "2026-11-24T00:00:00+00:00",
+      "summary": "Marina Petrova\u2019s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues."
     }
   ]
 }
