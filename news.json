@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T16:18:13.759846+00:00",
+  "generated_at": "2026-11-26T01:13:35.899099+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,46 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "Microsoft: China\u2019s Salt Typhoon hackers are using Artex",
+      "link": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-25T21:18:00+00:00",
+      "summary": "An AI tool implicated in several high-profile breaches is rapidly being integrated into the hacking suites of groups from China and North Korea, Microsoft said."
+    },
+    {
+      "title": "FIFA says hackers accessed \u2018limited set of personal and business information\u2019",
+      "link": "https://therecord.media/fifa-data-breach-limited",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-25T20:40:00+00:00",
+      "summary": "The Switzerland-based international governing body for soccer says it's working with relevant authorities and law enforcement to investigate a recent breach."
+    },
+    {
+      "title": "Florida ransomware recovery CEO indicted for allegedly paying hacker ransoms",
+      "link": "https://therecord.media/ransomware-doj-indictment-recovery",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-25T17:30:00+00:00",
+      "summary": "The CEO of a ransomware recovery firm was indicted by a federal grand jury over allegations he lied about his services and paid out ransoms to cybercriminals."
+    },
+    {
+      "title": "Australia passes tough legislation requiring big tech to preempt foreseeable harms",
+      "link": "https://therecord.media/australia-passes-online-safety-legislation-preempt-harms",
+      "source": "The Record",
+      "category": "cybersecurity",
+      "published": "2026-11-25T17:07:00+00:00",
+      "summary": "The Digital Duty of Care Act sailed through Australia's Parliament. It will mandate that online providers establish protocols to protect users from threats of violence and rape as well as behavior that could cause signif"
+    },
+    {
+      "title": "How data centers are driving a US natural-gas boom",
+      "link": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+      "source": "MIT Technology Review",
+      "category": "ai",
+      "published": "2026-11-25T17:00:00+00:00",
+      "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I\u2019ve lost count of how many times he\u2019s already been proved right. Sure, it\u2019s te"
+    },
     {
       "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
       "link": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
@@ -99,14 +139,6 @@
       "category": "cybersecurity",
       "published": "2026-11-25T10:43:07+00:00",
       "summary": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tue"
-    },
-    {
-      "title": "Treasury's FinCEN takes systems offline after cybersecurity incident",
-      "link": "https://therecord.media/treasury-fincen-takes-systems-offline-after-cyber-incident",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-25T10:15:00+00:00",
-      "summary": "The Treasury Department has taken some systems offline after a cybersecurity incident that \u201cresulted in unauthorized access to a limited subset of its systems.\u201d"
     },
     {
       "title": "AI is straining America\u2019s open records systems",
@@ -299,38 +331,6 @@
       "category": "cybersecurity",
       "published": "2026-11-24T21:36:11+00:00",
       "summary": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems."
-    },
-    {
-      "title": "Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen",
-      "link": "https://therecord.media/mycolorado-app-down-data-breach",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-24T20:52:00+00:00",
-      "summary": "Cybercriminals likely stole data from 150,000 users of myColorado, which residents typically use for digital identification, document storage and accessing state government services."
-    },
-    {
-      "title": "California privacy agency director Kemp to leave after two-year tenure",
-      "link": "https://therecord.media/california-privacy-agency-kemp",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-24T19:30:00+00:00",
-      "summary": "The director of the trailblazing California Privacy Protection Agency announced his departure following implementation of a first-in-the-nation platform allowing consumers to easily opt out of data sharing."
-    },
-    {
-      "title": "Lawmakers warn ID verification companies to bolster security after September hack",
-      "link": "https://therecord.media/idscan-data-breach-warning-congressional-letter",
-      "source": "The Record",
-      "category": "cybersecurity",
-      "published": "2026-11-24T17:49:00+00:00",
-      "summary": "A bicameral, bipartisan letter from lawmakers said identity verification companies still have significant security work to do in the wake of a data breach at IDscan in September."
-    },
-    {
-      "title": "How Southeastern University Got a Handle on Its Data",
-      "link": "https://www.darkreading.com/cybersecurity-operations/how-southeastern-university-handle-data",
-      "source": "Dark Reading",
-      "category": "cybersecurity",
-      "published": "2026-11-24T15:46:46+00:00",
-      "summary": "Data security posture management (DSPM) allowed the university to uncover sensitive information, tighten access controls, and lay the groundwork for safer AI adoption."
     }
   ]
 }
