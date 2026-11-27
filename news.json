@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T15:54:14.141387+00:00",
+  "generated_at": "2026-11-27T01:12:53.739082+00:00",
   "sources": [
     "The Hacker News",
     "Krebs on Security",
@@ -12,6 +12,14 @@
     "OpenAI News"
   ],
   "items": [
+    {
+      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+      "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+      "source": "The Hacker News",
+      "category": "cybersecurity",
+      "published": "2026-11-26T19:39:57+00:00",
+      "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install o"
+    },
     {
       "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
       "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
@@ -307,14 +315,6 @@
       "category": "cybersecurity",
       "published": "2026-11-25T12:48:54+00:00",
       "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below - CVE-2026-"
-    },
-    {
-      "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
-      "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
-      "source": "The Hacker News",
-      "category": "cybersecurity",
-      "published": "2026-11-25T12:30:08+00:00",
-      "summary": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday."
     },
     {
       "title": "AI is straining America\u2019s open records systems",
